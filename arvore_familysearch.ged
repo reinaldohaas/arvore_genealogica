@@ -1,0 +1,2146 @@
+0 HEAD
+1 CHAR UTF-8
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 SOUR getmyancestors
+2 VERS 1.2.0
+2 NAME getmyancestors
+1 DATE 01 Nov 2026
+2 TIME 20:26:23
+1 SUBM @SUBM@
+0 @SUBM@ SUBM
+1 NAME ReinaldoHaas
+1 LANG Portuguese
+0 @I1@ INDI
+1 NAME Reinaldo /Haas/
+1 SEX M
+1 BIRT
+2 DATE 20 Jun 1965
+1 FAMC @F1@
+1 _FSFTID LYPQ-GW3
+0 @I2@ INDI
+1 NAME Baldoíno /Haas/
+1 SEX M
+1 DEAT
+2 DATE 18 de dezembro de 2013
+2 PLAC Ituporanga, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.4156
+4 LONG -49.6019
+1 BIRT
+2 DATE 20 de abril de 1924
+2 PLAC Rio Novo, Águas Mornas, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.783333
+4 LONG -48.983333
+1 OBJE
+2 FORM URL
+2 TITL Família Haas
+3 CONT Da esquerda para a direita: Agnes Haas, Elza Haas, Alexandre Haas, Fernando Haas, Gertrudes Haas e Baldoino Haas.
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-7758-165532-12939-41/dist.jpg?ctx=ArtCtxPublic
+1 FAMS @F1@
+1 FAMC @F2@
+1 _FSFTID GVX4-ZHK
+1 SOUR @S1@
+0 @I3@ INDI
+1 NAME Adelina /Doerner/
+1 SEX F
+1 DEAT
+2 DATE 22 de fevereiro de 2019
+2 PLAC Vidal Ramos, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.3888
+4 LONG -49.3601
+1 BURI
+2 PLAC Cemitério Municipal de Vidal Ramos, Vidal Ramos, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.390441
+4 LONG -49.360133
+1 BIRT
+2 DATE 30.10.1926
+2 PLAC São Martinho, Santa Catarina, Brasil
+3 MAP
+4 LATI -28.1616
+4 LONG -48.9882
+1 FAMS @F1@
+1 FAMC @F3@
+1 _FSFTID L1BB-H9V
+1 SOUR @S2@
+0 @I4@ INDI
+1 NAME Maria /Meier Haas/
+1 SEX F
+1 OCCU domestica
+1 DEAT
+2 DATE 8 de novembro de 1973
+2 PLAC Aurora, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.3131
+4 LONG -49.6366
+1 BIRT
+2 DATE 7 de abril de 1888
+2 PLAC Heumaden, Moosbach, Landkreis Neustadt an der Waldnaab, Bayern, Alemanha
+3 MAP
+4 LATI 49.59453
+4 LONG 12.44954
+1 RESI
+2 PLAC Ituporanga, Ituporanga, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.43841
+4 LONG -49.55377
+1 OBJE
+2 FORM URL
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-7709-150614-13184-47/dist.jpg?ctx=ArtCtxPublic
+1 OBJE
+2 FORM URL
+2 TITL Família Haas
+3 CONT Da esquerda para a direita: Agnes Haas, Elza Haas, Alexandre Haas, Fernando Haas, Gertrudes Haas e Baldoino Haas.
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-7758-165532-12939-41/dist.jpg?ctx=ArtCtxPublic
+1 OBJE
+2 FORM URL
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-7757-164622-18428-72/dist.jpg?ctx=ArtCtxPublic
+1 OBJE
+2 FORM URL
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-7752-164081-420104-38/dist.jpg?ctx=ArtCtxPublic
+1 OBJE
+2 FORM URL
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-7770-162323-174695-69/dist.png?ctx=ArtCtxPublic
+1 FAMS @F2@
+1 FAMC @F7@
+1 _FSFTID PXN3-8ZG
+1 SOUR @S3@
+1 SOUR @S10@
+1 SOUR @S16@
+1 SOUR @S11@
+1 SOUR @S5@
+1 SOUR @S12@
+1 SOUR @S17@
+1 SOUR @S15@
+1 SOUR @S6@
+1 SOUR @S13@
+1 SOUR @S8@
+1 SOUR @S9@
+1 SOUR @S7@
+1 SOUR @S14@
+1 SOUR @S4@
+0 @I5@ INDI
+1 NAME Fernando /Dörner/
+1 SEX M
+1 BIRT
+2 DATE 24 de agosto de 1897
+2 PLAC São Martinho, Santa Catarina, Brasil
+3 MAP
+4 LATI -28.1616
+4 LONG -48.9882
+2 NOTE @N1@
+1 DEAT
+2 DATE 21 de maio de 1981
+2 PLAC Brusque, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.0985
+4 LONG -48.9112
+1 EVEN
+2 TYPE Death+Registration
+2 DATE 22 de maio de 1981
+2 PLAC Brusque, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.0985
+4 LONG -48.9112
+1 RESI
+2 PLAC São Martinho, Santa Catarina, Brasil
+3 MAP
+4 LATI -28.1616
+4 LONG -48.9882
+1 RESI
+2 PLAC Brusque, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.0985
+4 LONG -48.9112
+1 FAMS @F3@
+1 FAMC @F6@
+1 _FSFTID L1BB-NQ3
+1 SOUR @S26@
+1 SOUR @S22@
+1 SOUR @S21@
+1 SOUR @S29@
+1 SOUR @S18@
+1 SOUR @S25@
+1 SOUR @S20@
+1 SOUR @S30@
+1 SOUR @S28@
+1 SOUR @S24@
+1 SOUR @S19@
+1 SOUR @S27@
+1 SOUR @S23@
+0 @I6@ INDI
+1 NAME Gertrudes /Preuss/
+1 SEX F
+1 EVEN
+2 TYPE Death Registration
+2 DATE 14 April 1970
+2 PLAC Brusque, Santa Catarina, Brazil
+3 MAP
+4 LATI -27.0985
+4 LONG -48.9112
+1 DEAT
+2 PLAC Santa Catarina, Brasil
+3 MAP
+4 LATI -26.647
+4 LONG -50.3076
+1 RESI
+2 PLAC São Martinho, Santa Catarina, Brasil
+3 MAP
+4 LATI -28.1616
+4 LONG -48.9882
+1 BIRT
+2 DATE 5 de março de 1896
+2 PLAC São Martinho, Santa Catarina, Brasil
+3 MAP
+4 LATI -28.1616
+4 LONG -48.9882
+1 FAMS @F3@
+1 FAMC @F5@
+1 _FSFTID L1BB-QH8
+1 SOUR @S35@
+1 SOUR @S34@
+1 SOUR @S40@
+1 SOUR @S38@
+1 SOUR @S36@
+1 SOUR @S33@
+1 SOUR @S41@
+1 SOUR @S39@
+1 SOUR @S32@
+1 SOUR @S37@
+1 SOUR @S31@
+0 @I7@ INDI
+1 NAME Johann /Haas/
+1 NAME João /Haas/
+2 TYPE aka
+2 NOTE @N2@
+1 SEX M
+1 BIRT
+2 DATE 08/07/1884
+2 PLAC Maxhütte-Haidhof  (Leonberg), Bayern, Alemanha
+3 MAP
+4 LATI 49.18331
+4 LONG 12.11408
+1 IMMI Saiu da Alemanha no dia 07/03/1913 e chegou no Rio de Janeiro no dia 26/03/1913, veio com o navio Formosa, procedente de Marseille, sul da França. 
+2 DATE 7 de março de 1913
+1 RESI
+2 PLAC Ituporanga, Ituporanga, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.43841
+4 LONG -49.55377
+1 BURI
+2 PLAC Cemitério da Igreja Católica "Nossa Senhora das Dores" (Centro), Aurora, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.31585
+4 LONG -49.63764
+2 NOTE @N3@
+1 DEAT
+2 DATE 19 de março de 1969
+2 PLAC Aurora, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.3131
+4 LONG -49.6366
+1 OBJE
+2 FORM URL
+2 TITL Família Haas
+3 CONT Da esquerda para a direita: Agnes Haas, Elza Haas, Alexandre Haas, Fernando Haas, Gertrudes Haas e Baldoino Haas.
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-7758-165532-12939-41/dist.jpg?ctx=ArtCtxPublic
+1 OBJE
+2 FORM URL
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-7752-164081-420104-38/dist.jpg?ctx=ArtCtxPublic
+1 FAMS @F2@
+1 FAMC @F4@
+1 _FSFTID GX1B-HM1
+1 SOUR @S55@
+1 SOUR @S51@
+1 SOUR @S47@
+1 SOUR @S48@
+1 SOUR @S56@
+1 SOUR @S42@
+1 SOUR @S46@
+1 SOUR @S44@
+1 SOUR @S43@
+1 SOUR @S49@
+1 SOUR @S50@
+1 SOUR @S53@
+1 SOUR @S54@
+1 SOUR @S45@
+1 SOUR @S52@
+0 @I8@ INDI
+1 NAME Georg Adam /Meyer/
+1 SEX M
+1 DEAT
+2 PLAC Alemanha
+3 MAP
+4 LATI 51.5
+4 LONG 10.0
+1 BIRT
+2 PLAC Alemanha
+3 MAP
+4 LATI 51.5
+4 LONG 10.0
+1 FAMS @F7@
+1 FAMC @F11@
+1 _FSFTID GX1B-868
+1 SOUR @S57@
+0 @I9@ INDI
+1 NAME Josef /Haas/
+1 SEX M
+1 DEAT
+2 PLAC Alemanha
+3 MAP
+4 LATI 51.5
+4 LONG 10.0
+1 FAMS @F4@
+1 _FSFTID GX1B-XK7
+0 @I10@ INDI
+1 NAME Franziska /Dengler Haas/
+1 SEX F
+1 DEAT
+2 PLAC Alemanha
+3 MAP
+4 LATI 51.5
+4 LONG 10.0
+1 FAMS @F4@
+1 _FSFTID GX1B-22C
+0 @I11@ INDI
+1 NAME Helena /Michels/
+1 SEX F
+1 OCCU domestica
+1 DEAT
+2 DATE 8 de junho de 1945
+2 PLAC Vargen do Cedro, Santa Catarina, Brasil
+3 MAP
+4 LATI -26.647
+4 LONG -50.3076
+1 BIRT
+2 DATE 1 de janeiro de 1864
+2 PLAC Vargen do Cedro, Santa Catarina, Brasil
+3 MAP
+4 LATI -26.647
+4 LONG -50.3076
+1 OBJE
+2 FORM URL
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-7734-137449-24213-84/dist.jpg?ctx=ArtCtxPublic
+1 FAMS @F5@
+1 FAMC @F8@
+1 _FSFTID LHR4-Q7Q
+1 SOUR @S93@
+1 SOUR @S90@
+1 SOUR @S85@
+1 SOUR @S82@
+1 SOUR @S80@
+1 SOUR @S88@
+1 SOUR @S81@
+1 SOUR @S97@
+1 SOUR @S99@
+1 SOUR @S91@
+1 SOUR @S94@
+1 SOUR @S83@
+1 SOUR @S86@
+1 SOUR @S89@
+1 SOUR @S92@
+1 SOUR @S95@
+1 SOUR @S96@
+1 SOUR @S84@
+1 SOUR @S87@
+1 SOUR @S98@
+0 @I12@ INDI
+1 NAME Franziska /Voit Meier/
+1 SEX F
+1 BIRT
+2 PLAC Alemanha
+3 MAP
+4 LATI 51.5
+4 LONG 10.0
+1 DEAT
+2 PLAC Alemanha
+3 MAP
+4 LATI 51.5
+4 LONG 10.0
+1 FAMS @F7@
+1 FAMC @F9@
+1 _FSFTID GX1B-4GX
+1 SOUR @S58@
+0 @I13@ INDI
+1 NAME Anna /Eller/
+1 SEX F
+1 DEAT
+2 PLAC Imaruí, Santa Catarina, Brasil
+3 MAP
+4 LATI -28.3478
+4 LONG -48.8149
+1 RESI
+2 PLAC São Martinho, Santa Catarina, Brasil
+3 MAP
+4 LATI -28.1616
+4 LONG -48.9882
+1 BIRT
+2 DATE 1858
+2 PLAC Rio Grande do Sul, Brasil
+3 MAP
+4 LATI -28.5048
+4 LONG -53.0991
+1 OCCU domestica
+1 FAMS @F6@
+1 FAMC @F12@
+1 _FSFTID K84V-VR2
+1 NOTE @N25@
+1 SOUR @S100@
+1 SOUR @S114@
+1 SOUR @S107@
+1 SOUR @S117@
+1 SOUR @S109@
+1 SOUR @S101@
+1 SOUR @S104@
+1 SOUR @S112@
+1 SOUR @S115@
+1 SOUR @S103@
+1 SOUR @S118@
+1 SOUR @S110@
+1 SOUR @S113@
+1 SOUR @S105@
+1 SOUR @S108@
+1 SOUR @S116@
+1 SOUR @S119@
+1 SOUR @S102@
+1 SOUR @S106@
+1 SOUR @S111@
+0 @I14@ INDI
+1 NAME Emanuel /Preis/
+1 SEX M
+1 BIRT
+2 DATE 31 de março de 1864
+2 PLAC Vargem Grande, Águas Mornas, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.695
+4 LONG -48.8247
+1 OCCU lavrador
+1 EVEN
+2 TYPE Baptism
+2 DATE 26 de abril de 1864
+2 PLAC São João Batista, São João do Rio Vermelho, Florianópolis, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.49372
+4 LONG -48.41975
+1 DEAT
+2 DATE 27 de março de 1927
+2 PLAC Vargem do Cedro, São Martinho, Santa Catarina, Brasil
+3 MAP
+4 LATI -28.1616
+4 LONG -48.9882
+1 FAMS @F5@
+1 FAMC @F10@
+1 _FSFTID G338-9QR
+1 SOUR @S79@
+1 SOUR @S77@
+1 SOUR @S66@
+1 SOUR @S74@
+1 SOUR @S67@
+1 SOUR @S69@
+1 SOUR @S72@
+1 SOUR @S63@
+1 SOUR @S76@
+1 SOUR @S78@
+1 SOUR @S75@
+1 SOUR @S62@
+1 SOUR @S73@
+1 SOUR @S70@
+1 SOUR @S59@
+1 SOUR @S68@
+1 SOUR @S65@
+1 SOUR @S60@
+1 SOUR @S64@
+1 SOUR @S71@
+1 SOUR @S61@
+0 @I15@ INDI
+1 NAME Carl Reinhard /Doerner/
+2 NOTE @N4@
+1 NAME Carlos /Doerner/
+2 TYPE aka
+1 SEX M
+1 OCCU lavrador
+1 BIRT
+2 DATE 20 de novembro de 1854
+2 PLAC Solingen, Rheinprovinz, Preußen, Alemanha
+3 MAP
+4 LATI 51.1703
+4 LONG 7.0636
+2 NOTE @N5@
+1 DEAT Y
+1 FAMS @F6@
+1 FAMC @F13@
+1 _FSFTID GDGT-8H8
+1 NOTE @N24@
+1 SOUR @S140@
+1 SOUR @S136@
+1 SOUR @S124@
+1 SOUR @S125@
+1 SOUR @S128@
+1 SOUR @S132@
+1 SOUR @S139@
+1 SOUR @S123@
+1 SOUR @S126@
+1 SOUR @S146@
+1 SOUR @S148@
+1 SOUR @S150@
+1 SOUR @S141@
+1 SOUR @S144@
+1 SOUR @S149@
+1 SOUR @S133@
+1 SOUR @S127@
+1 SOUR @S121@
+1 SOUR @S122@
+1 SOUR @S137@
+1 SOUR @S131@
+1 SOUR @S120@
+1 SOUR @S135@
+1 SOUR @S138@
+1 SOUR @S143@
+1 SOUR @S147@
+1 SOUR @S129@
+1 SOUR @S151@
+1 SOUR @S130@
+1 SOUR @S145@
+1 SOUR @S142@
+1 SOUR @S134@
+0 @I16@ INDI
+1 NAME Bernhard /Preiss/
+2 NOTE @N9@
+1 NAME Bernard /Preis/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 1827
+2 PLAC Schweich, Trier, Rhineland, Prussia
+3 MAP
+4 LATI 49.82
+4 LONG 6.75222
+2 NOTE @N10@
+1 DEAT
+2 DATE 11 de outubro de 1893
+2 PLAC Alto São Martinho, Santa Catarina, Brasil
+3 MAP
+4 LATI -28.1616
+4 LONG -48.9882
+2 NOTE @N11@
+1 OBJE
+2 FORM URL
+2 TITL ALEMANHA
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-7779-132113-138309-6/dist.jpg?ctx=ArtCtxPublic
+1 FAMS @F10@
+1 _FSFTID L58N-QCC
+1 SOUR @S185@
+1 SOUR @S175@
+1 SOUR @S186@
+1 SOUR @S174@
+1 SOUR @S183@
+1 SOUR @S176@
+1 SOUR @S181@
+1 SOUR @S188@
+1 SOUR @S178@
+1 SOUR @S177@
+1 SOUR @S173@
+1 SOUR @S184@
+1 SOUR @S182@
+1 SOUR @S180@
+1 SOUR @S179@
+1 SOUR @S187@
+0 @I17@ INDI
+1 NAME Anton /Michels/
+1 SEX M
+1 DEAT
+2 DATE 1874
+2 PLAC Vargem Grande, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.49
+4 LONG -50.9786
+1 RESI
+2 PLAC Colônia Santa Isabel, Águas Mornas, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.6728
+4 LONG -49.0201
+1 RELI römisch-katholisch
+1 BIRT
+2 DATE 11 May 1822
+2 PLAC Hermeskeil, Trier-Saarburg, Rhineland-Palatinate, Deutschland
+3 MAP
+4 LATI 49.657726
+4 LONG 6.945956
+1 CHR
+2 DATE 12 de maio de 1822
+2 PLAC Hermeskeil, Trier, Rheinprovinz, Preußen, Alemanha
+3 MAP
+4 LATI 49.65
+4 LONG 6.95
+1 IMMI Imigração Brasil
+2 DATE 12 de novembro de 1828
+2 PLAC Florianópolis, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.5978
+4 LONG -48.5203
+1 OBJE
+2 FORM URL
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-7744-164512-60275-48/dist.jpg?ctx=ArtCtxPublic
+1 OBJE
+2 FORM URL
+2 TITL Antonio Michels
+3 CONT ‎Memória da Imigração Italiana no Brasil
+3 CONT 28 de outubro de 2016 · 
+3 CONT  
+3 CONT SÃO BENTO BAIXO - Distrito de Nova Veneza , persiste até hoje .
+3 CONT 
+3 CONT no facebook
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-904-93950-840-11/dist.jpg?ctx=ArtCtxPublic
+1 OBJE
+2 FORM URL
+2 TITL Antonio MIchels
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-7769-103783-163-38/dist.jpg?ctx=ArtCtxPublic
+1 OBJE
+2 FORM URL
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-904-76634-1092-39/dist.jpg?ctx=ArtCtxPublic
+1 FAMS @F8@
+1 _FSFTID LDL7-7XZ
+1 NOTE @N12@
+1 SOUR @S164@
+1 SOUR @S156@
+1 SOUR @S159@
+1 SOUR @S154@
+1 SOUR @S162@
+1 SOUR @S170@
+1 SOUR @S171@
+1 SOUR @S165@
+1 SOUR @S157@
+1 SOUR @S152@
+1 SOUR @S160@
+1 SOUR @S168@
+1 SOUR @S163@
+1 SOUR @S169@
+1 SOUR @S153@
+1 SOUR @S166@
+1 SOUR @S155@
+1 SOUR @S172@
+1 SOUR @S158@
+1 SOUR @S167@
+1 SOUR @S161@
+0 @I18@ INDI
+1 NAME Anna Maria /Knopker/
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 PLAC Alemanha
+3 MAP
+4 LATI 51.5
+4 LONG 10.0
+1 FAMS @F12@
+1 _FSFTID PFXC-GKP
+0 @I19@ INDI
+1 NAME Franz Adam /Eller/
+2 NOTE @N13@
+1 SEX M
+1 DEAT Y
+1 CHR
+2 DATE 03 de  março de 1832
+2 PLAC Sant Peter um Paul Westfalen, Alemanha
+3 MAP
+4 LATI 51.8
+4 LONG 8.1
+1 BIRT
+2 DATE 1832
+2 PLAC Alemanha
+3 MAP
+4 LATI 51.5
+4 LONG 10.0
+1 FAMS @F12@
+1 _FSFTID P3ZF-879
+1 SOUR @S191@
+1 SOUR @S193@
+1 SOUR @S190@
+1 SOUR @S192@
+0 @I20@ INDI
+1 NAME Margaretha /Pfannenstein/
+1 SEX F
+1 BIRT
+2 DATE 1825
+2 PLAC Rückersrieth, Moosbach, Landkreis Neustadt an der Waldnaab, Bayern, Alemanha
+3 MAP
+4 LATI 49.54945
+4 LONG 12.41422
+1 DEAT Y
+1 FAMS @F11@
+1 _FSFTID PJ9D-GST
+0 @I21@ INDI
+1 NAME Angela Catharina /Arend/
+2 NOTE @N14@
+1 SEX F
+1 BURI
+2 DATE 15 de setembro de 1924
+2 PLAC Vargem do Cedro, São Martinho, Santa Catarina, Brasil
+3 MAP
+4 LATI -28.10743
+4 LONG -48.90352
+2 NOTE @N16@
+1 RESI
+2 PLAC Colônia Santa Isabel, Águas Mornas, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.6728
+4 LONG -49.0201
+2 NOTE @N17@
+1 BIRT
+2 DATE 5 de dezembro de 1827
+2 PLAC Pünderich, Cochem-Zell, Rheinland-Pfalz, Germany
+3 MAP
+4 LATI 50.038557
+4 LONG 7.123518
+1 IMMI Europa x Brasil
+2 DATE 5 de janeiro de 1847
+2 PLAC Florianópolis, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.5978
+4 LONG -48.5203
+2 NOTE @N15@
+1 CHR
+2 PLAC Maria Himmelfahrt Kirche, Pünderich, Landkreis Cochem-Zell, Rheinland-Pfalz, Deutschland
+3 MAP
+4 LATI 50.038557
+4 LONG 7.123518
+1 DEAT
+2 DATE 15 de setembro de 1924
+2 PLAC Vargem do Cedro, São Martinho, Santa Catarina, Brasil
+3 MAP
+4 LATI -28.10743
+4 LONG -48.90352
+1 RELI römisch-katholisch
+1 OBJE
+2 FORM URL
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-904-75620-1849-12/dist.jpg?ctx=ArtCtxPublic
+1 OBJE
+2 FORM URL
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-7754-164619-131525-85/dist.jpg?ctx=ArtCtxPublic
+1 OBJE
+2 FORM URL
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-7744-164512-60288-69/dist.jpg?ctx=ArtCtxPublic
+1 OBJE
+2 FORM URL
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-7749-164614-145617-76/dist.jpg?ctx=ArtCtxPublic
+1 OBJE
+2 FORM URL
+2 FILE https://sg30p0.familysearch.org/service/records/storage/dascloud/patron/v2/TH-7754-164619-131550-90/dist.jpg?ctx=ArtCtxPublic
+1 FAMS @F8@
+1 _FSFTID L61J-RDG
+1 NOTE @N18@
+1 SOUR @S213@
+1 SOUR @S195@
+1 SOUR @S202@
+1 SOUR @S207@
+1 SOUR @S196@
+1 SOUR @S208@
+1 SOUR @S209@
+1 SOUR @S214@
+1 SOUR @S201@
+1 SOUR @S205@
+1 SOUR @S206@
+1 SOUR @S200@
+1 SOUR @S211@
+1 SOUR @S212@
+1 SOUR @S194@
+1 SOUR @S210@
+1 SOUR @S215@
+1 SOUR @S198@
+1 SOUR @S204@
+1 SOUR @S203@
+1 SOUR @S199@
+1 SOUR @S197@
+0 @I22@ INDI
+1 NAME Agnes Ignacia /Loch/
+1 NAME Ignazia /Loch/
+1 SEX F
+1 BIRT
+2 DATE 1828
+2 PLAC São Pedro de Alcântara, Santa Catarina, Brasil
+3 MAP
+4 LATI -27.5671
+4 LONG -48.8048
+1 DEAT
+2 DATE von 1872 zu 1914
+2 PLAC Santa Catarina, Brasilien
+3 MAP
+4 LATI -26.647
+4 LONG -50.3076
+1 FAMS @F10@
+1 _FSFTID LV7G-Z2H
+1 SOUR @S222@
+1 SOUR @S217@
+1 SOUR @S227@
+1 SOUR @S218@
+1 SOUR @S229@
+1 SOUR @S216@
+1 SOUR @S231@
+1 SOUR @S226@
+1 SOUR @S221@
+1 SOUR @S228@
+1 SOUR @S220@
+1 SOUR @S230@
+1 SOUR @S225@
+1 SOUR @S223@
+1 SOUR @S224@
+1 SOUR @S219@
+0 @I23@ INDI
+1 NAME Michael /Meier/
+1 SEX M
+1 BIRT
+2 DATE 1820
+2 PLAC Heumaden, Moosbach, Landkreis Neustadt an der Waldnaab, Bayern, Alemanha
+3 MAP
+4 LATI 49.59453
+4 LONG 12.44954
+1 DEAT Y
+1 FAMS @F11@
+1 _FSFTID PJ96-G48
+0 @I24@ INDI
+1 NAME Barbara /Woppmann/
+1 SEX F
+1 BIRT
+2 DATE 1825
+2 PLAC Burgtreswitz, Moosbach, Landkreis Neustadt an der Waldnaab, Bayern, Alemanha
+3 MAP
+4 LATI 49.59478
+4 LONG 12.38894
+1 DEAT Y
+1 FAMS @F9@
+1 _FSFTID PJ96-CN2
+0 @I25@ INDI
+1 NAME Johann /Voit/
+1 SEX M
+1 BIRT
+2 DATE 1820
+2 PLAC Burgtreswitz, Moosbach, Landkreis Neustadt an der Waldnaab, Bayern, Alemanha
+3 MAP
+4 LATI 49.59478
+4 LONG 12.38894
+1 DEAT Y
+1 FAMS @F9@
+1 _FSFTID PJ96-ZS1
+0 @I26@ INDI
+1 NAME Joanna /Lauterjung/
+1 SEX F
+1 DEAT Y
+1 FAMS @F13@
+1 _FSFTID PSV9-6QS
+1 SOUR @S189@
+0 @I27@ INDI
+1 NAME Guilherme /Dorner/
+1 SEX M
+1 DEAT Y
+1 FAMS @F13@
+1 _FSFTID PSV9-B9Q
+1 SOUR @S232@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+0 @F2@ FAM
+1 HUSB @I7@
+1 WIFE @I4@
+1 CHIL @I2@
+0 @F3@ FAM
+1 HUSB @I5@
+1 WIFE @I6@
+1 CHIL @I3@
+0 @F4@ FAM
+1 HUSB @I9@
+1 WIFE @I10@
+1 CHIL @I7@
+0 @F5@ FAM
+1 HUSB @I14@
+1 WIFE @I11@
+1 CHIL @I6@
+0 @F6@ FAM
+1 HUSB @I15@
+1 WIFE @I13@
+1 CHIL @I5@
+0 @F7@ FAM
+1 HUSB @I8@
+1 WIFE @I12@
+1 CHIL @I4@
+0 @F8@ FAM
+1 HUSB @I17@
+1 WIFE @I21@
+1 CHIL @I11@
+0 @F9@ FAM
+1 HUSB @I25@
+1 WIFE @I24@
+1 CHIL @I12@
+0 @F10@ FAM
+1 HUSB @I16@
+1 WIFE @I22@
+1 CHIL @I14@
+0 @F11@ FAM
+1 HUSB @I23@
+1 WIFE @I20@
+1 CHIL @I8@
+0 @F12@ FAM
+1 HUSB @I19@
+1 WIFE @I18@
+1 CHIL @I13@
+0 @F13@ FAM
+1 HUSB @I27@
+1 WIFE @I26@
+1 CHIL @I15@
+0 @S1@ SOUR 
+1 TITL Baldvino Haas, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JJK-6FT8 : Sun Dec 07 07:16:12 UTC 2025), Baldvino Haas, 9 Mar 1948.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JJK-6FT8
+1 REFN QQS7-JKG
+0 @S2@ SOUR 
+1 TITL Adelina Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JJK-6FTF : Sun Dec 07 07:16:12 UTC 2025), Adelina Doerner in entry for Baldvino Haas, 9 Mar 1948.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JJK-6FTF
+1 REFN QQS7-JZC
+0 @S3@ SOUR 
+1 TITL Maria Mayer Haas, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6VDZ-3T78 : Tue Jun 30 05:48:22 UTC 2026), Maria Mayer Haas in entry for Maria Haas, 13 May 1926.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6VDZ-3T78
+1 REFN WN56-27Y
+0 @S4@ SOUR 
+1 TITL Maria Haas, “Brasil, São Paulo, Registro Civil, 1925-2023”
+1 AUTH "Brasil, São Paulo, Registro Civil, 1925-2023", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:X9B4-BNXT : Sat Jul 04 15:14:02 UTC 2026), Maria Haas in entry for Ferdinand Haas and Ferdinand Haas, 9 de outubro de 1937.
+1 PUBL https://familysearch.org/ark:/61903/1:1:X9B4-BNXT
+1 REFN WNJD-R9J
+0 @S5@ SOUR 
+1 TITL Maria Mayer Haas, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6VDC-MRFT : Tue Jun 30 16:56:55 UTC 2026), Maria Mayer Haas in entry for Baldoino Haas, 20 April 1924.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6VDC-MRFT
+1 REFN W824-HWN
+0 @S6@ SOUR 
+1 TITL Maria Mayer, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:X9B4-G1TC : Wed Jul 01 02:54:40 UTC 2026), Maria Mayer in entry for Augusto Sebold and Gertrudes Haas, 1932.
+1 PUBL https://familysearch.org/ark:/61903/1:1:X9B4-G1TC
+1 REFN W8C1-QMD
+0 @S7@ SOUR 
+1 TITL Maria Mayer Haas, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSX5-XFGZ : Mon Aug 31 17:54:39 UTC 2026), Maria Mayer Haas, 8 de novembro de 1973.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSX5-XFGZ
+1 REFN WCBT-Y9S
+0 @S8@ SOUR 
+1 TITL Maria Haas, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSX6-K9MN : Wed Jan 07 04:52:50 UTC 2026), Maria Haas in entry for Alexandre Haas, 16 de novembro de 1994.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSX6-K9MN
+1 REFN 728C-VW8
+0 @S9@ SOUR 
+1 TITL Maria Mayer, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXG-8WHG : Tue Jan 13 19:50:56 UTC 2026), Maria Mayer in entry for Augusto Sebold and Gertrudes Boss, 9 de maio de 1932.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXG-8WHG
+1 REFN 7KMV-25M
+0 @S10@ SOUR 
+1 TITL Maria Maier, Österreich, Katholische Kirchenbücher, 1565-2007
+1 AUTH "Österreich, Katholische Kirchenbücher, 1565-2007", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6VYQ-H86B : Tue Sep 01 04:48:42 UTC 2026), Maria Maier in entry for Ferdinand Haas, 4. November 1901.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6VYQ-H86B
+1 REFN 7DR1-YYW
+0 @S11@ SOUR 
+1 TITL Maria Mayer Haas, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JJK-6FT6 : Sun Dec 07 07:16:12 UTC 2025), Maria Mayer Haas in entry for Baldvino Haas, 9 Mar 1948.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JJK-6FT6
+1 REFN QVWR-8Z4
+0 @S12@ SOUR 
+1 TITL Maria Meyer, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QP7N-8ZQX : Tue Jan 21 12:58:36 UTC 2025), Maria Meyer in entry for Ferdinand Haas, 8 Sep 1915.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QP7N-8ZQX
+1 REFN QVWG-JW4
+0 @S13@ SOUR 
+1 TITL Maria Meyer, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QPS1-BYJ9 : Sun Jan 19 12:54:52 UTC 2025), Maria Meyer in entry for Agnes Haas, 23 Mar 1920.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QPS1-BYJ9
+1 REFN QVS8-15K
+0 @S14@ SOUR 
+1 TITL Maria Meyer, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QPQC-X6LM : Mon Aug 31 18:00:39 UTC 2026), Maria Meyer in entry for Gertrud, 23 de novembro de 1913.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QPQC-X6LM
+1 REFN QVS8-T4C
+0 @S15@ SOUR 
+1 TITL Maria Mayer, “Brasil, Paraná, Registro Civil, 1852-2017”
+1 AUTH "Brasil, Paraná, Registro Civil, 1852-2017", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:62X3-4WTF : Thu Oct 17 16:25:01 UTC 2024), Maria Mayer in entry for Ferdinand Haas, 18 Mar 1976.
+1 PUBL https://familysearch.org/ark:/61903/1:1:62X3-4WTF
+1 REFN QVS8-6X3
+0 @S16@ SOUR 
+1 TITL Maria Haas, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:8MFM-TTN2 : Tue Dec 09 08:18:00 UTC 2025), Maria Haas in entry for Elza Haas, 30 May 1922.
+1 PUBL https://familysearch.org/ark:/61903/1:1:8MFM-TTN2
+1 REFN QD2S-PBF
+0 @S17@ SOUR 
+1 TITL Maria Meier, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QP7K-9XR5 : Thu Oct 24 06:25:58 UTC 2024), Maria Meier in entry for Alexandre Haas, 18 Jun 1917.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QP7K-9XR5
+1 REFN WDNZ-6LJ
+0 @S18@ SOUR 
+1 TITL Fernando Dorones, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:X9BH-NS9H : Tue Jun 30 19:53:49 UTC 2026), Fernando Dorones in entry for Modesto Eccel and Hilda Anna Doever, 6 de junho de 1946.
+1 PUBL https://familysearch.org/ark:/61903/1:1:X9BH-NS9H
+1 REFN WN56-M9T
+0 @S19@ SOUR 
+1 TITL Fernando Doermer, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXC-4TPT : Sun Feb 09 14:13:54 UTC 2025), Fernando Doermer and Gertruda Preuss, 25 de fevereiro de 1913.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXC-4TPT
+1 REFN W7T5-3YB
+0 @S20@ SOUR 
+1 TITL Fernando Dorner, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGD-68BP : Tue Jan 13 03:48:32 UTC 2026), Fernando Dorner and Gertrud Puno, 9 de julho de 1921.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGD-68BP
+1 REFN 75WZ-87G
+0 @S21@ SOUR 
+1 TITL Fernando Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JJK-6FTX : Sun Dec 07 07:16:12 UTC 2025), Fernando Doerner in entry for Baldvino Haas, 9 Mar 1948.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JJK-6FTX
+1 REFN QRKH-BTN
+0 @S22@ SOUR 
+1 TITL Fernando Daerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6J2K-S91F : Thu Jan 29 01:10:42 UTC 2026), Fernando Daerner in entry for Otilia Daerner, 28 Jun 1930.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6J2K-S91F
+1 REFN Q4MY-JDV
+0 @S23@ SOUR 
+1 TITL Fernande Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JN7-WZYP : Sat Dec 06 05:56:41 UTC 2025), Fernande Doerner in entry for Celso Doerner, 24 Jun 1939.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JN7-WZYP
+1 REFN Q4MY-FLP
+0 @S24@ SOUR 
+1 TITL Fernando Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JX2-RRYH : Sat Jun 21 22:40:25 UTC 2025), Fernando Doerner in entry for Ottilia Doerner, 24 Mar 1930.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JX2-RRYH
+1 REFN Q4MY-XM6
+0 @S25@ SOUR 
+1 TITL Fernando Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JFM-172H : Sat Dec 06 06:21:45 UTC 2025), Fernando Doerner in entry for Lindolfo Doerner, 12 Apr 1993.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JFM-172H
+1 REFN Q4MY-DRB
+0 @S26@ SOUR 
+1 TITL Fernando Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JJK-6FTV : Sat Dec 06 22:52:35 UTC 2025), Fernando Doerner in entry for Lindolfo Doerner, 9 Mar 1948.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JJK-6FTV
+1 REFN Q4MY-DQ9
+0 @S27@ SOUR 
+1 TITL Fernando Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JJ8-Y7YJ : Sat Jun 21 22:40:24 UTC 2025), Fernando Doerner in entry for Irma Doerner, 2 Jan 1932.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JJ8-Y7YJ
+1 REFN QWKN-BTH
+0 @S28@ SOUR 
+1 TITL Fernando Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:HFMT-FW6Z : Sat Mar 09 13:49:59 UTC 2024), Fernando Doerner in entry for Lino Fernando Doerner, 15 Feb 1979.
+1 PUBL https://familysearch.org/ark:/61903/1:1:HFMT-FW6Z
+1 REFN 31HF-PMS
+0 @S29@ SOUR 
+1 TITL Fernando Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:HX2G-HG3Z : Sun Mar 10 09:09:41 UTC 2024), Fernando Doerner in entry for Gertrudes Doerner, 14 Apr 1970.
+1 PUBL https://familysearch.org/ark:/61903/1:1:HX2G-HG3Z
+1 REFN 39M1-S9H
+0 @S30@ SOUR 
+1 TITL Fernando Dorner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:HSPD-NHN2 : Thu Mar 07 08:10:39 UTC 2024), Fernando Dorner, 22 May 1981.
+1 PUBL https://familysearch.org/ark:/61903/1:1:HSPD-NHN2
+1 REFN 39MB-1ZF
+0 @S31@ SOUR 
+1 TITL Gertruda Preuss, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXC-4TP1 : Sun Feb 09 14:13:54 UTC 2025), Fernando Doermer and Gertruda Preuss, 25 de fevereiro de 1913.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXC-4TP1
+1 REFN W7T5-QMG
+0 @S32@ SOUR 
+1 TITL Gertrud Puno, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGD-68BT : Tue Jan 13 03:48:32 UTC 2026), Fernando Dorner and Gertrud Puno, 9 de julho de 1921.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGD-68BT
+1 REFN 75WZ-8SW
+0 @S33@ SOUR 
+1 TITL Gertrudes Freis, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JJK-6FTZ : Sun Dec 07 07:16:12 UTC 2025), Gertrudes Freis in entry for Baldvino Haas, 9 Mar 1948.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JJK-6FTZ
+1 REFN QRKH-BL7
+0 @S34@ SOUR 
+1 TITL Gertrudes Prenss, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6J2K-S91N : Thu Jan 29 01:10:42 UTC 2026), Gertrudes Prenss in entry for Otilia Daerner, 28 Jun 1930.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6J2K-S91N
+1 REFN Q4MY-JNH
+0 @S35@ SOUR 
+1 TITL Gertrudes Pruess Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JN7-WZY5 : Sat Dec 06 05:56:41 UTC 2025), Gertrudes Pruess Doerner in entry for Celso Doerner, 24 Jun 1939.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JN7-WZY5
+1 REFN Q4MY-F5K
+0 @S36@ SOUR 
+1 TITL Gertrude Preuss, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JX2-RRYC : Sat Jun 21 22:40:25 UTC 2025), Gertrude Preuss in entry for Ottilia Doerner, 24 Mar 1930.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JX2-RRYC
+1 REFN Q4MY-X3X
+0 @S37@ SOUR 
+1 TITL Gertrudes Preus, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JFM-172C : Sat Dec 06 06:21:45 UTC 2025), Gertrudes Preus in entry for Lindolfo Doerner, 12 Apr 1993.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JFM-172C
+1 REFN Q4MY-D17
+0 @S38@ SOUR 
+1 TITL Gertrudes Preuss, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JJK-6FTK : Sat Dec 06 22:52:35 UTC 2025), Gertrudes Preuss in entry for Lindolfo Doerner, 9 Mar 1948.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JJK-6FTK
+1 REFN Q4MY-8VF
+0 @S39@ SOUR 
+1 TITL Gertrude Preuss Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JJ8-Y7YV : Sat Jun 21 22:40:24 UTC 2025), Gertrude Preuss Doerner in entry for Irma Doerner, 2 Jan 1932.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JJ8-Y7YV
+1 REFN QWKN-YTP
+0 @S40@ SOUR 
+1 TITL Gertrudes Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:HX2G-HLPZ : Sun Mar 10 09:09:41 UTC 2024), Gertrudes Doerner, 14 Apr 1970.
+1 PUBL https://familysearch.org/ark:/61903/1:1:HX2G-HLPZ
+1 REFN 39M1-SW7
+0 @S41@ SOUR 
+1 TITL Gertrudes Preuss, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:HFMT-FWN2 : Sat Mar 09 13:49:59 UTC 2024), Gertrudes Preuss in entry for Lino Fernando Doerner, 15 Feb 1979.
+1 PUBL https://familysearch.org/ark:/61903/1:1:HFMT-FWN2
+1 REFN 39M1-MJV
+0 @S42@ SOUR 
+1 TITL Hoas, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6VDZ-3T7Z : Tue Jun 30 05:48:22 UTC 2026), Hoas in entry for Maria Haas, 13 May 1926.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6VDZ-3T7Z
+1 REFN WN56-2FL
+0 @S43@ SOUR 
+1 TITL Johan Haas, “Brasil, São Paulo, Registro Civil, 1925-2023”
+1 AUTH "Brasil, São Paulo, Registro Civil, 1925-2023", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:X9B4-BNXR : Sat Jul 04 15:14:02 UTC 2026), Johan Haas in entry for Ferdinand Haas and Ferdinand Haas, 9 de outubro de 1937.
+1 PUBL https://familysearch.org/ark:/61903/1:1:X9B4-BNXR
+1 REFN WNJD-5YL
+0 @S44@ SOUR 
+1 TITL João Haas, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6VDC-MRFR : Tue Jun 30 16:56:55 UTC 2026), João Haas in entry for Baldoino Haas, 20 April 1924.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6VDC-MRFR
+1 REFN W824-XVK
+0 @S45@ SOUR 
+1 TITL João Hoas, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:X9B4-G1TH : Wed Jul 01 02:54:40 UTC 2026), João Hoas in entry for Augusto Sebold and Gertrudes Haas, 1932.
+1 PUBL https://familysearch.org/ark:/61903/1:1:X9B4-G1TH
+1 REFN W8C1-QQ4
+0 @S46@ SOUR 
+1 TITL João Hoas, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSX6-K9MF : Wed Jan 07 04:52:50 UTC 2026), João Hoas in entry for Alexandre Haas, 16 de novembro de 1994.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSX6-K9MF
+1 REFN 728C-V3L
+0 @S47@ SOUR 
+1 TITL João Joas, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXG-8WHL : Tue Jan 13 19:50:56 UTC 2026), João Joas in entry for Augusto Sebold and Gertrudes Boss, 9 de maio de 1932.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXG-8WHL
+1 REFN 7KMV-2T1
+0 @S48@ SOUR 
+1 TITL Johann Haas, „Österreich, Katholische Kirchenbücher, 1565-2007“
+1 AUTH "Österreich, Katholische Kirchenbücher, 1565-2007", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6VYQ-H86Y : Tue Sep 01 04:48:42 UTC 2026), Johann Haas in entry for Ferdinand Haas, 4. November 1901.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6VYQ-H86Y
+1 REFN 7DR1-YG5
+0 @S49@ SOUR 
+1 TITL Johann Haas, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QP7K-9XRP : Thu Oct 24 06:25:58 UTC 2024), Johann Haas in entry for Alexandre Haas, 18 Jun 1917.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QP7K-9XRP
+1 REFN 7CR2-L78
+0 @S50@ SOUR 
+1 TITL João Hoas, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BLB-9969 : Tue Jan 13 12:01:52 UTC 2026), João Hoas in entry for Augusto Sebolo.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BLB-9969
+1 REFN 7CR2-NC1
+0 @S51@ SOUR 
+1 TITL João Haas, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JJK-6FTD : Sun Dec 07 07:16:12 UTC 2025), João Haas in entry for Baldvino Haas, 9 Mar 1948.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JJK-6FTD
+1 REFN QVWR-W3V
+0 @S52@ SOUR 
+1 TITL Johann Haas, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QP7N-8ZQ6 : Tue Jan 21 12:58:36 UTC 2025), Johann Haas in entry for Ferdinand Haas, 8 Sep 1915.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QP7N-8ZQ6
+1 REFN QVWG-JSL
+0 @S53@ SOUR 
+1 TITL João Haas, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QPS1-BYJM : Sun Jan 19 12:54:52 UTC 2025), João Haas in entry for Agnes Haas, 23 Mar 1920.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QPS1-BYJM
+1 REFN QVS8-1GR
+0 @S54@ SOUR 
+1 TITL João Haas, “Brasil, Paraná, Registro Civil, 1852-2017”
+1 AUTH "Brasil, Paraná, Registro Civil, 1852-2017", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:62X3-4WTX : Thu Oct 17 16:25:01 UTC 2024), João Haas in entry for Ferdinand Haas, 18 Mar 1976.
+1 PUBL https://familysearch.org/ark:/61903/1:1:62X3-4WTX
+1 REFN QVS8-67Q
+0 @S55@ SOUR 
+1 TITL João Haas, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:8MFM-TT6Z : Tue Dec 09 08:18:00 UTC 2025), João Haas in entry for Elza Haas, 30 May 1922.
+1 PUBL https://familysearch.org/ark:/61903/1:1:8MFM-TT6Z
+1 REFN QD2S-P5K
+0 @S56@ SOUR 
+1 TITL Johann Haas, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QPQC-X621 : Mon Aug 31 18:00:39 UTC 2026), Johann Haas in entry for Gertrud, 23 de novembro de 1913.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QPQC-X621
+1 REFN 35CK-92X
+0 @S57@ SOUR 
+1 TITL Adão Mayer, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6VDZ-3T7X : Tue Jun 30 05:48:22 UTC 2026), Adão Mayer in entry for Maria Haas, 13 May 1926.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6VDZ-3T7X
+1 REFN WN56-KRT
+0 @S58@ SOUR 
+1 TITL Francisca Voix Mayer, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6VDZ-3T7F : Tue Jun 30 05:48:22 UTC 2026), Francisca Voix Mayer in entry for Maria Haas, 13 May 1926.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6VDZ-3T7F
+1 REFN WN56-KKS
+0 @S59@ SOUR 
+1 TITL Manoel Preinse Helena Michelo, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXB-XY5F : Tue Jan 13 05:09:57 UTC 2026), Manoel Preinse Helena Michelo in entry for Paulo Martinum Carman Jasper and Dom A Vervi
+2 CONC nco Preirs, 26 de setembro de 1916.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXB-XY5F
+1 REFN WCBT-RP2
+0 @S60@ SOUR 
+1 TITL Manoel Preuss, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXC-4T5M : Sun Feb 09 14:13:54 UTC 2025), Manoel Preuss in entry for Fernando Doermer and Gertruda Preuss, 25 de fevereiro de 191
+2 CONC 3.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXC-4T5M
+1 REFN W7T5-QSW
+0 @S61@ SOUR 
+1 TITL Manoel Preuss, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXZ-M795 : Mon Feb 02 21:35:22 UTC 2026), Manoel Preuss in entry for Pedro Preuss and Catharina Berkenbrok, maio de 1850.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXZ-M795
+1 REFN WS95-TCF
+0 @S62@ SOUR 
+1 TITL Manuel Preuss, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGD-68BY : Tue Jan 13 03:48:32 UTC 2026), Manuel Preuss in entry for Fernando Dorner and Gertrud Puno, 9 de julh
+2 CONC o de 1921.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGD-68BY
+1 REFN 75WZ-8KG
+0 @S63@ SOUR 
+1 TITL Manuel Pocure, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BG6-ZPM4 : Tue Jan 13 03:47:03 UTC 2026), Manuel Pocure in entry for José Preuss and Francisca Ropecky, 21 de abr
+2 CONC il de 1903.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BG6-ZPM4
+1 REFN 7VRM-233
+0 @S64@ SOUR 
+1 TITL Manuel Preusse, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXD-WJGD : Wed May 20 00:51:19 UTC 2026), Manuel Preusse in entry for Stephano Preuss and Catharina Berbembrock, 20 September 191
+2 CONC 6.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXD-WJGD
+1 REFN 7JJJ-SQ3
+0 @S65@ SOUR 
+1 TITL Manoel Preis, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BG6-8GBM : Tue Jan 13 17:02:51 UTC 2026), Manoel Preis in entry for José Berkenbroch and Catharina Preis Tapp, 1
+2 CONC 4 de outubro de 1916.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BG6-8GBM
+1 REFN 7JJN-RMZ
+0 @S66@ SOUR 
+1 TITL Manoel Freus, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSFM-BXCP : Wed Jan 07 05:18:25 UTC 2026), Manoel Freus in entry for Cartório Estevão Preus Reus, 19 de dezembro de 1949.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSFM-BXCP
+1 REFN 7JJN-GHM
+0 @S67@ SOUR 
+1 TITL Manoel Peris Preis, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BG6-4WTF : Tue Jan 13 03:40:41 UTC 2026), Manoel Peris Preis in entry for Estefano Luis and Catharina Berkenbrocho
+2 CONC , 19 de agosto de 1912.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BG6-4WTF
+1 REFN 7JJN-VP4
+0 @S68@ SOUR 
+1 TITL Manoel Pruess, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6PNL-1DR4 : Wed Dec 10 02:20:13 UTC 2025), Manoel Pruess in entry for Helena Michels, 9 Jun 1945.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6PNL-1DR4
+1 REFN 7DTJ-P9Z
+0 @S69@ SOUR 
+1 TITL Manoel Pereis, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:66Y6-ZX22 : Sat Aug 08 11:49:04 UTC 2026), Manoel Pereis in entry for Maria, 17 de junho de 1901.
+1 PUBL https://familysearch.org/ark:/61903/1:1:66Y6-ZX22
+1 REFN QDM6-SNX
+0 @S70@ SOUR 
+1 TITL Manoel Preuss, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JLC-3G5F : Tue Dec 09 23:54:08 UTC 2025), Manoel Preuss in entry for João Preuss, 28 Dec 1955.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JLC-3G5F
+1 REFN QDMD-TYY
+0 @S71@ SOUR 
+1 TITL Manoel Preuss, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JTW-35WP : Thu Oct 02 02:13:14 UTC 2025), Manoel Preuss in entry for Antônio Preuss, 12 Sep 1942.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JTW-35WP
+1 REFN QDMD-VVY
+0 @S72@ SOUR 
+1 TITL Manoel Preuss, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JPD-TY41 : Wed Dec 10 11:24:52 UTC 2025), Manoel Preuss in entry for Antonio Preuss, 11 Aug 1983.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JPD-TY41
+1 REFN QDMD-8PG
+0 @S73@ SOUR 
+1 TITL Manoel Preis, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JP8-5CVD : Tue Dec 09 20:31:55 UTC 2025), Manoel Preis in entry for Maria Preiss, 13 Jan 1979.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JP8-5CVD
+1 REFN QDMH-BBQ
+0 @S74@ SOUR 
+1 TITL Manuel Preis, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-YSK6 : Sat Jul 06 17:09:43 UTC 2024), Manuel Preis, 26 Apr 1864.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-YSK6
+1 REFN 917C-QF7
+0 @S75@ SOUR 
+1 TITL Registro de Batizado de Pedro Preuss                     Brasil, Santa Catarina, R...greja Católica, 1714-1977 Vargem do Cedro São Sebastião Matrimônios 1891-1899
+1 AUTH Brasil, Santa Catarina, R...greja Católica, 1714-1977 Vargem do Cedro São Sebastião Matrimônios 1891-1899
+1 PUBL https://familysearch.org/ark:/61903/3:1:S3HT-61C9-N5F?i=15&wc=MFKV-3TT%3A1030402601%2C1030402602%2C1030402603&cc=2177296
+1 NOTE @N6@
+1 REFN 3WPG-BYN
+0 @S76@ SOUR 
+1 TITL Manoel Preus, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:HX2G-HLT2 : Sun Mar 10 09:09:41 UTC 2024), Manoel Preus in entry for Gertrudes Doerner, 14 Apr 1970.
+1 PUBL https://familysearch.org/ark:/61903/1:1:HX2G-HLT2
+1 REFN 39M1-3W4
+0 @S77@ SOUR 
+1 TITL Manoel Preuss, “Brasil, Paraná, Registro Civil, 1852-2017”
+1 AUTH "Brasil, Paraná, Registro Civil, 1852-2017", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:ZWG2-FJW2 : Wed Mar 12 01:12:23 UTC 2025), Manoel Preuss in entry for Veronica Preuss.
+1 PUBL https://familysearch.org/ark:/61903/1:1:ZWG2-FJW2
+1 REFN SYG2-FDC
+0 @S78@ SOUR 
+1 TITL Manuel Preis, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QL9M-NWLR : Sun Mar 10 09:19:51 UTC 2024), Manuel Preis in entry for Elisabeth Preis, 1894.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QL9M-NWLR
+1 REFN SYG2-F3V
+0 @S79@ SOUR 
+1 TITL Manoel Preis, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:H1TP-WHW2 : Wed Jul 24 15:28:58 UTC 2024), Manoel Preis in entry for Paul Jasper, 9 Sep 1916.
+1 PUBL https://familysearch.org/ark:/61903/1:1:H1TP-WHW2
+1 REFN SYG2-XLX
+0 @S80@ SOUR 
+1 TITL Helena Michelo, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXB-XY5N : Tue Jan 13 05:09:57 UTC 2026), Helena Michelo in entry for Paulo Martinum Carman Jasper and Dom A Vervinco Preirs, 2
+2 CONC 6 de setembro de 1916.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXB-XY5N
+1 REFN WHRP-19P
+0 @S81@ SOUR 
+1 TITL Helena Michels, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXC-4T59 : Sun Feb 09 14:13:54 UTC 2025), Helena Michels in entry for Fernando Doermer and Gertruda Preuss, 25 de fevereiro de 19
+2 CONC 13.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXC-4T59
+1 REFN W7T5-Q3T
+0 @S82@ SOUR 
+1 TITL Helena Michels, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGD-68BB : Tue Jan 13 03:48:32 UTC 2026), Helena Michels in entry for Fernando Dorner and Gertrud Puno, 9 de julh
+2 CONC o de 1921.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGD-68BB
+1 REFN 75WZ-8J3
+0 @S83@ SOUR 
+1 TITL Helena Michels, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BG6-ZPMH : Tue Jan 13 03:47:03 UTC 2026), Helena Michels in entry for José Preuss and Francisca Ropecky, 21 de ab
+2 CONC ril de 1903.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BG6-ZPMH
+1 REFN 7VRM-27B
+0 @S84@ SOUR 
+1 TITL Helena Michels, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXD-WJG6 : Wed May 20 00:51:19 UTC 2026), Helena Michels in entry for Stephano Preuss and Catharina Berbembrock, 20 September 191
+2 CONC 6.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXD-WJG6
+1 REFN 7JJJ-SWZ
+0 @S85@ SOUR 
+1 TITL Helena Michels, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSFM-BXC5 : Wed Jan 07 05:18:25 UTC 2026), Helena Michels in entry for Cartório Estevão Preus Reus, 19 de dezembro de 1949.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSFM-BXC5
+1 REFN 7JJN-G83
+0 @S86@ SOUR 
+1 TITL Helena Michels, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BG6-4WTN : Tue Jan 13 03:40:41 UTC 2026), Helena Michels in entry for Estefano Luis and Catharina Berkenbrocho, 1
+2 CONC 9 de agosto de 1912.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BG6-4WTN
+1 REFN 7JJN-VR1
+0 @S87@ SOUR 
+1 TITL Helena Michels, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6PNL-1DRQ : Wed Dec 10 02:20:13 UTC 2025), Helena Michels, 9 Jun 1945.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6PNL-1DRQ
+1 REFN 7DTJ-G24
+0 @S88@ SOUR 
+1 TITL Helena Michels, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BG6-8GB9 : Tue Jan 13 17:02:51 UTC 2026), Helena Michels in entry for José Berkenbroch and Catharina Preis Tapp
+2 CONC , 14 de outubro de 1916.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BG6-8GB9
+1 REFN 7HTB-H7M
+0 @S89@ SOUR 
+1 TITL Helena Michelo, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:66Y6-ZX2L : Sat Aug 08 11:49:04 UTC 2026), Helena Michelo in entry for Maria, 17 de junho de 1901.
+1 PUBL https://familysearch.org/ark:/61903/1:1:66Y6-ZX2L
+1 REFN QDM6-9MT
+0 @S90@ SOUR 
+1 TITL Helena Michels, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JLC-3G5N : Tue Dec 09 23:54:08 UTC 2025), Helena Michels in entry for João Preuss, 28 Dec 1955.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JLC-3G5N
+1 REFN QDMD-TGQ
+0 @S91@ SOUR 
+1 TITL Helena Michels, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JTW-35W5 : Thu Oct 02 02:13:14 UTC 2025), Helena Michels in entry for Antônio Preuss, 12 Sep 1942.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JTW-35W5
+1 REFN QDMD-VDY
+0 @S92@ SOUR 
+1 TITL Helena Michels, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JPD-TYHM : Wed Dec 10 11:24:52 UTC 2025), Helena Michels in entry for Antonio Preuss, 11 Aug 1983.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JPD-TYHM
+1 REFN QDMD-8JC
+0 @S93@ SOUR 
+1 TITL Helena Michels, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JP8-5CV6 : Tue Dec 09 20:31:55 UTC 2025), Helena Michels in entry for Maria Preiss, 13 Jan 1979.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JP8-5CV6
+1 REFN QDMH-B24
+0 @S94@ SOUR 
+1 TITL Registro de Batismo de  seu filho:  Pedro Preis                   Brasil, Santa Catarina, R...greja Católica, 1714-1977 Vargem do Cedro São Sebastião Matrimônios 1891-1899
+1 AUTH Brasil, Santa Catarina, R...greja Católica, 1714-1977 Vargem do Cedro São Sebastião Matrimônios 1891-1899
+1 PUBL https://familysearch.org/ark:/61903/3:1:S3HT-61C9-N5F?i=15&wc=MFKV-3TT%3A1030402601%2C1030402602%2C1030402603&cc=2177296
+1 NOTE @N7@
+1 REFN 3WPP-9JL
+0 @S95@ SOUR 
+1 TITL Helena Michels, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:HX2G-HGMM : Sun Mar 10 09:09:41 UTC 2024), Helena Michels in entry for Gertrudes Doerner, 14 Apr 1970.
+1 PUBL https://familysearch.org/ark:/61903/1:1:HX2G-HGMM
+1 REFN 39M1-34Z
+0 @S96@ SOUR 
+1 TITL Helena Michels, “Brasil, Paraná, Registro Civil, 1852-2017”
+1 AUTH "Brasil, Paraná, Registro Civil, 1852-2017", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:ZWG2-FJZM : Wed Mar 12 01:12:23 UTC 2025), Helena Michels in entry for Veronica Preuss.
+1 PUBL https://familysearch.org/ark:/61903/1:1:ZWG2-FJZM
+1 REFN SYG2-FZP
+0 @S97@ SOUR 
+1 TITL Helena Michels, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QL9M-NWLY : Sun Mar 10 09:19:51 UTC 2024), Helena Michels in entry for Elisabeth Preis, 1894.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QL9M-NWLY
+1 REFN SYG2-F9W
+0 @S98@ SOUR 
+1 TITL Helena Michels, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:H1TP-W4PZ : Wed Jul 24 15:28:58 UTC 2024), Helena Michels in entry for Paul Jasper, 9 Sep 1916.
+1 PUBL https://familysearch.org/ark:/61903/1:1:H1TP-W4PZ
+1 REFN SYG2-XKJ
+0 @S99@ SOUR 
+1 TITL Helena, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-LDVJ : Fri Oct 10 01:42:26 UTC 2025), Helena, 7 de fevereiro de 1864.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-LDVJ
+1 REFN S3N5-H7K
+0 @S100@ SOUR 
+1 TITL Anna Elles, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6VDC-JQ58 : Tue Jun 30 22:34:29 UTC 2026), Anna Elles in entry for Martinho Alberta, 2 February 1922.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6VDC-JQ58
+1 REFN W8TP-4C9
+0 @S101@ SOUR 
+1 TITL Ana Ellereja, “Brazil, Alagoas, Registro Civil, 1876-2023”
+1 AUTH "Brazil, Alagoas, Registro Civil, 1876-2023", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:65GK-NZ1P : Tue Jun 30 21:28:38 UTC 2026), Ana Ellereja in entry for Carlos Docruz, 2 de outubro de 1953.
+1 PUBL https://familysearch.org/ark:/61903/1:1:65GK-NZ1P
+1 REFN W8FG-268
+0 @S102@ SOUR 
+1 TITL <Unknown>, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGZ-VBV7 : Tue Jan 13 02:02:14 UTC 2026), <Unknown> in entry for Henrique Anterlinde and Paulina Dorner, 8 de outu
+2 CONC bro de 1904.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGZ-VBV7
+1 REFN W7T5-H1L
+0 @S103@ SOUR 
+1 TITL Anna Eller, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXC-4TPB : Sun Feb 09 14:13:54 UTC 2025), Anna Eller in entry for Fernando Doermer and Gertruda Preuss, 25 de fevereiro de 1913.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXC-4TPB
+1 REFN W7T5-3RZ
+0 @S104@ SOUR 
+1 TITL Anna Eller, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSX8-WMJ6 : Tue Jan 13 07:16:58 UTC 2026), Anna Eller in entry for Henrique Vanderlinde and Paulina Dorner, 31 de dezembro de 190
+2 CONC 4.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSX8-WMJ6
+1 REFN WMJ4-N83
+0 @S105@ SOUR 
+1 TITL Anna Ellar, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGD-68BR : Tue Jan 13 03:48:32 UTC 2026), Anna Ellar in entry for Fernando Dorner and Gertrud Puno, 9 de julho d
+2 CONC e 1921.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGD-68BR
+1 REFN 75WZ-D3D
+0 @S106@ SOUR 
+1 TITL Ana Eller, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSFM-3DMH : Wed Jan 07 05:19:37 UTC 2026), Ana Eller in entry for Ana Doernez, dezembro de 1962.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSFM-3DMH
+1 REFN 7VFR-ZQS
+0 @S107@ SOUR 
+1 TITL Anna Eller, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BG6-JGR4 : Tue Jan 13 03:43:28 UTC 2026), Anna Eller in entry for Augusto Cen and Guilhermina Doernez, 29 de abri
+2 CONC l de 1911.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BG6-JGR4
+1 REFN 7NFY-X8X
+0 @S108@ SOUR 
+1 TITL Anna Elleze, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSX6-W523 : Tue Jan 13 17:56:01 UTC 2026), Anna Elleze in entry for Carlos Voimez and Geroneyme Back, 29 de setembro de 1906.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSX6-W523
+1 REFN 7FL1-CRR
+0 @S109@ SOUR 
+1 TITL Anna Ellez, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSX6-SM21 : Tue Jan 13 07:18:37 UTC 2026), Anna Ellez in entry for Alberto Teuzer and Maria Dornez, 24 de fevereiro de 1917.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSX6-SM21
+1 REFN 7XF8-WJQ
+0 @S110@ SOUR 
+1 TITL Anna Elles, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGZ-F1PQ : Tue Jan 13 01:44:06 UTC 2026), Anna Elles in entry for João Berkenbrock and Anna Dorner, 19 de janeir
+2 CONC o de 1901.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGZ-F1PQ
+1 REFN 7ZBG-W67
+0 @S111@ SOUR 
+1 TITL Ana Eller, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JPZ-YBJH : Wed Dec 10 11:13:29 UTC 2025), Ana Eller in entry for Carlos Doerner, 3 Oct 1953.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JPZ-YBJH
+1 REFN 7CPT-KVQ
+0 @S112@ SOUR 
+1 TITL Anna Eller, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BG6-JGT4 : Tue Jan 13 03:46:53 UTC 2026), Anna Eller in entry for Alberto Teuser and Maria Dornera, 10 de fevereir
+2 CONC o de 1917.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BG6-JGT4
+1 REFN 7WGB-QHT
+0 @S113@ SOUR 
+1 TITL Anna Eller, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:HSPD-NHPZ : Thu Mar 07 08:10:39 UTC 2024), Anna Eller in entry for Fernando Dorner, 22 May 1981.
+1 PUBL https://familysearch.org/ark:/61903/1:1:HSPD-NHPZ
+1 REFN 39MB-BPL
+0 @S114@ SOUR 
+1 TITL Anna Eller, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-D4CC : Tue Jan 14 13:26:38 UTC 2025), Anna Eller in entry for Carlos Řinaldo (Reinhard) Doerner, 1 Aug 1882.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-D4CC
+1 REFN 39MB-Y1S
+0 @S115@ SOUR 
+1 TITL Anna Eller, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QL9M-C13M : Sat Mar 09 21:37:56 UTC 2024), Anna Eller in entry for Wilhelmina Doerner, 1892.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QL9M-C13M
+1 REFN 9Y3D-SYZ
+0 @S116@ SOUR 
+1 TITL Anna Eller, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QL9M-6ZMD : Sun Mar 10 09:26:06 UTC 2024), Anna Eller in entry for Robert Dörner, 1890.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QL9M-6ZMD
+1 REFN 9Y38-1BC
+0 @S117@ SOUR 
+1 TITL Anna Eller, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-FST6 : Tue Jul 23 03:43:09 UTC 2024), Anna Eller in entry for Wilhelm Dörner, 4 Aug 1878.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-FST6
+1 REFN 9Y38-14Y
+0 @S118@ SOUR 
+1 TITL Anna Eller, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-5Y92 : Tue Jan 21 09:43:24 UTC 2025), Anna Eller in entry for Maria Anna Dörner, 6 Jun 1880.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-5Y92
+1 REFN 9Y38-BV7
+0 @S119@ SOUR 
+1 TITL Anna Eller, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-TM7V : Mon Oct 06 19:51:01 UTC 2025), Anna Eller in entry for Paulina Rosalia Dörner, 1 Jun 1886.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-TM7V
+1 REFN 9Y38-BQ1
+0 @S120@ SOUR 
+1 TITL Carlos Doerner, “Brasil, Paraná, Registro Civil, 1852-2017”
+1 AUTH "Brasil, Paraná, Registro Civil, 1852-2017", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSFH-DX35 : Sun Aug 02 23:04:31 UTC 2026), Carlos Doerner in entry for Emma Doerner Scheidt, 21 de junho de 1986.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSFH-DX35
+1 REFN WN5G-L74
+0 @S121@ SOUR 
+1 TITL Carlos Doenes, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6VDC-JQ5Z : Tue Jun 30 22:34:29 UTC 2026), Carlos Doenes in entry for Martinho Alberta, 2 February 1922.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6VDC-JQ5Z
+1 REFN W8TP-44M
+0 @S122@ SOUR 
+1 TITL Carlos Dorner, “Brazil, Alagoas, Registro Civil, 1876-2023”
+1 AUTH "Brazil, Alagoas, Registro Civil, 1876-2023", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:65GK-NZ1G : Tue Jun 30 21:28:38 UTC 2026), Carlos Dorner in entry for Carlos Docruz, 2 de outubro de 1953.
+1 PUBL https://familysearch.org/ark:/61903/1:1:65GK-NZ1G
+1 REFN W8FG-2H7
+0 @S123@ SOUR 
+1 TITL Carlos Dörner, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:66YX-8D9S : Sat Aug 08 12:07:38 UTC 2026), Carlos Dörner in entry for Joanna, julho de 1902.
+1 PUBL https://familysearch.org/ark:/61903/1:1:66YX-8D9S
+1 REFN W7T5-VD7
+0 @S124@ SOUR 
+1 TITL Carlos Gomes, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGZ-VBVQ : Tue Jan 13 02:02:14 UTC 2026), Carlos Gomes in entry for Henrique Anterlinde and Paulina Dorner, 8 de o
+2 CONC utubro de 1904.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGZ-VBVQ
+1 REFN W7T5-C9W
+0 @S125@ SOUR 
+1 TITL Carlos Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSFM-3DM4 : Wed Jan 07 05:19:37 UTC 2026), Carlos Doerner in entry for Ana Doernez, dezembro de 1962.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSFM-3DM4
+1 REFN W7T5-H57
+0 @S126@ SOUR 
+1 TITL Carlos Fórrez, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSX6-W52S : Tue Jan 13 17:56:01 UTC 2026), Carlos Fórrez in entry for Carlos Voimez and Geroneyme Back, 29 de setembro de 1906.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSX6-W52S
+1 REFN W7T5-HC8
+0 @S127@ SOUR 
+1 TITL Carlos Dormez, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGZ-F1P3 : Tue Jan 13 01:44:06 UTC 2026), Carlos Dormez in entry for João Berkenbrock and Anna Dorner, 19 de jane
+2 CONC iro de 1901.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGZ-F1P3
+1 REFN W7T5-H98
+0 @S128@ SOUR 
+1 TITL Carlos Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JBJ-WFZH : Sat Dec 06 22:25:12 UTC 2025), Carlos Doerner in entry for João Doerner, 3 Nov 1990.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JBJ-WFZH
+1 REFN W7T5-42J
+0 @S129@ SOUR 
+1 TITL Carlos Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JLX-ZT3F : Thu Oct 02 01:37:23 UTC 2025), Carlos Doerner in entry for João Doerner, 22 Feb 1933.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JLX-ZT3F
+1 REFN W7T5-4N1
+0 @S130@ SOUR 
+1 TITL Carlos Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JKY-WRQK : Sat Dec 06 13:17:08 UTC 2025), Carlos Doerner in entry for Gustavo Doerner, 18 Oct 1930.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JKY-WRQK
+1 REFN W7T5-4Z8
+0 @S131@ SOUR 
+1 TITL Carlos Dornez, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGZ-4DDH : Tue Jan 13 01:46:39 UTC 2026), Carlos Dornez and Hulda Peterse de Paulina Buitres, 29 de abril de 1900.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGZ-4DDH
+1 REFN W7T5-43P
+0 @S132@ SOUR 
+1 TITL Carlos Doermer, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXZ-VNJJ : Tue Jan 13 19:45:22 UTC 2026), Carlos Doermer in entry for Rão Hockers and Joana Doermer, 10 de março de 1924.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXZ-VNJJ
+1 REFN W7TP-GLT
+0 @S133@ SOUR 
+1 TITL Carlos Doconer, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BG6-6YW5 : Tue Jan 13 03:44:31 UTC 2026), Carlos Doconer in entry for Mathias Hospero and Joanna Dorner, 25 de out
+2 CONC ubro de 1923.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BG6-6YW5
+1 REFN W7TP-G42
+0 @S134@ SOUR 
+1 TITL Carlos Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JPD-5MWR : Mon Aug 31 18:08:28 UTC 2026), Carlos Doerner in entry for Joana Doerner, 15 Oct 1941.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JPD-5MWR
+1 REFN W7T5-Q61
+0 @S135@ SOUR 
+1 TITL Carlos Doerner, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BG6-JGTW : Tue Jan 13 03:46:53 UTC 2026), Carlos Doerner in entry for Alberto Teuser and Maria Dornera, 10 de feve
+2 CONC reiro de 1917.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BG6-JGTW
+1 REFN W7T5-QCC
+0 @S136@ SOUR 
+1 TITL Carlos Doermer, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXC-4TPY : Sun Feb 09 14:13:54 UTC 2025), Carlos Doermer in entry for Fernando Doermer and Gertruda Preuss, 25 de fevereiro de 19
+2 CONC 13.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXC-4TPY
+1 REFN W7T5-3P7
+0 @S137@ SOUR 
+1 TITL Carl Dörner, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-FSTC : Tue Jul 23 03:43:09 UTC 2024), Carl Dörner in entry for Wilhelm Dörner, 4 Aug 1878.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-FSTC
+1 REFN W7T5-3KC
+0 @S138@ SOUR 
+1 TITL Carlos Dörner, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-TM78 : Mon Oct 06 19:51:01 UTC 2025), Carlos Dörner in entry for Paulina Rosalia Dörner, 1 Jun 1886.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-TM78
+1 REFN W7T5-3FY
+0 @S139@ SOUR 
+1 TITL Carl Dörner, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-5Y9Z : Tue Jan 21 09:43:24 UTC 2025), Carl Dörner in entry for Maria Anna Dörner, 6 Jun 1880.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-5Y9Z
+1 REFN W7T5-3DV
+0 @S140@ SOUR 
+1 TITL Carlos Docenez, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BG6-JGRW : Tue Jan 13 03:43:28 UTC 2026), Carlos Docenez in entry for Augusto Cen and Guilhermina Doernez, 29 de a
+2 CONC bril de 1911.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BG6-JGRW
+1 REFN W7T5-34M
+0 @S141@ SOUR 
+1 TITL Carlos Dorner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:HSPD-NH2M : Thu Mar 07 08:10:39 UTC 2024), Carlos Dorner in entry for Fernando Dorner, 22 May 1981.
+1 PUBL https://familysearch.org/ark:/61903/1:1:HSPD-NH2M
+1 REFN W7T5-3SB
+0 @S142@ SOUR 
+1 TITL Carlos Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:ZKNH-YB6Z : Sun Mar 10 16:36:42 UTC 2024), Carlos Doerner in entry for Joanna Doerner, 9 May 1901.
+1 PUBL https://familysearch.org/ark:/61903/1:1:ZKNH-YB6Z
+1 REFN W3KQ-4WM
+0 @S143@ SOUR 
+1 TITL Carlos Doerner, “Brasil, Paraná, Registro Civil, 1852-2017”
+1 AUTH "Brasil, Paraná, Registro Civil, 1852-2017", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSFS-2WFB : Mon Aug 24 03:37:06 UTC 2026), Carlos Doerner in entry for Theodoro Doerner, January 1987.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSFS-2WFB
+1 REFN W3KQ-755
+0 @S144@ SOUR 
+1 TITL Carlos Doerner, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JPZ-YBJ4 : Wed Dec 10 11:13:29 UTC 2025), Carlos Doerner in entry for Carlos Doerner, 3 Oct 1953.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JPZ-YBJ4
+1 REFN W3KQ-96G
+0 @S145@ SOUR 
+1 TITL Carlos Pora Mês, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSX8-WMJD : Tue Jan 13 07:16:58 UTC 2026), Carlos Pora Mês in entry for Henrique Vanderlinde and Paulina Dorner, 31 de dezembro d
+2 CONC e 1904.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSX8-WMJD
+1 REFN WMJ4-JF8
+0 @S146@ SOUR 
+1 TITL Carl Porver, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGD-68B5 : Tue Jan 13 03:48:32 UTC 2026), Carl Porver in entry for Fernando Dorner and Gertrud Puno, 9 de julho d
+2 CONC e 1921.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGD-68B5
+1 REFN 75WZ-D9S
+0 @S147@ SOUR 
+1 TITL Carlos Teuzer, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSX6-SM2B : Tue Jan 13 07:18:37 UTC 2026), Carlos Teuzer in entry for Alberto Teuzer and Maria Dornez, 24 de fevereiro de 1917.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSX6-SM2B
+1 REFN 7GSR-MYX
+0 @S148@ SOUR 
+1 TITL Carlos Doerner, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-D4H4 : Tue Jan 14 13:26:38 UTC 2025), Carlos Doerner in entry for Carlos Řinaldo (Reinhard) Doerner, 1 Aug 18
+2 CONC 82.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-D4H4
+1 REFN 7L1F-8C2
+0 @S149@ SOUR 
+1 TITL Carl Doerner, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QL9M-C1S1 : Sat Mar 09 21:37:56 UTC 2024), Carl Doerner in entry for Wilhelmina Doerner, 1892.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QL9M-C1S1
+1 REFN 7LWR-4KD
+0 @S150@ SOUR 
+1 TITL Carl Dörner, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QL9M-6ZM8 : Sun Mar 10 09:26:06 UTC 2024), Carl Dörner in entry for Robert Dörner, 1890.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QL9M-6ZM8
+1 REFN 7LWL-PW1
+0 @S151@ SOUR 
+1 TITL Carl Reinhard Doerner, "Germany, Births and Baptisms, 1558-1898"
+1 AUTH "Deutschland Geburten und Taufen, 1558-1898", database, <i>FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:NFWD-9RS : 25 March 2020), Carl Reinhard Doerner, 1854.
+1 PUBL https://familysearch.org/ark:/61903/1:1:NFWD-9RS
+1 NOTE @N8@
+1 REFN MF2M-RTP
+0 @S152@ SOUR 
+1 TITL Henrique Michels, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:KXPF-H4T : Thu Feb 19 22:55:37 UTC 2026), Henrique Michels in entry for Armando Megunes, 1849.
+1 PUBL https://familysearch.org/ark:/61903/1:1:KXPF-H4T
+1 REFN 71SH-81V
+0 @S153@ SOUR 
+1 TITL Antonio Michels, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSFL-DLMQ : Wed May 27 00:55:28 UTC 2026), Antonio Michels in entry for Deste Distrito Antonio Michels, 8 September 1941.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSFL-DLMQ
+1 REFN 7VS3-J2Q
+0 @S154@ SOUR 
+1 TITL Antonio Michels, “Brasil, Rio Grande do Sul, Registro Civil, 1810-2022”
+1 AUTH "Brasil, Rio Grande do Sul, Registro Civil, 1810-2022", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BK4-5KQ8 : Sat Sep 28 23:41:39 UTC 2024), Antonio Michels in entry for Pedro Michels, 7 Nov 1891.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BK4-5KQ8
+1 REFN 7DTJ-PH9
+0 @S155@ SOUR 
+1 TITL Antonio Michels, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6PNL-1DR7 : Wed Dec 10 02:20:13 UTC 2025), Antonio Michels in entry for Helena Michels, 9 Jun 1945.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6PNL-1DR7
+1 REFN 7DTJ-G6G
+0 @S156@ SOUR 
+1 TITL Antonio Michelo, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGZ-RD2K : Tue Jan 13 00:14:07 UTC 2026), Antonio Michelo in entry for Antonio Michels and Theresia Baer, 3 de nov
+2 CONC embro de 1891.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGZ-RD2K
+1 REFN 7W4Z-65M
+0 @S157@ SOUR 
+1 TITL Antonio Michels, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6RJT-WS29 : Tue Dec 09 08:02:27 UTC 2025), Antonio Michels in entry for Gertrudes Michels Kuhmeri, 8 Jul 1923.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6RJT-WS29
+1 REFN 7QSV-33C
+0 @S158@ SOUR 
+1 TITL Brazil, Santa Catarina, Civil Registration, 1850-1999; https://familysearch.org/ark:/61903/3:1:S3HT-X9RS-R8T?cc=2016197&wc=MXYG-1PV%3A338772501%2C338772502%2C338772503
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999," database with images, <i>FamilySearch</i> (https://familysearch.org/ark:/61903/3:1:S3HT-X9RS-R8T?cc=2016197&wc=MXYG-1PV%3A338772501%2C338772502%2C338772503 : 22 May 2014), São Martinho > São Ma
+2 CONC rtinho > Óbitos 1919, Fev-1929, Dez > image 21 of 41; cartórios no estado de Santa Catarina (city registration offices), Santa Catarina.
+1 PUBL https://familysearch.org/ark:/61903/3:1:S3HT-X9RS-R8T
+1 REFN 79CF-6MC
+0 @S159@ SOUR 
+1 TITL Anton Michels in entry for Maria Michels, "Germany, Births and Baptisms, 1558-1898"
+1 AUTH "Deutschland Geburten und Taufen, 1558-1898", database, <i>FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:NZG1-SFC : 25 February 2020), Anton Michels in entry for Maria Michels, 1870.
+1 PUBL https://familysearch.org/ark:/61903/1:1:NZG1-SFC
+1 REFN Q8L5-3D9
+0 @S160@ SOUR 
+1 TITL Antonio Michels, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JL7-LBB4 : Tue Dec 09 16:55:27 UTC 2025), Antonio Michels in entry for Maria Michels, 18 Sep 1946.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JL7-LBB4
+1 REFN QWCR-MH5
+0 @S161@ SOUR 
+1 TITL Antonio Michels, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JPD-15ZH : Wed Dec 10 10:21:52 UTC 2025), Antonio Michels in entry for Catarina Michels, 18 Dec 1950.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JPD-15ZH
+1 REFN QWC5-YRQ
+0 @S162@ SOUR 
+1 TITL Antonio Michels, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JPZ-BV7M : Tue Dec 09 21:23:58 UTC 2025), Antonio Michels in entry for Elisabeth Michels, 14 Aug 1947.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JPZ-BV7M
+1 REFN QWC5-5XZ
+0 @S163@ SOUR 
+1 TITL Anton Michels, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-5JK3 : Tue Jul 09 04:14:10 UTC 2024), Anton Michels in entry for Catharina Michels, 14 Oct 1866.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-5JK3
+1 REFN SYTC-73W
+0 @S164@ SOUR 
+1 TITL Anton Michels, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-LDDK : Tue Jul 16 09:54:44 UTC 2024), Anton Michels in entry for Stephan Michels, 3 Dec 1871.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-LDDK
+1 REFN SRPM-PNT
+0 @S165@ SOUR 
+1 TITL Antonio Michels, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-G1P4 : Tue Oct 07 16:14:38 UTC 2025), Antonio Michels in entry for Pedro Loch, 17 Oct 1881.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-G1P4
+1 REFN SKX4-KTN
+0 @S166@ SOUR 
+1 TITL Anton Michels, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-LDVG : Fri Oct 10 01:42:26 UTC 2025), Anton Michels in entry for Helena, 7 de fevereiro de 1864.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-LDVG
+1 REFN SJQL-ZDQ
+0 @S167@ SOUR 
+1 TITL Anton Michels, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-LD61 : Mon Jul 15 20:14:03 UTC 2024), Anton Michels in entry for Anton Michels, 2 Nov 1869.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-LD61
+1 REFN SJQL-H3N
+0 @S168@ SOUR 
+1 TITL Anton Michels in entry for Elisabeth Michels, "Germany, Births and Baptisms, 1558-1898"
+1 AUTH "Deutschland Geburten und Taufen, 1558-1898", database, <i>FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:NGJY-72X : 25 February 2020), Anton Michels in entry for Elisabeth Michels, 1865.
+1 PUBL https://familysearch.org/ark:/61903/1:1:NGJY-72X
+1 REFN SHNK-L4Q
+0 @S169@ SOUR 
+1 TITL Antonio Michels, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-V9GW : Wed Jan 22 02:38:43 UTC 2025), Antonio Michels in entry for Jose Michels, 2 Apr 1883.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-V9GW
+1 REFN 91L2-N78
+0 @S170@ SOUR 
+1 TITL {name} na entrada para Heinrich Michels, “Deutschland Geburten und Taufen, 1558-1898”
+1 AUTH "Deutschland Geburten und Taufen, 1558-1898", database, <i>FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:V456-95V : 25 February 2020), Anton Michels in entry for Heinrich Michels, 1868.
+1 PUBL https://familysearch.org/ark:/61903/1:1:V456-95V
+1 REFN 9LRQ-33T
+0 @S171@ SOUR 
+1 TITL Antonii Michels in entry for Maria Michels, "Germany, Births and Baptisms, 1558-1898"
+1 AUTH "Deutschland Geburten und Taufen, 1558-1898", database, <i>FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:CHWR-HL2M : 24 February 2020), Antonii Michels in entry for Maria Michels, 1870.
+1 PUBL https://familysearch.org/ark:/61903/1:1:NTV1-FP5
+1 NOTE @N19@
+1 REFN MQF4-VBT
+0 @S172@ SOUR 
+1 TITL Antonius Micheles, "Germany, Births and Baptisms, 1558-1898"
+1 AUTH "Deutschland Geburten und Taufen, 1558-1898", , <i>FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:N6XL-MY2 : 26 March 2020), Antonius Micheles, 1822.
+1 PUBL https://familysearch.org/ark:/61903/1:1:N6XL-MY2
+1 NOTE @N20@
+1 REFN MV1Z-HQ9
+0 @S173@ SOUR 
+1 TITL Bernardo Redo, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXL-PB4G : Wed Jan 07 03:56:07 UTC 2026), Bernardo Redo in entry for Maria Preis Lougem, 7 de abril de 1914.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXL-PB4G
+1 REFN WDVP-2SW
+0 @S174@ SOUR 
+1 TITL Bernardo Preis, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:65YP-Q8JJ : Tue Jun 30 12:45:08 UTC 2026), Bernardo Preis in entry for Mathias Breis, 3 March 1932.
+1 PUBL https://familysearch.org/ark:/61903/1:1:65YP-Q8JJ
+1 REFN WDVP-KV1
+0 @S175@ SOUR 
+1 TITL Bernardo Preis e Ignaria, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:65YP-751N : Tue Jun 30 18:13:08 UTC 2026), Bernardo Preis e Ignaria in entry for Catharina Preis, 29 May 1935.
+1 PUBL https://familysearch.org/ark:/61903/1:1:65YP-751N
+1 REFN WDVP-KW6
+0 @S176@ SOUR 
+1 TITL Bernardo Freis, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXX-ZDQK : Wed Jan 07 05:17:11 UTC 2026), Bernardo Freis in entry for Mathias Preis, trez dias do mez de Fevereiro do anno o de c
+2 CONC em mil novecentos e trinta e dois.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXX-ZDQK
+1 REFN 7N6X-7SY
+0 @S177@ SOUR 
+1 TITL Fernando Preis e de Igaracio Rocha, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSX8-ZZVJ : Tue Jan 13 05:09:11 UTC 2026), Fernando Preis e de Igaracio Rocha in entry for Nicolau Reis and Amalia Ans, 21 de nove
+2 CONC mbro de 1892.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSX8-ZZVJ
+1 REFN 7NCG-5LH
+0 @S178@ SOUR 
+1 TITL Bernardo Reis, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSX8-WTZ2 : Tue Jan 13 20:08:41 UTC 2026), Bernardo Reis in entry for Nicolau Reis and Amalia Arcio, 31 de dezembro de 1892.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSX8-WTZ2
+1 REFN 7FGM-BJ3
+0 @S179@ SOUR 
+1 TITL Bernardo Preis, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSX5-G9J1 : Mon Jan 12 23:34:58 UTC 2026), Bernardo Preis in entry for Nathan Langen and Maria Preis, 1809.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSX5-G9J1
+1 REFN 7XWR-6HJ
+0 @S180@ SOUR 
+1 TITL Bernardo Treis, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGZ-J7N9 : Mon Jan 12 23:12:15 UTC 2026), Bernardo Treis in entry for Nicolão Preis and Amalia Arns, 6 de feverei
+2 CONC ro de 1892.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGZ-J7N9
+1 REFN 74NR-SS9
+0 @S181@ SOUR 
+1 TITL Bernardo Preis, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QL9M-XX79 : Thu Mar 07 19:53:03 UTC 2024), Bernardo Preis in entry for Pedro Preis, 1896.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QL9M-XX79
+1 REFN 3M3S-HCB
+0 @S182@ SOUR 
+1 TITL Bernardo Reis, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-XDNF : Mon Jan 13 16:29:49 UTC 2025), Bernardo Reis in entry for Maria Reis, 6 Apr 1914.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-XDNF
+1 REFN 917C-8BZ
+0 @S183@ SOUR 
+1 TITL Bernard Preis, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-J2DJ : Mon Jan 13 04:10:24 UTC 2025), Bernard Preis in entry for Peter, 7 de novembro de 1870.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-J2DJ
+1 REFN 917C-ZBK
+0 @S184@ SOUR 
+1 TITL Bernard Preis, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-YSDZ : Fri Jul 12 11:01:50 UTC 2024), Bernard Preis in entry for Nicolaus Preis, 11 Oct 1868.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-YSDZ
+1 REFN 917C-4GL
+0 @S185@ SOUR 
+1 TITL Bernard Preis, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-V9L5 : Mon Jan 13 10:02:51 UTC 2025), Bernard Preis in entry for Johannes Preis, 15 Jul 1872.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-V9L5
+1 REFN 917C-WPY
+0 @S186@ SOUR 
+1 TITL Bernard Preus, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QL9M-6ZZ4 : Sat Mar 09 06:28:30 UTC 2024), Bernard Preus in entry for Bernard Rodius, 1892.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QL9M-6ZZ4
+1 REFN 917C-WCK
+0 @S187@ SOUR 
+1 TITL Bernard Preis, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-YSKV : Sat Jul 06 17:09:43 UTC 2024), Bernard Preis in entry for Manuel Preis, 26 Apr 1864.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-YSKV
+1 REFN 917C-QZ7
+0 @S188@ SOUR 
+1 TITL Bernardo Preis, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-22FS : Mon Jan 13 05:49:07 UTC 2025), Bernardo Preis in entry for Nicolao Lungen, 28 Jan 1899.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-22FS
+1 REFN 917C-SPP
+0 @S189@ SOUR 
+1 TITL Joanna Lauterjunq, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGZ-4DDZ : Tue Jan 13 01:46:39 UTC 2026), Joanna Lauterjunq in entry for Carlos Dornez and Hulda Peterse de Paulin
+2 CONC a Buitres, 29 de abril de 1900.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGZ-4DDZ
+1 REFN 7VFR-G59
+0 @S190@ SOUR 
+1 TITL Franz Adam Eller, "Germany, Births and Baptisms, 1558-1898"
+1 AUTH "Deutschland Geburten und Taufen, 1558-1898", database, <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:NZ1P-BSD : 17 October 2026), Franz Adam Eller, 1832.
+1 PUBL https://familysearch.org/ark:/61903/1:1:NZ1P-BSD
+1 NOTE @N21@
+1 REFN MGHJ-TNG
+0 @S191@ SOUR 
+1 TITL Adam Eller, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QL9M-6ZHH : Fri Mar 08 11:54:39 UTC 2024), Adam Eller in entry for Henrique Kock, 1888.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QL9M-6ZHH
+1 REFN 39M1-D8X
+0 @S192@ SOUR 
+1 TITL Adam Eller, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-5DD1 : Tue Jan 21 19:46:35 UTC 2025), Adam Eller in entry for Maria Eller, 16 Nov 1869.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-5DD1
+1 REFN 39M1-Z4K
+0 @S193@ SOUR 
+1 TITL Adam Eller, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-YSJX : Wed Jul 17 13:53:54 UTC 2024), Adam Eller in entry for Mathilde Eller, 15 Jul 1866.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-YSJX
+1 REFN 39M1-CWH
+0 @S194@ SOUR 
+1 TITL Angela Catharina Arns Michels, "Find a Grave Index"
+1 AUTH "Find a Grave Index", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XWZY-H9ZZ : Sun Oct 04 01:07:44 UTC 2026), Angela Catharina Arns Michels.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XWZY-H9ZZ
+1 REFN WWCZ-YDS
+0 @S195@ SOUR 
+1 TITL Angela Catharina Armando, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:KXPF-H4Y : Thu Feb 19 22:55:37 UTC 2026), Angela Catharina Armando in entry for Armando Megunes, 1849.
+1 PUBL https://familysearch.org/ark:/61903/1:1:KXPF-H4Y
+1 REFN 71SH-D7L
+0 @S196@ SOUR 
+1 TITL Catarina Alves, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSFL-DLM7 : Wed May 27 00:55:28 UTC 2026), Catarina Alves in entry for Deste Distrito Antonio Michels, 8 September 1941.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSFL-DLM7
+1 REFN 7VS3-JT5
+0 @S197@ SOUR 
+1 TITL Catharina Arens, “Brasil, Rio Grande do Sul, Registro Civil, 1810-2022”
+1 AUTH "Brasil, Rio Grande do Sul, Registro Civil, 1810-2022", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BK4-5KQD : Sat Sep 28 23:41:39 UTC 2024), Catharina Arens in entry for Pedro Michels, 7 Nov 1891.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BK4-5KQD
+1 REFN 7DTJ-PCN
+0 @S198@ SOUR 
+1 TITL Catarina Arns, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6PNL-1DRW : Wed Dec 10 02:20:13 UTC 2025), Catarina Arns in entry for Helena Michels, 9 Jun 1945.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6PNL-1DRW
+1 REFN 7DTJ-GFP
+0 @S199@ SOUR 
+1 TITL Catharina Arno, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGZ-RD22 : Tue Jan 13 00:14:07 UTC 2026), Catharina Arno in entry for Antonio Michels and Theresia Baer, 3 de nove
+2 CONC mbro de 1891.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGZ-RD22
+1 REFN 7W4Z-6RB
+0 @S200@ SOUR 
+1 TITL Catharina Michels, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6RJT-WS2S : Tue Dec 09 08:02:27 UTC 2025), Catharina Michels in entry for Gertrudes Michels Kuhmeri, 8 Jul 1923.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6RJT-WS2S
+1 REFN 7QSV-3M4
+0 @S201@ SOUR 
+1 TITL Catharina Michels, “Brasil, Rio Grande do Sul, Registro Civil, 1810-2022”
+1 AUTH "Brasil, Rio Grande do Sul, Registro Civil, 1810-2022", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:65VB-VVMF : Tue May 26 02:49:38 UTC 2026), Catharina Michels in entry for Aredo Cino Michels, 6 September 1936.
+1 PUBL https://familysearch.org/ark:/61903/1:1:65VB-VVMF
+1 REFN 731G-177
+0 @S202@ SOUR 
+1 TITL Brazil, Santa Catarina, Civil Registration, 1850-1999; https://familysearch.org/ark:/61903/3:1:S3HT-X9RS-R8T?cc=2016197&wc=MXYG-1PV%3A338772501%2C338772502%2C338772503
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999," database with images, <i>FamilySearch</i> (https://familysearch.org/ark:/61903/3:1:S3HT-X9RS-R8T?cc=2016197&wc=MXYG-1PV%3A338772501%2C338772502%2C338772503 : 22 May 2014), São Martinho > São Ma
+2 CONC rtinho > Óbitos 1919, Fev-1929, Dez > image 21 of 41; cartórios no estado de Santa Catarina (city registration offices), Santa Catarina.
+1 PUBL https://familysearch.org/ark:/61903/3:1:S3HT-X9RS-R8T
+1 REFN 79CF-9SH
+0 @S203@ SOUR 
+1 TITL Catharina Michels in entry for Maria Michels, "Germany, Births and Baptisms, 1558-1898"
+1 AUTH "Deutschland Geburten und Taufen, 1558-1898", database, <i>FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:NZG1-SFZ : 25 February 2020), Catharina Michels in entry for Maria Michels, 1870.
+1 PUBL https://familysearch.org/ark:/61903/1:1:NZG1-SFZ
+1 REFN Q8L5-3WV
+0 @S204@ SOUR 
+1 TITL Catharina Michels in entry for Elisabeth Michels, "Germany, Births and Baptisms, 1558-1898"
+1 AUTH "Deutschland Geburten und Taufen, 1558-1898", database, <i>FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:NGJY-72F : 25 February 2020), Catharina Michels in entry for Elisabeth Michels, 1865.
+1 PUBL https://familysearch.org/ark:/61903/1:1:NGJY-72F
+1 REFN Q8L5-SVZ
+0 @S205@ SOUR 
+1 TITL Catarina Arns, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JL7-LBBH : Tue Dec 09 16:55:27 UTC 2025), Catarina Arns in entry for Maria Michels, 18 Sep 1946.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JL7-LBBH
+1 REFN QWCR-MZY
+0 @S206@ SOUR 
+1 TITL Catarina Arns, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JPD-15ZC : Wed Dec 10 10:21:52 UTC 2025), Catarina Arns in entry for Catarina Michels, 18 Dec 1950.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JPD-15ZC
+1 REFN QWC5-YY9
+0 @S207@ SOUR 
+1 TITL Catarina Arns, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JPZ-BV79 : Tue Dec 09 21:23:58 UTC 2025), Catarina Arns in entry for Elisabeth Michels, 14 Aug 1947.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6JPZ-BV79
+1 REFN QWC5-5J7
+0 @S208@ SOUR 
+1 TITL Catharina Arens, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-LDDR : Tue Jul 16 09:54:44 UTC 2024), Catharina Arens in entry for Stephan Michels, 3 Dec 1871.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-LDDR
+1 REFN SB34-1NT
+0 @S209@ SOUR 
+1 TITL Arns, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-VD68 : Tue Oct 07 16:14:38 UTC 2025), Arns in entry for Pedro Loch, 17 Oct 1881.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-VD68
+1 REFN SKX4-K5V
+0 @S210@ SOUR 
+1 TITL Catharina Arens, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-LDK4 : Fri Oct 10 01:42:26 UTC 2025), Catharina Arens in entry for Helena, 7 de fevereiro de 1864.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-LDK4
+1 REFN SJQL-ZSZ
+0 @S211@ SOUR 
+1 TITL Catharina Arens, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-LDXM : Mon Jul 15 20:14:03 UTC 2024), Catharina Arens in entry for Anton Michels, 2 Nov 1869.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-LDXM
+1 REFN SJQL-4N6
+0 @S212@ SOUR 
+1 TITL Catharina Arns, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-5JKH : Tue Jul 09 04:14:10 UTC 2024), Catharina Arns in entry for Catharina Michels, 14 Oct 1866.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-5JKH
+1 REFN SZGD-B12
+0 @S213@ SOUR 
+1 TITL Catharinae Michels in entry for Maria Michels, "Germany, Births and Baptisms, 1558-1898"
+1 AUTH "Deutschland Geburten und Taufen, 1558-1898", database, <i>FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:CHWR-HLPZ : 24 February 2020), Catharinae Michels in entry for Maria Michels, 1870.
+1 PUBL https://familysearch.org/ark:/61903/1:1:NTV1-FPR
+1 NOTE @N22@
+1 REFN MQF4-V1S
+0 @S214@ SOUR 
+1 TITL Catharina Michels in entry for Antonius Michels, "Germany, Marriages, 1558-1929"
+1 AUTH "Deutschland Heiraten, 1558-1929", , <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:JHZM-C6L : 17 October 2026), Catharina Michels in entry for Antonius Michels, 1867.
+1 PUBL https://familysearch.org/ark:/61903/1:1:JHZM-C6L
+1 NOTE @N23@
+1 REFN M4ZQ-TP1
+0 @S215@ SOUR 
+1 TITL Cathar. Arns, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-V9GP : Wed Jan 22 02:38:43 UTC 2025), Cathar. Arns in entry for Jose Michels, 2 Apr 1883.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-V9GP
+1 REFN 91L2-NH8
+0 @S216@ SOUR 
+1 TITL Ignacia Roch, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXL-PB4P : Wed Jan 07 03:56:07 UTC 2026), Ignacia Roch in entry for Maria Preis Lougem, 7 de abril de 1914.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXL-PB4P
+1 REFN WDVP-2HR
+0 @S217@ SOUR 
+1 TITL Ignacio - Lorh, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:65YP-Q8JV : Tue Jun 30 12:45:08 UTC 2026), Ignacio - Lorh in entry for Mathias Breis, 3 March 1932.
+1 PUBL https://familysearch.org/ark:/61903/1:1:65YP-Q8JV
+1 REFN WDVP-KY3
+0 @S218@ SOUR 
+1 TITL Ignazia Luch, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:65YP-751J : Tue Jun 30 18:13:08 UTC 2026), Ignazia Luch in entry for Catharina Preis, 29 May 1935.
+1 PUBL https://familysearch.org/ark:/61903/1:1:65YP-751J
+1 REFN WDVP-K85
+0 @S219@ SOUR 
+1 TITL Ignácio Lach, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSXX-ZDQ2 : Wed Jan 07 05:17:11 UTC 2026), Ignácio Lach in entry for Mathias Preis, trez dias do mez de Fevereiro do anno o de ce
+2 CONC m mil novecentos e trinta e dois.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSXX-ZDQ2
+1 REFN W9Z6-7Y7
+0 @S220@ SOUR 
+1 TITL Ignacia Loch, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSX8-ZZVV : Tue Jan 13 05:09:11 UTC 2026), Ignacia Loch in entry for Nicolau Reis and Amalia Ans, 21 de novembro de 1892.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSX8-ZZVV
+1 REFN 7NCG-5KP
+0 @S221@ SOUR 
+1 TITL Ignacia Lock, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSX8-WTZL : Tue Jan 13 20:08:41 UTC 2026), Ignacia Lock in entry for Nicolau Reis and Amalia Arcio, 31 de dezembro de 1892.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSX8-WTZL
+1 REFN 7FGM-BV7
+0 @S222@ SOUR 
+1 TITL Ignacia Loch, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
+1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:XSX5-G9VM : Mon Jan 12 23:34:58 UTC 2026), Ignacia Loch in entry for Nathan Langen and Maria Preis, 1809.
+1 PUBL https://familysearch.org/ark:/61903/1:1:XSX5-G9VM
+1 REFN 7XWR-6D3
+0 @S223@ SOUR 
+1 TITL Ignazia Locho, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGZ-J7NS : Mon Jan 12 23:12:15 UTC 2026), Ignazia Locho in entry for Nicolão Preis and Amalia Arns, 6 de fevereir
+2 CONC o de 1892.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGZ-J7NS
+1 REFN 74NR-911
+0 @S224@ SOUR 
+1 TITL Ignacia Loch, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QL9M-XX7S : Thu Mar 07 19:53:03 UTC 2024), Ignacia Loch in entry for Pedro Preis, 1896.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QL9M-XX7S
+1 REFN 3M3S-H61
+0 @S225@ SOUR 
+1 TITL Ignacia Lock, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-2MW2 : Mon Jan 13 16:29:49 UTC 2025), Ignacia Lock in entry for Maria Reis, 6 Apr 1914.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-2MW2
+1 REFN 917C-8TY
+0 @S226@ SOUR 
+1 TITL Ignacia Locks, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-J2DK : Mon Jan 13 04:10:24 UTC 2025), Ignacia Locks in entry for Peter, 7 de novembro de 1870.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-J2DK
+1 REFN 917C-ZY9
+0 @S227@ SOUR 
+1 TITL Ignacia Loch, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-YSD6 : Fri Jul 12 11:01:50 UTC 2024), Ignacia Loch in entry for Nicolaus Preis, 11 Oct 1868.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-YSD6
+1 REFN 917C-4R9
+0 @S228@ SOUR 
+1 TITL Ignacia Loch, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-V9LY : Mon Jan 13 10:02:51 UTC 2025), Ignacia Loch in entry for Johannes Preis, 15 Jul 1872.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-V9LY
+1 REFN 917C-WR3
+0 @S229@ SOUR 
+1 TITL Ignazia Loch, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QL9M-6ZZ8 : Sat Mar 09 06:28:30 UTC 2024), Ignazia Loch in entry for Bernard Rodius, 1892.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QL9M-6ZZ8
+1 REFN 917C-W84
+0 @S230@ SOUR 
+1 TITL Ignacia Loch, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-YSK5 : Sat Jul 06 17:09:43 UTC 2024), Ignacia Loch in entry for Manuel Preis, 26 Apr 1864.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-YSK5
+1 REFN 917C-QD1
+0 @S231@ SOUR 
+1 TITL Ignacia Loch, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:QG29-22F7 : Mon Jan 13 05:49:07 UTC 2025), Ignacia Loch in entry for Nicolao Lungen, 28 Jan 1899.
+1 PUBL https://familysearch.org/ark:/61903/1:1:QG29-22F7
+1 REFN 917C-SRQ
+0 @S232@ SOUR 
+1 TITL Guilherme Doanez, “Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977”
+1 AUTH "Brasil, Santa Catarina, Registros da Igreja Católica, 1714-1977", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6BGZ-4DDC : Tue Jan 13 01:46:39 UTC 2026), Guilherme Doanez in entry for Carlos Dornez and Hulda Peterse de Paulin
+2 CONC a Buitres, 29 de abril de 1900.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6BGZ-4DDC
+1 REFN 7VFR-G8Q
+0 @N1@ NOTE Because I`m your parent
+0 @N2@ NOTE O nome foi "abrasileirado" para João. Os familiares o reconhecem por esse nome.
+0 @N3@ NOTE GEDCOM data
+0 @N4@ NOTE Registro de 2014 de batizados na Alemanha.
+0 @N5@ NOTE Registro de batismo na Alemanha.
+0 @N6@ NOTE Brasil, Santa Catarina, R...greja Católica, 1714-1977 Vargem do Cedro São Sebastião Matrimônios 1891-1899
+0 @N7@ NOTE Brasil, Santa Catarina, R...greja Católica, 1714-1977 Vargem do Cedro São Sebastião Matrimônios 1891-1899
+0 @N8@ NOTE This extracted record was used to create this person in Family Tree.
+0 @N9@ NOTE (Preis)
+0 @N10@ NOTE No túmulo consta na lápide a data de 1829.
+0 @N11@ NOTE GEDCOM data
+0 @N12@ NOTE === Resumo da Vida ===
+1 CONT LDL7-7XZ
+1 CONT Emigration nach Brasilien 1828 (Ursula Buchholz, Jahr ?): *060, oo055
+1 CONT Am 7. November 1828 erreichten 276 Personen mit der "Luiza" die Kolonie Sao Pedro de Acantara. Am 12. November 1828 trafen mit der "Marquiz de Vianna" weitere 259 Personen ein. Davon kamen 523 Kolonisten direkt aus Bremen (Bremerhaven) angereist.
+1 CONT Darunter aus den Kreisen Cochem, Mayen, Bernkastel-Wittlich und Trier-Saarburg.
+1 CONT ----------------
+1 CONT von Bremen am 28. Jun 1828 auf der „Johanna Jakobs“ nach Rio de Janeiro, von Rio de Janeiro im Okt 1828  auf der „Luiza“ nach Desterro (Florianópolis), Santa Catarina, Brasil; Ankunft am 07. Nov 1828
+1 CONT oder
+1 CONT von Bremen am 06. Jul 1828 auf der „Charlotte & Louise“ nach Rio de Janeiro, von Rio de Janeiro im Okt 1828 auf der „Marquês de Viana“ nach Desterro (Florianópolis), Santa Catarina, Brasil; Ankunft am 12. Nov 1828
+1 CONT ---------------
+1 CONT von Wikipedia: 
+1 CONT Geschichte
+1 CONT Die Segelschiffe Luiza (Brigue Luiza) und Marquês de Viana brachten im November 1828 die deutschen Einwanderer, die ursprünglich mit dem Schiff Johanna Jakobs von Bremen nach Rio de Janeiro gereist waren, nach Desterro (dem heutigen Florianópoli
+1 CONC s). Sie siedelten später in São Pedro de Alcântara.
+0 @N13@ NOTE "Adam" is the second name of Franz Adam Eller, not part of his surname.  So I just move Adam to the First Name field.  This may make it easier to search for him.
+0 @N14@ NOTE Segundo livro de historia da familia michels no brasil e imigração.
+0 @N15@ NOTE Nikolaus Arns veio da Europa a bordo do brigue Sardo Eridano, com a segunda esposa, Maria Elisabetha Klering, e os filhos Anna Bárbara, Ângela Catharina, Phillipp Joseph e Anna Maria. Chegaram a Desterro, (atual Florianópolis), Santa Catar
+1 CONC ina em 05/01/1847, a bordo da sumaca 14 de Novembro. Fizeram parte da segunda leva de imigrantes para a Colônia Santa Isabel e foram enviados para a localidade de Primeira Linha Velha (que posteriormente passou a ser chamada Loeffelscheidt), Rio d
+1 CONC os Bugres. Receberam o lote número 38.
+0 @N16@ NOTE Segundo livro de historia da familia michels no brasil e imigração
+0 @N17@ NOTE Após ficar viúva, mudou-se com os filhos para Vargem do Cedro, São Martinho, Santa Catarina
+0 @N18@ NOTE === Resumo da Vida ===
+1 CONT L61J-RDG
+1 CONT FaG 291511363
+1 CONT Emigration nach Brasilien 1828 (Ursula Buchholz, Jahr ?): *004, oo055
+0 @N19@ NOTE This extracted record was used to create this person in Family Tree.
+0 @N20@ NOTE This extracted record was used to create this person in Family Tree.
+0 @N21@ NOTE This extracted record was used to create this person in Family Tree.
+0 @N22@ NOTE This extracted record was used to create this person in Family Tree.
+0 @N23@ NOTE This extracted record was used to create this person in Family Tree.
+0 @N24@ NOTE === obviously a merger of 3-4 different men ===
+1 CONT overlapping marriages with children
+0 @N25@ NOTE === Date and Location are generated ===
+1 CONT Date and Location are generated
+0 TRLR
