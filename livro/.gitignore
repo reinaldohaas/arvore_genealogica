@@ -1,0 +1,5 @@
+latex/*
+!latex/livro.tex
+!latex/livro.pdf
+site/
+__pycache__/

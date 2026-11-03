@@ -383,7 +383,33 @@ Cada Parte abre com uma página no formato de um boletim de previsão — o leit
 
 ---
 
-### PARTE V — Inverno na Baviera: A Expedição Europeia em Busca dos Parentes Vivos
+### PARTE V — Três Rios e uma Herança (NOVA)
+*O meteorologista para a narrativa para olhar o que une os quatro ramos: os rios que transbordam e aquilo que cada geração recebe e entrega.*
+
+> **Renumeração:** com esta Parte, a antiga Parte V passa a ser a **Parte VI**, e os antigos Caps. 13–16 passam a ser os **Caps. 15–18**. As enchentes também aparecem entrelaçadas nos capítulos anteriores: Tubarão e Laguna no Cap. 5; a cheia de 1911, a Barragem Sul de Ituporanga e a Barragem Norte com a Terra Indígena Laklãnõ no Cap. 6; o Alto Vale no Cap. 7; Brusque e o Itajaí-Mirim no Cap. 10; Roca Sales e Arroio do Meio no Cap. 12.
+
+#### Capítulo 13: Três Rios, Uma Só Chuva — Tubarão, Itajaí e Taquari  `[4.500 palavras]`
+- **Tempo/Voz:** Presente, 1ª pessoa; ensaio científico-afetivo.
+- **Beats:**
+  1. **Rio Tubarão, março de 1974:** a cidade submersa, na foz onde os Haas desembarcaram em 1913 (Laguna); a retificação do rio depois da catástrofe.
+  2. **Rio Itajaí:** as cheias de 1880 e de 1911 (dois anos antes da chegada do *Formosa*), as de julho de 1983 e agosto de 1984 (El Niño forte), a de novembro de 2008 (fluxo de leste contra a serra, deslizamentos). As barragens Oeste (Taió), Sul (Ituporanga) e Norte (José Boiteux), esta sobre a Terra Indígena Ibirama-Laklãnõ. O Alto Vale do Fata e da Mota: Ituporanga, Aurora, Vidal Ramos; e Brusque, dos Dörner.
+  3. **Rio Taquari–Antas:** maio de 1941; setembro e novembro de 2023; maio de 2024. Roca Sales, onde ficava a Fazenda Lohmann, e Arroio do Meio. A **Casa Lohmann** de Palmas na cota de 45 m e o perfil topográfico e hidrológico traçado pelo autor (`lohmann_perfil_topografico_enchente_2024_palmas.png`).
+  4. **Os mecanismos:** jato de baixos níveis, frentes semiestacionárias, ciclones extratropicais, El Niño e La Niña — "o clima não é destino".
+  5. **Por que as várzeas:** a água era estrada, energia e solo fértil, e também é risco herdado.
+- **Imagem atmosférica:** a mesma chuva caindo em três bacias e três gerações.
+
+#### Capítulo 14: O Que Se Herda  `[4.000 palavras]`
+- **Tempo/Voz:** Presente, 1ª pessoa; ensaio narrativo.
+- **Beats:**
+  1. **A terra:** a partilha igualitária (*Realteilung*) do Mosela e do Hunsrück frente ao herdeiro único (*Anerbenrecht*) da Baviera e da Vestfália, como motores das emigrações (Michels, Arend, Preis × Georg Haas, oleiro de Stoffen, e Josef, operário da Maximilianshütte).
+  2. **O lote colonial:** famílias de 11, 12 e 15 filhos; o filho que fica com os pais e os que partem (Paraná, Oeste); as 24 colônias da Fazenda Lohmann; Ellen Woortmann, *Herdeiros, parentes e compadres* (1995).
+  3. **Heranças imateriais:** o ofício (gesso e prumo, rodas, lâminas, magistério, medicina), a fé (católicos e luteranos; a "religião mista" de 1900), a língua (silenciada em 1941, reaprendida para ler *Kurrentschrift*) e os nomes (o *Leocádia* de Miguelina para Ilusca).
+  4. **A herança do risco:** casas e lotes à beira de rios que voltam a subir.
+  5. **O novo lote:** o arquivo digital entregue a Matheus e Lucas — e a decisão de atravessar o oceano.
+
+---
+
+### PARTE VI — Inverno na Baviera: A Expedição Europeia em Busca dos Parentes Vivos
 *O clímax narrativo do livro: a viagem real à Europa em janeiro e fevereiro de 2018 e a decifração final dos arquivos.*
 
 #### Capítulo 13: Atravessando os Alpes no Inverno (Janeiro–Fevereiro de 2018)  `[5.000 palavras]`
@@ -454,8 +480,8 @@ Cada Parte abre com uma página no formato de um boletim de previsão — o leit
 | # | Afirmação no roteiro | Status / Ação |
 | :---: | :--- | :--- |
 | 1 | Ignazia Loch nascida em 1828 em São Pedro de Alcântara | ⚠️ A colônia foi fundada em março de 1829 — verificar local/ano reais |
-| 2 | Rota do *Formosa*: Marselha (07/03) → Rio (26/03) → Laguna; desembarque ~29/04 | Confirmar paradas intermediárias e motivo da recusa no Rio |
-| 3 | Luisa e Walter falecidos em Laguna, 1913 | Buscar assentos de óbito/sepultamento |
+| 2 | Rota do *Formosa*: Marselha (07/03) → Rio (26/03) → Laguna; desembarque ~29/04 | Foto de despedida datada de 7/3/1913 e manifesto assinado "Rio, le 26 Mars 1913" ("continue sur Santos"). O Agenor anotou 13/03 → 26/04. Confirmar as paradas e o porto de desembarque |
+| 3 | Luisa e Walter falecidos em Laguna, 1913 | O manifesto confirma Luisa (2) e Walter (1) a bordo; a planilha do Agenor registra "Lina" e "Valter" sepultados em Anitápolis e Gertrudes nascida em 22/10/1911. Buscar assentos em Laguna e Anitápolis |
 | 4 | Carta da irmã de Maria sobre a guerra (1914) | Confirmar existência e guardião do documento |
 | 5 | Viagem frustrada de 1939 | Confirmar fonte (memória oral? passaporte?) |
 | 6 | Episódios de violência na Campanha de Nacionalização | Apoiar em bibliografia (ex.: estudos sobre o Estado Novo em SC) e em depoimentos identificados |
