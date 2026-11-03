@@ -200,6 +200,17 @@ A reconstrução documental do lado da esposa **Bárbara Funke Haas** (* 27/07/1
 <p align="center"><i>À esquerda: Retrato de casamento dos trisavós <b>Francisco Jacob Lohmann (* 1889 – † 1975)</b> e <b>Miguelina (Michelina) Leocádia Endres (* 1891)</b> em 05/09/1914. À direita: O bisavô <b>Erno Hoeveler ("Vô Erno")</b>, professor luterano em Estrela e Nova Petrópolis (RS), com seus alunos.</i></p>
 
 <p align="center">
+  <img src="imagens/lohmann_familia_completa_palmas_arroio_do_meio.png" width="48%" alt="Família de Francisco Jacob Lohmann e Miguelina Leocádia Endres Lohmann em Palmas, Arroio do Meio" />
+  <img src="imagens/lohmann_casa_nova_palmas_arroio_do_meio.png" width="48%" alt="Casa Nova da Família Lohmann em Palmas, Arroio do Meio, RS" />
+</p>
+<p align="center"><i>À esquerda: Fotografia histórica da família de <b>Francisco Jacob Lohmann</b> e <b>Miguelina Leocádia Endres Lohmann</b> por ocasião da conclusão da casa nova em <b>Palmas — Arroio do Meio, RS</b> (da esquerda para a direita: Blanca Erna, Armando Ernesto, Urbano Aldo, Reinholdo, Walter Érico, Arlindo Erno, Eldo Astor, Asunda Erna, Miguelina Leocádia, Dulsa Iria, Francisco Jacob, Albano Paulo e <b>Rosita Érica Lohmann — "Oma Rosita"</b> à extrema direita). À direita: A família reunida na varanda da Casa Lohmann recém-construída em Palmas, Arroio do Meio.</i></p>
+
+<p align="center">
+  <img src="imagens/lohmann_perfil_topografico_enchente_2024_palmas.png" width="90%" alt="Perfil topográfico e hidrológico da Casa Lohmann em Palmas, Arroio do Meio, na enchente de maio de 2024" />
+</p>
+<p align="center"><i>Análise topográfica e hidrológica elaborada pelo Prof. Dr. Reinaldo Haas situando a histórica <b>Casa Lohmann</b> (cota de 45 m em Palmas, Arroio do Meio, RS, em frente ao Salto do Rio Taquari e à Granja Lohmann, <code>lat -29.330280°, lon -51.917941°</code>) em relação às grandes cheias de 1941, 2023 e à enchente histórica de <b>12/05/2024</b>.</i></p>
+
+<p align="center">
   <img src="imagens/lohmann_4_geracoes_oma_rosita_ilusca_barbara_matheus.jpg" width="45%" alt="4 Gerações: Oma Rosita, Ilusca, Bárbara e Matheus" />
   <img src="imagens/lohmann_visita_tio_arlindo_2012.jpg" width="48%" alt="Visita ao Tio Arlindo Erno Lohmann em setembro de 2012" />
 </p>
