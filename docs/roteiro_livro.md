@@ -229,7 +229,7 @@ Cada Parte abre com uma página no formato de um boletim de previsão — o leit
 - **Abertura:** Março de 2013, um salão cheio de sobrenomes; crachás, mesas por tronco familiar.
 - **Beats:**
   1. **Cem anos da chegada:** o encontro dos descendentes de João e Maria Meyer Haas (mais de **600 descendentes diretos**) e o texto-marco redigido por **Marise Haas Lourenço**, reconhecendo os troncos aliados (*Meyer, Doerner, Sebold, da Rosa, Klettenberg, Boeing, Nagel, Sautner*).
-  2. **A garimpagem digital:** as trocas de e-mails com **Agenor Haas** e outros primos — cada mensagem trazendo uma data corrigida, um recorte de lista de navio, um nome de padrinho, uma foto restaurada das Bodas de Ouro do *Fata* e da *Mota*. Formato sugerido: trechos curtos de e-mails reproduzidos como cartas (com autorização).
+  2. **A garimpagem digital e a grande planilha de Agenor Haas:** as trocas de e-mails com o primo-irmão **Eng. Civil Agenor Haas** (*18/07/1943, filho de Alexandre Haas e Paula Klettenberg Haas) e sua monumental planilha `Arvore genealógica.xls` (`docs/arvore_agenor_haas_completa.md`), mapeando **291 linhas** de descendentes (11 filhos, 63 netos, 194 bisnetos e 109 trinetos) e **55 notas biográficas** manuscritas, inclusive revelando o casamento de Johann e Maria em **03/08/1907 em Eibenstock** e o destino das crianças falecidas na Alemanha (**Hildegart** e **Frida**) e em Rio do Ouro / Anitápolis (**Lina** e **Valter**).
   3. A descoberta do manifesto do *Formosa* (`doc_haas_navio_formosa_1913.jpg`) — o primeiro documento "de fora" que confirma a memória oral.
   4. Como a ciência de dados, scripts em Python (`scripts/importar_gmail_genealogia.py`) e a árvore colaborativa do *FamilySearch* começaram a conectar peças separadas por um oceano. Tom leve: o cientista confessando que tratou a família como um banco de dados — e que os dados insistiram em virar gente.
   5. A conclusão do grupo: *as respostas finais não estão em nenhum servidor; estão em livros paroquiais na Baviera.*
@@ -247,10 +247,10 @@ Cada Parte abre com uma página no formato de um boletim de previsão — o leit
 - **Abertura:** *HEUMADEN, OBERPFALZ — 7 DE ABRIL DE 1888, DUAS HORAS DA MADRUGADA.* A parteira Sra. Glas atravessa o escuro até a casa do *Ökonom* Georg Adam Meier.
 - **Beats:**
   1. O mundo rural do **Alto Palatinado bávaro** no fim do século XIX: em **Heumaden, Rückersrieth e Burgtreswitz** (Paróquia de *St. Peter und Paul* de **Moosbach**, perto da Boêmia), a dinastia de *Wagner* (construtores de rodas e carroças) **Michael Meier** (*1820) e **Georg Adam Meier** (*1859), unida à família camponesa de **Johann Voit**, **Barbara Woppmann** e **Franziska Voit** (*1861), casados em 23/11/1884.
-  2. O nascimento de **Maria Meier** em 7 de abril de 1888.
-  3. Em **Sandberg / Leonberg** (ao norte de Regensburg): o operário **Josef Haas** e **Franziska Dengler**; o nascimento de **Johann Haas** em 11 de julho de 1884. O jovem Johann aprendendo a arte do estuque em gesso.
-  4. O encontro de Johann e Maria (*a reconstituir — como um rapaz de Sandberg conheceu uma moça de Heumaden, a ~50 km?*) e o casamento em **1907**.
-  5. A dor silenciosa do sepultamento das duas primeiras filhas (**Hildegard** e **Frida**) ainda em solo alemão.
+  2. O nascimento de **Maria Katharina Meier** em 7 de abril de 1888 (batizada em 08/04/1888 tendo como madrinha a tia *Katharina Meier, Bäuerin von Heumaden*) e seus irmãos em Heumaden (**Johann Baptist, Barbara, Margaretha, Josef, Georg e Anna Meier**).
+  3. **Das olarias de Stoffen às forjas siderúrgicas de Sandberg / Leonberg:** a descoberta das raízes em **Stoffen (Landsberg am Lech, Alta Baviera)**, onde o tataravô **Georg Haas** (*Ziegelknecht* — oleiro) e **Maria Anna Albrecht** batizaram em **20/05/1847** o filho **Joseph (Josef) Haas** (*19/05/1847, `batismo_joseph_haas_1847_stoffen.png`). A migração de Josef para **Sandberg / Leonberg** (hoje **Maxhütte-Haidhof**) como operário da siderúrgica *Maximilianshütte*, seu casamento com **Franziska Dengler**, o nascimento de **Johann Haas** em **11 de julho de 1884** e seus irmãos (**Josef Jr., Alois, Georg, Maria, Franziska e Therese Haas**). O jovem Johann aprendendo a arte do estuque em gesso.
+  4. O encontro de Johann e Maria e o casamento em **03 de agosto de 1907 em Eibenstock**.
+  5. A dor silenciosa do sepultamento das duas primeiras filhas (**Hildegart** e **Frida**) ainda em solo alemão, e o nascimento de **Gertrudes** (*22/10/1911).
   6. A decisão de partir em março de 1913 com **Luisa** (2 anos), **Walter** (1 ano) e o bebê no ventre. O contexto: propaganda de emigração para o Brasil, crise, rumores de guerra.
 - **Imagem atmosférica:** o inverno continental bávaro — ar seco e frio vindo do leste, a "Böhmischer Wind" que desce da Boêmia.
 - **Âncora documental:** as quatro certidões de Moosbach (`doc1`–`doc4`) — aqui só mencionadas; serão "descobertas" em cena no Cap. 15. *Decisão de estrutura:* o Cap. 4 usa os fatos, mas sem mostrar os documentos, para preservar o momento da descoberta.
@@ -335,49 +335,51 @@ Cada Parte abre com uma página no formato de um boletim de previsão — o leit
 - **Gancho:** a neta de Angela casará com o filho de um cuteleiro de Solingen.
 - **Pendências:** confirmar a data exata de chegada do *Eridano* (o README usa 05/01/1847 como data de imigração); registros paroquiais de Pünderich.
 
-#### Capítulo 10: Das Forjas de Solingen às Serras Gaúchas e Brusque (Doerner & Eller)  `[5.500 palavras]`
+#### Capítulo 10: Das Forjas de Solingen às Serras Gaúchas, Capivari e Brusque (Doerner, Eller & Peters)  `[6.000 palavras]`
 - **Tempo/Voz:** Histórico (1832–1981) em 3ª pessoa; presente (2012) em 1ª pessoa.
 - **Abertura:** o som de martelo em bigorna — **Solingen**, cidade das lâminas.
 - **Beats:**
   1. **Solingen, Província do Reno (Prússia):** **Guilherme (Wilhelm) Dorner** e **Joanna Lauterjung** — sobrenome ligado às guildas de cuteleiros — e **Carl Reinhard (Carlos) Doerner** (*20/11/1854).
   2. **Da Vestfália ao Rio Grande do Sul:** o batismo de **Franz Adam Eller** (03/03/1832), a vinda com **Anna Maria Knopker** ao RS (nasce **Anna Eller**, 1858) e a migração para o sul catarinense (Imaruí, São Martinho).
-  3. Carlos Doerner e Anna Eller; o nascimento de **Fernando Dörner** em São Martinho (1897); o casamento com **Gertrudes Preiss** — o ponto em que todas as correntes da Parte III se fundem.
-  4. **Viagens de reencontro (set. 2012):** a família no **Rio Grande do Sul**, a **Festa da Família Doerner** (mais de uma centena de fotografias de primos).
-  5. As certidões de **Brusque**: **Gertrudes Preiss Doerner** (†1970) e **Fernando Dörner** (†1981) — pais de Dona Adelina. Fecho emocional: a filha deles, Adelina, é a mulher que gravou o vídeo do Cap. 1.
+  3. **O mito da bigamia/trigamia desfeito pelo manuscrito de 1900:** Carlos Doerner e Anna Eller têm **10 filhos**, culminando no caçula **Fernando Dörner** (*24/08/1897 em São Martinho). Após enviuvar de Anna Eller (~1898), Carlos casa-se legitimamente em segundas núpcias em **29 de abril de 1900**, na Capela de São José em Capivari (Assento nº 23, Pe. Francisco Auling, `casamento_carlos_doerner_hulda_peters_1900.png`), aos 45 anos, com **Hulda Peters (Petersen)** (*20/08/1870, 29 anos, filha de João Peters e Paulina Büchner), com quem tem mais **5 filhos** (*Laura, Clara, Carlos Jr., Ida e Ricardo* — 15 filhos ao todo!).
+  4. O casamento de **Fernando Dörner** com **Gertrudes Preiss** — o ponto em que todas as correntes da Parte III se fundem.
+  5. **Viagens de reencontro (set. 2012):** a família no **Rio Grande do Sul** e a **Festa da Família Doerner**.
+  6. As certidões e o Cemitério Parque da Saudade em **Brusque**: **Gertrudes Preiss Doerner** (†1970) e **Fernando Dörner** (†1981) — pais de Dona Adelina. Fecho emocional: a filha deles, Adelina, é a mulher que gravou o vídeo do Cap. 1.
 - **Imagem atmosférica:** o minuano gaúcho — o vento que os Eller conheceram antes de subir para Santa Catarina.
-- **Âncora documental:** `doc_doerner_obito_fernando_1981.jpg`, `doc_doerner_obito_gertrudes_preiss_1970.jpg`.
+- **Âncora documental:** `casamento_carlos_doerner_hulda_peters_1900.png`, `doc_doerner_obito_fernando_1981.jpg`, `doc_doerner_obito_gertrudes_preiss_1970.jpg`.
 - **Gancho:** fecho da linhagem paterna — *"Do lado do meu pai e da minha mãe, já tínhamos quatro séculos de vento. Faltava a outra metade dos meus filhos."*
-- **Pendências:** quando e como Carlos Doerner veio de Solingen (com os pais? sozinho?); a ortografia Dorner/Doerner/Dörner e Preis/Preiss/Preuss — explicar no texto como as grafias mudaram nos cartórios (é um bom tema).
 
 ---
 
-### PARTE IV — Os Horizontes de Bárbara: A Saga Funke e Hoeveler
-*A outra metade da alma de Matheus e Lucas: memórias urbanas e afetivas, retratos guardados e pontes vivas com a Alemanha.*
+### PARTE IV — Os Horizontes de Bárbara: A Saga Lohmann, Schnack, Endres, Hoeveler e Funke
+*A outra metade da alma de Matheus e Lucas: dos veleiros de 1846 no Vale do Taquari (Estrela e Arroio do Meio, RS) à medicina, ao direito e à arte em Joinville (SC).*
 
-> ⚠️ **Parte com menos material documental.** Hoje é a mais curta e depende de entrevistas. Recomenda-se que Bárbara seja **co-narradora** nesta Parte (trechos em 1ª pessoa dela, em itálico), o que também quebra a monotonia de uma única voz e dá ao livro um contraponto afetivo.
+> **Destaque estrutural:** Bárbara participa como **co-narradora** nesta Parte (trechos em 1ª pessoa dela, em itálico), conduzindo o leitor da garagem da **Oma Rosita** em Joinville até a expedição de setembro de 2012 ao Vale do Taquari (RS), onde a família visitou os irmãos vivos de Rosita e os cemitérios históricos de Estrela e Arroio do Meio.
 
-#### Capítulo 11: Na Garagem da Oma Rosita e nos Retratos do Vô Erno  `[5.500 palavras]`
-- **Tempo/Voz:** Presente, alternando Reinaldo e Bárbara; memórias de infância dela.
-- **Abertura:** caixas de fotografias abertas na garagem da Oma Rosita; o cheiro de papel antigo.
+#### Capítulo 11: Na Garagem da Oma Rosita, nos Retratos do Vô Erno e no Legado do Dr. Carlos Heinz Funke  `[6.000 palavras]`
+- **Tempo/Voz:** Presente, alternando Reinaldo e Bárbara; memórias de infância em Joinville e Nova Petrópolis.
+- **Abertura:** a fotografia de quatro gerações na garagem da casa em Joinville (início de 2005, `lohmann_4_geracoes_oma_rosita_ilusca_barbara_matheus.jpg`): a bisavó **Oma Rosita Lohmann Hoeveler**, a avó **Dra. Ilusca Leocádia Hoeveler Funke** segurando o pequeno **Matheus**, e **Bárbara** grávida de **Lucas**.
 - **Beats:**
-  1. O casamento de Reinaldo e **Bárbara Funke Haas** (celebrado em Vidal Ramos) entrelaçando duas novas constelações à árvore: os **Funke** e os **Hoeveler**.
-  2. Os pais de Bárbara — **Carlos Heinz Funke** e **Ilusca Leocádia Hoeveler Funke** — e o universo dos avós: o porte distinto do **Vô Erno Hoeveler** e o sorriso acolhedor da **Oma Rosita**.
-  3. A fotografia da **Oma Dora com seus sete irmãos**; as lembranças da **Vó Lise**; Natais, corais, violinos, a sensibilidade artística e literária da família (presente nos livros de **Katherine Funke**).
-  4. **O contraste de origem:** quando e de onde vieram os Funke e os Hoeveler? (imigração urbana? século XX? — *a levantar*). O contraste com as colônias rurais dos Haas pode ser o eixo do capítulo.
-- **Imagem atmosférica:** o microclima — cada casa, cada família, com seu próprio clima interno.
-- **Gancho:** uma carta com selo alemão: *Grüße aus Bernau*.
-- **Pendências (críticas):** entrevistas com Bárbara, Carlos Heinz e Ilusca; definir parentesco exato de Oma Dora, Vó Lise e Katherine; localidades de origem na Alemanha; datas de imigração; documentos.
+  1. O casamento de Reinaldo e **Bárbara Funke Haas** (*27/07/1972) entrelaçando as linhagens **Funke**, **Hoeveler**, **Lohmann**, **Endres** e **Schnack**.
+  2. **O ramo Funke em Joinville e Blumenau:** a fotografia histórica de **Oma Dora Funke com seus sete irmãos** (22/01/1983, `funke_oma_dora_7_irmaos_1983.jpg` e `funke_bisavo_e_familia_oma_dora.jpg`); a trajetória do pai de Bárbara, o médico **Dr. Carlos Heinz (Heins) Funke** (*10/08/1939 em Joinville – †1989 em Joinville), formado em Medicina no RS e eternizado como patrono da **Escola Agrícola Municipal Dr. Carlos Heins Funke** e da **UBSF Dr. Carlos Heinz Funke** em Pirabeiraba, Joinville.
+  3. **O ramo Hoeveler:** o porte sereno do **Vô Erno Hoeveler** (`hoeveler_vo_erno_escola.jpg`), professor luterano que lecionou nas escolas comunitárias de Estrela e Nova Petrópolis (RS) cercado por dezenas de alunos; a mãe de Bárbara, a advogada **Dra. Ilusca Leocádia Hoeveler Funke** (*~1943); o tio **Walter Hoeveler** (*"Tio Walter"*, radicado em Florianópolis desde 1960 e inspirador do livro *Viagens de Walter*, 2013, da irmã de Bárbara, a jornalista e escritora **Katherine Funke**), além dos irmãos **Alessandra Funke** e **Paulo Jacques Funke**.
+  4. A caixa de retratos na casa de Oma Rosita (†2014): o retrato oval de casamento dos bisavós de Bárbara, **Francisco Jacob Lohmann** e **Miguelina (Michelina) Leocádia Endres** (`lohmann_bisavo_francisco_e_bisavo_michelina.jpg`), abrindo o mapa do Rio Grande do Sul.
+- **Imagem atmosférica:** o microclima de Joinville entre a Serra Dona Francisca e a Baía da Babitonga — onde o ar úmido do mar encontra a encosta da mata atlântica.
+- **Âncora documental:** `lohmann_4_geracoes_oma_rosita_ilusca_barbara_matheus.jpg`, `hoeveler_vo_erno_escola.jpg`, `funke_oma_dora_7_irmaos_1983.jpg`, `funke_bisavo_e_familia_oma_dora.jpg`.
+- **Gancho:** *"Para entender quem eram Francisco e Michelina no retrato oval, precisávamos descer a serra até o Vale do Taquari."*
 
-#### Capítulo 12: *"Grüße aus Bernau"* — Os Fios Alemães que Nunca se Romperam  `[4.500 palavras]`
-- **Tempo/Voz:** Presente, 1ª pessoa.
-- **Abertura:** a leitura de um cartão de Páscoa (*Frohe Ostern*) de **Joachim**, em **Bernau**.
+#### Capítulo 12: Da Fazenda Lohmann aos Cemitérios de Estrela — A Expedição ao Vale do Taquari (1821–2018)  `[6.000 palavras]`
+- **Tempo/Voz:** Histórico (1821–1975) em 3ª pessoa, entrelaçado com o diário da viagem da família ao Rio Grande do Sul em **setembro de 2012** (1ª pessoa).
+- **Abertura:** *25 DE SETEMBRO DE 2012 — ARROIO DO MEIO E ESTRELA, RS.* Reinaldo, Bárbara, Matheus (10 anos) e Lucas (7 anos) batem à porta dos tios-avós octogenários e nonagenários — os irmãos vivos da Oma Rosita.
 - **Beats:**
-  1. Diferente do ramo Haas — cujo contato com a Baviera fora cortado pelas Guerras —, os laços com amigos e parentes na Alemanha (como Joachim, com seus álbuns e mensagens) mostram que o Atlântico podia ser atravessado no sentido inverso.
-  2. O que significa "ter alguém do outro lado": a família de Bárbara como modelo do que o ramo Haas perdeu — e motivação concreta para tentar reatar.
-  3. **A preparação para a grande viagem:** cursos de leitura de *Kurrentschrift*, e-mails ao *Standesamt* e ao arquivo diocesano de Regensburg, o roteiro traçado no mapa. Cruzar o oceano não como turistas, mas como emissários de quatro gerações.
-- **Imagem atmosférica:** a corrente de jato — o rio de vento em altitude que liga continentes em poucos dias.
+  1. **De Harderode (Braunschweig) ao navio *Hiran* (1846):** os hexavós **Johann Friedrich Christian Lohmann** (*1788 †1853) e **Sophie Dorothee Elizabeth Schrader** (*1796 †1868) na Baixa Saxônia; a partida do pentavô **Georg Karl Maximilian Lohmann** (*12/07/1821 em Harderode – †28/07/1899 em Estrela, RS) em 04/09/1846 no veleiro *Hiran* (chegada ao RJ em 05/12/1846), seguido em 1848 pelo irmão **Georg August Christian Lohmann** (*1827 †1901).
+  2. **A Fazenda Lohmann e os Cemitérios Históricos de Estrela:** o casamento de Georg Karl Maximilian em **06/05/1849** com **Bárbara Wingert** (*05/07/1828 – †24/11/1915); os 12 filhos; a casa enxaimel hoje preservada como **Museu da Família Lohmann** no Parque Histórico de Lajeado; e os túmulos centenários preservados no **Cemitério da Linha Winck / Linha Lenz** e no **Cemitério de Novo Paraíso**, em Estrela, RS.
+  3. **O ramo Schnack de Schleswig-Holstein e a tragédia de 1889:** os pentavós **Julius Georg Schnack** (*16/02/1830 em Schleswig-Holstein – †19/03/1924 em Arroio do Meio, filho de Peter Friedrich Ludwig Schnack e Regine Marie Wacker) e **Susanna Charlotte Köhnlein** (*1835 †1926); o casamento de duas irmãs Schnack com dois irmãos Lohmann. O tetravô **Friedrich Lohmann** (*18/02/1853 – †31/01/1937) e **Suzana Regina Schnack** (*09/07/1858 – †16/12/1889), que falece apenas **26 dias após dar à luz** o trisavô **Francisco Jacob Lohmann** (*20/11/1889 – †24/01/1975).
+  4. **Os doze irmãos de Arroio do Meio e o reencontro de 2012:** o casamento de Francisco Jacob Lohmann em **05/09/1914** com **Miguelina Leocádia Endres** (*09/12/1891) e seus 12 filhos (*Walter Érico, Reinholdo, Urbano Aldo, Armando Ernesto, Walter Erich, Blanca Erna, Albano Paulo, Rosita Érica, Eldo Astor, Asunda Erna, Dulsa Iria e Arlindo Erno*). As visitas emocionantes de setembro de 2012 ao **Tio Arlindo Erno Lohmann** (*1924 †2018, `lohmann_visita_tio_arlindo_2012.jpg`), **Tio Armando Ernesto Lohmann** (*1916, `lohmann_visita_tio_armando_2012.jpg`), **Tio Urbano Aldo Lohmann** (*1914, `lohmann_visita_tio_urbano_2012.jpg`) e **Tia Sunta (Asunda Erna) Lohmann** (*1921, `lohmann_visita_tia_sunta_2012.jpg`), além das cartas de **Joachim** (*Grüße aus Bernau*).
+  5. **A preparação para a grande viagem europeia:** o roteiro traçado para cruzar o Atlântico rumo à Baviera.
+- **Imagem atmosférica:** a corrente de jato e as cheias do Rio Taquari — a força das águas que moldou as colônias de Estrela, Lajeado e Arroio do Meio.
+- **Âncora documental:** `lohmann_bisavo_francisco_e_bisavo_michelina.jpg`, `lohmann_visita_tio_arlindo_2012.jpg`, `lohmann_visita_tio_armando_2012.jpg`, `lohmann_visita_tio_urbano_2012.jpg`, `lohmann_visita_tia_sunta_2012.jpg` e registros do FamilySearch (`27QQ-TM9`, `G2M8-ZQ3`, `G89F-N3L`).
 - **Gancho:** janeiro de 2018, aeroporto; na mochila, a cópia do manifesto do *Formosa*.
-- **Pendências:** quem é Joachim (parente ou amigo?); se houve contato prévio com o *Standesamt* ou com a paróquia de Moosbach antes da viagem (correspondência = ótima âncora documental).
 
 ---
 
