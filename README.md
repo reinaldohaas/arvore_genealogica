@@ -279,7 +279,7 @@ A árvore se apoia na planilha histórica compilada pelo primo-irmão **Eng. Civ
 
 ## 📖 Roteiro do Livro & Ferramentas em Python
 
-- **📚 Roteiro Literário Completo do Livro:** [`docs/roteiro_livro.md`](docs/roteiro_livro.md) — *"O Mapa dos Ventos e do Sangue: Em Busca dos Parentes dos Meus Filhos"*, estruturado em Prólogo, 5 Partes, 17 Capítulos e Epílogo.
+- **📚 Roteiro Literário Completo do Livro:** [`docs/roteiro_livro.md`](docs/roteiro_livro.md) — *"Nossa Família: Da Alemanha ao Sul do Brasil"*, estruturado em Prólogo, 6 Partes, 18 Capítulos e Epílogo. Versão on-line: <https://reinaldohaas.github.io/reinaldohaas/arvore_genealogica/>
 - **📊 Compilação Integral de Agenor Haas (291 linhas + 55 biografias):** arquivo privado, não publicado (contém dados de parentes vivos)
 - **📧 Extrator Automatizado do Gmail (correspondência com familiares):** [`scripts/importar_gmail_genealogia.py`](scripts/importar_gmail_genealogia.py)
 

@@ -1,4 +1,4 @@
-"""Monta o livro "O Mapa dos Ventos e do Sangue" em LaTeX/PDF e em HTML.
+"""Monta o livro "Nossa Família" em LaTeX/PDF e em HTML.
 
 Uso (a partir da raiz do repositório):
     python livro/build.py            # LaTeX + PDF + HTML
@@ -25,8 +25,8 @@ IMG_ORIG = RAIZ / "imagens"
 LATEX = LIVRO / "latex"
 SITE = LIVRO / "site"
 
-TITULO = "O Mapa dos Ventos e do Sangue"
-SUBTITULO = "A saga de um pai pelas estradas do Brasil e da Europa em busca dos parentes de seus filhos"
+TITULO = "Nossa Família"
+SUBTITULO = "Da Alemanha ao Sul do Brasil"
 AUTOR = "Reinaldo Haas"
 DEDICATORIA = ("Para Matheus e Lucas — ponto de encontro de todos os navios, serras e sonhos "
                "que nos trouxeram até aqui — e para Bárbara, companheira de todas as travessias.")
@@ -117,7 +117,7 @@ LATEX_PREAMBULO = r"""
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[LE]{\small\itshape O Mapa dos Ventos e do Sangue}
+\fancyhead[LE]{\small\itshape Nossa Família}
 \fancyhead[RO]{\small\itshape\truncate{0.85\headwidth}{\nouppercase{\leftmark}}}
 \fancyfoot[C]{\small\thepage}
 \renewcommand{\headrulewidth}{0pt}

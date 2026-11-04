@@ -1,4 +1,4 @@
-# Guia de Redação — *O Mapa dos Ventos e do Sangue*
+# Guia de Redação — *Nossa Família — Da Alemanha ao Sul do Brasil*
 
 Documento de referência para escrever os capítulos. Ele resolve os conflitos entre as fontes e fixa o formato. Em caso de dúvida, **este guia prevalece sobre o roteiro**.
 

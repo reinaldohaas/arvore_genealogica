@@ -1,7 +1,9 @@
 # 📖 Roteiro Literário do Livro
 
 ## Título Provisório
-**O Mapa dos Ventos e do Sangue: A Saga de um Pai pelas Estradas do Brasil e da Europa em Busca dos Parentes de Seus Filhos**
+**Nossa Família: Da Alemanha ao Sul do Brasil**
+
+*(Título de trabalho anterior: O Mapa dos Ventos e do Sangue.)*
 *(Subtítulos alternativos: "De Heumaden e do Mosela a Santa Catarina: Uma Investigação Genealógica para Matheus e Lucas" | "As Coordenadas da Memória: Viagens Atrás das Raízes dos Meus Filhos")*
 
 - **Autor:** Prof. Dr. Reinaldo Haas
@@ -84,7 +86,7 @@ flowchart LR
 
 ### O dispositivo do "Boletim Meteorológico"
 
-Cada Parte abre com uma página no formato de um boletim de previsão — o leitmotiv que justifica o título *O Mapa dos Ventos*:
+Cada Parte abre com uma página no formato de um boletim de previsão — o leitmotiv meteorológico do livro:
 
 - **Parte I:** *"Situação sinótica: frente fria estacionária sobre o Vale do Itajaí. Tendência: perda gradual das vozes antigas."*
 - **Parte II:** *"Ciclone extratropical no Atlântico Norte, março de 1913. Deslocamento previsto: Marselha → Laguna."*
