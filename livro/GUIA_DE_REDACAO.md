@@ -9,7 +9,7 @@ Documento de referência para escrever os capítulos. Ele resolve os conflitos e
 | Roteiro (estrutura, beats) | `docs/roteiro_livro.md` |
 | Árvore, datas, legendas de fotos | `README.md` |
 | **Texto do centenário (Marise Haas Lourenço, 30/03/2013)** — fonte primária da Parte II | `livro/fontes/historia_joao_e_maria_marise_2013.txt` |
-| Planilha do Agenor (só as notas dos patriarcas e da 1ª geração) | `docs/arvore_agenor_haas_completa.md` |
+| Planilha do Agenor (só as notas dos patriarcas e da 1ª geração) | `privado/arvore_agenor_haas_completa.md` (local, fora do git) |
 | GEDCOM (datas, lugares, notas de 1828/1847) | `arvore_familysearch.ged` |
 | Acervo da internet (catálogo) | `docs/acervo_livros_e_fotos_internet.md` |
 | Dossiês locais (Lohmann/CAPEF, Fazenda Lohmann, Funke, Natais de Joinville, Censo 1920, paleografia de Moosbach) | `C:\Users\haas\OneDrive\Documentos\familia_haas\livros_e_artigos_internet\0*.md` |

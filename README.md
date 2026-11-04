@@ -271,9 +271,8 @@ A investigação documental esclareceu em definitivo a dúvida familiar sobre se
 
 ## 📊 Planilha Completa de Agenor Haas (`Arvore genealógica.xls`) — 291 Linhas e 55 Notas Biográficas
 
-Foi integrada ao repositório a planilha histórica compilada pelo primo-irmão **Eng. Civil Agenor Haas** (`agenorhaas@hotmail.com`, * 18/07/1943 em Ituporanga, SC, filho de Alexandre Haas e Paula Klettenberg Haas):
-- **📄 Documento Markdown Completo (com todas as 55 notas biográficas e as 291 linhas da árvore):** [`docs/arvore_agenor_haas_completa.md`](docs/arvore_agenor_haas_completa.md)
-- **📁 Planilha Excel Original (`.xls`):** [`dados/Arvore_genealogica_Agenor_Haas.xls`](dados/Arvore_genealogica_Agenor_Haas.xls)
+A árvore se apoia na planilha histórica compilada pelo primo-irmão **Eng. Civil Agenor Haas** (* 18/07/1943 em Ituporanga, SC, filho de Alexandre Haas e Paula Klettenberg Haas):
+- **🔒 Arquivo privado:** a planilha original (`.xls`) e sua transcrição (`.md`) contêm endereços, telefones e e-mails de parentes vivos, inclusive menores, e por isso **não são publicadas** neste repositório. Ficam guardadas localmente, fora do controle de versão (pasta `privado/`). Pedidos de consulta podem ser feitos à família.
 - **Abrangência:** Mapeia os **11 filhos**, **63 netos**, **194 bisnetos** e **109 trinetos** de **Johann Haas & Maria Meyer Haas**, incluindo a biografia detalhada de cada ramo e o registro dos filhos falecidos na infância na Alemanha (**Hildegart** e **Frida**) e em Anitápolis, SC (**Lina** e **Valter**).
 
 ---
@@ -281,8 +280,8 @@ Foi integrada ao repositório a planilha histórica compilada pelo primo-irmão 
 ## 📖 Roteiro do Livro & Ferramentas em Python
 
 - **📚 Roteiro Literário Completo do Livro:** [`docs/roteiro_livro.md`](docs/roteiro_livro.md) — *"O Mapa dos Ventos e do Sangue: Em Busca dos Parentes dos Meus Filhos"*, estruturado em Prólogo, 5 Partes, 17 Capítulos e Epílogo.
-- **📊 Compilação Integral de Agenor Haas (291 linhas + 55 biografias):** [`docs/arvore_agenor_haas_completa.md`](docs/arvore_agenor_haas_completa.md)
-- **📧 Extrator Automatizado do Gmail (`agenorhaas@hotmail.com` e familiares):** [`scripts/importar_gmail_genealogia.py`](scripts/importar_gmail_genealogia.py)
+- **📊 Compilação Integral de Agenor Haas (291 linhas + 55 biografias):** arquivo privado, não publicado (contém dados de parentes vivos)
+- **📧 Extrator Automatizado do Gmail (correspondência com familiares):** [`scripts/importar_gmail_genealogia.py`](scripts/importar_gmail_genealogia.py)
 
 ---
 
@@ -312,5 +311,5 @@ Foi integrada ao repositório a planilha histórica compilada pelo primo-irmão 
 13. **Quatro Gerações: Oma Rosita Lohmann Hoeveler, Dra. Ilusca, Bárbara (grávida de Lucas) e Matheus (2005):** [`imagens/lohmann_4_geracoes_oma_rosita_ilusca_barbara_matheus.jpg`](imagens/lohmann_4_geracoes_oma_rosita_ilusca_barbara_matheus.jpg)
 14. **Expedição Genealógica ao RS (25/09/2012) — Visitas aos irmãos de Oma Rosita (Tio Arlindo, Tio Armando, Tio Urbano e Tia Sunta Lohmann):** [`imagens/lohmann_visita_tio_arlindo_2012.jpg`](imagens/lohmann_visita_tio_arlindo_2012.jpg), [`imagens/lohmann_visita_tio_armando_2012.jpg`](imagens/lohmann_visita_tio_armando_2012.jpg), [`imagens/lohmann_visita_tio_urbano_2012.jpg`](imagens/lohmann_visita_tio_urbano_2012.jpg), [`imagens/lohmann_visita_tia_sunta_2012.jpg`](imagens/lohmann_visita_tia_sunta_2012.jpg)
 15. **Fotografias Históricas da Família Funke ("Oma Dora" com seus 7 irmãos e família):** [`imagens/funke_oma_dora_7_irmaos_1983.jpg`](imagens/funke_oma_dora_7_irmaos_1983.jpg), [`imagens/funke_bisavo_e_familia_oma_dora.jpg`](imagens/funke_bisavo_e_familia_oma_dora.jpg)
-16. **Planilha Original de Agenor Haas (`.xls`) e Transcrição Integral (`.md`):** [`dados/Arvore_genealogica_Agenor_Haas.xls`](dados/Arvore_genealogica_Agenor_Haas.xls) & [`docs/arvore_agenor_haas_completa.md`](docs/arvore_agenor_haas_completa.md)
+16. **Planilha Original de Agenor Haas (`.xls`) e Transcrição Integral (`.md`):** arquivo privado, não publicado (contém dados de parentes vivos)
 17. **Arquivo GEDCOM Completo do FamilySearch:** [`arvore_familysearch.ged`](arvore_familysearch.ged)

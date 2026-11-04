@@ -16,3 +16,6 @@ venv/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Dados pessoais de parentes vivos (manter só localmente)
+privado/
