@@ -1,20 +1,24 @@
 ## Nota sobre as Fontes e os Enigmas em Aberto {#nota-fontes .unnumbered}
 
-Este livro foi escrito com documentos, memórias e dúvidas, nessa ordem de confiança. Quando um documento e uma lembrança discordaram, preferi o documento, mas não apaguei a lembrança. Quando dois documentos discordaram, deixei os dois à vista. As reconstituições — o frio de uma madrugada em Heumaden, o porão de um navio, a cabana na mata de Rio Novo — vêm sinalizadas no texto com palavras como *imagino*, *é provável*, *conta-se*. O resto vem dos papéis.
+Este livro foi escrito com documentos, memórias e dúvidas, nessa ordem de confiança. Quando um documento e uma lembrança discordaram, fiquei com o documento, e a lembrança passou a ser uma pergunta. Quando dois documentos discordaram, deixei os dois à vista. As reconstituições — o frio de uma madrugada em Heumaden, o porão de um navio, a cabana na mata de Rio Novo — vêm sinalizadas no texto com palavras como *imagino*, *é provável*, *conta-se*. O resto vem dos papéis.
 
 ### As fontes principais
 
-Para a família Haas, as fontes principais são o texto *História de João e Maria Meyer Haas*, escrito por Marise Haas Lourenço para o centenário de 30 de março de 2013, e a grande planilha genealógica de Agenor Haas. A eles se somam a fotografia de despedida *"Zum Andenken! vor unserer Abreise nach Brasilien, 7. März 1913"* e a lista de passageiros do vapor *Formosa*, assinada no Rio de Janeiro em 26 de março de 1913. Há também o assento nº 47 de 1884 do registro civil de Leonberg, hoje Maxhütte-Haidhof; o batismo de Joseph Haas em Stoffen, em 1847; e quatro assentos dos livros paroquiais de St. Peter und Paul, em Moosbach (1859, 1861, 1884 e 1888).
+Para a família Haas, as fontes principais são os documentos da época: a lista de passageiros do vapor *Formosa*, os registros civis e paroquiais e os registros de cemitério. Vêm depois a grande planilha genealógica de Agenor Haas e, por fim, o texto *História de João e Maria Meyer Haas*, escrito por Marise Haas Lourenço para o centenário de 30 de março de 2013. Esse texto reuniu a memória da família e foi o ponto de partida da pesquisa, mas, onde pode ser comparado com documentos, erra com frequência. Afirma, por exemplo, que o desembarque no Rio foi recusado, que houve muitas mortes a bordo e que Luisa e Walter morreram nos barracões de Laguna. A lista de bordo e os sepultamentos desmentem essas afirmações. Por isso, neste livro, ele vale como tradição, não como fonte. Aos documentos se somam a fotografia de despedida *"Zum Andenken! vor unserer Abreise nach Brasilien, 7. März 1913"* e a lista de passageiros do vapor *Formosa*, assinada no Rio de Janeiro em 26 de março de 1913. Há também os testemunhos orais que ouvi diretamente: o de meu pai, Baldoíno, sobre o traslado dos restos dos irmãos de Anitápolis para Ituporanga, e o de meu avô Fernando Dörner, sobre os anos de Vidal Ramos. Há ainda o assento nº 47 de 1884 do registro civil de Leonberg, hoje Maxhütte-Haidhof; o batismo de Joseph Haas em Stoffen, em 1847; e quatro assentos dos livros paroquiais de St. Peter und Paul, em Moosbach (1859, 1861, 1884 e 1888).
 
-Para os ramos Doerner, Preiss, Michels, Arend e Loch, usei os registros reunidos no FamilySearch e os estudos de Toni Jochem e colaboradores sobre as colônias de São Pedro de Alcântara, Santa Isabel e Piedade. Também entram o Recenseamento de 1920, a transcrição do casamento de Carlos Dörner com Hulda Peters, em 1900, e as certidões de óbito de Fernando Dörner e Gertrudes Preiss, em Brusque.
+Para os ramos Doerner, Preiss, Michels, Arend e Loch, usei os registros reunidos no FamilySearch e os estudos de Toni Jochem e colaboradores sobre as colônias de São Pedro de Alcântara, Santa Isabel e Piedade. Também entram o Recenseamento de 1920, a imagem do assento do casamento de Carlos Dörner com Hulda Peters, em 1900, e as certidões de óbito de Fernando Dörner e Gertrudes Preiss, em Brusque.
 
 Para os ramos de Bárbara — Lohmann, Schnack, Endres, Hoeveler e Funke —, usei o acervo fotográfico da família e os registros do FamilySearch. Somam-se a eles os dossiês da CAPEF de Estrela sobre as famílias fundadoras e a história da Fazenda Lohmann, em Roca Sales. Por fim, há as reportagens e homenagens ao Dr. Carlos Heinz Funke, em Joinville, e o perfil topográfico e hidrológico da Casa Lohmann, em Palmas, Arroio do Meio.
 
-Todos esses materiais, exceto os que pertencem a terceiros, estão no repositório digital da árvore genealógica, que acompanha este livro.
+Quase todos esses materiais estão no repositório digital da árvore genealógica, que acompanha este livro. As exceções são os que pertencem a terceiros e a planilha de Agenor, que contém dados de parentes vivos e fica no arquivo privado da família. No repositório está também a lista completa das perguntas ainda abertas, com os arquivos onde procurar cada resposta (`docs/questoes_pesquisa_antigravity.md`).
 
 ### Enigmas que ficam para a próxima geração
 
-**Gertrudes, Luisa e Walter.** O manifesto do *Formosa* lista Johann (28), Marie (25), Luisa (2) e Walter (1), e nenhuma Gertrudes. O texto do centenário diz que Gertrudes nasceu no Barracão dos Imigrantes de Laguna, em 5 de maio de 1913, e que Luisa e Walter morreram ali. A planilha de Agenor dá a Gertrudes o nascimento de 22 de outubro de 1911, na Alemanha, e registra uma "Lina" e um "Valter" sepultados em Anitápolis. Os livros paroquiais de Laguna e da capela de Rio do Ouro devem guardar a resposta.
+**Gertrudes.** O manifesto do *Formosa* lista Johann (28), Marie (25), Luisa (2) e Walter (1), e nenhuma Gertrudes. A planilha de Agenor faz Gertrudes nascer na Alemanha, em 22 de outubro de 1911; a tradição a faz nascer em Laguna, em 5 de maio de 1913. Nenhuma das duas datas tem ainda documento.
+
+**Luisa e Walter.** Chegaram vivos ao Rio e morreram em Rio do Ouro, Anitápolis. Anos depois, os irmãos foram buscar seus restos para Ituporanga, onde Walter está sepultado. Faltam as datas das mortes e do traslado.
+
+**De onde a família entrou em Santa Catarina.** Laguna, segundo a tradição; Florianópolis, onde Agenor procurou. Os livros da Hospedaria da Ilha das Flores devem dizer.
 
 **As datas da viagem.** A foto de despedida diz 7 de março de 1913, e o manifesto foi assinado no Rio em 26 de março. A planilha anota a saída em 13 de março e a chegada em 26 de abril. Falta também o registro do desembarque em Santa Catarina.
 
@@ -25,6 +29,10 @@ Todos esses materiais, exceto os que pertencem a terceiros, estão no repositór
 **Ignazia Loch.** A data de 1828, em São Pedro de Alcântara, é anterior à fundação da colônia, e por isso tem de ser aproximada.
 
 **O casamento de 1900.** A imagem do assento e a transcrição guardada pela família divergem no celebrante, nas testemunhas e na menção à dispensa de religião mista. É provável que existam duas vias do mesmo ato.
+
+**Carlos Doerner.** O FamilySearch funde numa só ficha ("Carl Reinhard Dörner", Solingen, 1854) três ou quatro homens: Carlos, que teve duas certidões de nascimento; o filho dele, Carlos Reinaldo; e talvez primos homônimos, filhos dos irmãos de Guilherme. O que é seguro vem do assento de 1900: filho de Guilherme Dörner e Joanna Lauterjung, nascido na Europa por volta de 1854.
+
+**Fernando Dörner em Vidal Ramos.** As milícias de que participou, o conflito de terras em que ficou contra os outros colonos, as prisões que se seguiram e as datas da mudança para Brusque estão, por ora, só no que ele me contou. E não há uma fotografia dele.
 
 **Os doze filhos de Francisco Jacob Lohmann.** As datas de nascimento e as grafias dos nomes não fecham entre si.
 

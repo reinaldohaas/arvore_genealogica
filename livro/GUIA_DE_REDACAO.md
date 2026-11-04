@@ -8,7 +8,8 @@ Documento de referência para escrever os capítulos. Ele resolve os conflitos e
 | :--- | :--- |
 | Roteiro (estrutura, beats) | `docs/roteiro_livro.md` |
 | Árvore, datas, legendas de fotos | `README.md` |
-| **Texto do centenário (Marise Haas Lourenço, 30/03/2013)** — fonte primária da Parte II | `livro/fontes/historia_joao_e_maria_marise_2013.txt` |
+| **Texto do centenário (Marise Haas Lourenço, 30/03/2013)** — tradição oral escrita, com erros; usar só como pergunta ou citação, nunca como fato | `livro/fontes/historia_joao_e_maria_marise_2013.txt` |
+| **Hierarquia (decisão do autor, nov/2026):** documentos da época > planilha do Agenor > texto da Marise (tradição, com erros conhecidos). Nunca narrar como fato o que só a Marise diz. | — |
 | Planilha do Agenor (só as notas dos patriarcas e da 1ª geração) | `privado/arvore_agenor_haas_completa.md` (local, fora do git) |
 | GEDCOM (datas, lugares, notas de 1828/1847) | `arvore_familysearch.ged` |
 | Acervo da internet (catálogo) | `docs/acervo_livros_e_fotos_internet.md` |

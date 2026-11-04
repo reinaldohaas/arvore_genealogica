@@ -1,5 +1,14 @@
 # 📖 Roteiro Literário do Livro
 
+> **Correções do autor (nov/2026) — prevalecem sobre o que vem abaixo.**
+> 1. **Hierarquia de fontes:** documentos da época > planilha do Agenor > texto da Marise. O texto do centenário tem vários erros e vale como tradição, não como fonte.
+> 2. **Chegada de 1913:** a lista do *Formosa* (Rio, 26/03/1913) traz os quatro Haas vivos e nenhum óbito a bordo. O desembarque foi no Rio. Não há documento de recusa, de quarentena costeira ou de mortes no navio. O porto de entrada em SC (Laguna ou Florianópolis) ainda está em aberto.
+> 3. **Luisa ("Lina") e Walter ("Valter")** morreram em Rio do Ouro, Anitápolis, e não em Laguna. Os restos foram trasladados pelos irmãos, entre eles Baldoíno, que viu neve pela primeira vez nessa viagem, para Ituporanga, onde Walter está sepultado.
+> 4. **Carlos Doerner:** o perfil "Carl Reinhard Dörner, Solingen, 20/11/1854" do FamilySearch funde 3–4 homens. Carlos teve duas certidões de nascimento e um filho, Carlos Reinaldo. Pode haver outros Carlos, filhos dos irmãos de Guilherme.
+> 5. **Fernando Dörner** (Cap. 10): viveu em Vidal Ramos antes de Brusque. Testemunho ao autor: participou de milícias que queriam apoiar uma invasão alemã do Sul e mudou de lado após ler as *Seleções do Reader's Digest*. A mudança não foi aceita em Vidal Ramos. Num conflito de terras ali, ficou contra os outros colonos, que foram presos. Mudou-se para Brusque também pelas doenças da mulher. Não há fotografia dele. Perguntas de pesquisa em `docs/questoes_pesquisa_antigravity.md`.
+> 6. **Johann Haas** foi presbítero e construtor de igrejas em Ituporanga.
+> 7. **Fora deste roteiro:** as novas gerações e a árvore incompleta. Ver `docs/levantamento_falhas.md`.
+
 ## Título Provisório
 **Nossa Família: Da Alemanha ao Sul do Brasil**
 
@@ -123,7 +132,7 @@ Cada Parte abre com uma página no formato de um boletim de previsão — o leit
 - **Michael Meier** (*1820) e **Margaretha Pfannenstein** (*1825); **Johann Voit** (*1820) e **Barbara Woppmann** (*1825) (G6).
 - **Georg Adam Meier** (*1859) e **Franziska Voit** (*1861) (G5) — casados em Moosbach em 23/11/1884.
 - **Johann "Fata" Haas** (1884–1969) e **Maria "Mota" Meier Haas** (1888–1973) (G4) — os protagonistas históricos.
-- Filhos: Hildegard e Frida (†Alemanha), Luisa e Walter (†Laguna, 1913), Gertrudes (1913), Fernando (1915), Alexandre (1917), Agnes/Inês (1920), Elza (1922), **Baldoíno** (1924), Maria (1926), João (1932, falecido criança).
+- Filhos: Hildegard e Frida (†Alemanha), Luisa/"Lina" e Walter/"Valter" (†Rio do Ouro, Anitápolis; trasladados para Ituporanga), Gertrudes (1913), Fernando (1915), Alexandre (1917), Agnes/Inês (1920), Elza (1922), **Baldoíno** (1924), Maria (1926), João (1932, falecido criança).
 
 **Ramo Doerner–Preiss–Michels–Arend (Renânia/Vestfália → 1828/1847)**
 - **Nikolaus Arend (Arns)** (G7) — imigrante de 1847, Lote 38 de Santa Isabel.
@@ -158,7 +167,7 @@ Cada Parte abre com uma página no formato de um boletim de previsão — o leit
 | **1888** | Nasce Maria Meier em Heumaden (07/04) | | 4, 15 |
 | 1896 / 1897 | Nascem Gertrudes Preiss e Fernando Dörner | | 10 |
 | 1907 | Casamento de Johann e Maria | | 4 |
-| **1913** | Vapor *Formosa*; Laguna; nasce Gertrudes; morrem Luisa e Walter | Viagem a Laguna (2012) | 5 |
+| **1913** | Vapor *Formosa*; chegada ao Rio (26/03); nasce Gertrudes; Rio do Ouro | Viagem a Laguna (2012) | 5 |
 | 1913–1918 | Lote 17, Rio do Ouro (Anitápolis) | | 6 |
 | 1918 | Subida para Rio Novo (Ituporanga) | | 6 |
 | 1924 | Nasce Baldoíno; morre Angela Catharina aos 96 | | 6, 9 |
@@ -259,7 +268,7 @@ Cada Parte abre com uma página no formato de um boletim de previsão — o leit
 - **Gancho:** a família na plataforma de trem rumo ao sul, à França, ao mar.
 - **Pendências:** pesquisar contexto local (Maxhütte e a siderurgia — origem do nome "Maxhütte" e possível emprego de Josef Haas como *Fabrikarbeiter*); local e paróquia do casamento de 1907; datas de Hildegard e Frida; motivo da escolha de Marselha (e não Bremen/Hamburgo).
 
-#### Capítulo 5: Março de 1913 — Da Doca de Marselha à Quarentena de Laguna  `[6.000 palavras]`
+#### Capítulo 5: Março de 1913 — De Marselha ao Rio de Janeiro *(ver correções do autor no topo)*  `[6.000 palavras]`
 - **Tempo/Voz:** Histórico (1913) em 3ª pessoa, intercalado com o presente (fev. 2012) em 1ª pessoa.
 - **Abertura:** *MARSELHA — 7 DE MARÇO DE 1913.* O vapor **SS *Formosa*** no cais; a fila de emigrantes; linhas 161 a 164 do manifesto.
 - **Beats:**
