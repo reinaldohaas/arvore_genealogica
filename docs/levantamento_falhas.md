@@ -1,5 +1,71 @@
 # Levantamento de falhas — livro *Nossa Família* e árvore genealógica
 
+## Reconferência de 05/11/2026
+
+Feita sobre o commit `dc20bb0` e a cópia de trabalho do mesmo dia, que tem alterações ainda não commitadas (`00_prologo`, `09_matriarca_arend`, `22_mapas_e_arvores`, `scripts/arvore_livro.py`). Nesta seção, os números de linha valem para o estado atual. Nas seções 0 a 6, abaixo, os números e os nomes de arquivo são os de 04/11; vários capítulos mudaram de número desde então.
+
+Desta vez abri também as imagens que faltavam: os três batismos (Josef, Georg Adam, Franziska), o de Maria, o assento 23/1900 e os dois óbitos de Brusque. Os capítulos foram rechecados por busca nos pontos de cada item, não relidos por inteiro. O capítulo novo `14_o_fio_do_clima.md` e a maior parte das respostas do Antigravity não foram auditados.
+
+### A. Falhas novas ou ainda não listadas
+
+| # | O que está errado | Onde | Como resolver | Prior. |
+|---|---|---|---|---|
+| R1 | **Endereço da planilha privada no GEDCOM público.** A nota de Alexandre traz rua, número e CEP, e a nota de Paula diz com qual filha viva ela morava. O mesmo texto está nos dois GEDCOM, já publicados em `origin/main`. Não há número de telefone. | `arvore_familysearch.ged:3858–3862`; o mesmo trecho em `arvore_consolidada_myheritage.ged` | Tirar as notas e decidir se o histórico do git também deve ser limpo. | **A** |
+| R2 | **Descendentes possivelmente vivos no GEDCOM público.** Dos 699 indivíduos, 476 não têm nascimento nem óbito, a maioria vinda da planilha. Sem data, não dá para excluir menores. O cap. 3 diz que dos vivos fala "apenas em números". Nomes e anos respeitam a regra pedida, mas o arquivo também pode ter ido para o MyHeritage. | `arvore_familysearch.ged`; `arvore_consolidada_myheritage.ged`; cap. 3 | Decisão do autor: publicar uma versão sem esses nomes e manter a completa em `privado/`. | **A** |
+| R3 | **O batismo de Josef Haas continua errado no cap. 4.** A imagem diz nascimento em *19 Mai, früh 7 Uhr*, e batismo também em 19 de maio. O cap. 4 diz "no dia seguinte, 20 de maio". O README e o cap. 17 já foram corrigidos, então o livro agora se contradiz. | `04_antes_da_partida.md:35`, `:38`, `:41` | Corrigir para 19/05. | **A** |
+| R4 | **Dados deduzidos entraram no GEDCOM como se fossem fatos.** Hildegart e Frida têm nascimento em Eibenstock, c. 1908 e c. 1909, enquanto o cap. 4:97 diz que as datas não são conhecidas e 4:137 sugere Chemnitz. O lugar de nascimento de Ignazia é "Travessia da Renânia…". Anna Eller tem "Amelunxen… (ou São Bonifácio)", enquanto o cap. 21:37 diz que falta o batismo. Falta conferir a origem de cada um; o cap. 21:13 avisa que as respostas do Antigravity são só "mapa de pistas". | `arvore_familysearch.ged:409`, `:775`; registros de Hildegart e Frida (`@I354@`) | Deixar em branco ou marcar como hipótese o que não tiver fonte. | **A** |
+| R5 | **"Ökonom" na página 441 pode ser má leitura.** Ampliada, a palavra não me parece *Ökonom*: começa com algo como K e lembra *Krämer* (comerciante). Não tenho certeza. Se for outra palavra, caem a "mudança de ofício" e o argumento sobre a herança. | `18_heumaden_moosbach.md:43`, `:52`, `:91`; `04_antes_da_partida.md:15`; `15_o_que_se_herda.md:19`; `README.md:146` | Segunda leitura por paleógrafo ou fórum de *Kurrent*, comparando com outros registros da mesma mão. | M |
+| R6 | **Padrinho e pároco do batismo de Josef.** O README lê *Joseph Burkhart* e *Bernhard Müller*. Na imagem leio algo mais próximo de *Lienhart* e *Leonhard*, sem segurança. | `README.md:261` | Segunda leitura. | B |
+| R7 | **Pessoas fictícias no GEDCOM**: "Filho(a) 3 Hoeveler" e "Filho(a) 4 Hoeveler". | `arvore_familysearch.ged`, família `@F17@` | Remover ou obter os nomes reais. | M |
+| R8 | **Notas contraditórias nos registros de Luisa e Walter.** O registro traz "nasceu em Anitápolis" e "nasceu no Brasil" ao lado de "listado no *Formosa*". Os nomes principais ainda são Lina e Valter. | `arvore_familysearch.ged`, registros de Lina e Valter | Usar Luisa e Walter como nome principal e tirar a frase da planilha. | M |
+| R9 | **O README se contradiz sobre o túmulo de Gertrudes.** A linha 142 diz Parque da Saudade; a linha 231 e a certidão de 1970 dizem cemitério católico. | `README.md:142` | Corrigir para cemitério católico. | M |
+| R10 | **Diagrama e quadro do README desatualizados no ramo Funke.** Ainda aparecem "Família Funke & Oma Dora Funke" e "& esposo", embora o GEDCOM já traga Oscar Martin Funke e Dora Marta Aenishaenslin. | `README.md:113`, `:144` | Atualizar pelo GEDCOM, conferindo as fontes. | M |
+
+### B. O que foi resolvido
+
+| Item | Situação |
+|---|---|
+| 0.1 | README corrigido nos três batismos e no casamento de Moosbach. Conferi as imagens: Maria (07/04, Reichenberger), Georg Adam (09/03, Hartung) e Franziska (29/06, Margaretha Albrecht) estão certos. |
+| 0.3 | O autor confirmou: Marise é sua irmã mais nova. Texto corrigido nos caps. 1, 2, 3, 4 e 16; em 3:119, a pergunta aos filhos agora os manda perguntar a ela, que é tia deles. |
+| 0.7 | GEDCOM ampliado para 699 pessoas, com o lado de Bárbara e os colaterais. Ver R1, R2, R4, R7 e R8. |
+| 1.1, 1.2 | Johann nascido em 11/07/1884; imigração datada em 26/03/1913. |
+| 1.2 da tabela de filhos | Gertrudes: o README não diz mais 1911; o batismo em Teresópolis (23/11/1913) entrou no cap. 5. Luisa e Walter: livro corrigido. |
+| Baldoíno | Local de nascimento corrigido no GEDCOM. |
+| 2.1, 2.2, 2.11 | Carlos Doerner e Anna Eller estão declarados em `21_nota_fontes.md:35–37`. |
+| 2.9 | "Bisneta da matriarca" foi retirado. |
+| 2.12 | Morte de Gertrudes em 09/04/1970 no GEDCOM. |
+| 2.14 | Mudança para Vidal Ramos (1927) e Brusque (1964) incluída, com base no *Jornal Mirim*: é memória de família, não documento. |
+| 2.16 | Os irmãos de Adelina estão no cap. 10. Conferi a certidão de 1970, com uma ressalva: o nome que o livro lê como *Olga* me pareceu *Telga*; o GEDCOM traz Olga. |
+| 3.11 | Ascendentes Funke identificados no GEDCOM e citados em `11_oma_rosita.md:27`. |
+| 4.1, 4.3, 4.8 (parte) | Laguna e a recusa no Rio agora aparecem como tradição (caps. 5, 13, 19, 21). |
+
+### C. O que continua aberto
+
+| Item | Situação atual | Onde | Prior. |
+|---|---|---|---|
+| 0.2 | README ainda diz 11 filhos e "Lina e Valter"; os capítulos já dizem 12. | `README.md:140`, `:297` | **A** |
+| 0.4 | GEDCOM já usa só o ano, mas o README e o cap. 11 mantêm datas completas. O README mantém a OAB. | `README.md:87`, `:117`, `:122–123`, `:132–134`, `:138`, `:171`, `:295`; `11_oma_rosita.md:11`, `:15` | **A** |
+| 2.10 | A imagem do assento 23/1900 confirma Tombröck, José May e João Peters, moradores do Capivari e sem dispensa. O README transcreve outra versão (Auling/Hömke) logo abaixo da imagem, sem aviso. | `README.md:289` | **A** |
+| 1.11 | Os irmãos do autor continuam fora dos capítulos; agora só estão no GEDCOM. | cap. 1 | **A** |
+| 3.1 | Datas impossíveis dos filhos de Francisco Jacob seguem sem ressalva no README. | `README.md:183–194` | M |
+| 0.5 | O cap. 21 já diz que a planilha é privada; os caps. 15 e 20 ainda a colocam no repositório. | `15_o_que_se_herda.md:83`; `20_epilogo.md:29` | M |
+| 1.4 | "Ambos com oitenta e cinco anos": Johann tinha 84, como diz o cap. 7. | `02_fata_e_mota.md:55` | M |
+| 1.8 | Oito filhos dos Meier, mas só sete nomes. | `README.md:147`; `15_o_que_se_herda.md:19` | M |
+| 2.4 | Ignazia ainda nasce em 1828 em São Pedro de Alcântara no README. | `README.md:66`, `:158` | M |
+| 4.2 | "No fim de 1912, Maria engravidou": um parto em 05/05/1913 pede concepção por volta de agosto de 1912. | `04_antes_da_partida.md:107` | M |
+| 4.4 | "Uns vinte e cinco hectares" do Lote 17, sem fonte. | `20_epilogo.md:23` | M |
+| 4.14, 2.18 | Epílogo: "maio de 2012" sem data do casamento, e "a voz dela abre o livro", embora a gravação não tenha sido transcrita. | `20_epilogo.md:13`; `01_vidal_ramos.md:7` | M |
+| 4.17 | Caminho `livros_e_artigos_internet/…` não existe no repositório. | `09_matriarca_arend.md:80` | M |
+| 3.8 | Só dois dos quatro filhos de Erno e Rosita têm nome. | `11_oma_rosita.md:73` | M |
+| 3.10 | A reportagem de Joinville continua sem jornal, título e data. | `11_oma_rosita.md:73–93` | M |
+| 1.12, 1.13, 1.16, 2.5, 2.8, 2.18, 3.2, 3.3, 4.5, 4.6 | Dependem de família ou arquivo: netos, entrevistas, casamento de Reinaldo e Bárbara, batismos, lápides, obras e túmulos. | ver seções 1 a 4 | M |
+
+Os demais itens não foram rechecados nesta passada.
+
+---
+
+## Levantamento original (04/11/2026)
+
 Levantamento feito em 04/11/2026 sobre o commit `1bc531b`. Foram lidos os 21 arquivos de `livro/capitulos/`, o `README.md` (diagrama Mermaid e quadro de gerações), o `arvore_familysearch.ged`, o texto da Marise (`livro/fontes/historia_joao_e_maria_marise_2013.txt`) e a imagem da lista de bordo do *Formosa*. A planilha do Agenor (`privado/`) foi consultada só localmente; daqui ela só aparece como nomes, contagens e anos.
 
 **Regra de hierarquia das fontes** (pedida pelo autor): fontes primárias prevalecem sobre o texto da Marise e sobre a planilha.
