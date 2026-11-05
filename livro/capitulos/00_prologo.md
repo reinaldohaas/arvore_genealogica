@@ -1,12 +1,12 @@
-## Prólogo — As Coordenadas de Duas Vidas {#prologo .unnumbered}
+## Prólogo: As Coordenadas de Duas Vidas {#prologo .unnumbered}
 
-*27,6° S · 48,5° O — Florianópolis, SC*
+*27,6° S · 48,5° O, Florianópolis, SC*
 
 > *Nenhum vento nasce onde sopra.*
 
 ### A pergunta de todo dia
 
-Há uma pergunta que faço quase todos os dias, desde que me tornei meteorologista, e que já não percebo que faço: *de onde veio este ar?*
+*De onde veio este ar?* Faço essa pergunta quase todos os dias, desde que me tornei meteorologista, e já nem percebo que faço.
 
 Ela surge diante de qualquer coisa. Uma manhã de inverno em Florianópolis em que o vento sul entra pela baía com cheiro de mar aberto e derruba a temperatura em poucas horas. Uma tarde abafada de verão em que o céu do continente fica cor de chumbo e a umidade parece vir de muito longe, de algum lugar onde nunca estivemos. Uma frente fria que aparece na animação de satélite como uma faixa de nuvens enrolada, subindo do Rio da Prata pelo litoral gaúcho, e que os alunos acompanham na tela como quem segue um trem. Diante de qualquer uma dessas cenas, o reflexo profissional é o mesmo. O ar que está aqui agora esteve antes em outro lugar. Carrega a temperatura, a umidade e às vezes a poeira desse outro lugar. Para entender o que ele vai fazer amanhã, é preciso saber de onde partiu.
 
@@ -20,9 +20,9 @@ Passei boa parte da vida desenhando essas linhas. Em algum momento, sem que eu s
 
 Matheus e Lucas, é para vocês que escrevo este livro. Os outros leitores que vierem serão bem-vindos, mas o endereço é este.
 
-Quando vocês eram pequenos, eu tinha o hábito de olhar para os dois à mesa do jantar e fazer, quase sem querer, a mesma pergunta do laboratório. Não era um exercício de genética, nem de vaidade. Era aquela curiosidade de quem passa o dia procurando a origem das coisas e chega em casa sem conseguir desligá-la. Procurava em vocês os traços dos que vieram antes: o jeito de um avô, uma expressão que eu tinha visto numa fotografia antiga, um modo de franzir a testa que talvez fosse dos Funke e talvez fosse dos Haas. Nunca cheguei a nenhuma conclusão, e acho que é assim mesmo. Rostos não são mapas. Mas a pergunta ficou: *de quantos lugares é feito um menino?*
+Quando vocês eram pequenos, eu tinha o hábito de olhar para os dois à mesa do jantar e fazer, quase sem querer, a mesma pergunta do laboratório, com a curiosidade de quem passa o dia procurando a origem das coisas e chega em casa sem conseguir desligá-la. Procurava em vocês os traços dos que vieram antes: o jeito de um avô, uma expressão que eu tinha visto numa fotografia antiga, um modo de franzir a testa que talvez fosse dos Funke e talvez fosse dos Haas. Nunca cheguei a nenhuma conclusão, e acho que é assim mesmo. A pergunta ficou: *de quantos lugares é feito um menino?*
 
-A outra metade da resposta não é minha. É da mãe de vocês. Bárbara entrou nesta história como companheira de viagem e acabou sendo muito mais do que isso: foi o olhar que me lembrava, quando eu me perdia em datas e registros, que cada linha da planilha tinha sido uma pessoa com medo, com fome, com saudade. E trouxe consigo um mundo inteiro que eu não conhecia, o dos Funke de Joinville, dos Hoeveler e dos Lohmann do Rio Grande do Sul, com seus professores luteranos, suas casas à beira do Taquari e seus retratos ovais de casamento. Quando digo que este livro é uma retrotrajetória, preciso dizer também que ela tem duas origens. As linhas que partem de vocês dois se bifurcam logo no primeiro passo: uma sobe a serra catarinense até o Alto Vale do Itajaí, a outra desce até os vales gaúchos. Só depois, muito longe, do outro lado do oceano, elas voltam a se aproximar, em aldeias alemãs que nunca souberam umas das outras.
+A outra metade da resposta é da mãe de vocês. Bárbara entrou nesta história como companheira de viagem e acabou sendo o olhar que me lembrava, quando eu me perdia em datas e registros, que cada linha da planilha tinha sido uma pessoa com medo, com fome, com saudade. Trouxe consigo um mundo inteiro que eu não conhecia, o dos Funke de Joinville, dos Hoeveler e dos Lohmann do Rio Grande do Sul, com seus professores luteranos, suas casas à beira do Taquari e seus retratos ovais de casamento. Quando digo que este livro é uma retrotrajetória, preciso dizer também que ela tem duas origens. As linhas que partem de vocês dois se bifurcam logo no primeiro passo: uma sobe a serra catarinense até o Alto Vale do Itajaí, a outra desce até os vales gaúchos. Só depois, muito longe, do outro lado do oceano, elas voltam a se aproximar, em aldeias alemãs que nunca souberam umas das outras.
 
 Vocês já não são meninos. Enquanto esta pesquisa foi sendo feita, cresceram e começaram as próprias travessias. Talvez seja por isso que eu tenha tido pressa. Um pai que espera os filhos terem tempo para ouvir arrisca-se a esperar demais.
 
@@ -34,7 +34,7 @@ De quantas aldeias, portos, ofícios e sobrevivências improváveis são feitos 
 
 Do lado do pai, os nomes são estes: Haas, Meier, Voit, Dengler, Doerner, Eller, Preiss, Loch, Michels, Arns. Do lado da mãe: Funke, Hoeveler, Lohmann, Endres, Schnack. Cada um é uma corrente, e cada corrente tem sua data de partida.
 
-Os Michels chegaram cedo, ainda em 1828, com um menino de seis anos chamado Anton, vindo de Hermeskeil, perto de Trier, para a primeira colônia alemã de Santa Catarina. Os Arns vieram do Mosela em 1847, de Pünderich, uma aldeia de vinhedos numa curva do rio, para um lote na colônia de Santa Isabel. Os Preiss também vinham da região de Trier, de Schweich. Os Doerner traziam no sobrenome a lembrança das forjas de Solingen, a cidade das lâminas, e os Eller vieram da Vestfália, passando pelo Rio Grande do Sul antes de subir para o sul catarinense. Os Haas e os Meier foram os últimos a chegar, em 1913, a bordo de um vapor chamado *Formosa*, vindos de duas aldeias da Baviera que durante muito tempo foram para mim apenas palavras ditas com sotaque. Do lado da mãe de vocês, os Lohmann e os Schnack fincaram raízes no Vale do Taquari, no Rio Grande do Sul, a partir da década de 1840. Os Hoeveler e os Funke fazem a ponte entre o Rio Grande e Joinville.
+A corrente mais antiga chegou em 1828, para a primeira colônia alemã de Santa Catarina, e com ela vinha um menino de seis anos. Outra veio em 1847, de uma aldeia de vinhedos numa curva do rio. Outra trazia no sobrenome a lembrança das forjas da cidade das lâminas. Não digo agora quem veio de onde: cada uma dessas linhas tem o seu capítulo. Os Haas e os Meier foram os últimos a chegar, em 1913, a bordo de um vapor chamado *Formosa*, vindos de duas aldeias da Baviera que durante muito tempo foram para mim apenas palavras ditas com sotaque. Do lado da mãe de vocês, os Lohmann e os Schnack fincaram raízes no Vale do Taquari, no Rio Grande do Sul, a partir da década de 1840. Os Hoeveler e os Funke fazem a ponte entre o Rio Grande e Joinville.
 
 São quase dois séculos de travessias, se contarmos de 1828 até hoje. São também, se olharmos com atenção, quase dois séculos de perdas: crianças que morreram antes de chegar ou logo depois de chegar, terras que não deram o que prometiam, guerras que cortaram as cartas, línguas que foram proibidas e depois esquecidas.
 
@@ -48,17 +48,17 @@ Um aviso, antes de começar, porque vocês sabem que eu não resisto a uma nota 
 
 Uma retrotrajetória nunca é exata. Ela depende da qualidade dos dados de vento, e quanto mais para trás no tempo se volta, maior a incerteza. Depois de alguns dias, a linha que o computador desenha é menos um caminho do que uma faixa de caminhos possíveis, que vai se alargando como o rastro de um barco. Com a memória de uma família acontece algo parecido. Os fatos de 2012 estão firmes. Os de 1913 já chegam por duas ou três vozes que nem sempre concordam. Os de 1828 dependem de registros paroquiais escritos à mão por padres que às vezes erravam os nomes, as idades e até as aldeias.
 
-Por isso este livro fala em dois registros. Quando eu contar o que vi, li ou ouvi, falarei na primeira pessoa e no tempo das coisas que aconteceram. Quando eu reconstituir o passado, a travessia de um navio, uma madrugada numa aldeia da Baviera, uma casa no meio da mata, a narrativa passará para a terceira pessoa, com o lugar e a data no início, e eu marcarei com palavras como *imagino*, *é provável* e *conta-se na família* tudo o que não estiver nos documentos. Onde as fontes discordarem, e vocês verão que discordam bastante, vou mostrar a discordância em vez de escondê-la. Um mapa honesto tem lacunas. Um mapa que não tem nenhuma está mentindo em algum lugar.
+Por isso este livro fala em dois registros. Quando eu contar o que vi, li ou ouvi, falarei na primeira pessoa e no tempo das coisas que aconteceram. Quando eu reconstituir o passado, a travessia de um navio, uma madrugada numa aldeia da Baviera, uma casa no meio da mata, a narrativa passará para a terceira pessoa, com o lugar e a data no início, e eu marcarei com palavras como *imagino*, *é provável* e *conta-se na família* tudo o que não estiver nos documentos. Onde as fontes discordarem, e vocês verão que discordam bastante, vou mostrar a discordância em vez de escondê-la.
 
 ### Três rios e uma pergunta
 
-Há ainda uma coisa que só percebi depois de muito tempo nesta pesquisa, e que talvez seja a razão de este livro ser escrito por um meteorologista e não por um historiador.
+Só depois de muito tempo nesta pesquisa percebi uma coisa que talvez seja a razão de este livro ser escrito por um meteorologista e não por um historiador.
 
 Os imigrantes chegavam e procuravam os rios. Não havia estradas que prestassem; a água era o caminho, a força que movia o moinho, a fonte para a casa e para os animais. As colônias foram assentadas nas margens, nos vales, nas várzeas planas onde dava para plantar. E os rios, de tempos em tempos, sobem.
 
-Ao seguir as linhas da família, encontrei três deles no caminho. O primeiro é o Tubarão, em cuja foz fica Laguna, por onde, segundo a tradição da família, os Haas entraram em Santa Catarina em 1913. O segundo é o Itajaí, com seus braços que descem do Alto Vale, onde a família se fixou depois, em Ituporanga, Aurora e Vidal Ramos, e onde cresci ouvindo falar de cheias. O terceiro é o Taquari, no Rio Grande do Sul, em cujas margens viveram os antepassados da mãe de vocês. Os três transbordaram mais de uma vez ao longo dessa história, e alguns desses transbordamentos foram tragédias que entraram para os livros. Não vou contá-los aqui. Eles aparecerão no tempo certo, alguns de passagem, outros com mais vagar, numa parte do livro dedicada só a eles. Digo apenas que, para alguém que passou a carreira estudando chuva, cheias e previsão, foi estranho descobrir que a família inteira havia construído suas casas exatamente nos lugares que eu estudava por obrigação.
+Ao seguir as linhas da família, encontrei três deles no caminho. O primeiro é o Tubarão, em cuja foz fica Laguna, por onde, segundo a tradição da família, os Haas entraram em Santa Catarina em 1913. O segundo é o Itajaí, com seus braços que descem do Alto Vale, onde a família se fixou depois, em Ituporanga, Aurora e Vidal Ramos, e onde cresci ouvindo falar de cheias. O terceiro é o Taquari, no Rio Grande do Sul, em cujas margens viveram os antepassados da mãe de vocês. Os três transbordaram mais de uma vez ao longo dessa história, e alguns desses transbordamentos foram tragédias que entraram para os livros. Não vou contá-los aqui; alguns aparecerão de passagem, outros com mais vagar, numa parte do livro dedicada só a eles. Para alguém que passou a carreira estudando chuva, cheias e previsão, foi estranho descobrir que a família inteira havia construído suas casas exatamente nos lugares que eu estudava por obrigação.
 
-E há uma pergunta que acompanha os rios, porque tem a ver com terra: a pergunta sobre a herança. Por que alguém sai de uma aldeia onde a família viveu por séculos? Muitas vezes, porque a terra não dava para todos. Em algumas regiões da Alemanha ela era dividida entre os filhos a cada geração, até virar retalho; em outras ia inteira para um só, e os outros irmãos precisavam inventar outra vida. Aqui, nas colônias, famílias de dez ou quinze filhos repetiram o mesmo dilema com outros nomes. O que se herda, afinal? A terra, quando há. Um ofício. Uma fé. Uma língua, às vezes perdida no caminho. Um nome. E também, descobri, um risco: a casa à beira de um rio que volta a subir.
+Há uma pergunta que acompanha os rios, porque tem a ver com terra: a pergunta sobre a herança. Por que alguém sai de uma aldeia onde a família viveu por séculos? O que se herda, afinal?
 
 No fim do livro tentarei dizer o que acho que vocês herdaram. Não sei ainda se vou conseguir.
 
@@ -68,8 +68,10 @@ Deixo aqui, antes de começar de verdade, uma imagem que só vai fazer sentido m
 
 Fevereiro de 2018, uma pequena cidade na Baviera. Frio de inverno continental, daquele que nós, do litoral catarinense, só conhecemos pela leitura. Um balcão de repartição pública. Do outro lado, um funcionário que não fala português e um visitante que fala pouco alemão. Entre os dois, uma pasta com cópias de documentos brasileiros, uma árvore genealógica impressa e muita esperança mal disfarçada. O funcionário se levanta, vai até uma estante e volta com um livro grosso, de capa gasta, com um ano escrito na lombada: 1884.
 
-Não vou dizer agora o que havia dentro dele. Anos de perguntas desembocaram naquele balcão, e eu gostaria que vocês chegassem lá do mesmo jeito que eu cheguei, passo a passo, sem atalhos.
+Anos de perguntas desembocaram naquele balcão. De onde, exatamente, vieram os que partiram? Quem ficou do outro lado do mar? Alguém lá ainda carregaria o mesmo sobrenome? E o que havia dentro daquele livro?
 
-Para chegar até ali foi preciso, primeiro, ouvir. E toda investigação meteorológica começa do mesmo modo: pela estação mais próxima, aquela cujos dados conhecemos melhor e em quem mais confiamos.
+Não vou dizer agora. Gostaria que vocês chegassem lá do mesmo jeito que eu cheguei, passo a passo, sem atalhos.
 
-Comecei, como todo meteorologista, pela estação mais próxima: a casa dos meus pais, em Vidal Ramos.
+No fim do livro estão os mapas e as duas árvores da família, com as datas de cada um. Sugiro que vocês só olhem as árvores depois de ler, para não estragar as surpresas.
+
+Para chegar até ali foi preciso, primeiro, ouvir. Comecei, como todo meteorologista, pela estação mais próxima, aquela cujos dados conhecemos melhor e em que mais confiamos: a casa dos meus pais, em Vidal Ramos.
