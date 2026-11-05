@@ -40,7 +40,7 @@ Vou ler a linha com vocês, coluna por coluna, como a li.
 
 Parteira: duas aspinhas. *Idem*. Para saber quem era, é preciso subir uma linha, até o registro 35, o da pequena Josefa, nascida no dia 6 de abril à uma da madrugada. Ali está o nome: *Glas*. A senhora Glas, parteira de Moosbach, tinha feito um parto na madrugada de 6 de abril e outro na madrugada de 7. Duas noites seguidas atravessando o frio da primavera bávara com a sua maleta. Quando, no capítulo 4, imaginei a noite do nascimento da Mota, eu ainda não tinha reparado nas duas aspinhas. Agora sei que a senhora Glas, naquela madrugada, provavelmente estava cansada.
 
-Pai: *Gg. Adam Meier*. Condição, na leitura que fizemos e que confere com as transcrições do dossiê: *Ökonom*, que na Baviera daquela época queria dizer um lavrador com terra própria, um pequeno proprietário rural. Morada: *Heumaden*. Mãe: *Franzisca Voit*. Origem da mãe: *Burgtresw.*, Burgtreswitz.
+Pai: *Gg. Adam Meier*. Condição, na leitura que fizemos e que confere com as transcrições do dossiê: *Ökonom*, que na Baviera daquela época queria dizer agricultor. Morada: *Heumaden*. Mãe: *Franzisca Voit*. Origem da mãe: *Burgtresw.*, Burgtreswitz.
 
 Nascimento: *7. April, 2 h. morg.* (7 de abril, duas horas da manhã).
 

@@ -4,13 +4,13 @@
 
 > *Nenhum observador vê a tempestade inteira. A rede vê.*
 
-Duas pessoas sérias da família escreveram a história da mesma menina, e não concordam nem no ano nem no continente em que ela nasceu. Para uma prima, Gertrudes, irmã do meu pai, nasceu em 5 de maio de 1913 no Barracão dos Imigrantes de Laguna. Para um primo, nasceu em 22 de outubro de 1911, ainda na Alemanha, e veio com um ano de idade no *Formosa*. Cheguei a essa contradição aos poucos.
+Duas pessoas sérias da família escreveram a história da mesma menina, e não concordam nem no ano nem no continente em que ela nasceu. Para minha irmã, Gertrudes, irmã do meu pai, nasceu em 5 de maio de 1913 no Barracão dos Imigrantes de Laguna. Para um primo, nasceu em 22 de outubro de 1911, ainda na Alemanha, e veio com um ano de idade no *Formosa*. Cheguei a essa contradição aos poucos.
 
 ### Cem anos depois
 
 Em 30 de março de 2013, os descendentes de João e Maria Meyer Haas se reuniram para comemorar o centenário da chegada dos dois ao Brasil. Éramos, segundo a conta que se fez na época, mais de seiscentos descendentes diretos, espalhados por Santa Catarina, pelo Paraná e por outros cantos do país e do mundo. Uma boa parte estava ali.
 
-Não vou reconstituir a festa. Não tenho notas daquele dia, e as imagens que circulam na memória são vagas demais para virar cena sem que eu acabe inventando. O que ficou do centenário, para mim, foi um texto. Uma prima, Marise Haas Lourenço, escreveu e leu naquele dia uma história de João e Maria, assinada "Florianópolis, março de 2013". Esse texto é, até hoje, a fonte mais completa que a família tem sobre os dois, e boa parte da Parte II deste livro se apoia nele.
+Não vou reconstituir a festa. Não tenho notas daquele dia, e as imagens que circulam na memória são vagas demais para virar cena sem que eu acabe inventando. O que ficou do centenário, para mim, foi um texto. Minha irmã mais nova, Marise Haas Lourenço, escreveu e leu naquele dia uma história de João e Maria, assinada "Florianópolis, março de 2013". Esse texto é, até hoje, a fonte mais completa que a família tem sobre os dois, e boa parte da Parte II deste livro se apoia nele.
 
 ::: ficha
 **Ficha do Arquivo**: *História de João e Maria Meyer Haas*, texto de Marise Haas Lourenço lido no centenário da chegada (30/03/2013), assinado "Florianópolis, março de 2013". Cópia digital no repositório da família: `livro/fontes/historia_joao_e_maria_marise_2013.txt`. Fontes declaradas pela autora: documentos e fotos; pesquisas em arquivos, museus e bibliotecas; entrevistas; relatos.
@@ -116,7 +116,7 @@ Ainda faltavam alguns anos para essa viagem. Antes dela, porém, este livro prec
 
 ### Para vocês descobrirem
 
-- Quem Marise ouviu para escrever o texto do centenário? Ela preferiu não citar nenhum nome. Perguntem aos primos mais velhos.
+- Quem Marise ouviu para escrever o texto do centenário? Ela preferiu não citar nenhum nome. Perguntem a ela, que é tia de vocês, e aos primos mais velhos.
 - Quem contou a Agenor o nome *Lina*? Luisa era chamada assim em casa, ou esse nome veio de outro lugar?
 - Em que ano os irmãos foram buscar os restos das crianças em Anitápolis? Walter está sepultado em Ituporanga; e Luisa, onde está? Procurem nos óbitos de Anitápolis e nos registros do cemitério de Ituporanga.
 - Em que porto de Santa Catarina os Haas desceram, se o registro do desembarque nunca apareceu em Florianópolis?
