@@ -1,6 +1,6 @@
-# 🌳 Árvore Genealógica — Famílias Haas, Meier, Voit, Doerner, Preiss, Michels, Arend, Funke, Hoeveler, Lohmann, Endres & Schnack
+# 🌳 Árvore Genealógica — Famílias Haas, Meier, Voit, Doerner, Preiss, Michels, Arns, Funke, Hoeveler, Lohmann, Endres & Schnack
 
-Repositório dedicado à preservação histórica, documentação comprobatória, pesquisa em cemitérios, extração automatizada em Python e roteiro literário da saga genealógica das famílias **Haas**, **Meier (Meyer)**, **Voit**, **Doerner (Dörner)**, **Eller**, **Peters (Petersen)**, **Preiss (Preis)**, **Michels**, **Arend (Arns)**, **Loch**, **Funke**, **Hoeveler**, **Lohmann**, **Endres**, **Schnack** e **Wingert**, unindo as raízes paternas e maternas de **Matheus Funke Haas** (* 20/06/2002) e **Lucas Funke Haas** (* 10/03/2005) — dos arquivos civis e paroquiais da Alemanha (Baviera, Renânia-Palatinado, Vestfália, Prússia Renana, Baixa Saxônia/Braunschweig e Schleswig-Holstein) às colônias pioneiras de Santa Catarina e do Rio Grande do Sul.
+Repositório dedicado à preservação histórica, documentação comprobatória, pesquisa em cemitérios, extração automatizada em Python e roteiro literário da saga genealógica das famílias **Haas**, **Meier (Meyer)**, **Voit**, **Doerner (Dörner)**, **Eller**, **Peters (Petersen)**, **Preiss (Preis)**, **Michels**, **Arns (Arns)**, **Loch**, **Funke**, **Hoeveler**, **Lohmann**, **Endres**, **Schnack** e **Wingert**, unindo as raízes paternas e maternas de **Matheus Funke Haas** (* 20/06/2002) e **Lucas Funke Haas** (* 10/03/2005) — dos arquivos civis e paroquiais da Alemanha (Baviera, Renânia-Palatinado, Vestfália, Prússia Renana, Baixa Saxônia/Braunschweig e Schleswig-Holstein) às colônias pioneiras de Santa Catarina e do Rio Grande do Sul.
 
 ---
 
@@ -66,10 +66,10 @@ graph TD
     IL_T["<b>Ignazia Loch</b><br/><i>* 1828 (São Pedro de Alcântara, SC)</i>"]:::tetravos --- M_BP
     M_BP --> T_EP["<b>Emanuel Preis (Manoel)</b><br/><i>* 31.03.1864 (Águas Mornas, SC)<br/>† 27.03.1927 (São Martinho, SC)</i>"]:::trisavos
 
-    NA_P["<b>Nikolaus Arend (Arns)</b><br/><i>Imigração: 05.01.1847 (Brigue Eridano)<br/>Colônia Santa Isabel, Lote 38</i>"]:::pentavos --> CA_T
+    NA_P["<b>Nikolaus Arns (Arns)</b><br/><i>Imigração: 05.01.1847 (Brigue Eridano)<br/>Colônia Santa Isabel, Lote 38</i>"]:::pentavos --> CA_T
 
     AM_T["<b>Anton Michels</b><br/><i>* 11.05.1822 (Hermeskeil, Trier)<br/>Imigração: 12.11.1828 | † 1874 (SC)</i>"]:::tetravos --- M_AM["Casamento"]:::casamento
-    CA_T["<b>Angela Catharina Arend</b><br/><i>* 05.12.1827 (Pünderich, Mosela)<br/>† 15.09.1924 (Vargem do Cedro, SC - 96 anos)</i>"]:::tetravos --- M_AM
+    CA_T["<b>Angela Catharina Arns</b><br/><i>* 05.12.1827 (Pünderich, Mosela)<br/>† 15.09.1924 (Vargem do Cedro, SC - 96 anos)</i>"]:::tetravos --- M_AM
     M_AM --> T_HM["<b>Helena Michels</b><br/><i>* 01.01.1864 (Vargem do Cedro, SC)<br/>† 08.06.1945 (São Martinho, SC)</i>"]:::trisavos
 
     T_EP --- M_EPH["💍 <b>Casamento</b>"]:::casamento
@@ -148,7 +148,7 @@ graph TD
 | **G5 (Trisavós / Bisavós)** | **Doerner** | **Carl Reinhard (Carlos) Doerner** | * 20/11/1854 | Solingen, Prússia ➔ Capivari / São Martinho, SC | Viúvo recasado: 1º cas. (~1879) c/ **Anna Eller** (10 filhos); 2º cas. (29/04/1900 em Capivari) c/ **Hulda Peters** (* 1870, +5 filhos = 15 filhos) |
 | **G5 (Trisavós / Bisavós)** | **Eller** | **Anna Eller Dörner** | * c. 1858–1860 <br/> † ~1898 | Vestfália (?) ➔ São Bonifácio ➔ Imaruí / São Martinho, SC (o "1858, RS" do FamilySearch é dado gerado, sem fonte) | 1ª esposa de Carlos Doerner; filha de Franz Adam Eller e Anna Maria Knopker |
 | **G5 (Trisavós / Bisavós)** | **Preis** | **Emanuel Preis (Manoel)** | * 31/03/1864 <br/> † 27/03/1927 | Águas Mornas ➔ São Martinho, SC (*Cemitério de São Martinho*) | Batizado em 26/04/1864; filho de Bernard Preis e Ignazia Loch |
-| **G5 (Trisavós / Bisavós)** | **Michels** | **Helena Michels Preiss** | * 01/01/1864 <br/> † 08/06/1945 | Vargem do Cedro ➔ São Martinho, SC | Filha de Anton Michels e Angela Catharina Arend |
+| **G5 (Trisavós / Bisavós)** | **Michels** | **Helena Michels Preiss** | * 01/01/1864 <br/> † 08/06/1945 | Vargem do Cedro ➔ São Martinho, SC | Filha de Anton Michels e Angela Catharina Arns |
 | **G5 (Trisavós Maternos)** | **Lohmann — Endres** | **Francisco Jacob Lohmann** & **Miguelina Leocádia Endres** | Francisco: * 20/11/1889 † 24/01/1975 <br/> Miguelina: * 09/12/1891 | Arroio do Meio / Estrela, RS (*Cemitério de Arroio do Meio / Estrela, RS*) | Casados em 05/09/1914 (`G2M8-ZQ3` & `G2ML-18M`); pais de 12 filhos (incluindo Oma Rosita, Tio Urbano, Tio Armando, Tia Sunta e Tio Arlindo) |
 | **G6 (Tetravós / Tataravós)** | **Haas — Albrecht** | **Georg Haas** & **Maria Anna Albrecht** | ~1815–1820 | Stoffen, Landsberg am Lech, Alta Baviera, Alemanha | *Ziegelknecht* (oleiro/artesão de telhas e tijolos) em Stoffen; pais de Joseph Haas (* 19/05/1847) |
 | **G6 (Tetravós / Tataravós)** | **Meier — Pfannenstein** | **Michael Meier** (* 1820) & **Margaretha Pfannenstein** (* 1825) | 1820 / 1825 | Heumaden & Rückersrieth, Moosbach, Baviera | *Wagner* (mestre construtor de rodas e carruagens) em Heumaden |
@@ -156,9 +156,9 @@ graph TD
 | **G6 (Tetravós / Tataravós)** | **Dorner — Lauterjung** | **Guilherme Dorner** & **Joanna Lauterjung** | ~1820–1830 | Solingen, Renânia / Prússia | Tradicional linhagem de mestres cuteleiros de Solingen (*Lauterjung*) |
 | **G6 (Tetravós / Tataravós)** | **Eller — Knopker** | **Franz Adam Eller** (~ 03/03/1832) & **Anna Maria Knopker** | 1832 | St. Peter und Paul, Westfalen, Alemanha ➔ RS | Imigrantes alemães estabelecidos inicialmente no RS |
 | **G6 (Tetravós / Tataravós)** | **Preis — Loch** | **Bernard Preis** (* 1827, † 11/10/1893) & **Ignazia Loch** (* 1828) | 1827 / 1828 | Schweich (Trier) ➔ Alto São Martinho, SC | Ignazia nasceu na 1ª colônia alemã de SC (São Pedro de Alcântara, 1828) |
-| **G6 (Tetravós / Tataravós)** | **Michels — Arend** | **Anton Michels** (* 11/05/1822, † 1874) & **Angela Catharina Arend** (* 05/12/1827, † 15/09/1924) | 1822 / 1827 | Hermeskeil & Pünderich ➔ Vargem Grande / Vargem do Cedro, SC | Anton chegou em **12/11/1828**; Angela Catharina chegou em **05/01/1847** e viveu quase 97 anos |
+| **G6 (Tetravós / Tataravós)** | **Michels — Arns** | **Anton Michels** (* 11/05/1822, † 1874) & **Angela Catharina Arns** (* 05/12/1827, † 15/09/1924) | 1822 / 1827 | Hermeskeil & Pünderich ➔ Vargem Grande / Vargem do Cedro, SC | Anton chegou em **12/11/1828**; Angela Catharina chegou em **05/01/1847** e viveu quase 97 anos |
 | **G6 (Tetravós Maternos)** | **Lohmann — Schnack** | **Friedrich Lohmann** & **Suzana Regina Schnack** | Friedrich: * 18/02/1853 † 31/01/1937 <br/> Suzana: * 09/07/1858 † 16/12/1889 | Estrela ➔ Arroio do Meio, RS (`KNYK-4J3` & `LXMD-B4Y`) | Suzana faleceu em Arroio do Meio 26 dias após dar à luz o caçula Francisco Jacob Lohmann (* 20/11/1889) |
-| **G7 (Pentavós Paternos)** | **Arend (Arns)** | **Nikolaus Arend (Arns)** | ~1800 | Pünderich (Cochem-Zell) ➔ Colônia Santa Isabel, SC | Chegou no brigue sardo *Eridano* / sumaca *14 de Novembro* (05/01/1847); Lote 38 em Loeffelscheidt |
+| **G7 (Pentavós Paternos)** | **Arns (Arns)** | **Nikolaus Arns (Arns)** | ~1800 | Pünderich (Cochem-Zell) ➔ Colônia Santa Isabel, SC | Chegou no brigue sardo *Eridano* / sumaca *14 de Novembro* (05/01/1847); Lote 38 em Loeffelscheidt |
 | **G7 (Pentavós Maternos)** | **Lohmann — Wingert** | **Georg Karl Maximilian Lohmann** & **Bárbara Wingert** | Georg: * 12/07/1821 † 28/07/1899 <br/> Bárbara: * 05/07/1828 † 24/11/1915 | Harderode (Braunschweig, Alemanha) ➔ Linha Lenz / Linha Winck, Estrela, RS (**Cemitério da Linha Winck / Linha Lenz, Estrela, RS**) | Chegou em 05/12/1846 no navio *Hiran*; casou em 06/05/1849 (`27QQ-TM9`); fundador da **Fazenda Lohmann** (Roca Sales) e da casa enxaimel do **Museu da Família Lohmann** (Parque Histórico de Lajeado) |
 | **G7 (Pentavós Maternos)** | **Schnack — Köhnlein** | **Julius Georg Schnack** & **Susanna Charlotte Köhnlein** | Julius: * 16/02/1830 † 19/03/1924 <br/> Susanna: * 07/06/1835 † 10/12/1926 | Schleswig-Holstein, Alemanha ➔ Arroio do Meio, RS (`LC5B-LF7` & `KGY4-W7D`) | Casados em 08/03/1857; pais de 7 filhos em Estrela / Arroio do Meio, RS |
 | **G8 (Hexavós Maternos)** | **Lohmann — Schrader** | **Johann Friedrich Christian Lohmann** & **Sophie Dorothee Elizabeth Schrader** | Johann: * 23/10/1788 † 06/04/1853 <br/> Sophie: * 16/02/1796 † 14/02/1868 | Harderode, Coppenbrügge, Hameln-Pyrmont / Braunschweig, Alemanha (`KZHB-J8X` & `GZJQ-N34`) | Pais dos imigrantes pioneiros Georg Karl Maximilian Lohmann (* 1821) e Georg August Christian Lohmann (* 1827, sepultado no *Cemitério de Novo Paraíso, Estrela, RS*) |
@@ -229,7 +229,7 @@ A reconstrução documental do lado da esposa **Bárbara Funke Haas** (* 27/07/1
 | **Ituporanga & Vidal Ramos, SC** | **Cemitérios de Ituporanga e Vidal Ramos** | Avós paternos **Baldoíno Haas** (* 20/04/1924 – † 18/12/2013) e **Adelina Doerner Haas** (* 30/10/1926 – † 22/02/2019); tio **Alexandre Haas** (* 23/05/1917 – † 16/11/1994), **Paula Klettenberg Haas** († 02/07/2007) e **Roni José Haas** († 27/02/1964) |
 | **Anitápolis, SC** *(Rio do Ouro)* | **Cemitério de Rio do Ouro / Anitápolis** (sepultura original) | Tios-avós **Luisa ("Lina") Haas** e **Walter ("Valter") Haas**, que chegaram vivos ao Rio no *Formosa* (26/03/1913) e morreram em Rio do Ouro entre 1913 e 1918. Os restos foram depois trasladados pelos irmãos (entre eles Baldoíno) para **Ituporanga**, onde Walter está sepultado |
 | **Brusque, SC** | **Cemitério Católico de Brusque** & **Cemitério Municipal Parque da Saudade** | Bisavós **Gertrudes Preiss Dörner** (* 05/03/1896 – † 09/04/1970, sepultada no Cemitério Católico; deixou 6 filhos maiores: *Hilda Ana, Lindolfo, Adelina, Irma, Olga e Lino Fernando*) e **Fernando Dörner** (* 24/08/1897 – † 21/05/1981, sepultado no Cemitério Municipal Parque da Saudade) |
-| **Colônia Santa Isabel, São Martinho & Vargem do Cedro, SC** | **Antigo Cemitério de Santa Isabel**, **Alto São Martinho** e **Cemitério de Vargem do Cedro** | Tetravô **Anton Michels** (* 11/05/1822 Hinzert – † ago/1874, assassinado por salteadores na estrada entre São Bonifácio e Águas Mornas e sepultado no Antigo Cemitério da Colônia Santa Isabel); tetravó **Angela Katharina Arns (Arend) Michels** (* 05/12/1827 Pünderich – † 15/09/1924 aos 96 anos em Vargem do Cedro); tetravô **Bernard Preis** († 11/10/1893 em Alto São Martinho); trisavós **Emanuel Preis** († 27/03/1927) e **Helena Michels** († 08/06/1945) em Vargem do Cedro |
+| **Colônia Santa Isabel, São Martinho & Vargem do Cedro, SC** | **Antigo Cemitério de Santa Isabel**, **Alto São Martinho** e **Cemitério de Vargem do Cedro** | Tetravô **Anton Michels** (* 11/05/1822 Hinzert – † ago/1874, assassinado por salteadores na estrada entre São Bonifácio e Águas Mornas e sepultado no Antigo Cemitério da Colônia Santa Isabel); tetravó **Angela Katharina Arns (Arns) Michels** (* 05/12/1827 Pünderich – † 15/09/1924 aos 96 anos em Vargem do Cedro); tetravô **Bernard Preis** († 11/10/1893 em Alto São Martinho); trisavós **Emanuel Preis** († 27/03/1927) e **Helena Michels** († 08/06/1945) em Vargem do Cedro |
 
 #### Galeria de Lápides, Medalhões Tumulares e Fac-símiles Históricos (`imagens/cemiterios/`)
 
@@ -250,7 +250,7 @@ A reconstrução documental do lado da esposa **Bárbara Funke Haas** (* 27/07/1
   <img src="imagens/cemiterios/Livro_Familias_Michels_p43_Mathias_Michels_Assinatura_e_Assassinato_Anton_Michels_1874.jpg" width="48%" alt="Página 43 do livro Famílias Michels no Brasil" />
   <img src="imagens/cemiterios/Livro_Familias_Michels_p44_Casa_Enxaimel_Angela_Katharina_Arns_Vargem_do_Cedro_1910.jpg" width="48%" alt="Página 44 do livro Famílias Michels no Brasil" />
 </p>
-<p align="center"><i>Páginas 43 e 44 da obra <b>Famílias Michels no Brasil</b>, documentando a assinatura original do hexavô <b>Mathias Michels (Hinzert, 1822)</b>, o assassinato do tetravô <b>Anton Michels (* 1822 – † ago/1874)</b> na estrada entre São Bonifácio e Águas Mornas, e a casa enxaimel construída em 1910 para a matriarca <b>Angela Katharina Arns (Arend) (* 1827 – † 15/09/1924, aos 96 anos)</b> em Vargem do Cedro, São Martinho, SC.</i></p>
+<p align="center"><i>Páginas 43 e 44 da obra <b>Famílias Michels no Brasil</b>, documentando a assinatura original do hexavô <b>Mathias Michels (Hinzert, 1822)</b>, o assassinato do tetravô <b>Anton Michels (* 1822 – † ago/1874)</b> na estrada entre São Bonifácio e Águas Mornas, e a casa enxaimel construída em 1910 para a matriarca <b>Angela Katharina Arns (Arns) (* 1827 – † 15/09/1924, aos 96 anos)</b> em Vargem do Cedro, São Martinho, SC.</i></p>
 
 ---
 
@@ -300,7 +300,7 @@ A árvore se apoia na planilha histórica compilada pelo primo-irmão **Eng. Civ
 
 ## 📖 Roteiro do Livro & Ferramentas em Python
 
-- **📚 Roteiro Literário Completo do Livro:** [`docs/roteiro_livro.md`](docs/roteiro_livro.md) — *"Nossa Família: Da Alemanha ao Sul do Brasil"*, estruturado em Prólogo, 6 Partes, 18 Capítulos e Epílogo. Versão on-line: <https://reinaldohaas.github.io/reinaldohaas/arvore_genealogica/>
+- **📚 Roteiro Literário Completo do Livro:** [`docs/roteiro_livro.md`](docs/roteiro_livro.md) — *"Nossa Família: Da Alemanha ao Sul do Brasil"*, estruturado em Prólogo, 6 Partes, 19 Capítulos e Epílogo. Versão on-line: <https://reinaldohaas.github.io/reinaldohaas/arvore_genealogica/>
 - **📊 Compilação Integral de Agenor Haas (291 linhas + 55 biografias):** arquivo privado, não publicado (contém dados de parentes vivos)
 - **📧 Extrator Automatizado do Gmail (correspondência com familiares):** [`scripts/importar_gmail_genealogia.py`](scripts/importar_gmail_genealogia.py)
 

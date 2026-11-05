@@ -6,7 +6,7 @@ Este livro foi escrito com documentos, memórias e dúvidas, nessa ordem de conf
 
 Para a família Haas, as fontes principais são os documentos da época: a lista de passageiros do vapor *Formosa*, os registros civis e paroquiais e os registros de cemitério. Vêm depois a grande planilha genealógica de Agenor Haas e, por fim, o texto *História de João e Maria Meyer Haas*, escrito por Marise Haas Lourenço para o centenário de 30 de março de 2013. Esse texto reuniu a memória da família e foi o ponto de partida da pesquisa, mas, onde pode ser comparado com documentos, erra com frequência. Afirma, por exemplo, que o desembarque no Rio foi recusado, que houve muitas mortes a bordo e que Luisa e Walter morreram nos barracões de Laguna. A lista de bordo e os sepultamentos desmentem essas afirmações. Por isso, neste livro, ele vale como tradição, não como fonte. Aos documentos se somam a fotografia de despedida *"Zum Andenken! vor unserer Abreise nach Brasilien, 7. März 1913"* e a lista de passageiros do vapor *Formosa*, assinada no Rio de Janeiro em 26 de março de 1913. Há também os testemunhos orais que ouvi diretamente: o de meu pai, Baldoíno, sobre o traslado dos restos dos irmãos de Anitápolis para Ituporanga, e o de meu avô Fernando Dörner, sobre os anos de Vidal Ramos. Há ainda o assento nº 47 de 1884 do registro civil de Leonberg, hoje Maxhütte-Haidhof; o batismo de Joseph Haas em Stoffen, em 1847; e quatro assentos dos livros paroquiais de St. Peter und Paul, em Moosbach (1859, 1861, 1884 e 1888).
 
-Para os ramos Doerner, Preiss, Michels, Arend e Loch, usei os registros reunidos no FamilySearch e os estudos de Toni Jochem e colaboradores sobre as colônias de São Pedro de Alcântara, Santa Isabel e Piedade. Também entram o Recenseamento de 1920, a imagem do assento do casamento de Carlos Dörner com Hulda Peters, em 1900, e as certidões de óbito de Fernando Dörner e Gertrudes Preiss, em Brusque.
+Para os ramos Doerner, Preiss, Michels, Arns e Loch, usei os registros reunidos no FamilySearch e os estudos de Toni Jochem e colaboradores sobre as colônias de São Pedro de Alcântara, Santa Isabel e Piedade. Também entram o Recenseamento de 1920, a imagem do assento do casamento de Carlos Dörner com Hulda Peters, em 1900, e as certidões de óbito de Fernando Dörner e Gertrudes Preiss, em Brusque.
 
 Para os ramos de Bárbara — Lohmann, Schnack, Endres, Hoeveler e Funke —, usei o acervo fotográfico da família e os registros do FamilySearch. Somam-se a eles os dossiês da CAPEF de Estrela sobre as famílias fundadoras e a história da Fazenda Lohmann, em Roca Sales. Por fim, há as reportagens e homenagens ao Dr. Carlos Heinz Funke, em Joinville, e o perfil topográfico e hidrológico da Casa Lohmann, em Palmas, Arroio do Meio.
 
@@ -24,7 +24,7 @@ Quase todos esses materiais estão no repositório digital da árvore genealógi
 
 **A madrinha da Mota.** A tradição fala da tia Katharina Meier, mas o livro de batismos de Moosbach traz *Kath. Reichenberger, Bäuerin von Burgtreswitz*, e o batismo no mesmo dia do nascimento.
 
-**Eibenstock.** Como um pedreiro de Leonberg e uma moça de Heumaden foram se casar, em 1907, numa cidade da Saxônia?
+**Eibenstock.** Como um pedreiro de Leonberg e uma moça de Heumaden foram se casar, em 1907, numa cidade da Saxônia? A família lembra que eles moravam em Chemnitz quando partiram, e guardou cartas vindas de Falkenstein, no Vogtland; Eibenstock fica entre os dois. Os papéis que podem responder são o registro de casamento do *Standesamt* de Eibenstock e, se os primeiros filhos nasceram na Saxônia, os registros de nascimento e óbito de Chemnitz.
 
 **Ignazia Loch.** A data de 1828, em São Pedro de Alcântara, é anterior à fundação da colônia, e por isso tem de ser aproximada.
 
@@ -40,6 +40,6 @@ Quase todos esses materiais estão no repositório digital da árvore genealógi
 
 **Os doze filhos de Francisco Jacob Lohmann.** As datas de nascimento e as grafias dos nomes não fecham entre si.
 
-**O Haas de Leonberg.** Um homem nascido em Leonberg em 1941, que ainda vivia na cidade em 2018, carrega o sobrenome do *Fata*. O parentesco é provável e não foi comprovado. Este livro é também uma carta possível para ele.
+**O Haas de Leonberg.** Um homem nascido em Leonberg em 1941 aparecia nos registros da cidade em 2018 com o sobrenome do *Fata*. Na visita, as informações se contradisseram: uma pessoa disse que o primo do meu pai estava vivo; os vizinhos, que tinha morrido e que as filhas moram na Áustria. O parentesco é provável e não foi comprovado. Este livro é também uma carta possível para ele.
 
 Correções, fotografias e lembranças são bem-vindas. A árvore nunca termina; ela apenas muda de mãos.

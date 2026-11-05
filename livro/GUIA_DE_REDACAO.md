@@ -116,7 +116,7 @@ Documento de referência para escrever os capítulos. Ele resolve os conflitos e
 - Não nomeie o Haas de Leonberg nascido em 1941.
 - Pessoas vivas da família próxima (Reinaldo, Bárbara, Matheus, Lucas, Ilusca, Katherine, Agenor, Marise) podem ser nomeadas como no roteiro, sem detalhes íntimos novos.
 
-## 8. Estrutura final (18 capítulos)
+## 8. Estrutura final (19 capítulos; o 14, "O Fio do Tempo", sobre o clima, foi incluído em nov/2026)
 
 | Arquivo | Conteúdo |
 | :--- | :--- |

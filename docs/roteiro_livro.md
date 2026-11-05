@@ -49,7 +49,7 @@ flowchart LR
     classDef presente fill:#701a75,stroke:#f472b6,stroke-width:2px,color:#ffffff;
     classDef filhos fill:#14532d,stroke:#4ade80,stroke-width:3px,color:#ffffff;
 
-    E1["<b>Renânia & Mosela</b><br/>Hermeskeil, Schweich, Pünderich<br/><i>Michels, Preis, Arend</i>"]:::europa --> N1["⛵ <b>1828 & 1847</b><br/><i>Johanna Jakobs / Luiza<br/>Brigue Sardo Eridano</i>"]:::navio
+    E1["<b>Renânia & Mosela</b><br/>Hermeskeil, Schweich, Pünderich<br/><i>Michels, Preis, Arns</i>"]:::europa --> N1["⛵ <b>1828 & 1847</b><br/><i>Johanna Jakobs / Luiza<br/>Brigue Sardo Eridano</i>"]:::navio
     E2["<b>Solingen & Vestfália</b><br/><i>Doerner, Lauterjung,<br/>Eller, Knopker</i>"]:::europa --> N2["⛵ <b>Séc. XIX</b><br/><i>RS ➔ Sul de SC</i>"]:::navio
     E3["<b>Baviera (Oberpfalz)</b><br/>Sandberg/Leonberg & Heumaden<br/><i>Haas, Dengler, Meier, Voit</i>"]:::europa --> N3["🚢 <b>Março de 1913</b><br/><i>Vapor Formosa<br/>Marselha ➔ Laguna</i>"]:::navio
     E4["<b>Raízes Alemãs Maternas</b><br/><i>Funke & Hoeveler</i>"]:::europa --> N4["🌎 <b>Imigração & Legado</b><br/><i>Vô Erno, Oma Rosita,<br/>Oma Dora, Vó Lise</i>"]:::navio
@@ -134,9 +134,9 @@ Cada Parte abre com uma página no formato de um boletim de previsão — o leit
 - **Johann "Fata" Haas** (1884–1969) e **Maria "Mota" Meier Haas** (1888–1973) (G4) — os protagonistas históricos.
 - Filhos: Hildegard e Frida (†Alemanha), Luisa/"Lina" e Walter/"Valter" (†Rio do Ouro, Anitápolis; trasladados para Ituporanga), Gertrudes (1913), Fernando (1915), Alexandre (1917), Agnes/Inês (1920), Elza (1922), **Baldoíno** (1924), Maria (1926), João (1932, falecido criança).
 
-**Ramo Doerner–Preiss–Michels–Arend (Renânia/Vestfália → 1828/1847)**
-- **Nikolaus Arend (Arns)** (G7) — imigrante de 1847, Lote 38 de Santa Isabel.
-- **Anton Michels** (1822–1874) e **Angela Catharina Arend** (1827–1924) (G6).
+**Ramo Doerner–Preiss–Michels–Arns (Renânia/Vestfália → 1828/1847)**
+- **Nikolaus Arns (Arns)** (G7) — imigrante de 1847, Lote 38 de Santa Isabel.
+- **Anton Michels** (1822–1874) e **Angela Catharina Arns** (1827–1924) (G6).
 - **Bernard Preis** (1827–1893) e **Ignazia Loch** (*1828) (G6).
 - **Guilherme Dorner** e **Joanna Lauterjung**; **Franz Adam Eller** e **Anna Maria Knopker** (G6).
 - **Emanuel Preis** (1864–1927) e **Helena Michels** (1864–1945); **Carlos Doerner** (*1854) e **Anna Eller** (*1858) (G5).
@@ -155,10 +155,10 @@ Cada Parte abre com uma página no formato de um boletim de previsão — o leit
 | Ano | Tempo Histórico | Tempo Presente | Cap. |
 | :--- | :--- | :--- | :---: |
 | 1822 | Nasce Anton Michels em Hermeskeil | | 8 |
-| 1827 | Nascem Angela C. Arend (Pünderich) e Bernard Preis (Schweich) | | 8–9 |
+| 1827 | Nascem Angela C. Arns (Pünderich) e Bernard Preis (Schweich) | | 8–9 |
 | **1828** | Anton Michels (6 anos) chega a Desterro; fundação de São Pedro de Alcântara (1829) | | 8 |
 | 1832 | Batismo de Franz Adam Eller na Vestfália | | 10 |
-| **1847** | Nikolaus Arend chega no brigue *Eridano*; Lote 38 em Santa Isabel | | 9 |
+| **1847** | Nikolaus Arns chega no brigue *Eridano*; Lote 38 em Santa Isabel | | 9 |
 | 1854 | Nasce Carlos Doerner em Solingen | | 10 |
 | 1859 / 1861 | Nascem Georg Adam Meier e Franziska Voit | | 4, 15 |
 | 1864 | Nascem Emanuel Preis e Helena Michels | | 9 |
@@ -198,7 +198,7 @@ Cada Parte abre com uma página no formato de um boletim de previsão — o leit
   1. O laboratório: a animação de satélite de uma frente fria subindo do Prata; o hábito profissional de perguntar *"de onde veio esta massa de ar?"*.
   2. A casa: os dois meninos à mesa; um traço de rosto que lembra o avô Baldoíno, outro que lembra os Funke.
   3. **A pergunta fundadora:** De quantas aldeias, portos, ofícios e milagres de sobrevivência são feitos dois meninos catarinenses do século XXI?
-  4. **O pacto da jornada:** não deixar que o tempo apague as vozes dos avós — transformar lembranças soltas de mesa de domingo, pastas de fotografias amareladas, e-mails de primos distantes e viagens de férias numa grande expedição pelas raízes paternas (**Haas, Meier, Voit, Doerner, Eller, Preiss, Loch, Michels, Arend**) e maternas (**Funke, Hoeveler**).
+  4. **O pacto da jornada:** não deixar que o tempo apague as vozes dos avós — transformar lembranças soltas de mesa de domingo, pastas de fotografias amareladas, e-mails de primos distantes e viagens de férias numa grande expedição pelas raízes paternas (**Haas, Meier, Voit, Doerner, Eller, Preiss, Loch, Michels, Arns**) e maternas (**Funke, Hoeveler**).
   5. *Flash-forward* breve (um parágrafo): um cartório coberto de neve na Baviera, um livro de 1884 se abrindo — sem revelar o que há dentro.
 - **Imagem atmosférica:** a retrotrajetória (*back-trajectory*) — o cálculo que, a partir de uma parcela de ar, refaz o caminho dela para trás no tempo. O livro inteiro é uma retrotrajetória.
 - **Gancho:** *"Comecei, como todo meteorologista, pela estação mais próxima: a casa dos meus pais, em Vidal Ramos."*
@@ -314,7 +314,7 @@ Cada Parte abre com uma página no formato de um boletim de previsão — o leit
 ---
 
 ### PARTE III — Os Pioneiros de 1828, os Vales do Mosela e as Lâminas de Solingen (O Ramo Materno de Reinaldo)
-*Recuando quase duzentos anos até os primeiros veleiros germânicos de Santa Catarina: Doerner, Eller, Preiss, Loch, Michels e Arend.*
+*Recuando quase duzentos anos até os primeiros veleiros germânicos de Santa Catarina: Doerner, Eller, Preiss, Loch, Michels e Arns.*
 
 > **Abertura de Parte (Presente):** Dona Adelina, ao final do vídeo de 2012, diz: *"A minha gente chegou muito antes da de teu pai."* É ela quem conduz o leitor para 1828.
 
@@ -336,8 +336,8 @@ Cada Parte abre com uma página no formato de um boletim de previsão — o leit
 - **Tempo/Voz:** Histórico (1827–1924), 3ª pessoa — Angela Catharina como ponto de vista; é a heroína feminina da Parte III, espelho da *Mota*.
 - **Abertura:** *PÜNDERICH, MOSELA — 5 DE DEZEMBRO DE 1827.* Vinhedos em encosta, o rio fazendo sua curva.
 - **Beats:**
-  1. A curva do Mosela em **Pünderich (Cochem-Zell)**: nasce **Angela Catharina Arend**.
-  2. **05 de janeiro de 1847:** a travessia de seu pai, **Nikolaus Arend (Arns)**, no brigue sardo ***Eridano*** e na sumaca ***14 de Novembro*** até Desterro; o **Lote nº 38** na Primeira Linha Velha (**Loeffelscheidt**, Rio dos Bugres, **Colônia Santa Isabel / Águas Mornas**).
+  1. A curva do Mosela em **Pünderich (Cochem-Zell)**: nasce **Angela Catharina Arns**.
+  2. **05 de janeiro de 1847:** a travessia de seu pai, **Nikolaus Arns (Arns)**, no brigue sardo ***Eridano*** e na sumaca ***14 de Novembro*** até Desterro; o **Lote nº 38** na Primeira Linha Velha (**Loeffelscheidt**, Rio dos Bugres, **Colônia Santa Isabel / Águas Mornas**).
   3. O casamento com Anton Michels; os filhos; a vida na colônia.
   4. A viuvez em **1874** em Vargem Grande e sua marcha com os filhos para **Vargem do Cedro (São Martinho)**.
   5. O enlace de sua filha **Helena Michels** (1864–1945) com **Emanuel (Manoel) Preis** (1864–1927), origem de **Gertrudes Preiss** (*1896).
@@ -412,7 +412,7 @@ Cada Parte abre com uma página no formato de um boletim de previsão — o leit
 #### Capítulo 14: O Que Se Herda  `[4.000 palavras]`
 - **Tempo/Voz:** Presente, 1ª pessoa; ensaio narrativo.
 - **Beats:**
-  1. **A terra:** a partilha igualitária (*Realteilung*) do Mosela e do Hunsrück frente ao herdeiro único (*Anerbenrecht*) da Baviera e da Vestfália, como motores das emigrações (Michels, Arend, Preis × Georg Haas, oleiro de Stoffen, e Josef, operário da Maximilianshütte).
+  1. **A terra:** a partilha igualitária (*Realteilung*) do Mosela e do Hunsrück frente ao herdeiro único (*Anerbenrecht*) da Baviera e da Vestfália, como motores das emigrações (Michels, Arns, Preis × Georg Haas, oleiro de Stoffen, e Josef, operário da Maximilianshütte).
   2. **O lote colonial:** famílias de 11, 12 e 15 filhos; o filho que fica com os pais e os que partem (Paraná, Oeste); as 24 colônias da Fazenda Lohmann; Ellen Woortmann, *Herdeiros, parentes e compadres* (1995).
   3. **Heranças imateriais:** o ofício (gesso e prumo, rodas, lâminas, magistério, medicina), a fé (católicos e luteranos; a "religião mista" de 1900), a língua (silenciada em 1941, reaprendida para ler *Kurrentschrift*) e os nomes (o *Leocádia* de Miguelina para Ilusca).
   4. **A herança do risco:** casas e lotes à beira de rios que voltam a subir.
@@ -481,7 +481,7 @@ Cada Parte abre com uma página no formato de um boletim de previsão — o leit
   2. A morte de Dona Adelina em **fevereiro de 2019** — um ano depois da expedição.
   3. De volta a Florianópolis e ao Sítio das Andorinhas: o código em Python, os documentos escaneados e o repositório digital como cápsula do tempo viva.
   4. **Carta final aos filhos Matheus e Lucas:**
-     - *"Vocês carregam nas mãos o prumo de pedreiro e a arte em gesso de Johann Haas; a doçura silenciosa de Maria Meier; as rodas de madeira de Heumaden; o aço das forjas de Solingen dos Doerner e Lauterjung; a coragem de um menino de seis anos chamado Anton Michels desembarcando em Desterro em 1828; a longevidade de quase um século de Angela Catharina Arend; e a luz, a música e o afeto dos Funke e dos Hoeveler."*
+     - *"Vocês carregam nas mãos o prumo de pedreiro e a arte em gesso de Johann Haas; a doçura silenciosa de Maria Meier; as rodas de madeira de Heumaden; o aço das forjas de Solingen dos Doerner e Lauterjung; a coragem de um menino de seis anos chamado Anton Michels desembarcando em Desterro em 1828; a longevidade de quase um século de Angela Catharina Arns; e a luz, a música e o afeto dos Funke e dos Hoeveler."*
   5. A árvore nunca termina: ela apenas muda de mãos. Agora a bússola é deles. *(Última imagem possível: os anjos de gesso de Aurora, ou um mapa de vento com todas as setas convergindo para Florianópolis.)*
 
 ---

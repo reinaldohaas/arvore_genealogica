@@ -1,4 +1,4 @@
-## Capítulo 17 — A Estrada para Heumaden e a Letra Gótica de Moosbach {#cap-17}
+## Capítulo 18 — A Estrada para Heumaden e a Letra Gótica de Moosbach {#cap-18}
 
 *49,6° N · 12,4° E — Moosbach, Alto Palatinado (Heumaden, Rückersrieth, Burgtreswitz)*
 

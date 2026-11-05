@@ -1,4 +1,4 @@
-## Capítulo 18 — Com os Pés no Meridiano Zero {#cap-18}
+## Capítulo 19 — Com os Pés no Meridiano Zero {#cap-19}
 
 *51,48° N · 0,00° — Observatório Real, Greenwich, Londres*
 
@@ -38,7 +38,7 @@ O ponto mais oriental de todos é a Baviera. Stoffen, a aldeia do oleiro Georg H
 
 Um pouco a oeste e ao norte, a Baixa Saxônia: Harderode, a terra dos Lohmann, perto de Hameln, a 52 norte e 9,4 leste, e mais ao norte ainda Schleswig-Holstein, de onde vieram os Schnack. São a família da mãe de vocês.
 
-Depois, descendo para o sudoeste, a Renânia e o Mosela, a terra dos que vieram primeiro. Solingen, a cidade das lâminas, de onde a tradição faz vir os Doerner e os Lauterjung, a 51,2 norte e 7,1 leste — quase exatamente a latitude de Greenwich, onde eu estava. Pünderich, na curva do Mosela, a terra de Angela Catharina Arend, a 50 norte e 7,1 leste. Hermeskeil, onde nasceu o menino Anton Michels, e Schweich, de Bernard Preis, os dois perto de Trier, a uns 49,7 norte e menos de 7 graus leste.
+Depois, descendo para o sudoeste, a Renânia e o Mosela, a terra dos que vieram primeiro. Solingen, a cidade das lâminas, de onde a tradição faz vir os Doerner e os Lauterjung, a 51,2 norte e 7,1 leste — quase exatamente a latitude de Greenwich, onde eu estava. Pünderich, na curva do Mosela, a terra de Angela Catharina Arns, a 50 norte e 7,1 leste. Hermeskeil, onde nasceu o menino Anton Michels, e Schweich, de Bernard Preis, os dois perto de Trier, a uns 49,7 norte e menos de 7 graus leste.
 
 E então, a linha zero. Greenwich. O único lugar desta lista que não tem nada a ver com a família, a não ser o fato de eu ter estado ali.
 
@@ -56,7 +56,7 @@ O Tubarão, que desce da serra e deságua na laguna, e que em março de 1974 mat
 
 Os imigrantes se instalaram à beira dos rios porque a água era estrada, era força para o moinho, era terra plana e fértil nas várzeas. E porque não sabiam. Ninguém lhes contou que aqueles rios podiam subir mais de dez metros em poucos dias. Os três rios da família são alimentados pela mesma máquina atmosférica: a umidade que vem da Amazônia, carregada para o sul por uma corrente de vento que corre baixa, a leste dos Andes; as frentes que estacionam sobre o Sul do Brasil; os ciclones que se formam na costa; e, nos anos de El Niño, a chuva que não para. Três rios, uma só chuva. É o meu trabalho estudar essa chuva. Não escolhi esse trabalho por causa da família. Mas, depois de escrever este livro, não consigo mais separar uma coisa da outra.
 
-E houve a herança, que foi o assunto do capítulo 14. Na Europa, a terra que se dividia até não sobrar nada, no Mosela e no Hunsrück, empurrando os Michels, os Arend e os Preis para o mar; e a terra que passava inteira a um só filho, na Baviera antiga, empurrando os outros para as olarias e as usinas, como o oleiro Georg e o operário Josef. No Brasil, o lote colonial e as famílias de dez, doze, quinze filhos — o Fata teve onze, o trisavô Carlos Doerner teve quinze, Francisco Lohmann teve doze — e, outra vez, a necessidade de partir: para o Alto Vale, para o Oeste, para o Paraná. Em quase todos os ramos há gente que não ficou com a terra e por isso andou. Vocês são o resultado de muitos que não herdaram. E herdaram outra coisa.
+E houve a herança, que foi o assunto do capítulo 15. Na Europa, a terra que se dividia até não sobrar nada, no Mosela e no Hunsrück, empurrando os Michels, os Arns e os Preis para o mar; e a terra que passava inteira a um só filho, na Baviera antiga, empurrando os outros para as olarias e as usinas, como o oleiro Georg e o operário Josef. No Brasil, o lote colonial e as famílias de dez, doze, quinze filhos — o Fata teve onze, o trisavô Carlos Doerner teve quinze, Francisco Lohmann teve doze — e, outra vez, a necessidade de partir: para o Alto Vale, para o Oeste, para o Paraná. Em quase todos os ramos há gente que não ficou com a terra e por isso andou. Vocês são o resultado de muitos que não herdaram. E herdaram outra coisa.
 
 ### Os Andes, brevemente
 

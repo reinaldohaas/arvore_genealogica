@@ -49,14 +49,14 @@ PARTES = [
      "Ar úmido subindo o Vale do Taquari. Correntes contínuas entre Joinville, "
      "Estrela e Arroio do Meio. Microclimas de família.",
      ["11", "12"]),
-    ("V", "Três Rios e uma Herança",
-     "Alerta hidrológico para as bacias do Tubarão, do Itajaí e do Taquari. "
+    ("V", "Três Rios, o Clima e uma Herança",
+     "Alerta hidrológico para as bacias do Tubarão, do Itajaí e do Taquari; granizo na Ilha. "
      "Tempo de retorno: uma geração.",
-     ["13", "14"]),
+     ["13", "14", "15"]),
     ("VI", "Inverno na Baviera",
      "Anticiclone continental sobre a Europa Central. Temperaturas negativas. "
      "Céu limpo para a leitura de arquivos.",
-     ["15", "16", "17", "18"]),
+     ["16", "17", "18", "19"]),
 ]
 
 PANDOC = shutil.which("pandoc") or "pandoc"
