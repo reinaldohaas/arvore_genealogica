@@ -6,6 +6,14 @@ Feita sobre o commit `dc20bb0` e a cópia de trabalho do mesmo dia, que tem alte
 
 Desta vez abri também as imagens que faltavam: os três batismos (Josef, Georg Adam, Franziska), o de Maria, o assento 23/1900 e os dois óbitos de Brusque. Os capítulos foram rechecados por busca nos pontos de cada item, não relidos por inteiro. O capítulo novo `14_o_fio_do_clima.md` e a maior parte das respostas do Antigravity não foram auditados.
 
+### Execução de 05/11/2026, pedida pelo autor
+
+- **R1 e R2 feitos nos arquivos locais; ainda falta publicar.** Os dois GEDCOM públicos passaram de 699 para 177 pessoas e de 178 para 41 famílias. Ficaram só pessoas com óbito ou sepultamento registrado. Saíram 522 pessoas sem esse registro e com nascimento, real ou estimado, em 1926 ou depois. Também saíram o endereço, as notas copiadas da planilha e os vivos citados em notas. Por isso, o lado Haas e o lado Funke ficam sem ligação entre si no arquivo público. A cópia anterior está em `privado/arvore_publica_antes_da_limpeza_2026-11-05.ged`. **O histórico do git ainda guarda a versão antiga.**
+- **R4 e R7 feitos.** Saíram datas estimadas (`ABT`) de registros sem nenhuma fonte e lugares de nascimento ou morte sem data, sem citação e ausentes da exportação de 04/11. Os lugares especulativos de Hildegart, Frida, Ignazia e Anna Eller também saíram. "Filho(a) 3 e 4" foram removidos com os vivos. "Pai Funke" virou Oscar Martin Funke e Dora recebeu o nome completo, com datas do FamilySearch (PXPR-TY7, PXPT-X3Q).
+- **R8 feito.** Luisa e Walter são o nome principal, com notas refeitas.
+- **R5 resolvido pelo autor:** *Ökonom* = agricultor. Glosas ajustadas nos caps. 4 e 18, no README e no GEDCOM.
+- **Limite:** os critérios são automáticos e não provam quem está vivo. O FamilySearch marca como falecidos alguns nomes sem data (`DEAT Y`), e isso foi aceito como registro de óbito.
+
 ### A. Falhas novas ou ainda não listadas
 
 | # | O que está errado | Onde | Como resolver | Prior. |
@@ -139,8 +147,8 @@ Pela planilha, são 63 netos, assim distribuídos: Gertrudes 9, Fernando 7, Alex
 
 | # | O que falta | Onde deveria entrar | Fonte | Prior. |
 |---|---|---|---|---|
-| 1.11 | **Os irmãos do autor, tios de Matheus e Lucas**, nunca aparecem: Arnaldo, Márcio, Sílvio, Marlise, Marlene, Maria, Marilda, Marise, João, Ricardo, Reinaldo e Hilton (12 filhos de Baldoíno e Adelina). Num livro dirigido a Matheus e Lucas, os tios paternos estão ausentes. Também não há o ano de nascimento de nenhum deles. | Cap. 1 ("A Casa de Vidal Ramos": a mesa, as Bodas) e um quadro no epílogo | Planilha; certidões; o próprio autor. | **A** |
-| 1.12 | **Os primos-irmãos do autor, por ramo**, só nomes e anos: Gertrudes (Bertoldo, Arnoldo, Inês, Rainoldo, Frida, Rainildes, Leopoldo, Terezinha, Maria); Fernando (Yolanda, Irene, Valdemar, Lone Isolde, Norma, Antônio, Nelson); Alexandre (Agenor 1943, Marlith 1945, Jaime 1948, Lauro, Maria Ester, João Walter, Roni José 1961–1964, Beatriz 1965); Agnes (Hildegart, Edelberto, Edite, Eduardo, Edmundo, Melita, Maria, Isolde, Bernardete, Idalina, Roberto, Bernardo, Inês); Elza (Leoni, Olga, Roberto, Vera, Edite, Carlos Ernesto); Maria (Vanio José, Marli, Áuria, José Lino, Danilo, Ivone, João Martin, Cláudio Fernando). O livro poderia ter um apêndice "Os 63 netos" com nome, ano e ramo, sem dados de contato, e indicar quais já faleceram. | Cap. 3 (planilha de Londrina), cap. 7 ("Ribeirão das Pacas": os netos de Agnes e Maria) e apêndice | Planilha; consentimento dos primos vivos. | M |
+| 1.11 | **Os irmãos do autor, tios de Matheus e Lucas**, nunca aparecem (12 filhos de Baldoíno e Adelina; nomes na planilha privada). Num livro dirigido a Matheus e Lucas, os tios paternos estão ausentes. Também não há o ano de nascimento de nenhum deles. | Cap. 1 ("A Casa de Vidal Ramos": a mesa, as Bodas) e um quadro no epílogo | Planilha; certidões; o próprio autor. | **A** |
+| 1.12 | **Os primos-irmãos do autor, por ramo**: Gertrudes 9, Fernando 7, Alexandre 8, Agnes 13, Elza 8 (com repetições por recasamento) e Maria 8; nomes na planilha privada. O livro poderia ter um apêndice "Os 63 netos" com nome, ano e ramo, sem dados de contato, e indicar quais já faleceram. | Cap. 3 (planilha de Londrina), cap. 7 ("Ribeirão das Pacas": os netos de Agnes e Maria) e apêndice | Planilha; consentimento dos primos vivos. | M |
 | 1.13 | **Os netos que guardam a memória dos avós** (filhos de Agnes e Maria, em Ribeirão das Pacas) são citados como fonte coletiva (2:49, 7:77), mas nenhum foi entrevistado nem nomeado. | Cap. 2 e cap. 7 | Entrevistas gravadas. | M |
 | 1.14 | **Quem era o "neto de vigia" do rádio no porão (1942–43)?** O cap. 7:17 não identifica. Em 1942 só os filhos de Gertrudes (n. 1913) e de Fernando (n. 1915) poderiam ter idade para isso; os anos de nascimento desses netos não estão na planilha. | Cap. 7 | Anos dos netos mais velhos e entrevista. | B |
 
