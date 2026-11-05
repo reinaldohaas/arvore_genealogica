@@ -22,7 +22,7 @@ Logo depois, ela faz uma observação que me pareceu, na época, apenas uma gent
 
 Só fui entender a precisão dessa lista meses depois, quando a comparei com outra fonte. Mas já na primeira leitura ela me tocou por outro motivo. Eu tinha passado anos pensando na minha genealogia como uma linha, a linha Haas, que subia de mim para meu pai, do meu pai para o *Fata*, do *Fata* para a Baviera. Marise estava dizendo, com toda a delicadeza, que essa linha não existia sozinha. Que cada geração tinha sido feita pelo encontro de duas famílias, e que a metade que não levava o sobrenome era tão responsável pelo resultado quanto a outra. Era a mesma coisa que eu tinha visto à mesa de Vidal Ramos, entre os Haas do meu pai e os Doerner da minha mãe. Agora estava escrita.
 
-![Irmãos Haas reunidos para um retrato de estúdio, diante de uma cortina: quatro mulheres e três homens já maduros, ao que tudo indica os sete filhos de Johann e Maria que chegaram à idade adulta. A data e a ordem dos irmãos na foto ainda estão por confirmar. Acervo da família.](imagens/haas_irmaos_reunidos.jpg){width=85%}
+![Irmãos Haas reunidos para um retrato de estúdio, diante de uma cortina: quatro mulheres e três homens já maduros: os sete filhos de Johann e Maria que chegaram à idade adulta, entre eles Baldoíno, o meu pai. A data e a posição de cada irmão na foto ainda estão por anotar. Acervo da família. Versão restaurada com IA; o original está no repositório, e detalhes dos rostos podem ter sido retocados.](imagens/haas_irmaos_reunidos_restaurada.jpg){width=85%}
 
 ### O texto e o que ele não diz
 

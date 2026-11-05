@@ -24,7 +24,7 @@ Quase todos esses materiais estão no repositório digital da árvore genealógi
 
 **A madrinha da Mota.** A tradição fala da tia Katharina Meier, mas o livro de batismos de Moosbach traz *Kath. Reichenberger, Bäuerin von Burgtreswitz*, e o batismo no mesmo dia do nascimento.
 
-**Eibenstock.** Como um estucador de Leonberg e uma moça de Heumaden foram se casar, em 1907, numa cidade da Saxônia?
+**Eibenstock.** Como um pedreiro de Leonberg e uma moça de Heumaden foram se casar, em 1907, numa cidade da Saxônia?
 
 **Ignazia Loch.** A data de 1828, em São Pedro de Alcântara, é anterior à fundação da colônia, e por isso tem de ser aproximada.
 
@@ -36,7 +36,7 @@ Quase todos esses materiais estão no repositório digital da árvore genealógi
 
 **Anna Eller.** O nascimento "em 1858, no Rio Grande do Sul" é um dado gerado pelo FamilySearch, sem fonte. Os irmãos nasceram na Alemanha (1860) e em São Bonifácio (1866 e 1869). Falta o batismo dela.
 
-**Fernando Dörner em Vidal Ramos.** Os registros dos filhos situam a família em Vidal Ramos de 1929 ou 1930 até pelo menos 1948. As milícias de que participou, o conflito de terras em que ficou contra os outros colonos, as prisões que se seguiram e a data da mudança para Brusque estão, por ora, só no que ele me contou. Se foram as *Seleções* em português que o fizeram mudar de lado, a mudança é de 1942 ou depois. Os prontuários da polícia política de Santa Catarina estão no Arquivo Público do Estado, e não há ainda uma fotografia dele.
+**Fernando Dörner em Vidal Ramos.** Os registros dos filhos situam a família em Vidal Ramos de 1929 ou 1930 até pelo menos 1948. O perfil escrito por Fábio Sidney Thiesen para o *Jornal Mirim* (2011) dá a chegada em maio de 1927, a serraria de Santa Cruz, o armazém do centro, o tempo como delegado de polícia e a ida para Brusque em 1964. As milícias de que participou, o ano e a companhia do conflito de terras em que ficou contra os outros colonos e os nomes dos presos ainda não têm documento. Se foram as *Seleções* em português que o fizeram mudar de lado, a mudança é de 1942 ou depois. Os prontuários da polícia política de Santa Catarina estão no Arquivo Público do Estado, e dele há uma única fotografia, de por volta de 1927, com Gertrudes e as filhas Hilda Ana e Adelina.
 
 **Os doze filhos de Francisco Jacob Lohmann.** As datas de nascimento e as grafias dos nomes não fecham entre si.
 

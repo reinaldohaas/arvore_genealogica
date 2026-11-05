@@ -20,7 +20,7 @@ O pai de Maria, Georg Adam, era filho de Michael Meier, que em Heumaden exercia 
 
 Depois de Maria vieram mais irmãos: Margaretha em 1890, Josef em 1892, Georg em 1895, Anna em 1898. Uma casa cheia, num lugar onde a terra não se multiplicava. Guardem essa frase, porque ela é a chave deste capítulo inteiro.
 
-![A família da Mota na Alemanha, antes da partida de 1913. Acervo da família; a identificação de cada pessoa ainda está por confirmar.](imagens/meier_familia_da_mota_alemanha.jpg){width=85%}
+![A família da Mota na Alemanha, antes da partida de 1913. Acervo da família; a identificação de cada pessoa ainda está por confirmar. Contraste e tons corrigidos.](imagens/meier_familia_da_mota_alemanha_restaurada.jpg){width=85%}
 
 ### O oleiro de Stoffen
 
@@ -60,7 +60,7 @@ Há aqui uma pequena divergência que preciso registrar, porque o livro inteiro 
 
 Johann não foi filho único. Teve irmãos: Josef, Alois, Georg, Maria, Franziska e Therese. Uma família operária numerosa, numa vila de fábrica. Não sei a ordem dos nascimentos, nem quantos desses irmãos chegaram à idade adulta. Sei que nenhum deles aparece no Brasil.
 
-![A família do Fata na Alemanha, antes de 1913. Acervo da família; a identificação individual de cada pessoa ainda está por confirmar.](imagens/haas_familia_do_fata_alemanha.jpg){width=85%}
+![A família do Fata na Alemanha, antes de 1913. Acervo da família; a identificação individual de cada pessoa ainda está por confirmar. Versão restaurada com IA; o original está no repositório, e detalhes dos rostos podem ter sido retocados.](imagens/haas_familia_do_fata_alemanha_restaurada.jpg){width=85%}
 
 Esta fotografia de estúdio chegou até nós com a legenda genérica de "família do Fata na Alemanha". Há onze pessoas: um casal mais velho sentado ao centro, rodeado de moças de vestidos claros e rapazes de colete e bigode. É tentador dizer que o casal sentado é Josef e Franziska, e que um dos rapazes de pé é Johann. Eu mesmo, olhando para o homem de bigode à esquerda, julguei reconhecer certa geometria do rosto. Mas não sei. Não há nomes no verso que eu conheça. Prefiro deixar a pergunta em aberto, como uma estação sem dados, do que preencher o mapa com um palpite que depois alguém vai citar como certeza.
 
@@ -82,7 +82,7 @@ Tenho uma hipótese, que apresento como hipótese. O trabalho de Johann era itin
 
 O que Marise diz, e o que a família sempre repetiu, é que eles se casaram jovens, "com o sonho tão peculiar a todos nós de formar uma família". Johann tinha vinte e três anos; Maria, dezenove. Marise acrescenta uma frase que eu acho certeira: era ela "quem conhecia a lida do campo e, certamente, o ponto de apoio para a grande jornada que estavam próximos a empreender". O homem do gesso e a mulher do curral. Um sabia fazer anjos; a outra sabia fazer o leite render.
 
-![Fotografia de casamento da família da Mota na Alemanha, numa clareira de floresta. Acervo da família; o casal e os demais retratados ainda não foram identificados com segurança.](imagens/meier_familia_da_mota_alemanha_casamento.jpg){width=85%}
+![Fotografia de casamento da família da Mota na Alemanha, numa clareira de floresta. Acervo da família; o casal e os demais retratados ainda não foram identificados com segurança. Versão colorizada e restaurada com IA (MyHeritage); as cores são uma reconstrução, e o original em preto e branco está no repositório.](imagens/meier_familia_da_mota_alemanha_casamento_restaurada.jpg){width=85%}
 
 Esta outra fotografia sempre me intrigou. É um casamento, tirado ao ar livre, numa clareira entre abetos e bétulas: a noiva de véu e buquê, o noivo de bigode fino, dois homens de cartola, uma dúzia de crianças sentadas na grama com roupas de domingo, senhoras de preto e moças de branco. Chegou até mim como "casamento da família da Mota". Seria o casamento de Johann e Maria? Seria o de um irmão ou irmã dela? Não sei. A noiva não me parece ter dezenove anos, mas fotografias antigas envelhecem as pessoas, e eu não confio no meu olho para isso. Coloco-a aqui pelo que ela mostra com certeza: aquela gente, numa floresta muito parecida com as de Heumaden, reunida para celebrar uma família que começava.
 
@@ -110,7 +110,7 @@ Para um jovem pai de família, a guerra significava uma coisa muito concreta: o 
 
 Do outro lado do oceano, havia o Brasil. Desde o fim do século XIX, o governo brasileiro e os governos estaduais do Sul faziam propaganda na Europa para atrair colonos: terra a preço baixo, pagável em prestações, ferramentas, sementes, auxílio nos primeiros meses. Em Santa Catarina, o governo federal havia aberto pouco antes um núcleo colonial no interior, nas encostas da serra, com o nome de Anitápolis, em homenagem a Anita Garibaldi, a heroína de Laguna. É para lá que os Haas iriam, ainda que isso não estivesse claro no dia em que decidiram partir. Marise escreve que eles iam "para o paraíso" — com aspas que são dela, e que trazem toda a ironia de quem sabe o que veio depois.
 
-Mas eu suspeito que a terra, ela mesma, tenha sido o argumento decisivo. Um estucador filho de operário e uma ordenhadeira filha de um pequeno lavrador com sete filhos: nenhum dos dois ia herdar um pedaço de chão na Baviera. Nem que vivessem cem anos. O *Anerbenrecht* tinha fechado essa porta antes mesmo que eles nascessem. No Brasil, diziam os folhetos, havia lotes coloniais esperando por quem quisesse trabalhar. Para quem não tinha terra, essa promessa era maior do que qualquer outra.
+Mas eu suspeito que a terra, ela mesma, tenha sido o argumento decisivo. Um pedreiro filho de operário e uma ordenhadeira filha de um pequeno lavrador com sete filhos: nenhum dos dois ia herdar um pedaço de chão na Baviera. Nem que vivessem cem anos. O *Anerbenrecht* tinha fechado essa porta antes mesmo que eles nascessem. No Brasil, diziam os folhetos, havia lotes coloniais esperando por quem quisesse trabalhar. Para quem não tinha terra, essa promessa era maior do que qualquer outra.
 
 Marise insiste num ponto que eu acho importante e que não quero apagar: a decisão "não foi arbitrária nem unilateral". Os dois vinham de famílias sólidas, nas quais "o peso da opinião dos pais era tão grande quanto o respeito que os filhos tinham por eles". Houve conversas, opiniões contra e a favor. Imagino a mesa da cozinha em Heumaden, numa noite de inverno, com Georg Adam e Franziska ouvindo a filha dizer que ia embora com o marido e os netos para um país do qual mal sabiam o nome da capital. Imagino o silêncio depois.
 

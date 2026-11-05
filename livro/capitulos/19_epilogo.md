@@ -62,7 +62,7 @@ Não estou pedindo que vocês sejam genealogistas. Sejam o que quiserem. O texto
 
 Na minha profissão, quando queremos saber de onde veio uma massa de ar, fazemos uma retrotrajetória: partimos do ponto onde ela está e calculamos o caminho para trás, hora a hora, até a origem. Este livro inteiro foi uma retrotrajetória. Parti de vocês, em Florianópolis, e voltei, passo a passo, até uma olaria em Stoffen, um prado de feno em Heumaden, uma forja em Solingen, uma curva do Mosela. Agora que cheguei ao fim, entrego o modelo a vocês para que o rodem no outro sentido. Para a frente. Para onde eu não posso ir.
 
-A última imagem que deixo é esta. No cemitério de Aurora, no Alto Vale do Itajaí, há túmulos com anjos de gesso feitos por um estucador de Leonberg que chegou ao Brasil em 1913 com a mulher, dois filhos pequenos e quase nada nas malas. Ele está enterrado ali, ao lado dela, entre os anjos que moldou para os outros. Os anjos não têm nome. Que eu saiba, ele não os assinou. Mas quem sabe olhar reconhece a mão.
+A última imagem que deixo é esta. No cemitério de Aurora, no Alto Vale do Itajaí, há túmulos com anjos de gesso feitos por um fabricante de lápides nascido em Leonberg que chegou ao Brasil em 1913 com a mulher, dois filhos pequenos e quase nada nas malas. Ele está enterrado ali, ao lado dela, entre os anjos que moldou para os outros. Os anjos não têm nome. Que eu saiba, ele não os assinou. Mas quem sabe olhar reconhece a mão.
 
 Vocês sabem olhar agora.
 
