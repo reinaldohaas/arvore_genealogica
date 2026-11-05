@@ -4,7 +4,7 @@
 2 VERS 2026.11
 2 CORP Prof. Dr. Reinaldo Haas (UFSC)
 1 DEST MYHERITAGE
-1 DATE 4 NOV 2026
+1 DATE 5 NOV 2026
 1 SUBM @SUBM1@
 1 FILE arvore_consolidada_myheritage.ged
 1 GEDC
@@ -27,8 +27,6 @@
 1 FAMS @F14@
 1 FAMC @F1@
 1 _FSFTID LYPQ-GW3
-1 NOTE Nascido às 07:00h de 20/06/1965 em Vidal Ramos, SC (Registro Civil Livro 13, fls. 148v, nº 8.235, Oficial Tarcísio Juttel). Casou-se em 30/09/1995 na Igreja da Comunidade Evangélica de Florianópolis, 
-2 CONC SC (Livro B-AUX 6, fls. 195v, nº 2983) com a física Bárbara Funke Haas (* 27/07/1972 Porto Alegre, RS).
 0 @I2@ INDI
 1 NAME Baldoíno /Haas/
 2 GIVN Baldoíno
@@ -301,7 +299,7 @@
 2 DATE 19 MAY 1847
 2 PLAC Stoffen, Pürgen, Landkreis Landsberg am Lech, Oberbayern, Deutschland
 1 CHR
-2 DATE 20 MAY 1847
+2 DATE 19 MAY 1847
 2 PLAC Pfarrkirche Mariä Heimsuchung, Stoffen, Bistum Augsburg, Bayern, Deutschland
 1 DEAT
 2 PLAC Leonberg / Maxhütte-Haidhof, Landkreis Schwandorf, Bayern, Deutschland
@@ -309,8 +307,9 @@
 1 FAMS @F4@
 1 FAMC @F28@
 1 _FSFTID GX1B-XK7
-1 NOTE Nascido às 22:00h de 19/05/1847 em Stoffen e batizado em 20/05/1847 (Taufbuch Stoffen, p. 35; padrinho Josephus Widmann, Söldnerssohn von Pitzling), filho de Georg Haas (Ziegelknecht) e Maria Anna Alb
-2 CONC recht. Migrou para Leonberg (Maxhütte-Haidhof), onde trabalhou como Fabrikarbeiter e declarou de próprio punho o nascimento do filho Johann em 13/07/1884.
+1 NOTE Nascido às 07:00h da manhã (früh 7 Uhr) de 19/05/1847 em Stoffen (casa nº 6) e batizado no mesmo dia, 19/05/1847, pelo Pe. Bernhard Müller (Taufbuch Stoffen, p. 35, 2ª linha; padrinho Joseph Burkhard 
+2 CONC v. Stoffen), filho de Georg Haas (Ziegelknecht) e Maria Anna Albrecht. Migrou para Leonberg (Maxhütte-Haidhof), onde trabalhou como Fabrikarbeiter e declarou de próprio punho o nascimento do filho Joh
+2 CONC ann em 13/07/1884.
 0 @I10@ INDI
 1 NAME Franziska /Dengler/
 2 GIVN Franziska
@@ -406,15 +405,17 @@
 2 SURN Eller
 1 SEX F
 1 BIRT
-2 DATE ABT 1858
-2 PLAC Rio Grande do Sul, Brasil
+2 DATE ABT 1859
+2 PLAC Amelunxen, Kreis Höxter, Westfalen, Preußen, Deutschland (ou São Bonifácio, Santa Catarina, Brasil)
 1 DEAT
-2 DATE ABT 1898
-2 PLAC Imaruí / São Martinho, Santa Catarina, Brasil
+2 DATE BET AUG 1897 AND APR 1900
+2 PLAC São Martinho / Capivari, Santa Catarina, Brasil
 1 FAMS @F6@
 1 FAMC @F12@
 1 _FSFTID K84V-VR2
-1 NOTE 1ª esposa de Carlos Dörner, com quem teve 10 filhos. Faleceu em Imaruí / São Martinho por volta de 1898, pouco depois do nascimento do caçula Fernando Dörner (* 24/08/1897).
+1 NOTE 1ª esposa de Carlos Dörner, com quem teve 8 filhos documentados em batismos e registros civis entre 1878 e 1897. Filha de Franz Adam Eller (bat. 03/03/1832 em St. Peter und Paul, Amelunxen, Kreis Höxt
+2 CONC er, Vestfália) e Anna Maria Knöpker, que imigraram diretamente da Vestfália para São Bonifácio/Teresópolis (SC) entre setembro de 1860 e 1865 (o dado '1858, Rio Grande do Sul' no FamilySearch trazia a
+2 CONC  nota '=== Date and Location are generated ==='). Faleceu entre agosto de 1897 (nascimento do caçula Fernando) e abril de 1900.
 1 SOUR @S100@
 1 SOUR @S114@
 1 SOUR @S107@
@@ -488,9 +489,9 @@
 1 NAME Carlos /Dörner/
 2 GIVN Carlos
 2 SURN Dörner
-1 NAME Carl Reinhard /Doerner/
-2 GIVN Carl Reinhard
-2 SURN Doerner
+1 NAME Carl /Dörner/
+2 GIVN Carl
+2 SURN Dörner
 1 NAME Carlos /Doerner/
 2 GIVN Carlos
 2 SURN Doerner
@@ -502,12 +503,14 @@
 2 PLAC Santa Catarina, Brasil
 1 OCCU Lavrador
 1 FAMS @F6@
-1 FAMS @F30@
+1 FAMS @F33@
 1 FAMC @F13@
 1 _FSFTID GDGT-8H8
-1 NOTE Filho legítimo de Guilherme (Wilhelm) Dörner e Joanna Lauterjung, nascido por volta de 1854/1855 na Europa (no FamilySearch aparece como Carl Reinhard Doerner * 20/11/1854 em Solingen, ficha com nota 
-2 CONC de fusão de homônimos). NÃO foi bígamo nem trígamo: teve duas núpcias legítimas e sucessivas por viuvez. 1º casamento (~1878) com Anna Eller († c. 1898, 10 filhos). 2º casamento em 29/04/1900 na Capel
-2 CONC a de São José em Capivari (Assento nº 23) com Hulda Peters (* 20/08/1870, 5 filhos).
+1 NOTE Filho legítimo de Guilherme (Wilhelm) Dörner e Joanna Lauterjung, nascido por volta de 1854/1855 na Alemanha ('natural de Europa', com 45 anos em 29/04/1900). No FamilySearch (GDGT-8H8), seu perfil fo
+2 CONC i fundido por engano com: (1) o batismo de Carl Reinhard Doerner em 20/11/1854 em Solingen (ark:/61903/1:1:NFWD-9RS); (2) o homônimo Carl Dörner de São Bonifácio/Águas Mornas casado em 09/10/1893 com 
+2 CONC Charlotte Elisabetha Stock (ark:/61903/1:1:XSXL-6D8R); e (3) seu próprio filho Carlos Reinaldo (Reinhard) Dörner (* 03/06/1882 — † 02/10/1953). Nosso bisavô Carlos Dörner teve duas núpcias legítimas e
+2 CONC  sucessivas por viuvez: 1º casamento (c. 1877) com Anna Eller (8 filhos documentados entre 1878 e 1897) e 2º casamento em 29/04/1900 na Capela de São José do Capivari (Assento nº 23, ark:/61903/1:1:6B
+2 CONC GZ-4DDH) com Hulda Maria Peters (6 filhos nascidos entre 1901 e 1906).
 1 SOUR @S140@
 1 SOUR @S136@
 1 SOUR @S124@
@@ -599,7 +602,7 @@
 2 PLAC Antigo Cemitério da Colônia Santa Isabel, Rancho Queimado / Águas Mornas, Santa Catarina, Brasil
 1 OCCU Agricultor e artesão de arreios de couro
 1 FAMS @F8@
-1 FAMC @F31@
+1 FAMC @F36@
 1 _FSFTID LDL7-7XZ
 1 NOTE Primogênito de Mathias Michels e Katharina Britz, com quem imigrou aos 6 anos em 12/11/1828. Em agosto de 1874, quando viajava a cavalo pela estrada entre São Bonifácio e Águas Mornas carregando couro
 2 CONC  para fazer arreios, foi assassinado por salteadores e sepultado no antigo cemitério da Colônia Santa Isabel (Livro Famílias Michels no Brasil, p. 43).
@@ -653,9 +656,9 @@
 2 SURN Knopker
 1 SEX F
 1 BIRT
-2 PLAC Preußen, Deutschland
+2 PLAC Amelunxen / Kreis Höxter, Westfalen, Preußen, Deutschland
 1 DEAT
-2 PLAC Rio Grande do Sul, Brasil
+2 PLAC São Bonifácio / São Martinho, Santa Catarina, Brasil
 1 FAMS @F12@
 1 _FSFTID PFXC-GKP
 0 @I19@ INDI
@@ -665,14 +668,17 @@
 1 SEX M
 1 BIRT
 2 DATE 1832
-2 PLAC Westfalen, Preußen, Deutschland
+2 PLAC Amelunxen, Kreis Höxter, Westfalen, Preußen, Deutschland
 1 CHR
 2 DATE 3 MAR 1832
-2 PLAC St. Peter und Paul, Westfalen, Preußen, Deutschland
+2 PLAC St. Peter und Paul, Amelunxen, Kreis Höxter, Westfalen, Preußen, Deutschland
 1 DEAT
-2 PLAC Rio Grande do Sul, Brasil
+2 PLAC São Bonifácio / São Martinho, Santa Catarina, Brasil
 1 FAMS @F12@
+1 FAMC @F34@
 1 _FSFTID P3ZF-879
+1 NOTE Batizado em 03/03/1832 na paróquia católica St. Peter und Paul de Amelunxen (Kreis Höxter, Vestfália; ark:/61903/1:1:NZ1P-BSD), filho de Anton Eller e Elizabeth Frisse. Imigrou com a esposa Anna Maria
+2 CONC  Knöpker da Vestfália para São Bonifácio/Teresópolis (SC) entre setembro de 1860 e 1865.
 1 SOUR @S191@
 1 SOUR @S193@
 1 SOUR @S190@
@@ -715,7 +721,7 @@
 2 DATE 16 SEP 1924
 2 PLAC Cemitério de Vargem do Cedro, São Martinho, Santa Catarina, Brasil
 1 FAMS @F8@
-1 FAMC @F32@
+1 FAMC @F37@
 1 _FSFTID L61J-RDG
 1 NOTE Filha de Nikolaus Arns (Arend) e Anna Margaretha Simonis. Imigrou com o pai viúvo em janeiro de 1847 para a Colônia Santa Isabel. Viúva em agosto de 1874, mudou-se em 1880 com os filhos para 265,7 hec
 2 CONC tares entre o Rio Capivari e o Morro dos Heinzen em Vargem do Cedro, onde faleceu de gripe aos 96 anos em 15/09/1924 (Livro Famílias Michels no Brasil, pp. 43-44).
@@ -766,12 +772,16 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1828
-2 PLAC Rheinprovinz / São Pedro de Alcântara, Santa Catarina, Brasil
+2 PLAC Travessia da Renânia (Schweich, Trier) para Desterro / São Pedro de Alcântara, Santa Catarina, Brasil
 1 DEAT
-2 DATE BET 1872 AND 1914
+2 DATE AFT JUL 1872
 2 PLAC São Martinho, Santa Catarina, Brasil
 1 FAMS @F10@
+1 FAMC @F35@
 1 _FSFTID LV7G-Z2H
+1 NOTE Filha de Mathias Loch (* 05/08/1780 Schweich, Trier — † mar. 1845 Águas Mornas, SC) e de sua 2ª esposa Catharina Berg (* 14/01/1793 Naurath, Trier — † 1840 Águas Mornas, SC). Nascida por volta de 1828
+2 CONC –1830 durante a emigração da família para Desterro / São Pedro de Alcântara; listada como 'Agnes' na transferência da família para Vargem Grande em 1836 (Relatório da Repartição Geral das Terras Públi
+2 CONC cas de 1855, pp. 25-26). Casou-se em 31/01/1855 em São José, SC, com Bernhard Preiss.
 1 SOUR @S222@
 1 SOUR @S217@
 1 SOUR @S227@
@@ -871,8 +881,6 @@
 1 OCCU Física
 1 FAMS @F14@
 1 FAMC @F15@
-1 NOTE Nascida em 27/07/1972 em Porto Alegre, RS, filha do médico Dr. Carlos Heinz Funke e da advogada Dra. Ilusca Leocádia Hoeveler Funke. Casou-se em 30/09/1995 às 19:00h na Igreja da Comunidade Evangélica
-2 CONC  de Florianópolis, SC (Pastor Renato Luiz Becker; Registro Civil no 4º Subdistrito da Trindade, Livro B-AUX 6, fls. 195v, nº 2983) com o Prof. Dr. Reinaldo Haas.
 0 @I29@ INDI
 1 NAME Matheus /Funke Haas/
 2 GIVN Matheus
@@ -1842,156 +1850,293 @@
 1 DEAT Y
 1 FAMC @F7@
 0 @I109@ INDI
-1 NAME Hilda Ana /Dörner/
-2 GIVN Hilda Ana
+1 NAME Hilda Anna /Dörner/
+2 GIVN Hilda Anna
 2 SURN Dörner
+1 NAME Hilda Ana /Doerner Eccel/
+2 GIVN Hilda Ana
+2 SURN Doerner Eccel
 1 SEX F
 1 BIRT
-2 PLAC São Martinho / Vidal Ramos, Santa Catarina, Brasil
-1 DEAT Y
+2 DATE 2 OCT 1922
+2 PLAC São Martinho, Santa Catarina, Brasil
+1 DEAT
+2 DATE 17 NOV 1997
+2 PLAC Brusque, Santa Catarina, Brasil
+1 FAMS @F29@
 1 FAMC @F3@
-1 NOTE Citada no termo de óbito da mãe Gertrudes Doerner (Brusque, 14/04/1970, Livro 32, fl. 178).
+1 _FSFTID GL4R-NRL
+1 NOTE Primogênita de Fernando Dörner e Gertrudes Preiss. Casou-se em 06/06/1946 com Modesto Eccel (ark:/61903/1:1:X9BH-NS9H). Citada entre os 6 filhos vivos no óbito da mãe (1970) e entre os 5 filhos vivos 
+2 CONC no óbito do pai (1981).
 0 @I110@ INDI
+1 NAME Modesto /Eccel/
+2 GIVN Modesto
+2 SURN Eccel
+1 SEX M
+1 DEAT
+2 DATE 2 FEB 2012
+2 PLAC Brusque, Santa Catarina, Brasil
+1 FAMS @F29@
+0 @I111@ INDI
 1 NAME Lindolfo /Dörner/
 2 GIVN Lindolfo
 2 SURN Dörner
+1 NAME Lindolfo /Doerner/
+2 GIVN Lindolfo
+2 SURN Doerner
 1 SEX M
 1 BIRT
-2 PLAC São Martinho / Vidal Ramos, Santa Catarina, Brasil
-1 DEAT Y
+2 DATE 10 NOV 1924
+2 PLAC São Martinho, Santa Catarina, Brasil
+1 DEAT
+2 DATE 9 APR 1994
+2 PLAC Vidal Ramos, Santa Catarina, Brasil
+1 FAMS @F30@
 1 FAMC @F3@
-1 NOTE Citado no termo de óbito da mãe Gertrudes Doerner (Brusque, 14/04/1970, Livro 32, fl. 178).
-0 @I111@ INDI
-1 NAME Irma /Dörner/
-2 GIVN Irma
+1 _FSFTID L1BB-JPK
+1 NOTE Casou-se civilmente em 09/03/1948 em Vidal Ramos, SC (mesmo dia do casamento civil de sua irmã Adelina Doerner com Baldoíno Haas; ark:/61903/1:1:6JJK-6FTJ) com Olga Francisco.
+0 @I112@ INDI
+1 NAME Olga /Francisco/
+2 GIVN Olga
+2 SURN Francisco
+1 SEX F
+1 BIRT
+2 DATE 13 FEB 1927
+2 PLAC Santa Catarina, Brasil
+1 DEAT
+2 DATE 26 AUG 1994
+2 PLAC Blumenau, Santa Catarina, Brasil
+1 FAMS @F30@
+0 @I113@ INDI
+1 NAME Ottilia /Dörner/
+2 GIVN Ottilia
 2 SURN Dörner
 1 SEX F
 1 BIRT
-2 PLAC São Martinho / Vidal Ramos, Santa Catarina, Brasil
-1 DEAT Y
+2 DATE 17 JAN 1929
+2 PLAC Vidal Ramos (então distrito de Brusque), Santa Catarina, Brasil
+1 DEAT
+2 DATE 28 JUN 1930
+2 PLAC Vidal Ramos (então distrito de Brusque), Santa Catarina, Brasil
 1 FAMC @F3@
-1 NOTE Citada no termo de óbito da mãe Gertrudes Doerner (Brusque, 14/04/1970, Livro 32, fl. 178).
-0 @I112@ INDI
+1 _FSFTID GK81-CQR
+1 NOTE Nascida em 17/01/1929 em Vidal Ramos (ark:/61903/1:1:6JX2-RRY4) e falecida na infância em 28/06/1930 em Vidal Ramos, SC (ark:/61903/1:1:6J2K-S91X).
+0 @I114@ INDI
+1 NAME Irma /Dörner/
+2 GIVN Irma
+2 SURN Dörner
+1 NAME Irma /Doerner Will/
+2 GIVN Irma
+2 SURN Doerner Will
+1 SEX F
+1 BIRT
+2 DATE 20 NOV 1931
+2 PLAC Vidal Ramos (então distrito de Brusque), Santa Catarina, Brasil
+1 DEAT
+2 DATE 31 JUL 2009
+2 PLAC Florianópolis, Santa Catarina, Brasil
+1 FAMS @F31@
+1 FAMC @F3@
+1 _FSFTID G8HY-8XB
+1 NOTE Nascida em 20/11/1931 em Vidal Ramos (registrada em 02/01/1932, ark:/61903/1:1:6JJ8-Y7YN). Casou-se com Jayme Julio Will.
+0 @I115@ INDI
+1 NAME Jayme Julio /Will/
+2 GIVN Jayme Julio
+2 SURN Will
+1 SEX M
+1 BIRT
+2 DATE 1932
+2 PLAC Santa Catarina, Brasil
+1 DEAT
+2 DATE 24 JAN 1992
+2 PLAC Santa Catarina, Brasil
+1 FAMS @F31@
+0 @I116@ INDI
 1 NAME Olga /Dörner/
 2 GIVN Olga
 2 SURN Dörner
 1 SEX F
 1 BIRT
-2 PLAC São Martinho / Vidal Ramos, Santa Catarina, Brasil
+2 DATE ABT 1934
+2 PLAC Vidal Ramos, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F3@
-1 NOTE Citada no termo de óbito da mãe Gertrudes Doerner (Brusque, 14/04/1970, Livro 32, fl. 178).
-0 @I113@ INDI
+1 NOTE Citada entre os 6 filhos maiores vivos no termo de óbito da mãe Gertrudes Doerner (Brusque, 14/04/1970, Livro 32, fl. 178) e entre os 5 filhos vivos no óbito do pai Fernando Doerner (1981).
+0 @I117@ INDI
 1 NAME Lino Fernando /Dörner/
 2 GIVN Lino Fernando
 2 SURN Dörner
+1 NAME Lino Fernando /Doerner/
+2 GIVN Lino Fernando
+2 SURN Doerner
 1 SEX M
 1 BIRT
-2 PLAC São Martinho / Vidal Ramos, Santa Catarina, Brasil
-1 DEAT Y
+2 DATE 1937
+2 PLAC Vidal Ramos, Santa Catarina, Brasil
+1 DEAT
+2 DATE 14 FEB 1979
+2 PLAC Brusque, Santa Catarina, Brasil
 1 FAMC @F3@
-1 NOTE Citado no termo de óbito da mãe Gertrudes Doerner (Brusque, 14/04/1970, Livro 32, fl. 178).
-0 @I114@ INDI
-1 NAME Guilherme /Dörner/
-2 GIVN Guilherme
+1 _FSFTID GHC9-RYK
+1 NOTE Citado entre os 6 filhos maiores vivos no termo de óbito da mãe Gertrudes Doerner (1970). Faleceu aos 41 anos em Brusque, SC, em 14/02/1979 (Termo de óbito lavrado em 15/02/1979, ark:/61903/1:1:HFMT-F
+2 CONC WZM), razão pela qual o óbito do pai Fernando Doerner (21/05/1981) passou a mencionar 5 filhos vivos.
+0 @I118@ INDI
+1 NAME Celso /Dörner/
+2 GIVN Celso
 2 SURN Dörner
+1 SEX M
+1 BIRT
+2 DATE 1939
+2 PLAC Vidal Ramos, Santa Catarina, Brasil
+1 DEAT
+2 DATE 24 JUN 1939
+2 PLAC Vidal Ramos, Santa Catarina, Brasil
+1 FAMC @F3@
+1 _FSFTID GK81-FLW
+1 NOTE Faleceu bebê em Vidal Ramos, SC, em 24/06/1939 (ark:/61903/1:1:6JN7-WZYG).
+0 @I119@ INDI
 1 NAME Wilhelm /Dörner/
 2 GIVN Wilhelm
 2 SURN Dörner
+1 NAME Guilherme /Dörner/
+2 GIVN Guilherme
+2 SURN Dörner
 1 SEX M
 1 BIRT
-2 PLAC Santa Catarina, Brasil
+2 DATE 18 JUN 1878
+2 PLAC São Martinho, Santa Catarina, Brasil
 1 CHR
 2 DATE 4 AUG 1878
+2 PLAC Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F6@
-0 @I115@ INDI
+1 _FSFTID LBNZ-HSR
+1 NOTE Batizado em 04/08/1878 (ark:/61903/1:1:QG29-FST4).
+0 @I120@ INDI
 1 NAME Maria Anna /Dörner/
 2 GIVN Maria Anna
 2 SURN Dörner
+1 NAME Ana /Doerner Berkenbrock/
+2 GIVN Ana
+2 SURN Doerner Berkenbrock
 1 SEX F
 1 BIRT
-2 DATE 1880
-2 PLAC São Martinho, Santa Catarina, Brasil
-1 DEAT Y
+2 DATE 3 MAR 1880
+2 PLAC São Bonifácio / Capivari, Santa Catarina, Brasil
+1 CHR
+2 DATE 6 JUN 1880
+2 PLAC Santa Catarina, Brasil
+1 DEAT
+2 DATE 27 DEC 1962
+2 PLAC São Luís, Imaruí, Santa Catarina, Brasil
 1 FAMC @F6@
-0 @I116@ INDI
-1 NAME Carlos Reinaldo /Dörner Filho/
-2 GIVN Carlos Reinaldo
-2 SURN Dörner Filho
-1 SEX M
-1 BIRT
-2 DATE 1882
-2 PLAC São Martinho, Santa Catarina, Brasil
-1 DEAT Y
-1 FAMC @F6@
-0 @I117@ INDI
-1 NAME Adolfo /Dörner/
-2 GIVN Adolfo
-2 SURN Dörner
-1 SEX M
-1 BIRT
-2 PLAC São Martinho, Santa Catarina, Brasil
-1 DEAT Y
-1 FAMC @F6@
-0 @I118@ INDI
-1 NAME Bertha /Dörner/
-2 GIVN Bertha
-2 SURN Dörner
-1 SEX F
-1 BIRT
-2 PLAC São Martinho, Santa Catarina, Brasil
-1 DEAT Y
-1 FAMC @F6@
-0 @I119@ INDI
-1 NAME Augusto /Dörner/
-2 GIVN Augusto
-2 SURN Dörner
-1 SEX M
-1 BIRT
-2 PLAC São Martinho, Santa Catarina, Brasil
-1 DEAT Y
-1 FAMC @F6@
-0 @I120@ INDI
-1 NAME Anna /Dörner/
-2 GIVN Anna
-2 SURN Dörner
-1 NAME Paulina Rosalia /Dörner/
-2 GIVN Paulina Rosalia
-2 SURN Dörner
-1 SEX F
-1 BIRT
-2 PLAC São Martinho, Santa Catarina, Brasil
-1 DEAT Y
-1 FAMC @F6@
+1 _FSFTID K4TH-SM8
+1 NOTE Batizada em 06/06/1880 (ark:/61903/1:1:QG29-5Y9M); casou-se em 19/01/1901 em São Ludgero (ark:/61903/1:1:6BGZ-F1PS) com João José Berkenbrock; faleceu em 27/12/1962 em Imaruí (ark:/61903/1:1:XSFM-3DMW
+2 CONC ).
 0 @I121@ INDI
-1 NAME Germano /Dörner/
-2 GIVN Germano
+1 NAME Carlos Reinaldo /Dörner/
+2 GIVN Carlos Reinaldo
 2 SURN Dörner
-1 NAME Robert /Dörner/
-2 GIVN Robert
-2 SURN Dörner
+1 NAME Reinhard /Doerner/
+2 GIVN Reinhard
+2 SURN Doerner
+1 NAME Carlos Řinaldo /Doerner/
+2 GIVN Carlos Řinaldo
+2 SURN Doerner
 1 SEX M
 1 BIRT
-2 PLAC São Martinho, Santa Catarina, Brasil
+2 DATE 3 JUN 1882
+2 PLAC São João do Capivari, Santa Catarina, Brasil
+1 CHR
+2 DATE 1 AUG 1882
+2 PLAC Santa Catarina, Brasil
+1 DEAT
+2 DATE 2 OCT 1953
+2 PLAC Vargem do Cedro, São Martinho, Santa Catarina, Brasil
+1 FAMC @F6@
+1 _FSFTID LRFD-251
+1 NOTE Batizado em 01/08/1882 (ark:/61903/1:1:QG29-D4HS). Casou-se em 1ªs núpcias (29/09/1906, São Martinho, ark:/61903/1:1:XSX6-W529) com Geronyme Back e em 2ªs núpcias (06/04/1907, Vargem do Cedro, ark:/61
+2 CONC 903/1:1:6BGZ-PT12) com Catharina Back. Faleceu em 02/10/1953 em Vargem do Cedro (ark:/61903/1:1:6JPZ-YBJW).
+0 @I122@ INDI
+1 NAME Paulina Rosália /Dörner/
+2 GIVN Paulina Rosália
+2 SURN Dörner
+1 NAME Paulina Rosalia /Doerner Vanderlinde/
+2 GIVN Paulina Rosalia
+2 SURN Doerner Vanderlinde
+1 SEX F
+1 BIRT
+2 DATE 26 JAN 1886
+2 PLAC Teresópolis, Águas Mornas, Santa Catarina, Brasil
+1 CHR
+2 DATE 1 JUN 1886
+2 PLAC Teresópolis, Águas Mornas, Santa Catarina, Brasil
+1 DEAT
+2 DATE 14 OCT 1923
+2 PLAC Vargem do Cedro, São Martinho, Santa Catarina, Brasil
+1 FAMC @F6@
+1 _FSFTID K8ZW-B42
+1 NOTE Batizada em 01/06/1886 (ark:/61903/1:1:QG29-TMQK); casou-se em 08/10/1904 em São Ludgero (ark:/61903/1:1:6BGZ-VBV3) e em 31/12/1904 em São Martinho (ark:/61903/1:1:XSX8-WMJ8) com Henrique Teodoro Vand
+2 CONC erlinde.
+0 @I123@ INDI
+1 NAME Maria /Dörner/
+2 GIVN Maria
+2 SURN Dörner
+1 NAME Maria /Doerner Feuser/
+2 GIVN Maria
+2 SURN Doerner Feuser
+1 SEX F
+1 BIRT
+2 DATE 18 MAY 1886
+2 PLAC Capivari de Baixo, Santa Catarina, Brasil
+1 DEAT
+2 DATE 15 JUL 1975
+2 PLAC Graciosa, Paranavaí, Paraná, Brasil
+1 FAMC @F6@
+1 _FSFTID LC5M-RFW
+1 NOTE Casou-se em 10/02/1917 em Vargem do Cedro (ark:/61903/1:1:6BG6-JGT3) e em 24/02/1917 em São Martinho (ark:/61903/1:1:XSX6-SM2Y) com Alberto Feuser; faleceu em 15/07/1975 em Paranavaí, PR (ark:/61903/1
+2 CONC :1:XSF3-T4XD).
+0 @I124@ INDI
+1 NAME Roberto /Dörner/
+2 GIVN Roberto
+2 SURN Dörner
+1 NAME Robert /Doerner/
+2 GIVN Robert
+2 SURN Doerner
+1 SEX M
+1 BIRT
+2 DATE 20 JUL 1890
+2 PLAC Teresópolis, Águas Mornas, Santa Catarina, Brasil
+1 CHR
+2 DATE 23 NOV 1890
+2 PLAC Teresópolis, Águas Mornas, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F6@
-0 @I122@ INDI
+1 _FSFTID LBNC-YSW
+1 NOTE Batizado em 23/11/1890 (ark:/61903/1:1:QL9M-6ZMH); casou-se em 30/10/1911 em Vargem do Cedro (ark:/61903/1:1:6BG6-DWWR) e em 30/12/1913 em São Martinho (ark:/61903/1:1:6JK2-WXGP) com Maria Sörensen.
+0 @I125@ INDI
 1 NAME Guilhermina /Dörner/
 2 GIVN Guilhermina
 2 SURN Dörner
-1 NAME Wilhelmina /Dörner/
+1 NAME Wilhelmina /Doerner Ern/
 2 GIVN Wilhelmina
-2 SURN Dörner
+2 SURN Doerner Ern
 1 SEX F
 1 BIRT
-2 DATE 1892
+2 DATE 22 SEP 1892
 2 PLAC São Martinho, Santa Catarina, Brasil
-1 DEAT Y
+1 CHR
+2 DATE 10 NOV 1892
+2 PLAC Capivari, Santa Catarina, Brasil
+1 DEAT
+2 DATE 28 OCT 1932
+2 PLAC Vargem do Cedro, São Martinho, Santa Catarina, Brasil
 1 FAMC @F6@
-0 @I123@ INDI
-1 NAME Hulda /Peters/
-2 GIVN Hulda
+1 _FSFTID G9PF-3JP
+1 NOTE Batizada em 10/11/1892 (ark:/61903/1:1:QL9M-C1SB); casou-se em 29/04/1911 em Vargem do Cedro (ark:/61903/1:1:6BG6-JGR7) e em 30/12/1913 em São Martinho (ark:/61903/1:1:X9BH-XJZ8) com Augusto Ern.
+0 @I126@ INDI
+1 NAME Hulda Maria /Peters/
+2 GIVN Hulda Maria
 2 SURN Peters
 1 NAME Hulda /Petersen/
 2 GIVN Hulda
@@ -2004,87 +2149,225 @@
 2 DATE 20 AUG 1870
 2 PLAC Capivari, São Ludgero / Braço do Norte, Santa Catarina, Brasil
 1 CHR
-2 DATE 5 DEC 1870
-2 PLAC Teresópolis, Águas Mornas, Santa Catarina, Brasil
+2 DATE 28 APR 1900
+2 PLAC São Ludgero, Santa Catarina, Brasil
 1 DEAT
 2 PLAC Santa Catarina, Brasil
-1 FAMS @F30@
-1 FAMC @F29@
-1 NOTE Filha legítima de João Peters (Johann Heinrich Theodor Peters) e Paulina Büchner. Casou-se aos 29 anos em 29/04/1900 na Capela de São José em Capivari (Assento nº 23) com o viúvo Carlos Dörner, criand
-2 CONC o o enteado caçula Fernando Dörner e tendo mais 5 filhos.
-0 @I124@ INDI
-1 NAME João /Peters/
-2 GIVN João
-2 SURN Peters
+1 FAMS @F33@
+1 FAMC @F32@
+1 _FSFTID GDKD-58W
+1 NOTE Filha legítima de João Peters (Johann Heinrich Theodor Peters, * 22/03/1823 — † 27/09/1901) e Paulina Büchner. Recebida/batizada na Igreja Católica em 28/04/1900 em São Ludgero (ark:/61903/1:1:66YX-8D
+2 CONC 93), véspera de seu casamento aos 29 anos em 29/04/1900 na Capela de São José do Capivari (Assento nº 23, ark:/61903/1:1:6BGZ-4DDH) com o viúvo Carlos Dörner, criando o enteado caçula Fernando Dörner 
+2 CONC e tendo mais 6 filhos.
+0 @I127@ INDI
 1 NAME Johann Heinrich Theodor /Peters/
 2 GIVN Johann Heinrich Theodor
 2 SURN Peters
+1 NAME João /Peters/
+2 GIVN João
+2 SURN Peters
 1 SEX M
 1 BIRT
-2 PLAC Deutschland
+2 DATE 22 MAR 1823
+2 PLAC Preußen, Deutschland
 1 DEAT
-2 PLAC Capivari, Santa Catarina, Brasil
-1 FAMS @F29@
-0 @I125@ INDI
+2 DATE 27 SEP 1901
+2 PLAC Capivari / Tubarão, Santa Catarina, Brasil
+1 FAMS @F32@
+1 _FSFTID K8Z9-XBM
+0 @I128@ INDI
 1 NAME Paulina /Büchner/
 2 GIVN Paulina
 2 SURN Büchner
 1 SEX F
 1 BIRT
-2 PLAC Deutschland
+2 DATE ABT 1830
+2 PLAC Sachsen / Preußen, Deutschland
 1 DEAT
+2 DATE ABT 1890
 2 PLAC Capivari, Santa Catarina, Brasil
-1 FAMS @F29@
-0 @I126@ INDI
-1 NAME Laura /Dörner/
-2 GIVN Laura
+1 FAMS @F32@
+1 _FSFTID LH2X-Y6Z
+0 @I129@ INDI
+1 NAME Bertha /Dörner/
+2 GIVN Bertha
 2 SURN Dörner
+1 SEX F
+1 BIRT
+2 DATE 7 MAR 1901
+2 PLAC Vargem do Cedro, São Martinho, Santa Catarina, Brasil
+1 DEAT Y
+1 FAMC @F33@
+1 _FSFTID GDLF-MBN
+1 NOTE Primogênita do 2º casamento de Carlos Dörner com Hulda Maria Peters. Casou-se civilmente em 12/07/1928 em São Martinho, SC, com João Igirdo Leandro.
+0 @I130@ INDI
 1 NAME Joanna /Dörner/
 2 GIVN Joanna
 2 SURN Dörner
+1 NAME Joanna /Doerner Hoepers/
+2 GIVN Joanna
+2 SURN Doerner Hoepers
 1 SEX F
 1 BIRT
-2 DATE ABT 1901
-2 PLAC Capivari / São Martinho, Santa Catarina, Brasil
-1 DEAT Y
-1 FAMC @F30@
-0 @I127@ INDI
-1 NAME Clara /Dörner/
-2 GIVN Clara
-2 SURN Dörner
-1 SEX F
-1 BIRT
-2 PLAC Capivari / São Martinho, Santa Catarina, Brasil
-1 DEAT Y
-1 FAMC @F30@
-0 @I128@ INDI
-1 NAME Carlos /Dörner Júnior/
-2 GIVN Carlos
-2 SURN Dörner Júnior
-1 SEX M
-1 BIRT
-2 PLAC Capivari / São Martinho, Santa Catarina, Brasil
-1 DEAT Y
-1 FAMC @F30@
-0 @I129@ INDI
-1 NAME Ida /Dörner/
-2 GIVN Ida
-2 SURN Dörner
-1 SEX F
-1 BIRT
-2 PLAC Capivari / São Martinho, Santa Catarina, Brasil
-1 DEAT Y
-1 FAMC @F30@
-0 @I130@ INDI
-1 NAME Ricardo /Dörner/
-2 GIVN Ricardo
-2 SURN Dörner
-1 SEX M
-1 BIRT
-2 PLAC Capivari / São Martinho, Santa Catarina, Brasil
-1 DEAT Y
-1 FAMC @F30@
+2 DATE 20 MAR 1902
+2 PLAC São Martinho, Santa Catarina, Brasil
+1 CHR
+2 DATE JUL 1902
+2 PLAC São Ludgero, Santa Catarina, Brasil
+1 DEAT
+2 DATE 15 OCT 1940
+2 PLAC Vargem do Cedro, São Martinho, Santa Catarina, Brasil
+1 FAMC @F33@
+1 _FSFTID PMKF-P9G
+1 NOTE Batizada em julho de 1902 em São Ludgero (ark:/61903/1:1:66YX-8DM1); casou-se em 25/10/1923 em Vargem do Cedro (ark:/61903/1:1:6BG6-6YWP) e em 10/03/1924 em São Martinho (ark:/61903/1:1:XSXZ-VNJN) com
+2 CONC  Mathias Hoepers; faleceu em 15/10/1940 em Vargem do Cedro (ark:/61903/1:1:6JPD-5MW5, filha de Carlos Doerner e Hulda Petersen).
 0 @I131@ INDI
+1 NAME Emma /Dörner/
+2 GIVN Emma
+2 SURN Dörner
+1 SEX F
+1 BIRT
+2 DATE 10 AUG 1903
+2 PLAC São Martinho, Santa Catarina, Brasil
+1 DEAT
+2 DATE 11 APR 1918
+2 PLAC São Martinho, Santa Catarina, Brasil
+1 FAMC @F33@
+1 _FSFTID G896-T5B
+1 NOTE Faleceu adolescente aos 14 anos em 11/04/1918 em São Martinho, SC.
+0 @I132@ INDI
+1 NAME João /Dörner/
+2 GIVN João
+2 SURN Dörner
+1 SEX M
+1 BIRT
+2 DATE 19 APR 1905
+2 PLAC São Martinho, Santa Catarina, Brasil
+1 DEAT
+2 DATE 2 NOV 1990
+2 PLAC Vargem do Cedro, São Martinho, Santa Catarina, Brasil
+1 FAMC @F33@
+1 _FSFTID GDLF-4YW
+1 NOTE Casou-se em 05/11/1932 (religioso) e em 22/02/1933 (civil, ark:/61903/1:1:6JLX-ZT3X, filho de Carlos Doerner e Huylda Petersen) com Adelina Hoepers; faleceu em 02/11/1990 em Vargem do Cedro (ark:/6190
+2 CONC 3/1:1:6JBJ-WFZH).
+0 @I133@ INDI
+1 NAME Gustavo /Dörner/
+2 GIVN Gustavo
+2 SURN Dörner
+1 SEX M
+1 BIRT
+2 DATE 27 OCT 1906
+2 PLAC São Martinho, Santa Catarina, Brasil
+1 DEAT Y
+1 FAMC @F33@
+1 _FSFTID GDLF-CVR
+1 NOTE Casou-se em 18/10/1930 em Vidal Ramos, SC (ark:/61903/1:1:6JKY-WRQV, filho de Carlos Doerner e Maria Hulda Petersen) com Regina Petri (* 24/05/1905 São Bonifácio — † 24/09/1985 Ituporanga, SC).
+0 @I134@ INDI
+1 NAME Martinho /Dörner/
+2 GIVN Martinho
+2 SURN Dörner
+1 SEX M
+1 BIRT
+2 PLAC São Martinho, Santa Catarina, Brasil
+1 DEAT Y
+1 FAMC @F33@
+1 _FSFTID P9P5-GNB
+0 @I135@ INDI
+1 NAME Anton /Eller/
+2 GIVN Anton
+2 SURN Eller
+1 SEX M
+1 BIRT
+2 PLAC Amelunxen, Kreis Höxter, Westfalen, Preußen, Deutschland
+1 DEAT Y
+1 FAMS @F34@
+1 _FSFTID GD9Z-26K
+0 @I136@ INDI
+1 NAME Elizabeth /Frisse/
+2 GIVN Elizabeth
+2 SURN Frisse
+1 SEX F
+1 BIRT
+2 PLAC Amelunxen, Kreis Höxter, Westfalen, Preußen, Deutschland
+1 DEAT Y
+1 FAMS @F34@
+1 _FSFTID GD9Z-K8P
+0 @I137@ INDI
+1 NAME Guilherme /Eller/
+2 GIVN Guilherme
+2 SURN Eller
+1 SEX M
+1 BIRT
+2 DATE AUG 1860
+2 PLAC Amelunxen / Westfalen, Preußen, Deutschland
+1 DEAT
+2 DATE 29 DEC 1931
+2 PLAC São Martinho, Santa Catarina, Brasil
+1 FAMC @F12@
+1 _FSFTID G65N-VXX
+0 @I138@ INDI
+1 NAME Mathilde /Eller/
+2 GIVN Mathilde
+2 SURN Eller
+1 SEX F
+1 BIRT
+2 DATE 31 JAN 1866
+2 PLAC São Bonifácio, Santa Catarina, Brasil
+1 CHR
+2 DATE 15 JUL 1866
+2 PLAC São Bonifácio / Teresópolis, Santa Catarina, Brasil
+1 DEAT Y
+1 FAMC @F12@
+1 _FSFTID GHCS-3NX
+1 NOTE Batizada em 15/07/1866 em SC (ark:/61903/1:1:QG29-YSJD).
+0 @I139@ INDI
+1 NAME Maria /Eller/
+2 GIVN Maria
+2 SURN Eller
+1 SEX F
+1 BIRT
+2 DATE 28 OCT 1869
+2 PLAC São Bonifácio, Santa Catarina, Brasil
+1 CHR
+2 DATE 15 NOV 1869
+2 PLAC São Bonifácio / Teresópolis, Santa Catarina, Brasil
+1 DEAT Y
+1 FAMC @F12@
+1 _FSFTID GMDB-LRB
+1 NOTE Batizada em 15/11/1869 em SC (ark:/61903/1:1:QG29-5DDT).
+0 @I140@ INDI
+1 NAME Mathias /Loch/
+2 GIVN Mathias
+2 SURN Loch
+1 SEX M
+1 BIRT
+2 DATE 5 AUG 1780
+2 PLAC Schweich, Trier, Rheinprovinz, Preußen, Deutschland
+1 IMMI
+2 DATE NOV 1828
+2 PLAC Desterro / São Pedro de Alcântara, Santa Catarina, Brasil
+1 DEAT
+2 DATE MAR 1845
+2 PLAC Vargem Grande, Águas Mornas, Santa Catarina, Brasil
+1 FAMS @F35@
+1 _FSFTID GZ2D-FMS
+0 @I141@ INDI
+1 NAME Catharina /Berg/
+2 GIVN Catharina
+2 SURN Berg
+1 SEX F
+1 BIRT
+2 DATE 14 JAN 1793
+2 PLAC Naurath, Trier, Rheinprovinz, Preußen, Deutschland
+1 IMMI
+2 DATE NOV 1828
+2 PLAC Desterro / São Pedro de Alcântara, Santa Catarina, Brasil
+1 DEAT
+2 DATE 1840
+2 PLAC Vargem Grande, Águas Mornas, Santa Catarina, Brasil
+1 FAMS @F35@
+1 _FSFTID LV7G-C84
+0 @I142@ INDI
 1 NAME Estêvão /Preiss/
 2 GIVN Estêvão
 2 SURN Preiss
@@ -2094,7 +2377,7 @@
 2 PLAC Pelotas, Rio Grande do Sul / Vargem do Cedro, SC, Brasil
 1 DEAT Y
 1 FAMC @F5@
-0 @I132@ INDI
+0 @I143@ INDI
 1 NAME Catarina /Preiss/
 2 GIVN Catarina
 2 SURN Preiss
@@ -2104,7 +2387,7 @@
 2 PLAC Pelotas, Rio Grande do Sul / Vargem do Cedro, SC, Brasil
 1 DEAT Y
 1 FAMC @F5@
-0 @I133@ INDI
+0 @I144@ INDI
 1 NAME Verônica /Preiss/
 2 GIVN Verônica
 2 SURN Preiss
@@ -2114,7 +2397,7 @@
 2 PLAC Pelotas, Rio Grande do Sul / Vargem do Cedro, SC, Brasil
 1 DEAT Y
 1 FAMC @F5@
-0 @I134@ INDI
+0 @I145@ INDI
 1 NAME Elisabeth /Preiss/
 2 GIVN Elisabeth
 2 SURN Preiss
@@ -2124,7 +2407,7 @@
 2 PLAC Vargem do Cedro, São Martinho, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F5@
-0 @I135@ INDI
+0 @I146@ INDI
 1 NAME Pedro /Preiss/
 2 GIVN Pedro
 2 SURN Preiss
@@ -2134,7 +2417,7 @@
 2 PLAC Vargem do Cedro, São Martinho, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F5@
-0 @I136@ INDI
+0 @I147@ INDI
 1 NAME José /Preiss/
 2 GIVN José
 2 SURN Preiss
@@ -2144,7 +2427,7 @@
 2 PLAC Vargem do Cedro, São Martinho, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F5@
-0 @I137@ INDI
+0 @I148@ INDI
 1 NAME Maria /Preiss/
 2 GIVN Maria
 2 SURN Preiss
@@ -2154,7 +2437,7 @@
 2 PLAC Vargem do Cedro, São Martinho, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F5@
-0 @I138@ INDI
+0 @I149@ INDI
 1 NAME Antônio /Preiss/
 2 GIVN Antônio
 2 SURN Preiss
@@ -2164,7 +2447,7 @@
 2 PLAC Vargem do Cedro, São Martinho, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F5@
-0 @I139@ INDI
+0 @I150@ INDI
 1 NAME João /Preiss/
 2 GIVN João
 2 SURN Preiss
@@ -2174,7 +2457,7 @@
 2 PLAC Vargem do Cedro, São Martinho, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F5@
-0 @I140@ INDI
+0 @I151@ INDI
 1 NAME Maria /Michels/
 2 GIVN Maria
 2 SURN Michels
@@ -2184,7 +2467,7 @@
 2 PLAC Colônia Santa Isabel, Águas Mornas, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F8@
-0 @I141@ INDI
+0 @I152@ INDI
 1 NAME Catarina /Michels/
 2 GIVN Catarina
 2 SURN Michels
@@ -2194,7 +2477,7 @@
 2 PLAC Colônia Santa Isabel, Águas Mornas, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F8@
-0 @I142@ INDI
+0 @I153@ INDI
 1 NAME Pedro /Michels/
 2 GIVN Pedro
 2 SURN Michels
@@ -2204,7 +2487,7 @@
 2 PLAC Colônia Santa Isabel, Águas Mornas, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F8@
-0 @I143@ INDI
+0 @I154@ INDI
 1 NAME João /Michels/
 2 GIVN João
 2 SURN Michels
@@ -2214,7 +2497,7 @@
 2 PLAC Colônia Santa Isabel, Águas Mornas, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F8@
-0 @I144@ INDI
+0 @I155@ INDI
 1 NAME Nicolau /Michels/
 2 GIVN Nicolau
 2 SURN Michels
@@ -2224,7 +2507,7 @@
 2 PLAC Colônia Santa Isabel, Águas Mornas, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F8@
-0 @I145@ INDI
+0 @I156@ INDI
 1 NAME Ana Maria /Michels/
 2 GIVN Ana Maria
 2 SURN Michels
@@ -2234,7 +2517,7 @@
 2 PLAC Colônia Santa Isabel, Águas Mornas, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F8@
-0 @I146@ INDI
+0 @I157@ INDI
 1 NAME Bárbara /Michels/
 2 GIVN Bárbara
 2 SURN Michels
@@ -2244,7 +2527,7 @@
 2 PLAC Colônia Santa Isabel, Águas Mornas, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F8@
-0 @I147@ INDI
+0 @I158@ INDI
 1 NAME Gertrudes /Michels/
 2 GIVN Gertrudes
 2 SURN Michels
@@ -2254,7 +2537,7 @@
 2 PLAC Colônia Santa Isabel, Águas Mornas, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F8@
-0 @I148@ INDI
+0 @I159@ INDI
 1 NAME Estêvão /Michels/
 2 GIVN Estêvão
 2 SURN Michels
@@ -2267,7 +2550,7 @@
 2 PLAC Pelotas, Rio Grande do Sul, Brasil
 1 FAMC @F8@
 1 NOTE Faleceu solteiro aos 18 anos em Pelotas, RS, em 1889, vítima de picada de cobra durante a construção da ferrovia (Livro Famílias Michels no Brasil, p. 44).
-0 @I149@ INDI
+0 @I160@ INDI
 1 NAME Antônio /Michels Filho/
 2 GIVN Antônio
 2 SURN Michels Filho
@@ -2277,7 +2560,7 @@
 2 PLAC Colônia Santa Isabel, Águas Mornas, Santa Catarina, Brasil
 1 DEAT Y
 1 FAMC @F8@
-0 @I150@ INDI
+0 @I161@ INDI
 1 NAME Mathias /Michels/
 2 GIVN Mathias
 2 SURN Michels
@@ -2291,10 +2574,10 @@
 1 DEAT
 2 PLAC Santa Catarina, Brasil
 1 OCCU Agricultor
-1 FAMS @F31@
+1 FAMS @F36@
 1 NOTE Patriarca da família Michels em Santa Catarina. Tinha 23 anos no nascimento do primogênito Anton Michels em 11/05/1822 em Hinzert (Hermeskeil), onde assinou de próprio punho o termo reproduzido na p. 
 2 CONC 43 de 'Famílias Michels no Brasil'. Imigrou em 12/11/1828 com a esposa Katharina Britz e os filhos Anton, Heinrich e Johann para São Pedro de Alcântara, SC.
-0 @I151@ INDI
+0 @I162@ INDI
 1 NAME Katharina /Britz/
 2 GIVN Katharina
 2 SURN Britz
@@ -2307,8 +2590,8 @@
 2 PLAC Desterro / São Pedro de Alcântara, Santa Catarina, Brasil
 1 DEAT
 2 PLAC Santa Catarina, Brasil
-1 FAMS @F31@
-0 @I152@ INDI
+1 FAMS @F36@
+0 @I163@ INDI
 1 NAME Heinrich /Michels/
 2 GIVN Heinrich
 2 SURN Michels
@@ -2317,8 +2600,8 @@
 2 DATE 1826
 2 PLAC Hinzert, Hermeskeil, Preußen, Deutschland
 1 DEAT Y
-1 FAMC @F31@
-0 @I153@ INDI
+1 FAMC @F36@
+0 @I164@ INDI
 1 NAME Johann /Michels/
 2 GIVN Johann
 2 SURN Michels
@@ -2327,8 +2610,8 @@
 2 DATE ABT 1827
 2 PLAC Hinzert, Hermeskeil, Preußen, Deutschland
 1 DEAT Y
-1 FAMC @F31@
-0 @I154@ INDI
+1 FAMC @F36@
+0 @I165@ INDI
 1 NAME Francisco /Michels/
 2 GIVN Francisco
 2 SURN Michels
@@ -2336,8 +2619,8 @@
 1 BIRT
 2 PLAC São Pedro de Alcântara, Santa Catarina, Brasil
 1 DEAT Y
-1 FAMC @F31@
-0 @I155@ INDI
+1 FAMC @F36@
+0 @I166@ INDI
 1 NAME Maria /Michels/
 2 GIVN Maria
 2 SURN Michels
@@ -2345,8 +2628,8 @@
 1 BIRT
 2 PLAC São Pedro de Alcântara, Santa Catarina, Brasil
 1 DEAT Y
-1 FAMC @F31@
-0 @I156@ INDI
+1 FAMC @F36@
+0 @I167@ INDI
 1 NAME Matias /Michels Filho/
 2 GIVN Matias
 2 SURN Michels Filho
@@ -2354,8 +2637,8 @@
 1 BIRT
 2 PLAC São Pedro de Alcântara, Santa Catarina, Brasil
 1 DEAT Y
-1 FAMC @F31@
-0 @I157@ INDI
+1 FAMC @F36@
+0 @I168@ INDI
 1 NAME Nikolaus /Arns/
 2 GIVN Nikolaus
 2 SURN Arns
@@ -2371,8 +2654,8 @@
 2 PLAC Desterro / Colônia Santa Isabel, Santa Catarina, Brasil
 1 DEAT
 2 PLAC Colônia Santa Isabel, Águas Mornas, Santa Catarina, Brasil
-1 FAMS @F32@
-0 @I158@ INDI
+1 FAMS @F37@
+0 @I169@ INDI
 1 NAME Anna Margaretha /Simonis/
 2 GIVN Anna Margaretha
 2 SURN Simonis
@@ -2386,879 +2669,911 @@
 1 DEAT
 2 DATE BEF 1846
 2 PLAC Pünderich, Landkreis Cochem-Zell, Rheinprovinz, Preußen, Deutschland
-1 FAMS @F32@
-0 @I159@ INDI
+1 FAMS @F37@
+0 @I170@ INDI
 1 NAME Hildegart /Haas/
 2 GIVN Hildegart
 2 SURN Haas
+1 NAME Hildegard /Haas/
+2 GIVN Hildegard
+2 SURN Haas
 1 SEX F
-1 DEAT Y
+1 BIRT
+2 DATE ABT 1908
+2 PLAC Eibenstock, Sachsen, Deutschland
+1 DEAT
+2 DATE BEF MAR 1913
+2 PLAC Deutschland
 1 FAMC @F2@
+1 _FSFTID GFS2-NTH
 1 NOTE Hildegart: 
 2 CONT nasceu na Alemanha e lá mesmo faleceu antes do fata vir para o Brasil.
-0 @I160@ INDI
+0 @I171@ INDI
 1 NAME Frida /Haas/
 2 GIVN Frida
 2 SURN Haas
 1 SEX F
-1 DEAT Y
+1 BIRT
+2 DATE ABT 1909
+2 PLAC Eibenstock, Sachsen, Deutschland
+1 DEAT
+2 DATE BEF MAR 1913
+2 PLAC Deutschland
 1 FAMC @F2@
+1 _FSFTID GFS2-HWX
 1 NOTE Frida: 
 2 CONT Nasceu na Alemanha e lá mesmo faleceu antes do fata vir para o Brasil.
-0 @I161@ INDI
+0 @I172@ INDI
 1 NAME Gertrudes /Haas/
 2 GIVN Gertrudes
 2 SURN Haas
+1 NAME Gertrud /Haas Sebold/
+2 GIVN Gertrud
+2 SURN Haas Sebold
 1 SEX F
 1 BIRT
 2 DATE 5 MAY 1913
-2 PLAC Santa Catarina, Brasil
-1 DEAT Y
-1 FAMS @F33@
+2 PLAC Anitápolis, Santa Catarina, Brasil
+1 CHR
+2 DATE 23 NOV 1913
+2 PLAC Paróquia de Teresópolis (Águas Mornas), Santa Catarina, Brasil
+1 DEAT
+2 DATE 23 JUN 1997
+2 PLAC Pindauvinha, Ivaiporã, Paraná, Brasil
+1 FAMS @F38@
 1 FAMC @F2@
-0 @I162@ INDI
+1 _FSFTID G8P8-X9D
+1 NOTE Nascida em 05/05/1913 em Anitápolis, SC, e batizada em 23/11/1913 na Paróquia de Teresópolis, SC (ark:/61903/1:1:QPQC-X62B). Casou-se em 07/05/1932 (religioso) e 09/05/1932 (civil, ark:/61903/1:1:X9B4
+2 CONC -G1T4) em Ituporanga, SC, com Augusto Sebold (* 23/03/1902 — † 07/01/1967 Ivaiporã, PR). Faleceu em 23/06/1997 em Pindauvinha, Ivaiporã, PR.
+0 @I173@ INDI
 1 NAME Augusto /Sebold/
 2 GIVN Augusto
 2 SURN Sebold
 1 SEX M
-1 DEAT Y
-1 FAMS @F33@
-0 @I163@ INDI
+1 BIRT
+2 DATE 23 MAR 1902
+2 PLAC Teresópolis, Águas Mornas, Santa Catarina, Brasil
+1 DEAT
+2 DATE 7 JAN 1967
+2 PLAC Ivaiporã, Paraná, Brasil
+1 FAMS @F38@
+1 _FSFTID 9VW2-D92
+0 @I174@ INDI
 1 NAME Bertoldo /Sebold/
 2 GIVN Bertoldo
 2 SURN Sebold
 1 SEX M
-1 FAMS @F34@
-1 FAMC @F33@
-0 @I164@ INDI
+1 FAMS @F39@
+1 FAMC @F38@
+0 @I175@ INDI
 1 NAME Eronildes //
 2 GIVN Eronildes
 1 SEX F
-1 FAMS @F34@
-0 @I165@ INDI
+1 FAMS @F39@
+0 @I176@ INDI
 1 NAME Sebastião /Sebold/
 2 GIVN Sebastião
 2 SURN Sebold
 1 SEX M
-1 FAMS @F35@
-1 FAMC @F34@
-0 @I166@ INDI
+1 FAMS @F40@
+1 FAMC @F39@
+0 @I177@ INDI
 1 NAME Cleusa //
 2 GIVN Cleusa
 1 SEX F
-1 FAMS @F35@
-0 @I167@ INDI
+1 FAMS @F40@
+0 @I178@ INDI
 1 NAME Jaqueline /Sebold/
 2 GIVN Jaqueline
 2 SURN Sebold
 1 SEX F
-1 FAMC @F35@
-0 @I168@ INDI
+1 FAMC @F40@
+0 @I179@ INDI
 1 NAME Rone João /Sebold/
 2 GIVN Rone João
 2 SURN Sebold
 1 SEX M
-1 FAMC @F35@
-0 @I169@ INDI
+1 FAMC @F40@
+0 @I180@ INDI
 1 NAME Elaine /Sebold/
 2 GIVN Elaine
 2 SURN Sebold
 1 SEX F
-1 FAMS @F36@
-1 FAMC @F34@
-0 @I170@ INDI
+1 FAMS @F41@
+1 FAMC @F39@
+0 @I181@ INDI
 1 NAME Gelson //
 2 GIVN Gelson
 1 SEX M
-1 FAMS @F36@
-0 @I171@ INDI
+1 FAMS @F41@
+0 @I182@ INDI
 1 NAME Arnoldo /Sebold/
 2 GIVN Arnoldo
 2 SURN Sebold
 1 SEX M
-1 FAMS @F37@
-1 FAMC @F33@
-0 @I172@ INDI
+1 FAMS @F42@
+1 FAMC @F38@
+0 @I183@ INDI
 1 NAME Norma //
 2 GIVN Norma
 1 SEX F
-1 FAMS @F37@
-0 @I173@ INDI
+1 FAMS @F42@
+0 @I184@ INDI
 1 NAME Nilton /Sebold/
 2 GIVN Nilton
 2 SURN Sebold
 1 SEX M
-1 FAMS @F38@
-1 FAMC @F37@
-0 @I174@ INDI
+1 FAMS @F43@
+1 FAMC @F42@
+0 @I185@ INDI
 1 NAME Marlene //
 2 GIVN Marlene
 1 SEX F
-1 FAMS @F38@
-0 @I175@ INDI
+1 FAMS @F43@
+0 @I186@ INDI
 1 NAME Eliane /Sebold/
 2 GIVN Eliane
 2 SURN Sebold
 1 SEX F
-1 FAMC @F38@
-0 @I176@ INDI
+1 FAMC @F43@
+0 @I187@ INDI
 1 NAME Sidnei /Sebold/
 2 GIVN Sidnei
 2 SURN Sebold
 1 SEX M
-1 FAMC @F38@
-0 @I177@ INDI
+1 FAMC @F43@
+0 @I188@ INDI
 1 NAME Sirlene /Sebold/
 2 GIVN Sirlene
 2 SURN Sebold
 1 SEX F
-1 FAMC @F38@
-0 @I178@ INDI
+1 FAMC @F43@
+0 @I189@ INDI
 1 NAME Claudinei /Sebold/
 2 GIVN Claudinei
 2 SURN Sebold
 1 SEX M
-1 FAMC @F38@
-0 @I179@ INDI
+1 FAMC @F43@
+0 @I190@ INDI
 1 NAME Lucilene /Sebold/
 2 GIVN Lucilene
 2 SURN Sebold
 1 SEX F
-1 FAMC @F38@
-0 @I180@ INDI
+1 FAMC @F43@
+0 @I191@ INDI
 1 NAME Nilze /Sebold/
 2 GIVN Nilze
 2 SURN Sebold
 1 SEX F
-1 FAMS @F39@
-1 FAMC @F37@
-0 @I181@ INDI
+1 FAMS @F44@
+1 FAMC @F42@
+0 @I192@ INDI
 1 NAME João //
 2 GIVN João
 1 SEX M
-1 FAMS @F39@
-0 @I182@ INDI
+1 FAMS @F44@
+0 @I193@ INDI
 1 NAME Ricardo /Haas/
 2 GIVN Ricardo
 2 SURN Haas
 1 SEX M
-1 FAMC @F39@
-0 @I183@ INDI
+1 FAMC @F44@
+0 @I194@ INDI
 1 NAME José Eduardo /Haas/
 2 GIVN José Eduardo
 2 SURN Haas
 1 SEX M
-1 FAMC @F39@
-0 @I184@ INDI
+1 FAMC @F44@
+0 @I195@ INDI
 1 NAME Zelanda /Sebold/
 2 GIVN Zelanda
 2 SURN Sebold
 1 SEX F
-1 FAMS @F40@
-1 FAMC @F37@
-0 @I185@ INDI
+1 FAMS @F45@
+1 FAMC @F42@
+0 @I196@ INDI
 1 NAME José //
 2 GIVN José
 1 SEX M
-1 FAMS @F40@
-0 @I186@ INDI
+1 FAMS @F45@
+0 @I197@ INDI
 1 NAME Genivaldo /Haas/
 2 GIVN Genivaldo
 2 SURN Haas
 1 SEX M
-1 FAMC @F40@
-0 @I187@ INDI
+1 FAMC @F45@
+0 @I198@ INDI
 1 NAME Lidiane /Haas/
 2 GIVN Lidiane
 2 SURN Haas
 1 SEX F
-1 FAMC @F40@
-0 @I188@ INDI
+1 FAMC @F45@
+0 @I199@ INDI
 1 NAME Ines /Sebold/
 2 GIVN Ines
 2 SURN Sebold
 1 SEX F
-1 FAMC @F37@
-0 @I189@ INDI
+1 FAMC @F42@
+0 @I200@ INDI
 1 NAME Paulo /Sebold/
 2 GIVN Paulo
 2 SURN Sebold
 1 SEX M
-1 FAMS @F41@
-1 FAMC @F37@
-0 @I190@ INDI
+1 FAMS @F46@
+1 FAMC @F42@
+0 @I201@ INDI
 1 NAME Célia //
 2 GIVN Célia
 1 SEX F
-1 FAMS @F41@
-0 @I191@ INDI
+1 FAMS @F46@
+0 @I202@ INDI
 1 NAME Paulo Sérgio /Sebold/
 2 GIVN Paulo Sérgio
 2 SURN Sebold
 1 SEX M
-1 FAMC @F41@
-0 @I192@ INDI
+1 FAMC @F46@
+0 @I203@ INDI
 1 NAME Cristina /Sebold/
 2 GIVN Cristina
 2 SURN Sebold
 1 SEX F
-1 FAMC @F41@
-0 @I193@ INDI
+1 FAMC @F46@
+0 @I204@ INDI
 1 NAME Tatiane /Sebold/
 2 GIVN Tatiane
 2 SURN Sebold
 1 SEX F
-1 FAMC @F41@
-0 @I194@ INDI
+1 FAMC @F46@
+0 @I205@ INDI
 1 NAME Pedro /Sebold/
 2 GIVN Pedro
 2 SURN Sebold
 1 SEX M
-1 FAMS @F42@
-1 FAMC @F37@
-0 @I195@ INDI
+1 FAMS @F47@
+1 FAMC @F42@
+0 @I206@ INDI
 1 NAME Marcia //
 2 GIVN Marcia
 1 SEX F
-1 FAMS @F42@
-0 @I196@ INDI
+1 FAMS @F47@
+0 @I207@ INDI
 1 NAME Jaqueline /Sebold/
 2 GIVN Jaqueline
 2 SURN Sebold
 1 SEX F
-1 FAMC @F42@
-0 @I197@ INDI
+1 FAMC @F47@
+0 @I208@ INDI
 1 NAME David /Sebold/
 2 GIVN David
 2 SURN Sebold
 1 SEX F
-1 FAMC @F42@
-0 @I198@ INDI
+1 FAMC @F47@
+0 @I209@ INDI
 1 NAME Neide /Sebold/
 2 GIVN Neide
 2 SURN Sebold
 1 SEX F
-1 FAMS @F43@
-1 FAMC @F37@
-0 @I199@ INDI
+1 FAMS @F48@
+1 FAMC @F42@
+0 @I210@ INDI
 1 NAME Valdemir //
 2 GIVN Valdemir
 1 SEX M
-1 FAMS @F43@
-0 @I200@ INDI
+1 FAMS @F48@
+0 @I211@ INDI
 1 NAME Anderson /Haas/
 2 GIVN Anderson
 2 SURN Haas
 1 SEX M
-1 FAMC @F43@
-0 @I201@ INDI
+1 FAMC @F48@
+0 @I212@ INDI
 1 NAME Amanda /Haas/
 2 GIVN Amanda
 2 SURN Haas
 1 SEX F
-1 FAMC @F43@
-0 @I202@ INDI
+1 FAMC @F48@
+0 @I213@ INDI
 1 NAME Nilvo /Sebold/
 2 GIVN Nilvo
 2 SURN Sebold
 1 SEX M
-1 FAMS @F44@
-1 FAMC @F37@
-0 @I203@ INDI
+1 FAMS @F49@
+1 FAMC @F42@
+0 @I214@ INDI
 1 NAME Meire //
 2 GIVN Meire
 1 SEX F
-1 FAMS @F44@
-0 @I204@ INDI
+1 FAMS @F49@
+0 @I215@ INDI
 1 NAME Robson /Sebold/
 2 GIVN Robson
 2 SURN Sebold
 1 SEX M
-1 FAMC @F44@
-0 @I205@ INDI
+1 FAMC @F49@
+0 @I216@ INDI
 1 NAME Cintia /Sebold/
 2 GIVN Cintia
 2 SURN Sebold
 1 SEX F
-1 FAMC @F44@
-0 @I206@ INDI
+1 FAMC @F49@
+0 @I217@ INDI
 1 NAME Rosane /Sebold/
 2 GIVN Rosane
 2 SURN Sebold
 1 SEX F
-1 FAMS @F45@
-1 FAMC @F37@
-0 @I207@ INDI
+1 FAMS @F50@
+1 FAMC @F42@
+0 @I218@ INDI
 1 NAME João //
 2 GIVN João
 1 SEX M
-1 FAMS @F45@
-0 @I208@ INDI
+1 FAMS @F50@
+0 @I219@ INDI
 1 NAME Baldoino Neto /Haas/
 2 GIVN Baldoino Neto
 2 SURN Haas
 1 SEX M
-1 FAMC @F45@
-0 @I209@ INDI
+1 FAMC @F50@
+0 @I220@ INDI
 1 NAME Aline /Haas/
 2 GIVN Aline
 2 SURN Haas
 1 SEX F
-1 FAMC @F45@
-0 @I210@ INDI
+1 FAMC @F50@
+0 @I221@ INDI
 1 NAME Viviane /Haas/
 2 GIVN Viviane
 2 SURN Haas
 1 SEX F
-1 FAMC @F45@
-0 @I211@ INDI
+1 FAMC @F50@
+0 @I222@ INDI
 1 NAME Álvaro /Sebold/
 2 GIVN Álvaro
 2 SURN Sebold
 1 SEX M
-1 FAMS @F46@
-1 FAMC @F37@
-0 @I212@ INDI
+1 FAMS @F51@
+1 FAMC @F42@
+0 @I223@ INDI
 1 NAME Vania //
 2 GIVN Vania
 1 SEX F
-1 FAMS @F46@
-0 @I213@ INDI
+1 FAMS @F51@
+0 @I224@ INDI
 1 NAME Ines /Sebold/
 2 GIVN Ines
 2 SURN Sebold
 1 SEX F
-1 FAMC @F33@
-0 @I214@ INDI
+1 FAMC @F38@
+0 @I225@ INDI
 1 NAME Rainoldo /Sebold/
 2 GIVN Rainoldo
 2 SURN Sebold
 1 SEX M
-1 FAMS @F47@
-1 FAMC @F33@
-0 @I215@ INDI
+1 FAMS @F52@
+1 FAMC @F38@
+0 @I226@ INDI
 1 NAME Helga Cecilia //
 2 GIVN Helga Cecilia
 1 SEX F
-1 FAMS @F47@
-0 @I216@ INDI
+1 FAMS @F52@
+0 @I227@ INDI
 1 NAME Jaime /Sebold/
 2 GIVN Jaime
 2 SURN Sebold
 1 SEX M
-1 FAMS @F48@
-1 FAMC @F47@
-0 @I217@ INDI
+1 FAMS @F53@
+1 FAMC @F52@
+0 @I228@ INDI
 1 NAME Neide Aparecida //
 2 GIVN Neide Aparecida
 1 SEX F
-1 FAMS @F48@
-0 @I218@ INDI
+1 FAMS @F53@
+0 @I229@ INDI
 1 NAME Raquel Cristina /Sebold/
 2 GIVN Raquel Cristina
 2 SURN Sebold
 1 SEX F
-1 FAMC @F48@
-0 @I219@ INDI
+1 FAMC @F53@
+0 @I230@ INDI
 1 NAME Renan Carlos /Sebold/
 2 GIVN Renan Carlos
 2 SURN Sebold
 1 SEX F
-1 FAMC @F48@
-0 @I220@ INDI
+1 FAMC @F53@
+0 @I231@ INDI
 1 NAME Jair /Sebold/
 2 GIVN Jair
 2 SURN Sebold
 1 SEX M
-1 FAMS @F49@
-1 FAMC @F47@
-0 @I221@ INDI
+1 FAMS @F54@
+1 FAMC @F52@
+0 @I232@ INDI
 1 NAME Marli //
 2 GIVN Marli
 1 SEX F
-1 FAMS @F49@
-0 @I222@ INDI
+1 FAMS @F54@
+0 @I233@ INDI
 1 NAME Joice /Sebold/
 2 GIVN Joice
 2 SURN Sebold
 1 SEX F
-1 FAMC @F49@
-0 @I223@ INDI
+1 FAMC @F54@
+0 @I234@ INDI
 1 NAME Raul /Sebold/
 2 GIVN Raul
 2 SURN Sebold
 1 SEX F
-1 FAMC @F49@
-0 @I224@ INDI
+1 FAMC @F54@
+0 @I235@ INDI
 1 NAME Arnaldo /Sebold/
 2 GIVN Arnaldo
 2 SURN Sebold
 1 SEX M
-1 FAMS @F50@
-1 FAMC @F47@
-0 @I225@ INDI
+1 FAMS @F55@
+1 FAMC @F52@
+0 @I236@ INDI
 1 NAME Cleide Maria //
 2 GIVN Cleide Maria
 1 SEX F
-1 FAMS @F50@
-0 @I226@ INDI
+1 FAMS @F55@
+0 @I237@ INDI
 1 NAME Anderson /Sebold/
 2 GIVN Anderson
 2 SURN Sebold
 1 SEX M
-1 FAMC @F50@
-0 @I227@ INDI
+1 FAMC @F55@
+0 @I238@ INDI
 1 NAME Rafael /Sebold/
 2 GIVN Rafael
 2 SURN Sebold
 1 SEX M
-1 FAMC @F50@
-0 @I228@ INDI
+1 FAMC @F55@
+0 @I239@ INDI
 1 NAME Auria /Sebold/
 2 GIVN Auria
 2 SURN Sebold
 1 SEX F
-1 FAMS @F51@
-1 FAMC @F47@
-0 @I229@ INDI
+1 FAMS @F56@
+1 FAMC @F52@
+0 @I240@ INDI
 1 NAME Roney José //
 2 GIVN Roney José
 1 SEX M
-1 FAMS @F51@
-0 @I230@ INDI
+1 FAMS @F56@
+0 @I241@ INDI
 1 NAME Robson José /Haas/
 2 GIVN Robson José
 2 SURN Haas
 1 SEX M
-1 FAMC @F51@
-0 @I231@ INDI
+1 FAMC @F56@
+0 @I242@ INDI
 1 NAME Alexandre /Haas/
 2 GIVN Alexandre
 2 SURN Haas
 1 SEX M
-1 FAMC @F51@
-0 @I232@ INDI
+1 FAMC @F56@
+0 @I243@ INDI
 1 NAME Roney José Jr /Haas/
 2 GIVN Roney José Jr
 2 SURN Haas
 1 SEX F
-1 FAMC @F51@
-0 @I233@ INDI
+1 FAMC @F56@
+0 @I244@ INDI
 1 NAME Irene /Sebold/
 2 GIVN Irene
 2 SURN Sebold
 1 SEX F
-1 FAMC @F47@
-0 @I234@ INDI
+1 FAMC @F52@
+0 @I245@ INDI
 1 NAME Dalva /Sebold/
 2 GIVN Dalva
 2 SURN Sebold
 1 SEX F
-1 FAMS @F52@
-1 FAMC @F47@
-0 @I235@ INDI
+1 FAMS @F57@
+1 FAMC @F52@
+0 @I246@ INDI
 1 NAME Jaime //
 2 GIVN Jaime
 1 SEX M
-1 FAMS @F52@
-0 @I236@ INDI
+1 FAMS @F57@
+0 @I247@ INDI
 1 NAME Frida /Sebold/
 2 GIVN Frida
 2 SURN Sebold
 1 SEX F
-1 FAMS @F53@
-1 FAMC @F33@
-0 @I237@ INDI
+1 FAMS @F58@
+1 FAMC @F38@
+0 @I248@ INDI
 1 NAME Guilhano //
 2 GIVN Guilhano
 1 SEX M
-1 FAMS @F53@
-0 @I238@ INDI
+1 FAMS @F58@
+0 @I249@ INDI
 1 NAME Marlize /Haas/
 2 GIVN Marlize
 2 SURN Haas
 1 SEX F
-1 FAMS @F54@
-1 FAMC @F53@
-0 @I239@ INDI
+1 FAMS @F59@
+1 FAMC @F58@
+0 @I250@ INDI
 1 NAME Joaquim //
 2 GIVN Joaquim
 1 SEX M
-1 FAMS @F54@
-0 @I240@ INDI
+1 FAMS @F59@
+0 @I251@ INDI
 1 NAME Patricia /Haas/
 2 GIVN Patricia
 2 SURN Haas
 1 SEX F
-1 FAMC @F54@
-0 @I241@ INDI
+1 FAMC @F59@
+0 @I252@ INDI
 1 NAME Wagner /Haas/
 2 GIVN Wagner
 2 SURN Haas
 1 SEX F
-1 FAMC @F54@
-0 @I242@ INDI
+1 FAMC @F59@
+0 @I253@ INDI
 1 NAME Lindemar /Haas/
 2 GIVN Lindemar
 2 SURN Haas
 1 SEX F
-1 FAMS @F55@
-1 FAMC @F53@
-0 @I243@ INDI
+1 FAMS @F60@
+1 FAMC @F58@
+0 @I254@ INDI
 1 NAME Rosa //
 2 GIVN Rosa
 1 SEX M
-1 FAMS @F55@
-0 @I244@ INDI
+1 FAMS @F60@
+0 @I255@ INDI
 1 NAME Fabio /Haas/
 2 GIVN Fabio
 2 SURN Haas
 1 SEX M
-1 FAMC @F55@
-0 @I245@ INDI
+1 FAMC @F60@
+0 @I256@ INDI
 1 NAME Marcio /Haas/
 2 GIVN Marcio
 2 SURN Haas
 1 SEX M
-1 FAMC @F55@
-0 @I246@ INDI
+1 FAMC @F60@
+0 @I257@ INDI
 1 NAME Marili /Haas/
 2 GIVN Marili
 2 SURN Haas
 1 SEX F
-1 FAMS @F56@
-1 FAMC @F53@
-0 @I247@ INDI
+1 FAMS @F61@
+1 FAMC @F58@
+0 @I258@ INDI
 1 NAME Gislaine /Haas/
 2 GIVN Gislaine
 2 SURN Haas
 1 SEX F
-1 FAMC @F56@
-0 @I248@ INDI
+1 FAMC @F61@
+0 @I259@ INDI
 1 NAME Aldemar /Haas/
 2 GIVN Aldemar
 2 SURN Haas
 1 SEX F
-1 FAMS @F57@
-1 FAMC @F53@
-0 @I249@ INDI
+1 FAMS @F62@
+1 FAMC @F58@
+0 @I260@ INDI
 1 NAME Otília //
 2 GIVN Otília
 1 SEX M
-1 FAMS @F57@
-0 @I250@ INDI
+1 FAMS @F62@
+0 @I261@ INDI
 1 NAME Ellen /Haas/
 2 GIVN Ellen
 2 SURN Haas
 1 SEX F
-1 FAMC @F57@
-0 @I251@ INDI
+1 FAMC @F62@
+0 @I262@ INDI
 1 NAME Cleber /Haas/
 2 GIVN Cleber
 2 SURN Haas
 1 SEX F
-1 FAMC @F57@
-0 @I252@ INDI
+1 FAMC @F62@
+0 @I263@ INDI
 1 NAME Ana Márcia /Haas/
 2 GIVN Ana Márcia
 2 SURN Haas
 1 SEX F
-1 FAMS @F58@
-1 FAMC @F53@
-0 @I253@ INDI
+1 FAMS @F63@
+1 FAMC @F58@
+0 @I264@ INDI
 1 NAME Celso //
 2 GIVN Celso
 1 SEX M
-1 FAMS @F58@
-0 @I254@ INDI
+1 FAMS @F63@
+0 @I265@ INDI
 1 NAME Aldemir /Haas/
 2 GIVN Aldemir
 2 SURN Haas
 1 SEX M
-1 FAMS @F59@
-1 FAMC @F53@
-0 @I255@ INDI
+1 FAMS @F64@
+1 FAMC @F58@
+0 @I266@ INDI
 1 NAME Maria Lurdes //
 2 GIVN Maria Lurdes
 1 SEX F
-1 FAMS @F59@
-0 @I256@ INDI
+1 FAMS @F64@
+0 @I267@ INDI
 1 NAME Karine /Haas/
 2 GIVN Karine
 2 SURN Haas
 1 SEX F
-1 FAMC @F59@
-0 @I257@ INDI
+1 FAMC @F64@
+0 @I268@ INDI
 1 NAME Jairo /Haas/
 2 GIVN Jairo
 2 SURN Haas
 1 SEX M
-1 FAMC @F53@
-0 @I258@ INDI
+1 FAMC @F58@
+0 @I269@ INDI
 1 NAME Marilda /Haas/
 2 GIVN Marilda
 2 SURN Haas
 1 SEX F
-1 FAMS @F60@
-1 FAMC @F53@
-0 @I259@ INDI
+1 FAMS @F65@
+1 FAMC @F58@
+0 @I270@ INDI
 1 NAME José Vanderlei //
 2 GIVN José Vanderlei
 1 SEX M
-1 FAMS @F60@
-0 @I260@ INDI
+1 FAMS @F65@
+0 @I271@ INDI
 1 NAME Rafael Vanderlei /Haas/
 2 GIVN Rafael Vanderlei
 2 SURN Haas
 1 SEX M
-1 FAMC @F60@
-0 @I261@ INDI
+1 FAMC @F65@
+0 @I272@ INDI
 1 NAME Aurimar /Haas/
 2 GIVN Aurimar
 2 SURN Haas
 1 SEX F
-1 FAMC @F53@
-0 @I262@ INDI
+1 FAMC @F58@
+0 @I273@ INDI
 1 NAME Rainildes /Sebold/
 2 GIVN Rainildes
 2 SURN Sebold
 1 SEX F
-1 FAMS @F61@
-1 FAMC @F33@
-0 @I263@ INDI
+1 FAMS @F66@
+1 FAMC @F38@
+0 @I274@ INDI
 1 NAME Longino //
 2 GIVN Longino
 1 SEX M
-1 FAMS @F61@
-0 @I264@ INDI
+1 FAMS @F66@
+0 @I275@ INDI
 1 NAME Arnaldo /Haas/
 2 GIVN Arnaldo
 2 SURN Haas
 1 SEX M
-1 FAMS @F62@
-1 FAMC @F61@
-0 @I265@ INDI
+1 FAMS @F67@
+1 FAMC @F66@
+0 @I276@ INDI
 1 NAME Terezinha //
 2 GIVN Terezinha
 1 SEX F
-1 FAMS @F62@
-0 @I266@ INDI
+1 FAMS @F67@
+0 @I277@ INDI
 1 NAME Aline /Haas/
 2 GIVN Aline
 2 SURN Haas
 1 SEX F
-1 FAMC @F62@
-0 @I267@ INDI
+1 FAMC @F67@
+0 @I278@ INDI
 1 NAME Everton /Haas/
 2 GIVN Everton
 2 SURN Haas
 1 SEX M
-1 FAMC @F62@
-0 @I268@ INDI
+1 FAMC @F67@
+0 @I279@ INDI
 1 NAME Maria Salete /Haas/
 2 GIVN Maria Salete
 2 SURN Haas
 1 SEX F
-1 FAMS @F63@
-1 FAMC @F61@
-0 @I269@ INDI
+1 FAMS @F68@
+1 FAMC @F66@
+0 @I280@ INDI
 1 NAME Ademir //
 2 GIVN Ademir
 1 SEX M
-1 FAMS @F63@
-0 @I270@ INDI
+1 FAMS @F68@
+0 @I281@ INDI
 1 NAME Wesley Henrique /Haas/
 2 GIVN Wesley Henrique
 2 SURN Haas
 1 SEX F
-1 FAMC @F63@
-0 @I271@ INDI
+1 FAMC @F68@
+0 @I282@ INDI
 1 NAME Ademir Jr /Haas/
 2 GIVN Ademir Jr
 2 SURN Haas
 1 SEX M
-1 FAMC @F63@
-0 @I272@ INDI
+1 FAMC @F68@
+0 @I283@ INDI
 1 NAME Reinaldo /Haas/
 2 GIVN Reinaldo
 2 SURN Haas
 1 SEX M
-1 FAMC @F61@
-0 @I273@ INDI
+1 FAMC @F66@
+0 @I284@ INDI
 1 NAME Ronaldo /Haas/
 2 GIVN Ronaldo
 2 SURN Haas
 1 SEX M
-1 FAMS @F64@
-1 FAMC @F61@
-0 @I274@ INDI
+1 FAMS @F69@
+1 FAMC @F66@
+0 @I285@ INDI
 1 NAME Márcia Regina //
 2 GIVN Márcia Regina
 1 SEX F
-1 FAMS @F64@
-0 @I275@ INDI
+1 FAMS @F69@
+0 @I286@ INDI
 1 NAME Luana /Haas/
 2 GIVN Luana
 2 SURN Haas
 1 SEX F
-1 FAMC @F64@
-0 @I276@ INDI
+1 FAMC @F69@
+0 @I287@ INDI
 1 NAME Aroldo /Haas/
 2 GIVN Aroldo
 2 SURN Haas
 1 SEX M
-1 FAMC @F61@
-0 @I277@ INDI
+1 FAMC @F66@
+0 @I288@ INDI
 1 NAME Arnoldo /Haas/
 2 GIVN Arnoldo
 2 SURN Haas
 1 SEX M
-1 FAMC @F61@
-0 @I278@ INDI
+1 FAMC @F66@
+0 @I289@ INDI
 1 NAME Leopoldo /Sebold/
 2 GIVN Leopoldo
 2 SURN Sebold
 1 SEX M
-1 FAMS @F65@
-1 FAMC @F33@
-0 @I279@ INDI
+1 FAMS @F70@
+1 FAMC @F38@
+0 @I290@ INDI
 1 NAME Ivanilde //
 2 GIVN Ivanilde
 1 SEX F
-1 FAMS @F65@
-0 @I280@ INDI
+1 FAMS @F70@
+0 @I291@ INDI
 1 NAME Cezar /Sebold/
 2 GIVN Cezar
 2 SURN Sebold
 1 SEX F
-1 FAMC @F65@
-0 @I281@ INDI
+1 FAMC @F70@
+0 @I292@ INDI
 1 NAME Simone /Sebold/
 2 GIVN Simone
 2 SURN Sebold
 1 SEX F
-1 FAMC @F65@
-0 @I282@ INDI
+1 FAMC @F70@
+0 @I293@ INDI
 1 NAME Terezinha /Sebold/
 2 GIVN Terezinha
 2 SURN Sebold
 1 SEX F
-1 FAMS @F66@
-1 FAMC @F33@
-0 @I283@ INDI
+1 FAMS @F71@
+1 FAMC @F38@
+0 @I294@ INDI
 1 NAME Leo //
 2 GIVN Leo
 1 SEX M
-1 FAMS @F66@
-0 @I284@ INDI
+1 FAMS @F71@
+0 @I295@ INDI
 1 NAME Ines /Haas/
 2 GIVN Ines
 2 SURN Haas
 1 SEX F
-1 FAMS @F67@
-1 FAMC @F66@
-0 @I285@ INDI
+1 FAMS @F72@
+1 FAMC @F71@
+0 @I296@ INDI
 1 NAME Laercio José //
 2 GIVN Laercio José
 1 SEX M
-1 FAMS @F67@
-0 @I286@ INDI
+1 FAMS @F72@
+0 @I297@ INDI
 1 NAME Danieli /Haas/
 2 GIVN Danieli
 2 SURN Haas
 1 SEX F
-1 FAMC @F67@
-0 @I287@ INDI
+1 FAMC @F72@
+0 @I298@ INDI
 1 NAME Anderson /Haas/
 2 GIVN Anderson
 2 SURN Haas
 1 SEX M
-1 FAMC @F67@
-0 @I288@ INDI
+1 FAMC @F72@
+0 @I299@ INDI
 1 NAME Andressa /Haas/
 2 GIVN Andressa
 2 SURN Haas
 1 SEX F
-1 FAMC @F67@
-0 @I289@ INDI
+1 FAMC @F72@
+0 @I300@ INDI
 1 NAME Cleusa /Haas/
 2 GIVN Cleusa
 2 SURN Haas
 1 SEX F
-1 FAMS @F68@
-1 FAMC @F66@
-0 @I290@ INDI
+1 FAMS @F73@
+1 FAMC @F71@
+0 @I301@ INDI
 1 NAME Luiz //
 2 GIVN Luiz
 1 SEX M
-1 FAMS @F68@
-0 @I291@ INDI
+1 FAMS @F73@
+0 @I302@ INDI
 1 NAME Wagner /Haas/
 2 GIVN Wagner
 2 SURN Haas
 1 SEX F
-1 FAMC @F68@
-0 @I292@ INDI
+1 FAMC @F73@
+0 @I303@ INDI
 1 NAME Elder /Haas/
 2 GIVN Elder
 2 SURN Haas
 1 SEX F
-1 FAMC @F68@
-0 @I293@ INDI
+1 FAMC @F73@
+0 @I304@ INDI
 1 NAME Edgar /Haas/
 2 GIVN Edgar
 2 SURN Haas
 1 SEX F
-1 FAMC @F66@
-0 @I294@ INDI
+1 FAMC @F71@
+0 @I305@ INDI
 1 NAME Vanderlei /Haas/
 2 GIVN Vanderlei
 2 SURN Haas
 1 SEX M
-1 FAMC @F66@
-0 @I295@ INDI
+1 FAMC @F71@
+0 @I306@ INDI
 1 NAME Maria /Sebold/
 2 GIVN Maria
 2 SURN Sebold
 1 SEX F
-1 FAMS @F69@
-1 FAMC @F33@
-0 @I296@ INDI
+1 FAMS @F74@
+1 FAMC @F38@
+0 @I307@ INDI
 1 NAME Agostinho //
 2 GIVN Agostinho
 1 SEX M
-1 FAMS @F69@
-0 @I297@ INDI
+1 FAMS @F74@
+0 @I308@ INDI
 1 NAME Ozair /Haas/
 2 GIVN Ozair
 2 SURN Haas
 1 SEX M
-1 FAMS @F70@
-1 FAMC @F69@
-0 @I298@ INDI
+1 FAMS @F75@
+1 FAMC @F74@
+0 @I309@ INDI
 1 NAME Cleuza //
 2 GIVN Cleuza
 1 SEX F
-1 FAMS @F70@
-0 @I299@ INDI
+1 FAMS @F75@
+0 @I310@ INDI
 1 NAME Joyce /Haas/
 2 GIVN Joyce
 2 SURN Haas
 1 SEX F
-1 FAMC @F70@
-0 @I300@ INDI
+1 FAMC @F75@
+0 @I311@ INDI
 1 NAME Odenir /Haas/
 2 GIVN Odenir
 2 SURN Haas
 1 SEX M
-1 FAMC @F69@
-0 @I301@ INDI
+1 FAMC @F74@
+0 @I312@ INDI
 1 NAME José /Haas/
 2 GIVN José
 2 SURN Haas
 1 SEX M
-1 FAMC @F69@
-0 @I302@ INDI
+1 FAMC @F74@
+0 @I313@ INDI
 1 NAME Ferdinand /Haas/
 2 GIVN Ferdinand
 2 SURN Haas
@@ -3267,696 +3582,723 @@
 2 SURN Haas
 1 SEX M
 1 BIRT
-2 DATE 1915
+2 DATE 19 JUL 1915
 2 PLAC Rio do Ouro, Anitápolis, Santa Catarina, Brasil
-1 DEAT Y
-1 FAMS @F71@
+1 CHR
+2 DATE 8 SEP 1915
+2 PLAC Santa Catarina, Brasil
+1 DEAT
+2 DATE 18 MAR 1976
+2 PLAC Santa Isabel do Ivaí, Paraná, Brasil
+1 FAMS @F76@
 1 FAMC @F2@
-0 @I303@ INDI
+1 _FSFTID GX1Y-P9P
+1 NOTE Nascido em 19/07/1915 em Anitápolis e batizado em 08/09/1915 (ark:/61903/1:1:QP7N-8ZQD); faleceu em 18/03/1976 em Santa Isabel do Ivaí, PR (ark:/61903/1:1:62X3-4WT6).
+0 @I314@ INDI
 1 NAME Rosalina /da Rosa/
 2 GIVN Rosalina
 2 SURN da Rosa
 1 SEX F
-1 DEAT Y
-1 FAMS @F71@
-0 @I304@ INDI
+1 BIRT
+2 DATE 28 APR 1916
+2 PLAC Ituporanga, Santa Catarina, Brasil
+1 DEAT
+2 DATE 5 JAN 2000
+2 PLAC Santa Isabel do Ivaí, Paraná, Brasil
+1 FAMS @F76@
+1 _FSFTID GX1B-SXY
+0 @I315@ INDI
 1 NAME Yolanda /Haas/
 2 GIVN Yolanda
 2 SURN Haas
 1 SEX F
-1 FAMC @F71@
-0 @I305@ INDI
+1 FAMC @F76@
+0 @I316@ INDI
 1 NAME Irene /Haas/
 2 GIVN Irene
 2 SURN Haas
 1 SEX F
-1 FAMS @F72@
-1 FAMC @F71@
-0 @I306@ INDI
+1 FAMS @F77@
+1 FAMC @F76@
+0 @I317@ INDI
 1 NAME Antonio //
 2 GIVN Antonio
 1 SEX M
-1 FAMS @F72@
-0 @I307@ INDI
+1 FAMS @F77@
+0 @I318@ INDI
 1 NAME Antonio Jr /Haas/
 2 GIVN Antonio Jr
 2 SURN Haas
 1 SEX M
-1 FAMS @F73@
-1 FAMC @F72@
-0 @I308@ INDI
+1 FAMS @F78@
+1 FAMC @F77@
+0 @I319@ INDI
 1 NAME Sonia Cristina //
 2 GIVN Sonia Cristina
 1 SEX F
-1 FAMS @F73@
-0 @I309@ INDI
+1 FAMS @F78@
+0 @I320@ INDI
 1 NAME Mara Lucia /Haas/
 2 GIVN Mara Lucia
 2 SURN Haas
 1 SEX F
-1 FAMS @F74@
-1 FAMC @F72@
-0 @I310@ INDI
+1 FAMS @F79@
+1 FAMC @F77@
+0 @I321@ INDI
 1 NAME Alcione //
 2 GIVN Alcione
 1 SEX M
-1 FAMS @F74@
-0 @I311@ INDI
+1 FAMS @F79@
+0 @I322@ INDI
 1 NAME Tiago /Haas/
 2 GIVN Tiago
 2 SURN Haas
 1 SEX M
-1 FAMC @F74@
-0 @I312@ INDI
+1 FAMC @F79@
+0 @I323@ INDI
 1 NAME Luciane /Haas/
 2 GIVN Luciane
 2 SURN Haas
 1 SEX F
-1 FAMC @F72@
-0 @I313@ INDI
+1 FAMC @F77@
+0 @I324@ INDI
 1 NAME Valdemar /Haas/
 2 GIVN Valdemar
 2 SURN Haas
 1 SEX F
-1 FAMS @F75@
-1 FAMC @F71@
-0 @I314@ INDI
+1 FAMS @F80@
+1 FAMC @F76@
+0 @I325@ INDI
 1 NAME Maria de Lourdes //
 2 GIVN Maria de Lourdes
 1 SEX M
-1 FAMS @F75@
-0 @I315@ INDI
+1 FAMS @F80@
+0 @I326@ INDI
 1 NAME Antonio Fernando /Haas/
 2 GIVN Antonio Fernando
 2 SURN Haas
 1 SEX M
-1 FAMC @F75@
-0 @I316@ INDI
+1 FAMC @F80@
+0 @I327@ INDI
 1 NAME Claudia Cristina /Haas/
 2 GIVN Claudia Cristina
 2 SURN Haas
 1 SEX F
-1 FAMC @F75@
-0 @I317@ INDI
+1 FAMC @F80@
+0 @I328@ INDI
 1 NAME Marli Cristiane /Haas/
 2 GIVN Marli Cristiane
 2 SURN Haas
 1 SEX F
-1 FAMC @F75@
-0 @I318@ INDI
+1 FAMC @F80@
+0 @I329@ INDI
 1 NAME Valdemar Jr /Haas/
 2 GIVN Valdemar Jr
 2 SURN Haas
 1 SEX F
-1 FAMC @F75@
-0 @I319@ INDI
+1 FAMC @F80@
+0 @I330@ INDI
 1 NAME Lone Isolde /Haas/
 2 GIVN Lone Isolde
 2 SURN Haas
 1 SEX F
-1 FAMS @F76@
-1 FAMC @F71@
-0 @I320@ INDI
+1 FAMS @F81@
+1 FAMC @F76@
+0 @I331@ INDI
 1 NAME Antonio //
 2 GIVN Antonio
 1 SEX M
-1 FAMS @F76@
-0 @I321@ INDI
+1 FAMS @F81@
+0 @I332@ INDI
 1 NAME Sérgio Fernando /Haas/
 2 GIVN Sérgio Fernando
 2 SURN Haas
 1 SEX M
-1 FAMS @F77@
-1 FAMC @F76@
-0 @I322@ INDI
+1 FAMS @F82@
+1 FAMC @F81@
+0 @I333@ INDI
 1 NAME Célia Aparecida //
 2 GIVN Célia Aparecida
 1 SEX F
-1 FAMS @F77@
-0 @I323@ INDI
+1 FAMS @F82@
+0 @I334@ INDI
 1 NAME José Antonio /Haas/
 2 GIVN José Antonio
 2 SURN Haas
 1 SEX M
-1 FAMS @F78@
-1 FAMC @F76@
-0 @I324@ INDI
+1 FAMS @F83@
+1 FAMC @F81@
+0 @I335@ INDI
 1 NAME Sonia de Lourdes //
 2 GIVN Sonia de Lourdes
 1 SEX F
-1 FAMS @F78@
-0 @I325@ INDI
+1 FAMS @F83@
+0 @I336@ INDI
 1 NAME Antonio Eduardo /Haas/
 2 GIVN Antonio Eduardo
 2 SURN Haas
 1 SEX M
-1 FAMC @F78@
-0 @I326@ INDI
+1 FAMC @F83@
+0 @I337@ INDI
 1 NAME Chayenne /Haas/
 2 GIVN Chayenne
 2 SURN Haas
 1 SEX F
-1 FAMC @F78@
-0 @I327@ INDI
+1 FAMC @F83@
+0 @I338@ INDI
 1 NAME Ricardo /Haas/
 2 GIVN Ricardo
 2 SURN Haas
 1 SEX M
-1 FAMS @F79@
-1 FAMC @F76@
-0 @I328@ INDI
+1 FAMS @F84@
+1 FAMC @F81@
+0 @I339@ INDI
 1 NAME Adriana //
 2 GIVN Adriana
 1 SEX F
-1 FAMS @F79@
-0 @I329@ INDI
+1 FAMS @F84@
+0 @I340@ INDI
 1 NAME Elison /Haas/
 2 GIVN Elison
 2 SURN Haas
 1 SEX M
-1 FAMC @F76@
-0 @I330@ INDI
+1 FAMC @F81@
+0 @I341@ INDI
 1 NAME Norma /Haas/
 2 GIVN Norma
 2 SURN Haas
 1 SEX F
-1 FAMS @F80@
-1 FAMC @F71@
-0 @I331@ INDI
+1 FAMS @F85@
+1 FAMC @F76@
+0 @I342@ INDI
 1 NAME Alair Eduardo //
 2 GIVN Alair Eduardo
 1 SEX M
-1 FAMS @F80@
-0 @I332@ INDI
+1 FAMS @F85@
+0 @I343@ INDI
 1 NAME Flávio Eduardo /Haas/
 2 GIVN Flávio Eduardo
 2 SURN Haas
 1 SEX M
-1 FAMS @F81@
-1 FAMC @F80@
-0 @I333@ INDI
+1 FAMS @F86@
+1 FAMC @F85@
+0 @I344@ INDI
 1 NAME Rosa //
 2 GIVN Rosa
 1 SEX F
-1 FAMS @F81@
-0 @I334@ INDI
+1 FAMS @F86@
+0 @I345@ INDI
 1 NAME Tatiana /Haas/
 2 GIVN Tatiana
 2 SURN Haas
 1 SEX F
-1 FAMC @F81@
-0 @I335@ INDI
+1 FAMC @F86@
+0 @I346@ INDI
 1 NAME Fabiane /Haas/
 2 GIVN Fabiane
 2 SURN Haas
 1 SEX F
-1 FAMC @F80@
-0 @I336@ INDI
+1 FAMC @F85@
+0 @I347@ INDI
 1 NAME Antonio /Haas/
 2 GIVN Antonio
 2 SURN Haas
 1 SEX M
-1 FAMS @F82@
-1 FAMC @F71@
-0 @I337@ INDI
+1 FAMS @F87@
+1 FAMC @F76@
+0 @I348@ INDI
 1 NAME Marli //
 2 GIVN Marli
 1 SEX F
-1 FAMS @F82@
-0 @I338@ INDI
+1 FAMS @F87@
+0 @I349@ INDI
 1 NAME Priscila de Cassia /Haas/
 2 GIVN Priscila de Cassia
 2 SURN Haas
 1 SEX F
-1 FAMC @F82@
-0 @I339@ INDI
+1 FAMC @F87@
+0 @I350@ INDI
 1 NAME Giorgia Thais /Haas/
 2 GIVN Giorgia Thais
 2 SURN Haas
 1 SEX F
-1 FAMC @F82@
-0 @I340@ INDI
+1 FAMC @F87@
+0 @I351@ INDI
 1 NAME Gleisa Thais /Haas/
 2 GIVN Gleisa Thais
 2 SURN Haas
 1 SEX F
-1 FAMC @F82@
-0 @I341@ INDI
+1 FAMC @F87@
+0 @I352@ INDI
 1 NAME Nelson /Haas/
 2 GIVN Nelson
 2 SURN Haas
 1 SEX M
-1 FAMC @F71@
-0 @I342@ INDI
+1 FAMC @F76@
+0 @I353@ INDI
 1 NAME Alexandre /Haas/
 2 GIVN Alexandre
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 23 MAY 1917
+2 PLAC Rio do Ouro, Anitápolis, Santa Catarina, Brasil
+1 CHR
+2 DATE 18 JUN 1917
+2 PLAC Santa Catarina, Brasil
 1 DEAT
 2 DATE 16 NOV 1994
-1 FAMS @F83@
+2 PLAC Ituporanga, Santa Catarina, Brasil
+1 BURI
+2 PLAC Cemitério de Ituporanga, Santa Catarina, Brasil
+1 FAMS @F88@
 1 FAMC @F2@
+1 _FSFTID G3JV-4DB
 1 NOTE Alexandre Haas:
 2 CONT falecido, nasceu no dia 23 de maio de 1917, em Rio do Ouro, Palhoça, hoje pertence a Anitápolis, SC, era pedreiro,  estudou só até o primeiro ano do primeiro grau, morava na Rua Escolástica Sens, 35, 
 2 CONC em Ituporanga, SC, faleceu no dia 16 de novembro de 1994 e está sepultado no cemitério de Ituporanga, SC. CEP 88.400-000
 2 CONT 
 2 CONT Paula Klettemberg Haas:
 2 CONT falecida, nasceu no dia 27 de setembro de 1921 em Cerro Negro, Ituporanga, SC, do lar, estudou até o terceiro ano do primeiro grau, atualmente reside com a filha Marlith. Tinham telefone mas foi desli
-2 CONC gado. Faleceu no dia 02 de julho de 2007.
-0 @I343@ INDI
+2 CONC gado. Faleceu no dia 02 de julho de 2007. Nascido em 23/05/1917 em Anitápolis e batizado em 18/06/1917 (ark:/61903/1:1:QP7K-9XRG); faleceu em 16/11/1994 em Ituporanga, SC (ark:/61903/1:1:XSX6-K9MX).
+0 @I354@ INDI
 1 NAME Paula /Klettenberg/
 2 GIVN Paula
 2 SURN Klettenberg
 1 SEX F
-1 DEAT Y
-1 FAMS @F83@
-0 @I344@ INDI
+1 BIRT
+2 DATE 27 SEP 1921
+2 PLAC Ituporanga, Santa Catarina, Brasil
+1 DEAT
+2 DATE 2 JUL 2007
+2 PLAC Ituporanga, Santa Catarina, Brasil
+1 FAMS @F88@
+1 _FSFTID G3JV-8SP
+0 @I355@ INDI
 1 NAME Agenor /Haas/
 2 GIVN Agenor
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1943
-1 FAMS @F84@
-1 FAMC @F83@
-0 @I345@ INDI
+1 FAMS @F89@
+1 FAMC @F88@
+0 @I356@ INDI
 1 NAME Nilsa //
 2 GIVN Nilsa
 1 SEX F
-1 FAMS @F84@
-0 @I346@ INDI
+1 FAMS @F89@
+0 @I357@ INDI
 1 NAME Daisy Elisa /Haas/
 2 GIVN Daisy Elisa
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 1971
-1 FAMS @F85@
-1 FAMC @F84@
-0 @I347@ INDI
+1 FAMS @F90@
+1 FAMC @F89@
+0 @I358@ INDI
 1 NAME Marco Aurélio //
 2 GIVN Marco Aurélio
 1 SEX M
-1 FAMS @F85@
-0 @I348@ INDI
+1 FAMS @F90@
+0 @I359@ INDI
 1 NAME Pedro Henrique /Haas/
 2 GIVN Pedro Henrique
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1991
-1 FAMC @F85@
-0 @I349@ INDI
+1 FAMC @F90@
+0 @I360@ INDI
 1 NAME Giovana Maria /Haas/
 2 GIVN Giovana Maria
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 1996
-1 FAMC @F85@
-0 @I350@ INDI
+1 FAMC @F90@
+0 @I361@ INDI
 1 NAME André Otaviano /Haas/
 2 GIVN André Otaviano
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1973
-1 FAMS @F86@
-1 FAMS @F87@
-1 FAMC @F84@
-0 @I351@ INDI
+1 FAMS @F91@
+1 FAMS @F92@
+1 FAMC @F89@
+0 @I362@ INDI
 1 NAME Luciana //
 2 GIVN Luciana
 1 SEX F
-1 FAMS @F86@
-0 @I352@ INDI
+1 FAMS @F91@
+0 @I363@ INDI
 1 NAME Marina /Haas/
 2 GIVN Marina
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 1993
-1 FAMC @F86@
-0 @I353@ INDI
+1 FAMC @F91@
+0 @I364@ INDI
 1 NAME Simone //
 2 GIVN Simone
 1 SEX F
-1 FAMS @F87@
-0 @I354@ INDI
+1 FAMS @F92@
+0 @I365@ INDI
 1 NAME Lucas /Haas/
 2 GIVN Lucas
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 2004
-1 FAMC @F87@
-0 @I355@ INDI
+1 FAMC @F92@
+0 @I366@ INDI
 1 NAME Carlos Eduardo /Haas/
 2 GIVN Carlos Eduardo
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1975
-1 FAMS @F88@
-1 FAMC @F84@
-0 @I356@ INDI
+1 FAMS @F93@
+1 FAMC @F89@
+0 @I367@ INDI
 1 NAME Anna Valeska //
 2 GIVN Anna Valeska
 1 SEX F
-1 FAMS @F88@
-0 @I357@ INDI
+1 FAMS @F93@
+0 @I368@ INDI
 1 NAME Julia /Haas/
 2 GIVN Julia
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 2001
-1 FAMC @F88@
-0 @I358@ INDI
+1 FAMC @F93@
+0 @I369@ INDI
 1 NAME Daniele Cristina /Haas/
 2 GIVN Daniele Cristina
 2 SURN Haas
 1 SEX F
-1 FAMC @F84@
-0 @I359@ INDI
+1 FAMC @F89@
+0 @I370@ INDI
 1 NAME Gisele Maria /Haas/
 2 GIVN Gisele Maria
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 1978
-1 FAMC @F84@
-0 @I360@ INDI
+1 FAMC @F89@
+0 @I371@ INDI
 1 NAME Marlith /Haas/
 2 GIVN Marlith
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 1945
-1 FAMS @F89@
-1 FAMC @F83@
-0 @I361@ INDI
+1 FAMS @F94@
+1 FAMC @F88@
+0 @I372@ INDI
 1 NAME Gedalvo //
 2 GIVN Gedalvo
 1 SEX M
-1 FAMS @F89@
-0 @I362@ INDI
+1 FAMS @F94@
+0 @I373@ INDI
 1 NAME Vanderlei /Haas/
 2 GIVN Vanderlei
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1967
-1 FAMS @F90@
-1 FAMC @F89@
-0 @I363@ INDI
+1 FAMS @F95@
+1 FAMC @F94@
+0 @I374@ INDI
 1 NAME Marion //
 2 GIVN Marion
 1 SEX F
-1 FAMS @F90@
-0 @I364@ INDI
+1 FAMS @F95@
+0 @I375@ INDI
 1 NAME Christian /Haas/
 2 GIVN Christian
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1994
-1 FAMC @F90@
-0 @I365@ INDI
+1 FAMC @F95@
+0 @I376@ INDI
 1 NAME Cristopher /Haas/
 2 GIVN Cristopher
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1996
-1 FAMC @F90@
-0 @I366@ INDI
+1 FAMC @F95@
+0 @I377@ INDI
 1 NAME Caua /Haas/
 2 GIVN Caua
 2 SURN Haas
 1 SEX M
-1 FAMC @F90@
-0 @I367@ INDI
+1 FAMC @F95@
+0 @I378@ INDI
 1 NAME Leila /Haas/
 2 GIVN Leila
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 1969
-1 FAMS @F91@
-1 FAMC @F89@
-0 @I368@ INDI
+1 FAMS @F96@
+1 FAMC @F94@
+0 @I379@ INDI
 1 NAME Alcides //
 2 GIVN Alcides
 1 SEX M
-1 FAMS @F91@
-0 @I369@ INDI
+1 FAMS @F96@
+0 @I380@ INDI
 1 NAME Ricardo Rodolfo /Haas/
 2 GIVN Ricardo Rodolfo
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1991
-1 FAMC @F91@
-0 @I370@ INDI
+1 FAMC @F96@
+0 @I381@ INDI
 1 NAME Stephanee Mary /Haas/
 2 GIVN Stephanee Mary
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 1994
-1 FAMC @F91@
-0 @I371@ INDI
+1 FAMC @F96@
+0 @I382@ INDI
 1 NAME John Carlos /Haas/
 2 GIVN John Carlos
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1971
-1 FAMC @F89@
-0 @I372@ INDI
+1 FAMC @F94@
+0 @I383@ INDI
 1 NAME Marisabel /Haas/
 2 GIVN Marisabel
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 1972
-1 FAMS @F92@
-1 FAMC @F89@
-0 @I373@ INDI
+1 FAMS @F97@
+1 FAMC @F94@
+0 @I384@ INDI
 1 NAME Paulo //
 2 GIVN Paulo
 1 SEX M
-1 FAMS @F92@
-0 @I374@ INDI
+1 FAMS @F97@
+0 @I385@ INDI
 1 NAME Victor /Haas/
 2 GIVN Victor
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1997
-1 FAMC @F92@
-0 @I375@ INDI
+1 FAMC @F97@
+0 @I386@ INDI
 1 NAME Gabriel /Haas/
 2 GIVN Gabriel
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 2001
-1 FAMC @F92@
-0 @I376@ INDI
+1 FAMC @F97@
+0 @I387@ INDI
 1 NAME Lucia Helena /Haas/
 2 GIVN Lucia Helena
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 1982
-1 FAMS @F93@
-1 FAMC @F89@
-0 @I377@ INDI
+1 FAMS @F98@
+1 FAMC @F94@
+0 @I388@ INDI
 1 NAME Cônjuge //
 2 GIVN Cônjuge
 1 SEX M
-1 FAMS @F93@
-0 @I378@ INDI
+1 FAMS @F98@
+0 @I389@ INDI
 1 NAME Jaime /Haas/
 2 GIVN Jaime
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1948
-1 FAMS @F94@
-1 FAMC @F83@
-0 @I379@ INDI
+1 FAMS @F99@
+1 FAMC @F88@
+0 @I390@ INDI
 1 NAME Verônica //
 2 GIVN Verônica
 1 SEX F
-1 FAMS @F94@
-0 @I380@ INDI
+1 FAMS @F99@
+0 @I391@ INDI
 1 NAME Francisco Alexandre /Haas/
 2 GIVN Francisco Alexandre
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1970
-1 FAMC @F94@
-0 @I381@ INDI
+1 FAMC @F99@
+0 @I392@ INDI
 1 NAME Lara /Haas/
 2 GIVN Lara
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 1972
-1 FAMS @F95@
-1 FAMC @F94@
-0 @I382@ INDI
+1 FAMS @F100@
+1 FAMC @F99@
+0 @I393@ INDI
 1 NAME Fabio //
 2 GIVN Fabio
 1 SEX M
-1 FAMS @F95@
-0 @I383@ INDI
+1 FAMS @F100@
+0 @I394@ INDI
 1 NAME Alex Natham /Haas/
 2 GIVN Alex Natham
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1993
-1 FAMC @F95@
-0 @I384@ INDI
+1 FAMC @F100@
+0 @I395@ INDI
 1 NAME Ana Carolina /Haas/
 2 GIVN Ana Carolina
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 1995
-1 FAMC @F95@
-0 @I385@ INDI
+1 FAMC @F100@
+0 @I396@ INDI
 1 NAME Rafael Felipe /Haas/
 2 GIVN Rafael Felipe
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1998
-1 FAMC @F95@
-0 @I386@ INDI
+1 FAMC @F100@
+0 @I397@ INDI
 1 NAME Jaime Jr /Haas/
 2 GIVN Jaime Jr
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1974
-1 FAMS @F96@
-1 FAMS @F97@
-1 FAMC @F94@
-0 @I387@ INDI
+1 FAMS @F101@
+1 FAMS @F102@
+1 FAMC @F99@
+0 @I398@ INDI
 1 NAME Juliana //
 2 GIVN Juliana
 1 SEX F
-1 FAMS @F96@
-0 @I388@ INDI
+1 FAMS @F101@
+0 @I399@ INDI
 1 NAME Elisangela //
 2 GIVN Elisangela
 1 SEX F
-1 FAMS @F97@
-0 @I389@ INDI
+1 FAMS @F102@
+0 @I400@ INDI
 1 NAME Gustavo /Haas/
 2 GIVN Gustavo
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 2004
-1 FAMC @F97@
-0 @I390@ INDI
+1 FAMC @F102@
+0 @I401@ INDI
 1 NAME Jane /Haas/
 2 GIVN Jane
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 1974
-1 FAMS @F98@
-1 FAMC @F94@
-0 @I391@ INDI
+1 FAMS @F103@
+1 FAMC @F99@
+0 @I402@ INDI
 1 NAME Gilmar //
 2 GIVN Gilmar
 1 SEX M
-1 FAMS @F98@
-0 @I392@ INDI
+1 FAMS @F103@
+0 @I403@ INDI
 1 NAME Daniel /Haas/
 2 GIVN Daniel
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1994
-1 FAMC @F98@
-0 @I393@ INDI
+1 FAMC @F103@
+0 @I404@ INDI
 1 NAME Pedro /Haas/
 2 GIVN Pedro
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1998
-1 FAMC @F98@
-0 @I394@ INDI
+1 FAMC @F103@
+0 @I405@ INDI
 1 NAME Lauro /Haas/
 2 GIVN Lauro
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1951
-1 FAMS @F99@
-1 FAMC @F83@
-0 @I395@ INDI
+1 FAMS @F104@
+1 FAMC @F88@
+0 @I406@ INDI
 1 NAME Nelza //
 2 GIVN Nelza
 1 SEX F
-1 FAMS @F99@
-0 @I396@ INDI
+1 FAMS @F104@
+0 @I407@ INDI
 1 NAME Leandro /Haas/
 2 GIVN Leandro
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1973
-1 FAMC @F99@
-0 @I397@ INDI
+1 FAMC @F104@
+0 @I408@ INDI
 1 NAME Cristiane /Haas/
 2 GIVN Cristiane
 2 SURN Haas
 1 SEX F
-1 FAMC @F99@
-0 @I398@ INDI
+1 FAMC @F104@
+0 @I409@ INDI
 1 NAME Maria Ester /Haas/
 2 GIVN Maria Ester
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 1954
-1 FAMS @F100@
-1 FAMC @F83@
-0 @I399@ INDI
+1 FAMS @F105@
+1 FAMC @F88@
+0 @I410@ INDI
 1 NAME Mário //
 2 GIVN Mário
 1 SEX M
-1 FAMS @F100@
-0 @I400@ INDI
+1 FAMS @F105@
+0 @I411@ INDI
 1 NAME Gregory /Haas/
 2 GIVN Gregory
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1990
-1 FAMC @F100@
-0 @I401@ INDI
+1 FAMC @F105@
+0 @I412@ INDI
 1 NAME João Valter /Haas/
 2 GIVN João Valter
 2 SURN Haas
 1 SEX M
 1 BIRT
 2 DATE 1957
-1 FAMC @F83@
-0 @I402@ INDI
+1 FAMC @F88@
+0 @I413@ INDI
 1 NAME Roni José /Haas/
 2 GIVN Roni José
 2 SURN Haas
@@ -3965,40 +4307,40 @@
 2 DATE 7 SEP 1961
 1 DEAT
 2 DATE 27 FEB 1964
-1 FAMC @F83@
+1 FAMC @F88@
 1 NOTE Roni José Haas:
 2 CONT falecido, nasceu no dia 07 de setembro de 1961 em Ituporanga, SC e faleceu no dia 27 de fevereiro de 1964, sepultado no cemitério de Ituporanga, SC.
-0 @I403@ INDI
+0 @I414@ INDI
 1 NAME Beatriz /Haas/
 2 GIVN Beatriz
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 1965
-1 FAMS @F101@
-1 FAMC @F83@
-0 @I404@ INDI
+1 FAMS @F106@
+1 FAMC @F88@
+0 @I415@ INDI
 1 NAME Muller //
 2 GIVN Muller
 1 SEX M
-1 FAMS @F101@
-0 @I405@ INDI
+1 FAMS @F106@
+0 @I416@ INDI
 1 NAME Bruna /Haas/
 2 GIVN Bruna
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 1998
-1 FAMC @F101@
-0 @I406@ INDI
+1 FAMC @F106@
+0 @I417@ INDI
 1 NAME Julia /Haas/
 2 GIVN Julia
 2 SURN Haas
 1 SEX F
 1 BIRT
 2 DATE 2006
-1 FAMC @F101@
-0 @I407@ INDI
+1 FAMC @F106@
+0 @I418@ INDI
 1 NAME Lina /Haas/
 2 GIVN Lina
 2 SURN Haas
@@ -4011,11 +4353,14 @@
 2 PLAC Deutschland
 1 DEAT
 2 PLAC Rio do Ouro, Anitápolis, Santa Catarina, Brasil
+1 BURI
+2 PLAC Cemitério de Ituporanga (trasladada de Rio do Ouro, Anitápolis), Santa Catarina, Brasil
 1 FAMC @F2@
+1 _FSFTID GFS2-SQ1
 1 NOTE Lina:
 2 CONT Nasceu no Brasil e faleceu ainda pequena e foi sepultada em Anitápolis, SC Listada como Luisa (2 anos) na chegada do vapor Formosa ao Rio de Janeiro em 26/03/1913; faleceu pequena em Rio do Ouro, Anit
 2 CONC ápolis, SC.
-0 @I408@ INDI
+0 @I419@ INDI
 1 NAME Valter /Haas/
 2 GIVN Valter
 2 SURN Haas
@@ -4031,10 +4376,11 @@
 1 BURI
 2 PLAC Cemitério de Ituporanga (trasladado de Rio do Ouro, Anitápolis), Santa Catarina, Brasil
 1 FAMC @F2@
+1 _FSFTID GFS2-W9F
 1 NOTE Valter:
 2 CONT nasceu em Anitápolis e faleceu ainda pequena e foi sepultada na mesma cidade. Listado como Walter (1 ano) na chegada do vapor Formosa ao Rio de Janeiro em 26/03/1913; faleceu pequeno em Rio do Ouro, A
 2 CONC nitápolis, SC, sendo seus restos posteriormente trasladados pelos irmãos (entre eles Baldoíno) para Ituporanga, SC.
-0 @I409@ INDI
+0 @I420@ INDI
 1 NAME Agnes /Haas/
 2 GIVN Agnes
 2 SURN Haas
@@ -4043,1739 +4389,1780 @@
 2 SURN Haas Boeing
 1 SEX F
 1 BIRT
-2 DATE 1920
+2 DATE 20 JAN 1920
 2 PLAC Rio Novo, Ituporanga, Santa Catarina, Brasil
-1 DEAT Y
-1 FAMS @F102@
+1 CHR
+2 DATE 23 MAR 1920
+2 PLAC Teresópolis, Santa Catarina, Brasil
+1 DEAT
+2 DATE 26 JUN 2001
+2 PLAC Aurora, Santa Catarina, Brasil
+1 FAMS @F107@
 1 FAMC @F2@
-0 @I410@ INDI
+1 _FSFTID GFS2-2QT
+1 NOTE Nascida em 20/01/1920 e batizada em 23/03/1920 em Teresópolis, SC (ark:/61903/1:1:QPS1-BYN1); faleceu em 26/06/2001 em Aurora, SC.
+0 @I421@ INDI
 1 NAME João Augusto /Boeing/
 2 GIVN João Augusto
 2 SURN Boeing
 1 SEX M
-1 DEAT Y
-1 FAMS @F102@
-0 @I411@ INDI
+1 BIRT
+2 DATE 19 JUN 1909
+2 PLAC Vargem do Cedro, São Martinho, Santa Catarina, Brasil
+1 DEAT
+2 DATE 9 SEP 2001
+2 PLAC Aurora, Santa Catarina, Brasil
+1 FAMS @F107@
+1 _FSFTID GFSB-8B9
+0 @I422@ INDI
 1 NAME Hildegart /Boeing/
 2 GIVN Hildegart
 2 SURN Boeing
 1 SEX F
-1 FAMS @F103@
-1 FAMC @F102@
-0 @I412@ INDI
+1 FAMS @F108@
+1 FAMC @F107@
+0 @I423@ INDI
 1 NAME Adolfo //
 2 GIVN Adolfo
 1 SEX M
-1 FAMS @F103@
-0 @I413@ INDI
+1 FAMS @F108@
+0 @I424@ INDI
 1 NAME Carmen /Haas/
 2 GIVN Carmen
 2 SURN Haas
 1 SEX F
-1 FAMS @F104@
-1 FAMC @F103@
-0 @I414@ INDI
+1 FAMS @F109@
+1 FAMC @F108@
+0 @I425@ INDI
 1 NAME Vigan //
 2 GIVN Vigan
 1 SEX M
-1 FAMS @F104@
-0 @I415@ INDI
+1 FAMS @F109@
+0 @I426@ INDI
 1 NAME Renaldo /Haas/
 2 GIVN Renaldo
 2 SURN Haas
 1 SEX M
-1 FAMC @F104@
-0 @I416@ INDI
+1 FAMC @F109@
+0 @I427@ INDI
 1 NAME Fabio /Haas/
 2 GIVN Fabio
 2 SURN Haas
 1 SEX M
-1 FAMC @F104@
-0 @I417@ INDI
+1 FAMC @F109@
+0 @I428@ INDI
 1 NAME Sandra /Haas/
 2 GIVN Sandra
 2 SURN Haas
 1 SEX F
-1 FAMC @F104@
-0 @I418@ INDI
+1 FAMC @F109@
+0 @I429@ INDI
 1 NAME Rosana /Haas/
 2 GIVN Rosana
 2 SURN Haas
 1 SEX F
-1 FAMC @F104@
-0 @I419@ INDI
+1 FAMC @F109@
+0 @I430@ INDI
 1 NAME Iracema /Haas/
 2 GIVN Iracema
 2 SURN Haas
 1 SEX F
-1 FAMS @F105@
-1 FAMC @F103@
-0 @I420@ INDI
+1 FAMS @F110@
+1 FAMC @F108@
+0 @I431@ INDI
 1 NAME Lilian /Haas/
 2 GIVN Lilian
 2 SURN Haas
 1 SEX F
-1 FAMC @F105@
-0 @I421@ INDI
+1 FAMC @F110@
+0 @I432@ INDI
 1 NAME Silvio /Haas/
 2 GIVN Silvio
 2 SURN Haas
 1 SEX M
-1 FAMS @F106@
-1 FAMC @F103@
-0 @I422@ INDI
+1 FAMS @F111@
+1 FAMC @F108@
+0 @I433@ INDI
 1 NAME Cresta //
 2 GIVN Cresta
 1 SEX F
-1 FAMS @F106@
-0 @I423@ INDI
+1 FAMS @F111@
+0 @I434@ INDI
 1 NAME Cristiane /Haas/
 2 GIVN Cristiane
 2 SURN Haas
 1 SEX F
-1 FAMC @F106@
-0 @I424@ INDI
+1 FAMC @F111@
+0 @I435@ INDI
 1 NAME Soraia /Haas/
 2 GIVN Soraia
 2 SURN Haas
 1 SEX F
-1 FAMC @F106@
-0 @I425@ INDI
+1 FAMC @F111@
+0 @I436@ INDI
 1 NAME Silvana /Haas/
 2 GIVN Silvana
 2 SURN Haas
 1 SEX F
-1 FAMC @F106@
-0 @I426@ INDI
+1 FAMC @F111@
+0 @I437@ INDI
 1 NAME Cristina /Haas/
 2 GIVN Cristina
 2 SURN Haas
 1 SEX F
-1 FAMC @F106@
-0 @I427@ INDI
+1 FAMC @F111@
+0 @I438@ INDI
 1 NAME Wilson /Haas/
 2 GIVN Wilson
 2 SURN Haas
 1 SEX M
-1 FAMS @F107@
-1 FAMC @F103@
-0 @I428@ INDI
+1 FAMS @F112@
+1 FAMC @F108@
+0 @I439@ INDI
 1 NAME Neusa //
 2 GIVN Neusa
 1 SEX F
-1 FAMS @F107@
-0 @I429@ INDI
+1 FAMS @F112@
+0 @I440@ INDI
 1 NAME Patricia /Haas/
 2 GIVN Patricia
 2 SURN Haas
 1 SEX F
-1 FAMC @F107@
-0 @I430@ INDI
+1 FAMC @F112@
+0 @I441@ INDI
 1 NAME Lucelio /Haas/
 2 GIVN Lucelio
 2 SURN Haas
 1 SEX M
-1 FAMS @F108@
-1 FAMC @F103@
-0 @I431@ INDI
+1 FAMS @F113@
+1 FAMC @F108@
+0 @I442@ INDI
 1 NAME Marlene //
 2 GIVN Marlene
 1 SEX F
-1 FAMS @F108@
-0 @I432@ INDI
+1 FAMS @F113@
+0 @I443@ INDI
 1 NAME Jaison /Haas/
 2 GIVN Jaison
 2 SURN Haas
 1 SEX M
-1 FAMC @F108@
-0 @I433@ INDI
+1 FAMC @F113@
+0 @I444@ INDI
 1 NAME Joan Carlos /Haas/
 2 GIVN Joan Carlos
 2 SURN Haas
 1 SEX F
-1 FAMC @F108@
-0 @I434@ INDI
+1 FAMC @F113@
+0 @I445@ INDI
 1 NAME Moacir /Haas/
 2 GIVN Moacir
 2 SURN Haas
 1 SEX M
-1 FAMS @F109@
-1 FAMC @F103@
-0 @I435@ INDI
+1 FAMS @F114@
+1 FAMC @F108@
+0 @I446@ INDI
 1 NAME Isolde //
 2 GIVN Isolde
 1 SEX F
-1 FAMS @F109@
-0 @I436@ INDI
+1 FAMS @F114@
+0 @I447@ INDI
 1 NAME Rogerio /Haas/
 2 GIVN Rogerio
 2 SURN Haas
 1 SEX M
-1 FAMC @F103@
-0 @I437@ INDI
+1 FAMC @F108@
+0 @I448@ INDI
 1 NAME Ivanir /Haas/
 2 GIVN Ivanir
 2 SURN Haas
 1 SEX M
-1 FAMS @F110@
-1 FAMC @F103@
-0 @I438@ INDI
+1 FAMS @F115@
+1 FAMC @F108@
+0 @I449@ INDI
 1 NAME Anderson //
 2 GIVN Anderson
 1 SEX F
-1 FAMS @F110@
-0 @I439@ INDI
+1 FAMS @F115@
+0 @I450@ INDI
 1 NAME Vanessa /Haas/
 2 GIVN Vanessa
 2 SURN Haas
 1 SEX F
-1 FAMC @F110@
-0 @I440@ INDI
+1 FAMC @F115@
+0 @I451@ INDI
 1 NAME Ivanildes /Haas/
 2 GIVN Ivanildes
 2 SURN Haas
 1 SEX F
-1 FAMS @F111@
-1 FAMC @F103@
-0 @I441@ INDI
+1 FAMS @F116@
+1 FAMC @F108@
+0 @I452@ INDI
 1 NAME Alcides //
 2 GIVN Alcides
 1 SEX M
-1 FAMS @F111@
-0 @I442@ INDI
+1 FAMS @F116@
+0 @I453@ INDI
 1 NAME Arnaldo /Haas/
 2 GIVN Arnaldo
 2 SURN Haas
 1 SEX M
-1 FAMC @F103@
-0 @I443@ INDI
+1 FAMC @F108@
+0 @I454@ INDI
 1 NAME Edellberto /Boeing/
 2 GIVN Edellberto
 2 SURN Boeing
 1 SEX M
-1 FAMS @F112@
-1 FAMC @F102@
-0 @I444@ INDI
+1 FAMS @F117@
+1 FAMC @F107@
+0 @I455@ INDI
 1 NAME Maria //
 2 GIVN Maria
 1 SEX F
-1 FAMS @F112@
-0 @I445@ INDI
+1 FAMS @F117@
+0 @I456@ INDI
 1 NAME Margarida /Boeing/
 2 GIVN Margarida
 2 SURN Boeing
 1 SEX F
-1 FAMS @F113@
-1 FAMC @F112@
-0 @I446@ INDI
+1 FAMS @F118@
+1 FAMC @F117@
+0 @I457@ INDI
 1 NAME Dival //
 2 GIVN Dival
 1 SEX M
-1 FAMS @F113@
-0 @I447@ INDI
+1 FAMS @F118@
+0 @I458@ INDI
 1 NAME Manuel /Haas/
 2 GIVN Manuel
 2 SURN Haas
 1 SEX F
-1 FAMC @F113@
-0 @I448@ INDI
+1 FAMC @F118@
+0 @I459@ INDI
 1 NAME Franciane /Haas/
 2 GIVN Franciane
 2 SURN Haas
 1 SEX F
-1 FAMC @F113@
-0 @I449@ INDI
+1 FAMC @F118@
+0 @I460@ INDI
 1 NAME Geovani /Haas/
 2 GIVN Geovani
 2 SURN Haas
 1 SEX F
-1 FAMC @F113@
-0 @I450@ INDI
+1 FAMC @F118@
+0 @I461@ INDI
 1 NAME Moacir /Boeing/
 2 GIVN Moacir
 2 SURN Boeing
 1 SEX M
-1 FAMS @F114@
-1 FAMC @F112@
-0 @I451@ INDI
+1 FAMS @F119@
+1 FAMC @F117@
+0 @I462@ INDI
 1 NAME Maura //
 2 GIVN Maura
 1 SEX F
-1 FAMS @F114@
-0 @I452@ INDI
+1 FAMS @F119@
+0 @I463@ INDI
 1 NAME Diego /Boeing/
 2 GIVN Diego
 2 SURN Boeing
 1 SEX M
-1 FAMC @F114@
-0 @I453@ INDI
+1 FAMC @F119@
+0 @I464@ INDI
 1 NAME Alexander /Boeing/
 2 GIVN Alexander
 2 SURN Boeing
 1 SEX F
-1 FAMC @F112@
-0 @I454@ INDI
+1 FAMC @F117@
+0 @I465@ INDI
 1 NAME João /Boeing/
 2 GIVN João
 2 SURN Boeing
 1 SEX M
-1 FAMC @F112@
-0 @I455@ INDI
+1 FAMC @F117@
+0 @I466@ INDI
 1 NAME Edite /Boeing/
 2 GIVN Edite
 2 SURN Boeing
 1 SEX F
-1 FAMS @F115@
-1 FAMC @F102@
-0 @I456@ INDI
+1 FAMS @F120@
+1 FAMC @F107@
+0 @I467@ INDI
 1 NAME Cito //
 2 GIVN Cito
 1 SEX M
-1 FAMS @F115@
-0 @I457@ INDI
+1 FAMS @F120@
+0 @I468@ INDI
 1 NAME Solange Marlene /Haas/
 2 GIVN Solange Marlene
 2 SURN Haas
 1 SEX F
-1 FAMS @F116@
-1 FAMC @F115@
-0 @I458@ INDI
+1 FAMS @F121@
+1 FAMC @F120@
+0 @I469@ INDI
 1 NAME Ricardo //
 2 GIVN Ricardo
 1 SEX M
-1 FAMS @F116@
-0 @I459@ INDI
+1 FAMS @F121@
+0 @I470@ INDI
 1 NAME Scheila Simone /Haas/
 2 GIVN Scheila Simone
 2 SURN Haas
 1 SEX F
-1 FAMC @F116@
-0 @I460@ INDI
+1 FAMC @F121@
+0 @I471@ INDI
 1 NAME Luiz Cesar /Haas/
 2 GIVN Luiz Cesar
 2 SURN Haas
 1 SEX M
-1 FAMC @F116@
-0 @I461@ INDI
+1 FAMC @F121@
+0 @I472@ INDI
 1 NAME Adriano /Haas/
 2 GIVN Adriano
 2 SURN Haas
 1 SEX M
-1 FAMC @F116@
-0 @I462@ INDI
+1 FAMC @F121@
+0 @I473@ INDI
 1 NAME Michel /Haas/
 2 GIVN Michel
 2 SURN Haas
 1 SEX F
-1 FAMC @F116@
-0 @I463@ INDI
+1 FAMC @F121@
+0 @I474@ INDI
 1 NAME Altair /Haas/
 2 GIVN Altair
 2 SURN Haas
 1 SEX M
-1 FAMC @F115@
-0 @I464@ INDI
+1 FAMC @F120@
+0 @I475@ INDI
 1 NAME Sueli /Haas/
 2 GIVN Sueli
 2 SURN Haas
 1 SEX F
-1 FAMS @F117@
-1 FAMC @F115@
-0 @I465@ INDI
+1 FAMS @F122@
+1 FAMC @F120@
+0 @I476@ INDI
 1 NAME Jair //
 2 GIVN Jair
 1 SEX M
-1 FAMS @F117@
-0 @I466@ INDI
+1 FAMS @F122@
+0 @I477@ INDI
 1 NAME Vivian /Haas/
 2 GIVN Vivian
 2 SURN Haas
 1 SEX F
-1 FAMC @F117@
-0 @I467@ INDI
+1 FAMC @F122@
+0 @I478@ INDI
 1 NAME Elton /Haas/
 2 GIVN Elton
 2 SURN Haas
 1 SEX M
-1 FAMC @F117@
-0 @I468@ INDI
+1 FAMC @F122@
+0 @I479@ INDI
 1 NAME Marili /Haas/
 2 GIVN Marili
 2 SURN Haas
 1 SEX F
-1 FAMS @F118@
-1 FAMC @F115@
-0 @I469@ INDI
+1 FAMS @F123@
+1 FAMC @F120@
+0 @I480@ INDI
 1 NAME Renato //
 2 GIVN Renato
 1 SEX M
-1 FAMS @F118@
-0 @I470@ INDI
+1 FAMS @F123@
+0 @I481@ INDI
 1 NAME Marcos /Haas/
 2 GIVN Marcos
 2 SURN Haas
 1 SEX M
-1 FAMC @F118@
-0 @I471@ INDI
+1 FAMC @F123@
+0 @I482@ INDI
 1 NAME Jonny /Haas/
 2 GIVN Jonny
 2 SURN Haas
 1 SEX F
-1 FAMC @F118@
-0 @I472@ INDI
+1 FAMC @F123@
+0 @I483@ INDI
 1 NAME Tafarel /Haas/
 2 GIVN Tafarel
 2 SURN Haas
 1 SEX F
-1 FAMC @F118@
-0 @I473@ INDI
+1 FAMC @F123@
+0 @I484@ INDI
 1 NAME Ivone /Haas/
 2 GIVN Ivone
 2 SURN Haas
 1 SEX F
-1 FAMS @F119@
-1 FAMC @F115@
-0 @I474@ INDI
+1 FAMS @F124@
+1 FAMC @F120@
+0 @I485@ INDI
 1 NAME Olegário //
 2 GIVN Olegário
 1 SEX M
-1 FAMS @F119@
-0 @I475@ INDI
+1 FAMS @F124@
+0 @I486@ INDI
 1 NAME Bruno /Haas/
 2 GIVN Bruno
 2 SURN Haas
 1 SEX M
-1 FAMC @F119@
-0 @I476@ INDI
+1 FAMC @F124@
+0 @I487@ INDI
 1 NAME Anselmo /Haas/
 2 GIVN Anselmo
 2 SURN Haas
 1 SEX M
-1 FAMS @F120@
-1 FAMC @F115@
-0 @I477@ INDI
+1 FAMS @F125@
+1 FAMC @F120@
+0 @I488@ INDI
 1 NAME Salete //
 2 GIVN Salete
 1 SEX F
-1 FAMS @F120@
-0 @I478@ INDI
+1 FAMS @F125@
+0 @I489@ INDI
 1 NAME Douglas /Haas/
 2 GIVN Douglas
 2 SURN Haas
 1 SEX F
-1 FAMC @F120@
-0 @I479@ INDI
+1 FAMC @F125@
+0 @I490@ INDI
 1 NAME Dirlene /Haas/
 2 GIVN Dirlene
 2 SURN Haas
 1 SEX F
-1 FAMS @F121@
-1 FAMC @F115@
-0 @I480@ INDI
+1 FAMS @F126@
+1 FAMC @F120@
+0 @I491@ INDI
 1 NAME Sidney //
 2 GIVN Sidney
 1 SEX M
-1 FAMS @F121@
-0 @I481@ INDI
+1 FAMS @F126@
+0 @I492@ INDI
 1 NAME Alan Jeison /Haas/
 2 GIVN Alan Jeison
 2 SURN Haas
 1 SEX M
-1 FAMC @F121@
-0 @I482@ INDI
+1 FAMC @F126@
+0 @I493@ INDI
 1 NAME Angelita /Haas/
 2 GIVN Angelita
 2 SURN Haas
 1 SEX F
-1 FAMS @F122@
-1 FAMC @F115@
-0 @I483@ INDI
+1 FAMS @F127@
+1 FAMC @F120@
+0 @I494@ INDI
 1 NAME Leoncio //
 2 GIVN Leoncio
 1 SEX M
-1 FAMS @F122@
-0 @I484@ INDI
+1 FAMS @F127@
+0 @I495@ INDI
 1 NAME Diogo /Haas/
 2 GIVN Diogo
 2 SURN Haas
 1 SEX M
-1 FAMC @F122@
-0 @I485@ INDI
+1 FAMC @F127@
+0 @I496@ INDI
 1 NAME Claudete /Haas/
 2 GIVN Claudete
 2 SURN Haas
 1 SEX F
-1 FAMS @F123@
-1 FAMC @F115@
-0 @I486@ INDI
+1 FAMS @F128@
+1 FAMC @F120@
+0 @I497@ INDI
 1 NAME Adelino José //
 2 GIVN Adelino José
 1 SEX M
-1 FAMS @F123@
-0 @I487@ INDI
+1 FAMS @F128@
+0 @I498@ INDI
 1 NAME Jonathan /Haas/
 2 GIVN Jonathan
 2 SURN Haas
 1 SEX F
-1 FAMC @F123@
-0 @I488@ INDI
+1 FAMC @F128@
+0 @I499@ INDI
 1 NAME João Carlos /Haas/
 2 GIVN João Carlos
 2 SURN Haas
 1 SEX M
-1 FAMC @F123@
-0 @I489@ INDI
+1 FAMC @F128@
+0 @I500@ INDI
 1 NAME Jaison /Haas/
 2 GIVN Jaison
 2 SURN Haas
 1 SEX M
-1 FAMC @F115@
-0 @I490@ INDI
+1 FAMC @F120@
+0 @I501@ INDI
 1 NAME Odair José /Haas/
 2 GIVN Odair José
 2 SURN Haas
 1 SEX M
-1 FAMC @F115@
-0 @I491@ INDI
+1 FAMC @F120@
+0 @I502@ INDI
 1 NAME Eduardo /Boeing/
 2 GIVN Eduardo
 2 SURN Boeing
 1 SEX M
-1 FAMS @F124@
-1 FAMC @F102@
-0 @I492@ INDI
+1 FAMS @F129@
+1 FAMC @F107@
+0 @I503@ INDI
 1 NAME Carmelinda //
 2 GIVN Carmelinda
 1 SEX F
-1 FAMS @F124@
-0 @I493@ INDI
+1 FAMS @F129@
+0 @I504@ INDI
 1 NAME Rosane /Boeing/
 2 GIVN Rosane
 2 SURN Boeing
 1 SEX F
-1 FAMC @F124@
-0 @I494@ INDI
+1 FAMC @F129@
+0 @I505@ INDI
 1 NAME Dercio /Boeing/
 2 GIVN Dercio
 2 SURN Boeing
 1 SEX M
-1 FAMS @F125@
-1 FAMC @F124@
-0 @I495@ INDI
+1 FAMS @F130@
+1 FAMC @F129@
+0 @I506@ INDI
 1 NAME Marlize //
 2 GIVN Marlize
 1 SEX F
-1 FAMS @F125@
-0 @I496@ INDI
+1 FAMS @F130@
+0 @I507@ INDI
 1 NAME Micheli /Boeing/
 2 GIVN Micheli
 2 SURN Boeing
 1 SEX F
-1 FAMC @F125@
-0 @I497@ INDI
+1 FAMC @F130@
+0 @I508@ INDI
 1 NAME Francieli /Boeing/
 2 GIVN Francieli
 2 SURN Boeing
 1 SEX F
-1 FAMC @F125@
-0 @I498@ INDI
+1 FAMC @F130@
+0 @I509@ INDI
 1 NAME Diovani José /Boeing/
 2 GIVN Diovani José
 2 SURN Boeing
 1 SEX F
-1 FAMC @F124@
-0 @I499@ INDI
+1 FAMC @F129@
+0 @I510@ INDI
 1 NAME Marcio /Boeing/
 2 GIVN Marcio
 2 SURN Boeing
 1 SEX M
-1 FAMC @F124@
-0 @I500@ INDI
+1 FAMC @F129@
+0 @I511@ INDI
 1 NAME Elisiani /Boeing/
 2 GIVN Elisiani
 2 SURN Boeing
 1 SEX F
-1 FAMC @F124@
-0 @I501@ INDI
+1 FAMC @F129@
+0 @I512@ INDI
 1 NAME Sérgio Augusto /Boeing/
 2 GIVN Sérgio Augusto
 2 SURN Boeing
 1 SEX M
-1 FAMC @F124@
-0 @I502@ INDI
+1 FAMC @F129@
+0 @I513@ INDI
 1 NAME Sandro Dorlei /Boeing/
 2 GIVN Sandro Dorlei
 2 SURN Boeing
 1 SEX M
-1 FAMC @F124@
-0 @I503@ INDI
+1 FAMC @F129@
+0 @I514@ INDI
 1 NAME Edmundo /Boeing/
 2 GIVN Edmundo
 2 SURN Boeing
 1 SEX M
-1 FAMS @F126@
-1 FAMC @F102@
-0 @I504@ INDI
+1 FAMS @F131@
+1 FAMC @F107@
+0 @I515@ INDI
 1 NAME Carmen //
 2 GIVN Carmen
 1 SEX F
-1 FAMS @F126@
-0 @I505@ INDI
+1 FAMS @F131@
+0 @I516@ INDI
 1 NAME Ivania Maria /Boeing/
 2 GIVN Ivania Maria
 2 SURN Boeing
 1 SEX F
-1 FAMS @F127@
-1 FAMC @F126@
-0 @I506@ INDI
+1 FAMS @F132@
+1 FAMC @F131@
+0 @I517@ INDI
 1 NAME Vigant //
 2 GIVN Vigant
 1 SEX M
-1 FAMS @F127@
-0 @I507@ INDI
+1 FAMS @F132@
+0 @I518@ INDI
 1 NAME Jonathan /Haas/
 2 GIVN Jonathan
 2 SURN Haas
 1 SEX F
-1 FAMC @F127@
-0 @I508@ INDI
+1 FAMC @F132@
+0 @I519@ INDI
 1 NAME Ivonete /Boeing/
 2 GIVN Ivonete
 2 SURN Boeing
 1 SEX F
-1 FAMS @F128@
-1 FAMC @F126@
-0 @I509@ INDI
+1 FAMS @F133@
+1 FAMC @F131@
+0 @I520@ INDI
 1 NAME Lorivaldo //
 2 GIVN Lorivaldo
 1 SEX M
-1 FAMS @F128@
-0 @I510@ INDI
+1 FAMS @F133@
+0 @I521@ INDI
 1 NAME Bianca /Haas/
 2 GIVN Bianca
 2 SURN Haas
 1 SEX F
-1 FAMC @F128@
-0 @I511@ INDI
+1 FAMC @F133@
+0 @I522@ INDI
 1 NAME Ivanir /Boeing/
 2 GIVN Ivanir
 2 SURN Boeing
 1 SEX M
-1 FAMS @F129@
-1 FAMC @F126@
-0 @I512@ INDI
+1 FAMS @F134@
+1 FAMC @F131@
+0 @I523@ INDI
 1 NAME Liberto //
 2 GIVN Liberto
 1 SEX F
-1 FAMS @F129@
-0 @I513@ INDI
+1 FAMS @F134@
+0 @I524@ INDI
 1 NAME Melita /Boeing/
 2 GIVN Melita
 2 SURN Boeing
 1 SEX F
-1 FAMS @F130@
-1 FAMC @F102@
-0 @I514@ INDI
+1 FAMS @F135@
+1 FAMC @F107@
+0 @I525@ INDI
 1 NAME Manoel //
 2 GIVN Manoel
 1 SEX M
-1 FAMS @F130@
-0 @I515@ INDI
+1 FAMS @F135@
+0 @I526@ INDI
 1 NAME Nivaldo /Haas/
 2 GIVN Nivaldo
 2 SURN Haas
 1 SEX M
-1 FAMC @F130@
-0 @I516@ INDI
+1 FAMC @F135@
+0 @I527@ INDI
 1 NAME Neusa Helena /Haas/
 2 GIVN Neusa Helena
 2 SURN Haas
 1 SEX F
-1 FAMS @F131@
-1 FAMC @F130@
-0 @I517@ INDI
+1 FAMS @F136@
+1 FAMC @F135@
+0 @I528@ INDI
 1 NAME José Carlos //
 2 GIVN José Carlos
 1 SEX M
-1 FAMS @F131@
-0 @I518@ INDI
+1 FAMS @F136@
+0 @I529@ INDI
 1 NAME Robson Carlos /Haas/
 2 GIVN Robson Carlos
 2 SURN Haas
 1 SEX M
-1 FAMC @F131@
-0 @I519@ INDI
+1 FAMC @F136@
+0 @I530@ INDI
 1 NAME Camila Helena /Haas/
 2 GIVN Camila Helena
 2 SURN Haas
 1 SEX F
-1 FAMC @F131@
-0 @I520@ INDI
+1 FAMC @F136@
+0 @I531@ INDI
 1 NAME Nilton /Haas/
 2 GIVN Nilton
 2 SURN Haas
 1 SEX M
-1 FAMS @F132@
-1 FAMC @F130@
-0 @I521@ INDI
+1 FAMS @F137@
+1 FAMC @F135@
+0 @I532@ INDI
 1 NAME Marieleia //
 2 GIVN Marieleia
 1 SEX F
-1 FAMS @F132@
-0 @I522@ INDI
+1 FAMS @F137@
+0 @I533@ INDI
 1 NAME Maiara /Haas/
 2 GIVN Maiara
 2 SURN Haas
 1 SEX F
-1 FAMC @F132@
-0 @I523@ INDI
+1 FAMC @F137@
+0 @I534@ INDI
 1 NAME Marcos Aurélio /Haas/
 2 GIVN Marcos Aurélio
 2 SURN Haas
 1 SEX M
-1 FAMC @F130@
-0 @I524@ INDI
+1 FAMC @F135@
+0 @I535@ INDI
 1 NAME Ivan /Haas/
 2 GIVN Ivan
 2 SURN Haas
 1 SEX M
-1 FAMC @F130@
-0 @I525@ INDI
+1 FAMC @F135@
+0 @I536@ INDI
 1 NAME Rafael /Haas/
 2 GIVN Rafael
 2 SURN Haas
 1 SEX M
-1 FAMC @F130@
-0 @I526@ INDI
+1 FAMC @F135@
+0 @I537@ INDI
 1 NAME Guido /Haas/
 2 GIVN Guido
 2 SURN Haas
 1 SEX M
-1 FAMC @F130@
-0 @I527@ INDI
+1 FAMC @F135@
+0 @I538@ INDI
 1 NAME Luciana Joice /Haas/
 2 GIVN Luciana Joice
 2 SURN Haas
 1 SEX F
-1 FAMC @F130@
-0 @I528@ INDI
+1 FAMC @F135@
+0 @I539@ INDI
 1 NAME Maria /Boeing/
 2 GIVN Maria
 2 SURN Boeing
 1 SEX F
-1 FAMS @F133@
-1 FAMC @F102@
-0 @I529@ INDI
+1 FAMS @F138@
+1 FAMC @F107@
+0 @I540@ INDI
 1 NAME Nelson //
 2 GIVN Nelson
 1 SEX M
-1 FAMS @F133@
-0 @I530@ INDI
+1 FAMS @F138@
+0 @I541@ INDI
 1 NAME Anderson /Haas/
 2 GIVN Anderson
 2 SURN Haas
 1 SEX M
-1 FAMS @F134@
-1 FAMC @F133@
-0 @I531@ INDI
+1 FAMS @F139@
+1 FAMC @F138@
+0 @I542@ INDI
 1 NAME Rosangela //
 2 GIVN Rosangela
 1 SEX F
-1 FAMS @F134@
-0 @I532@ INDI
+1 FAMS @F139@
+0 @I543@ INDI
 1 NAME Andrey Ricardo /Haas/
 2 GIVN Andrey Ricardo
 2 SURN Haas
 1 SEX F
-1 FAMC @F134@
-0 @I533@ INDI
+1 FAMC @F139@
+0 @I544@ INDI
 1 NAME Andrea x Jaco Luiz /Haas/
 2 GIVN Andrea x Jaco Luiz
 2 SURN Haas
 1 SEX F
-1 FAMS @F135@
-1 FAMC @F133@
-0 @I534@ INDI
+1 FAMS @F140@
+1 FAMC @F138@
+0 @I545@ INDI
 1 NAME Jessica /Haas/
 2 GIVN Jessica
 2 SURN Haas
 1 SEX F
-1 FAMC @F135@
-0 @I535@ INDI
+1 FAMC @F140@
+0 @I546@ INDI
 1 NAME Adriana /Haas/
 2 GIVN Adriana
 2 SURN Haas
 1 SEX F
-1 FAMC @F133@
-0 @I536@ INDI
+1 FAMC @F138@
+0 @I547@ INDI
 1 NAME Isolde /Boeing/
 2 GIVN Isolde
 2 SURN Boeing
 1 SEX F
-1 FAMS @F136@
-1 FAMC @F102@
-0 @I537@ INDI
+1 FAMS @F141@
+1 FAMC @F107@
+0 @I548@ INDI
 1 NAME Eduardo //
 2 GIVN Eduardo
 1 SEX M
-1 FAMS @F136@
-0 @I538@ INDI
+1 FAMS @F141@
+0 @I549@ INDI
 1 NAME Sara /Haas/
 2 GIVN Sara
 2 SURN Haas
 1 SEX F
-1 FAMC @F136@
-0 @I539@ INDI
+1 FAMC @F141@
+0 @I550@ INDI
 1 NAME Jamil /Haas/
 2 GIVN Jamil
 2 SURN Haas
 1 SEX F
-1 FAMC @F136@
-0 @I540@ INDI
+1 FAMC @F141@
+0 @I551@ INDI
 1 NAME Fauze /Haas/
 2 GIVN Fauze
 2 SURN Haas
 1 SEX F
-1 FAMC @F136@
-0 @I541@ INDI
+1 FAMC @F141@
+0 @I552@ INDI
 1 NAME Bernardete /Boeing/
 2 GIVN Bernardete
 2 SURN Boeing
 1 SEX F
-1 FAMS @F137@
-1 FAMC @F102@
-0 @I542@ INDI
+1 FAMS @F142@
+1 FAMC @F107@
+0 @I553@ INDI
 1 NAME José //
 2 GIVN José
 1 SEX M
-1 FAMS @F137@
-0 @I543@ INDI
+1 FAMS @F142@
+0 @I554@ INDI
 1 NAME Priscila /Haas/
 2 GIVN Priscila
 2 SURN Haas
 1 SEX F
-1 FAMC @F137@
-0 @I544@ INDI
+1 FAMC @F142@
+0 @I555@ INDI
 1 NAME Waleska /Haas/
 2 GIVN Waleska
 2 SURN Haas
 1 SEX F
-1 FAMC @F137@
-0 @I545@ INDI
+1 FAMC @F142@
+0 @I556@ INDI
 1 NAME Zippora /Haas/
 2 GIVN Zippora
 2 SURN Haas
 1 SEX F
-1 FAMC @F137@
-0 @I546@ INDI
+1 FAMC @F142@
+0 @I557@ INDI
 1 NAME Idalina /Boeing/
 2 GIVN Idalina
 2 SURN Boeing
 1 SEX F
-1 FAMS @F138@
-1 FAMC @F102@
-0 @I547@ INDI
+1 FAMS @F143@
+1 FAMC @F107@
+0 @I558@ INDI
 1 NAME Iracy //
 2 GIVN Iracy
 1 SEX M
-1 FAMS @F138@
-0 @I548@ INDI
+1 FAMS @F143@
+0 @I559@ INDI
 1 NAME Daniel /Haas/
 2 GIVN Daniel
 2 SURN Haas
 1 SEX M
-1 FAMC @F138@
-0 @I549@ INDI
+1 FAMC @F143@
+0 @I560@ INDI
 1 NAME Patricia /Haas/
 2 GIVN Patricia
 2 SURN Haas
 1 SEX F
-1 FAMC @F138@
-0 @I550@ INDI
+1 FAMC @F143@
+0 @I561@ INDI
 1 NAME Thiago /Haas/
 2 GIVN Thiago
 2 SURN Haas
 1 SEX M
-1 FAMC @F138@
-0 @I551@ INDI
+1 FAMC @F143@
+0 @I562@ INDI
 1 NAME Robeto /Boeing/
 2 GIVN Robeto
 2 SURN Boeing
 1 SEX M
-1 FAMS @F139@
-1 FAMC @F102@
-0 @I552@ INDI
+1 FAMS @F144@
+1 FAMC @F107@
+0 @I563@ INDI
 1 NAME Lindamia //
 2 GIVN Lindamia
 1 SEX F
-1 FAMS @F139@
-0 @I553@ INDI
+1 FAMS @F144@
+0 @I564@ INDI
 1 NAME Rosangela /Boeing/
 2 GIVN Rosangela
 2 SURN Boeing
 1 SEX F
-1 FAMS @F140@
-1 FAMC @F139@
-0 @I554@ INDI
+1 FAMS @F145@
+1 FAMC @F144@
+0 @I565@ INDI
 1 NAME Wolney //
 2 GIVN Wolney
 1 SEX M
-1 FAMS @F140@
-0 @I555@ INDI
+1 FAMS @F145@
+0 @I566@ INDI
 1 NAME Cleberson /Haas/
 2 GIVN Cleberson
 2 SURN Haas
 1 SEX M
-1 FAMC @F140@
-0 @I556@ INDI
+1 FAMC @F145@
+0 @I567@ INDI
 1 NAME Cleiton /Boeing/
 2 GIVN Cleiton
 2 SURN Boeing
 1 SEX M
-1 FAMC @F139@
-0 @I557@ INDI
+1 FAMC @F144@
+0 @I568@ INDI
 1 NAME Rubens /Boeing/
 2 GIVN Rubens
 2 SURN Boeing
 1 SEX F
-1 FAMC @F139@
-0 @I558@ INDI
+1 FAMC @F144@
+0 @I569@ INDI
 1 NAME Cristiana /Boeing/
 2 GIVN Cristiana
 2 SURN Boeing
 1 SEX F
-1 FAMC @F139@
-0 @I559@ INDI
+1 FAMC @F144@
+0 @I570@ INDI
 1 NAME Bernardo /Boeing/
 2 GIVN Bernardo
 2 SURN Boeing
 1 SEX M
-1 FAMS @F141@
-1 FAMC @F102@
-0 @I560@ INDI
+1 FAMS @F146@
+1 FAMC @F107@
+0 @I571@ INDI
 1 NAME Marion //
 2 GIVN Marion
 1 SEX F
-1 FAMS @F141@
-0 @I561@ INDI
+1 FAMS @F146@
+0 @I572@ INDI
 1 NAME Rodrigo /Boeing/
 2 GIVN Rodrigo
 2 SURN Boeing
 1 SEX M
-1 FAMC @F141@
-0 @I562@ INDI
+1 FAMC @F146@
+0 @I573@ INDI
 1 NAME Renata Paola /Boeing/
 2 GIVN Renata Paola
 2 SURN Boeing
 1 SEX F
-1 FAMC @F141@
-0 @I563@ INDI
+1 FAMC @F146@
+0 @I574@ INDI
 1 NAME Iago /Boeing/
 2 GIVN Iago
 2 SURN Boeing
 1 SEX M
-1 FAMC @F141@
-0 @I564@ INDI
+1 FAMC @F146@
+0 @I575@ INDI
 1 NAME Ines /Boeing/
 2 GIVN Ines
 2 SURN Boeing
 1 SEX F
-1 FAMS @F142@
-1 FAMC @F102@
-0 @I565@ INDI
+1 FAMS @F147@
+1 FAMC @F107@
+0 @I576@ INDI
 1 NAME Ingo //
 2 GIVN Ingo
 1 SEX M
-1 FAMS @F142@
-0 @I566@ INDI
+1 FAMS @F147@
+0 @I577@ INDI
 1 NAME Ana Paula /Haas/
 2 GIVN Ana Paula
 2 SURN Haas
 1 SEX F
-1 FAMC @F142@
-0 @I567@ INDI
+1 FAMC @F147@
+0 @I578@ INDI
 1 NAME Maria Eduarda /Haas/
 2 GIVN Maria Eduarda
 2 SURN Haas
 1 SEX F
-1 FAMC @F142@
-0 @I568@ INDI
+1 FAMC @F147@
+0 @I579@ INDI
 1 NAME Elza /Haas/
 2 GIVN Elza
 2 SURN Haas
+1 NAME Elza /Haas Nagel/
+2 GIVN Elza
+2 SURN Haas Nagel
 1 SEX F
 1 BIRT
-2 DATE 1922
-2 PLAC Rio Novo, Ituporanga, Santa Catarina, Brasil
-1 DEAT Y
-1 FAMS @F143@
+2 DATE 22 JAN 1922
+2 PLAC Catuíra, Alfredo Wagner, Santa Catarina, Brasil
+1 DEAT
+2 PLAC Iguaraçu, Paraná, Brasil
+1 FAMS @F148@
 1 FAMC @F2@
-0 @I569@ INDI
+1 _FSFTID GFSL-MJ8
+1 NOTE Nascida em 22/01/1922 em Catuíra, Alfredo Wagner, SC (registrada em 30/05/1922, ark:/61903/1:1:8MFM-TTZM).
+0 @I580@ INDI
 1 NAME Paulo /Nagel/
 2 GIVN Paulo
 2 SURN Nagel
 1 SEX M
-1 DEAT Y
-1 FAMS @F143@
-0 @I570@ INDI
+1 BIRT
+2 DATE 8 JUL 1920
+2 PLAC Hamberge, Stormarn, Schleswig-Holstein, Deutschland
+1 DEAT
+2 DATE 17 APR 1999
+2 PLAC Terra Roxa, Paraná, Brasil
+1 FAMS @F148@
+1 _FSFTID P9Z6-Q14
+0 @I581@ INDI
 1 NAME Leoni /Nagel/
 2 GIVN Leoni
 2 SURN Nagel
 1 SEX F
-1 FAMS @F144@
-1 FAMC @F143@
-0 @I571@ INDI
+1 FAMS @F149@
+1 FAMC @F148@
+0 @I582@ INDI
 1 NAME José Aparecido //
 2 GIVN José Aparecido
 1 SEX M
-1 FAMS @F144@
-0 @I572@ INDI
+1 FAMS @F149@
+0 @I583@ INDI
 1 NAME Tania Margarete /Haas/
 2 GIVN Tania Margarete
 2 SURN Haas
 1 SEX F
-1 FAMC @F144@
-0 @I573@ INDI
+1 FAMC @F149@
+0 @I584@ INDI
 1 NAME Telma /Haas/
 2 GIVN Telma
 2 SURN Haas
 1 SEX F
-1 FAMS @F145@
-1 FAMC @F144@
-0 @I574@ INDI
+1 FAMS @F150@
+1 FAMC @F149@
+0 @I585@ INDI
 1 NAME João Sérgio //
 2 GIVN João Sérgio
 1 SEX M
-1 FAMS @F145@
-0 @I575@ INDI
+1 FAMS @F150@
+0 @I586@ INDI
 1 NAME Hugo Rafael /Haas/
 2 GIVN Hugo Rafael
 2 SURN Haas
 1 SEX M
-1 FAMC @F145@
-0 @I576@ INDI
+1 FAMC @F150@
+0 @I587@ INDI
 1 NAME Iara Rafaela /Haas/
 2 GIVN Iara Rafaela
 2 SURN Haas
 1 SEX F
-1 FAMC @F145@
-0 @I577@ INDI
+1 FAMC @F150@
+0 @I588@ INDI
 1 NAME Teide /Haas/
 2 GIVN Teide
 2 SURN Haas
 1 SEX F
-1 FAMS @F146@
-1 FAMC @F144@
-0 @I578@ INDI
+1 FAMS @F151@
+1 FAMC @F149@
+0 @I589@ INDI
 1 NAME Bruna /Haas/
 2 GIVN Bruna
 2 SURN Haas
 1 SEX F
-1 FAMC @F146@
-0 @I579@ INDI
+1 FAMC @F151@
+0 @I590@ INDI
 1 NAME Teila Aparecida /Haas/
 2 GIVN Teila Aparecida
 2 SURN Haas
 1 SEX F
-1 FAMS @F147@
-1 FAMC @F144@
-0 @I580@ INDI
+1 FAMS @F152@
+1 FAMC @F149@
+0 @I591@ INDI
 1 NAME Jaunir //
 2 GIVN Jaunir
 1 SEX M
-1 FAMS @F147@
-0 @I581@ INDI
+1 FAMS @F152@
+0 @I592@ INDI
 1 NAME Vinicius /Haas/
 2 GIVN Vinicius
 2 SURN Haas
 1 SEX M
-1 FAMC @F147@
-0 @I582@ INDI
+1 FAMC @F152@
+0 @I593@ INDI
 1 NAME Juliano /Haas/
 2 GIVN Juliano
 2 SURN Haas
 1 SEX M
-1 FAMC @F144@
-0 @I583@ INDI
+1 FAMC @F149@
+0 @I594@ INDI
 1 NAME Olga /Nagel/
 2 GIVN Olga
 2 SURN Nagel
 1 SEX F
-1 FAMS @F148@
-1 FAMC @F143@
-0 @I584@ INDI
+1 FAMS @F153@
+1 FAMC @F148@
+0 @I595@ INDI
 1 NAME João //
 2 GIVN João
 1 SEX M
-1 FAMS @F148@
-0 @I585@ INDI
+1 FAMS @F153@
+0 @I596@ INDI
 1 NAME Paulo José /Haas/
 2 GIVN Paulo José
 2 SURN Haas
 1 SEX M
-1 FAMS @F149@
-1 FAMC @F148@
-0 @I586@ INDI
+1 FAMS @F154@
+1 FAMC @F153@
+0 @I597@ INDI
 1 NAME Cleusa //
 2 GIVN Cleusa
 1 SEX F
-1 FAMS @F149@
-0 @I587@ INDI
+1 FAMS @F154@
+0 @I598@ INDI
 1 NAME Ellen /Haas/
 2 GIVN Ellen
 2 SURN Haas
 1 SEX F
-1 FAMC @F149@
-0 @I588@ INDI
+1 FAMC @F154@
+0 @I599@ INDI
 1 NAME Paulo José Jr /Haas/
 2 GIVN Paulo José Jr
 2 SURN Haas
 1 SEX M
-1 FAMC @F149@
-0 @I589@ INDI
+1 FAMC @F154@
+0 @I600@ INDI
 1 NAME Roberto /Nagel/
 2 GIVN Roberto
 2 SURN Nagel
 1 SEX M
-1 FAMS @F150@
-1 FAMC @F143@
-0 @I590@ INDI
+1 FAMS @F155@
+1 FAMC @F148@
+0 @I601@ INDI
 1 NAME Adelia //
 2 GIVN Adelia
 1 SEX F
-1 FAMS @F150@
-0 @I591@ INDI
+1 FAMS @F155@
+0 @I602@ INDI
 1 NAME Janete /Nagel/
 2 GIVN Janete
 2 SURN Nagel
 1 SEX F
-1 FAMS @F151@
-1 FAMC @F150@
-0 @I592@ INDI
+1 FAMS @F156@
+1 FAMC @F155@
+0 @I603@ INDI
 1 NAME Denir //
 2 GIVN Denir
 1 SEX M
-1 FAMS @F151@
-0 @I593@ INDI
+1 FAMS @F156@
+0 @I604@ INDI
 1 NAME Breno /Haas/
 2 GIVN Breno
 2 SURN Haas
 1 SEX M
-1 FAMC @F151@
-0 @I594@ INDI
+1 FAMC @F156@
+0 @I605@ INDI
 1 NAME Carlos /Nagel/
 2 GIVN Carlos
 2 SURN Nagel
 1 SEX M
-1 FAMC @F150@
-0 @I595@ INDI
+1 FAMC @F155@
+0 @I606@ INDI
 1 NAME Roberto Filho /Nagel/
 2 GIVN Roberto Filho
 2 SURN Nagel
 1 SEX M
-1 FAMC @F150@
-0 @I596@ INDI
+1 FAMC @F155@
+0 @I607@ INDI
 1 NAME Vera /Nagel/
 2 GIVN Vera
 2 SURN Nagel
 1 SEX F
-1 FAMS @F152@
-1 FAMS @F154@
-1 FAMC @F143@
-0 @I597@ INDI
+1 FAMS @F157@
+1 FAMS @F159@
+1 FAMC @F148@
+0 @I608@ INDI
 1 NAME Lazaro //
 2 GIVN Lazaro
 1 SEX M
-1 FAMS @F152@
-0 @I598@ INDI
+1 FAMS @F157@
+0 @I609@ INDI
 1 NAME Carlos Alberto /Haas/
 2 GIVN Carlos Alberto
 2 SURN Haas
 1 SEX M
-1 FAMS @F153@
-1 FAMC @F152@
-0 @I599@ INDI
+1 FAMS @F158@
+1 FAMC @F157@
+0 @I610@ INDI
 1 NAME Guida //
 2 GIVN Guida
 1 SEX F
-1 FAMS @F153@
-0 @I600@ INDI
+1 FAMS @F158@
+0 @I611@ INDI
 1 NAME Danilo Henrique /Haas/
 2 GIVN Danilo Henrique
 2 SURN Haas
 1 SEX M
-1 FAMC @F153@
-0 @I601@ INDI
+1 FAMC @F158@
+0 @I612@ INDI
 1 NAME Delcides //
 2 GIVN Delcides
 1 SEX M
-1 FAMS @F154@
-0 @I602@ INDI
+1 FAMS @F159@
+0 @I613@ INDI
 1 NAME Renata /Haas/
 2 GIVN Renata
 2 SURN Haas
 1 SEX F
-1 FAMC @F154@
-0 @I603@ INDI
+1 FAMC @F159@
+0 @I614@ INDI
 1 NAME Daniela /Haas/
 2 GIVN Daniela
 2 SURN Haas
 1 SEX F
-1 FAMC @F154@
-0 @I604@ INDI
+1 FAMC @F159@
+0 @I615@ INDI
 1 NAME Edite /Nagel/
 2 GIVN Edite
 2 SURN Nagel
 1 SEX F
-1 FAMS @F155@
-1 FAMS @F157@
-1 FAMC @F143@
-0 @I605@ INDI
+1 FAMS @F160@
+1 FAMS @F162@
+1 FAMC @F148@
+0 @I616@ INDI
 1 NAME Luiz Aparecido //
 2 GIVN Luiz Aparecido
 1 SEX M
-1 FAMS @F155@
-0 @I606@ INDI
+1 FAMS @F160@
+0 @I617@ INDI
 1 NAME Edilaine /Haas/
 2 GIVN Edilaine
 2 SURN Haas
 1 SEX F
-1 FAMS @F156@
-1 FAMC @F155@
-0 @I607@ INDI
+1 FAMS @F161@
+1 FAMC @F160@
+0 @I618@ INDI
 1 NAME Paulo //
 2 GIVN Paulo
 1 SEX M
-1 FAMS @F156@
-0 @I608@ INDI
+1 FAMS @F161@
+0 @I619@ INDI
 1 NAME Edione /Haas/
 2 GIVN Edione
 2 SURN Haas
 1 SEX F
-1 FAMC @F155@
-0 @I609@ INDI
+1 FAMC @F160@
+0 @I620@ INDI
 1 NAME Luciane /Haas/
 2 GIVN Luciane
 2 SURN Haas
 1 SEX F
-1 FAMC @F155@
-0 @I610@ INDI
+1 FAMC @F160@
+0 @I621@ INDI
 1 NAME Vanir //
 2 GIVN Vanir
 1 SEX M
-1 FAMS @F157@
-0 @I611@ INDI
+1 FAMS @F162@
+0 @I622@ INDI
 1 NAME Felipe /Haas/
 2 GIVN Felipe
 2 SURN Haas
 1 SEX M
-1 FAMC @F157@
-0 @I612@ INDI
+1 FAMC @F162@
+0 @I623@ INDI
 1 NAME Carlos Ernesto /Nagel/
 2 GIVN Carlos Ernesto
 2 SURN Nagel
 1 SEX M
-1 FAMC @F143@
-0 @I613@ INDI
+1 FAMC @F148@
+0 @I624@ INDI
 1 NAME Arnaldo /Haas/
 2 GIVN Arnaldo
 2 SURN Haas
 1 SEX M
-1 FAMS @F158@
+1 FAMS @F163@
 1 FAMC @F1@
-0 @I614@ INDI
+0 @I625@ INDI
 1 NAME Dulce Maria //
 2 GIVN Dulce Maria
 1 SEX F
-1 FAMS @F158@
-0 @I615@ INDI
+1 FAMS @F163@
+0 @I626@ INDI
 1 NAME Arnaldo Jr /Haas/
 2 GIVN Arnaldo Jr
 2 SURN Haas
 1 SEX M
-1 FAMC @F158@
-0 @I616@ INDI
+1 FAMC @F163@
+0 @I627@ INDI
 1 NAME Lariane /Haas/
 2 GIVN Lariane
 2 SURN Haas
 1 SEX F
-1 FAMC @F158@
-0 @I617@ INDI
+1 FAMC @F163@
+0 @I628@ INDI
 1 NAME Fernando /Haas/
 2 GIVN Fernando
 2 SURN Haas
 1 SEX M
-1 FAMC @F158@
-0 @I618@ INDI
+1 FAMC @F163@
+0 @I629@ INDI
 1 NAME Gustavo /Haas/
 2 GIVN Gustavo
 2 SURN Haas
 1 SEX M
-1 FAMC @F158@
-0 @I619@ INDI
+1 FAMC @F163@
+0 @I630@ INDI
 1 NAME André /Haas/
 2 GIVN André
 2 SURN Haas
 1 SEX M
-1 FAMC @F158@
-0 @I620@ INDI
+1 FAMC @F163@
+0 @I631@ INDI
 1 NAME Marcio /Haas/
 2 GIVN Marcio
 2 SURN Haas
 1 SEX M
-1 FAMS @F159@
+1 FAMS @F164@
 1 FAMC @F1@
-0 @I621@ INDI
+0 @I632@ INDI
 1 NAME Renate //
 2 GIVN Renate
 1 SEX F
-1 FAMS @F159@
-0 @I622@ INDI
+1 FAMS @F164@
+0 @I633@ INDI
 1 NAME Fernanda /Haas/
 2 GIVN Fernanda
 2 SURN Haas
 1 SEX F
-1 FAMC @F159@
-0 @I623@ INDI
+1 FAMC @F164@
+0 @I634@ INDI
 1 NAME Paulo /Haas/
 2 GIVN Paulo
 2 SURN Haas
 1 SEX M
-1 FAMC @F159@
-0 @I624@ INDI
+1 FAMC @F164@
+0 @I635@ INDI
 1 NAME Juliana /Haas/
 2 GIVN Juliana
 2 SURN Haas
 1 SEX F
-1 FAMC @F159@
-0 @I625@ INDI
+1 FAMC @F164@
+0 @I636@ INDI
 1 NAME Silvio /Haas/
 2 GIVN Silvio
 2 SURN Haas
 1 SEX M
-1 FAMS @F160@
+1 FAMS @F165@
 1 FAMC @F1@
-0 @I626@ INDI
+0 @I637@ INDI
 1 NAME Adeli //
 2 GIVN Adeli
 1 SEX F
-1 FAMS @F160@
-0 @I627@ INDI
+1 FAMS @F165@
+0 @I638@ INDI
 1 NAME Silvia /Haas/
 2 GIVN Silvia
 2 SURN Haas
 1 SEX F
-1 FAMC @F160@
-0 @I628@ INDI
+1 FAMC @F165@
+0 @I639@ INDI
 1 NAME Rafael /Haas/
 2 GIVN Rafael
 2 SURN Haas
 1 SEX M
-1 FAMC @F160@
-0 @I629@ INDI
+1 FAMC @F165@
+0 @I640@ INDI
 1 NAME Marlise /Haas/
 2 GIVN Marlise
 2 SURN Haas
 1 SEX F
-1 FAMS @F161@
+1 FAMS @F166@
 1 FAMC @F1@
-0 @I630@ INDI
+0 @I641@ INDI
 1 NAME Celso //
 2 GIVN Celso
 1 SEX M
-1 FAMS @F161@
-0 @I631@ INDI
+1 FAMS @F166@
+0 @I642@ INDI
 1 NAME Andrea /Haas/
 2 GIVN Andrea
 2 SURN Haas
 1 SEX F
-1 FAMC @F161@
-0 @I632@ INDI
+1 FAMC @F166@
+0 @I643@ INDI
 1 NAME James Hilton /Haas/
 2 GIVN James Hilton
 2 SURN Haas
 1 SEX M
-1 FAMC @F161@
-0 @I633@ INDI
+1 FAMC @F166@
+0 @I644@ INDI
 1 NAME Marlene /Haas/
 2 GIVN Marlene
 2 SURN Haas
 1 SEX F
-1 FAMS @F162@
+1 FAMS @F167@
 1 FAMC @F1@
-0 @I634@ INDI
+0 @I645@ INDI
 1 NAME Alcides Norberto //
 2 GIVN Alcides Norberto
 1 SEX M
-1 FAMS @F162@
-0 @I635@ INDI
+1 FAMS @F167@
+0 @I646@ INDI
 1 NAME Márcio José /Haas/
 2 GIVN Márcio José
 2 SURN Haas
 1 SEX M
-1 FAMC @F162@
-0 @I636@ INDI
+1 FAMC @F167@
+0 @I647@ INDI
 1 NAME Carlos Alexandre /Haas/
 2 GIVN Carlos Alexandre
 2 SURN Haas
 1 SEX M
-1 FAMC @F162@
-0 @I637@ INDI
+1 FAMC @F167@
+0 @I648@ INDI
 1 NAME Maria /Haas/
 2 GIVN Maria
 2 SURN Haas
 1 SEX F
-1 FAMS @F163@
+1 FAMS @F168@
 1 FAMC @F1@
-0 @I638@ INDI
+0 @I649@ INDI
 1 NAME Renato //
 2 GIVN Renato
 1 SEX M
-1 FAMS @F163@
-0 @I639@ INDI
+1 FAMS @F168@
+0 @I650@ INDI
 1 NAME Dircileia /Haas/
 2 GIVN Dircileia
 2 SURN Haas
 1 SEX F
-1 FAMC @F163@
-0 @I640@ INDI
+1 FAMC @F168@
+0 @I651@ INDI
 1 NAME Marilda /Haas/
 2 GIVN Marilda
 2 SURN Haas
 1 SEX F
-1 FAMS @F164@
+1 FAMS @F169@
 1 FAMC @F1@
-0 @I641@ INDI
+0 @I652@ INDI
 1 NAME Ederio //
 2 GIVN Ederio
 1 SEX M
-1 FAMS @F164@
-0 @I642@ INDI
+1 FAMS @F169@
+0 @I653@ INDI
 1 NAME Gabriela /Haas/
 2 GIVN Gabriela
 2 SURN Haas
 1 SEX F
-1 FAMC @F164@
-0 @I643@ INDI
+1 FAMC @F169@
+0 @I654@ INDI
 1 NAME Mariele /Haas/
 2 GIVN Mariele
 2 SURN Haas
 1 SEX F
-1 FAMC @F164@
-0 @I644@ INDI
+1 FAMC @F169@
+0 @I655@ INDI
 1 NAME Janaina /Haas/
 2 GIVN Janaina
 2 SURN Haas
 1 SEX F
-1 FAMC @F164@
-0 @I645@ INDI
+1 FAMC @F169@
+0 @I656@ INDI
 1 NAME Marise /Haas/
 2 GIVN Marise
 2 SURN Haas
 1 SEX F
-1 FAMS @F165@
+1 FAMS @F170@
 1 FAMC @F1@
-0 @I646@ INDI
+0 @I657@ INDI
 1 NAME Alberto //
 2 GIVN Alberto
 1 SEX M
-1 FAMS @F165@
-0 @I647@ INDI
+1 FAMS @F170@
+0 @I658@ INDI
 1 NAME Daniel /Haas/
 2 GIVN Daniel
 2 SURN Haas
 1 SEX M
-1 FAMC @F165@
-0 @I648@ INDI
+1 FAMC @F170@
+0 @I659@ INDI
 1 NAME Elizabete /Haas/
 2 GIVN Elizabete
 2 SURN Haas
 1 SEX F
-1 FAMC @F165@
-0 @I649@ INDI
+1 FAMC @F170@
+0 @I660@ INDI
 1 NAME Marilia /Haas/
 2 GIVN Marilia
 2 SURN Haas
 1 SEX F
-1 FAMC @F165@
-0 @I650@ INDI
+1 FAMC @F170@
+0 @I661@ INDI
 1 NAME João /Haas/
 2 GIVN João
 2 SURN Haas
 1 SEX M
-1 FAMS @F166@
+1 FAMS @F171@
 1 FAMC @F1@
-0 @I651@ INDI
+0 @I662@ INDI
 1 NAME Rosane //
 2 GIVN Rosane
 1 SEX F
-1 FAMS @F166@
-0 @I652@ INDI
+1 FAMS @F171@
+0 @I663@ INDI
 1 NAME Balduino Neto /Haas/
 2 GIVN Balduino Neto
 2 SURN Haas
 1 SEX M
-1 FAMC @F166@
-0 @I653@ INDI
+1 FAMC @F171@
+0 @I664@ INDI
 1 NAME Aline /Haas/
 2 GIVN Aline
 2 SURN Haas
 1 SEX F
-1 FAMC @F166@
-0 @I654@ INDI
+1 FAMC @F171@
+0 @I665@ INDI
 1 NAME Vivian /Haas/
 2 GIVN Vivian
 2 SURN Haas
 1 SEX F
-1 FAMC @F166@
-0 @I655@ INDI
+1 FAMC @F171@
+0 @I666@ INDI
 1 NAME Ricardo /Haas/
 2 GIVN Ricardo
 2 SURN Haas
 1 SEX M
 1 FAMC @F1@
-0 @I656@ INDI
+0 @I667@ INDI
 1 NAME Hilton /Haas/
 2 GIVN Hilton
 2 SURN Haas
 1 SEX M
-1 FAMS @F167@
+1 FAMS @F172@
 1 FAMC @F1@
-0 @I657@ INDI
+0 @I668@ INDI
 1 NAME Celi //
 2 GIVN Celi
 1 SEX F
-1 FAMS @F167@
-0 @I658@ INDI
+1 FAMS @F172@
+0 @I669@ INDI
 1 NAME Daiana /Haas/
 2 GIVN Daiana
 2 SURN Haas
 1 SEX F
-1 FAMC @F167@
-0 @I659@ INDI
+1 FAMC @F172@
+0 @I670@ INDI
 1 NAME Maria /Haas/
 2 GIVN Maria
 2 SURN Haas
+1 NAME Maria /Haas Sautner/
+2 GIVN Maria
+2 SURN Haas Sautner
 1 SEX F
 1 BIRT
-2 DATE 1926
+2 DATE 13 MAY 1926
 2 PLAC Ituporanga, Santa Catarina, Brasil
-1 DEAT Y
-1 FAMS @F168@
+1 DEAT
+2 DATE 12 DEC 2016
+2 PLAC Ituporanga / Aurora, Santa Catarina, Brasil
+1 FAMS @F173@
 1 FAMC @F2@
-0 @I660@ INDI
+1 _FSFTID PXN3-GRR
+1 NOTE Nascida em 13/05/1926 em Ituporanga, SC (ark:/61903/1:1:6VDZ-3T7C); faleceu em 12/12/2016.
+0 @I671@ INDI
 1 NAME Martin /Sautner/
 2 GIVN Martin
 2 SURN Sautner
 1 SEX M
-1 DEAT Y
-1 FAMS @F168@
-0 @I661@ INDI
+1 BIRT
+2 PLAC Santa Catarina, Brasil
+1 DEAT
+2 PLAC Ituporanga / Aurora, Santa Catarina, Brasil
+1 FAMS @F173@
+0 @I672@ INDI
 1 NAME Vanio José /Sautner/
 2 GIVN Vanio José
 2 SURN Sautner
 1 SEX M
-1 FAMS @F169@
-1 FAMC @F168@
-0 @I662@ INDI
+1 FAMS @F174@
+1 FAMC @F173@
+0 @I673@ INDI
 1 NAME Eloi //
 2 GIVN Eloi
 1 SEX F
-1 FAMS @F169@
-0 @I663@ INDI
+1 FAMS @F174@
+0 @I674@ INDI
 1 NAME Emerson Ernani /Sautner/
 2 GIVN Emerson Ernani
 2 SURN Sautner
 1 SEX M
-1 FAMC @F169@
-0 @I664@ INDI
+1 FAMC @F174@
+0 @I675@ INDI
 1 NAME Anderson José /Sautner/
 2 GIVN Anderson José
 2 SURN Sautner
 1 SEX M
-1 FAMC @F169@
-0 @I665@ INDI
+1 FAMC @F174@
+0 @I676@ INDI
 1 NAME Marli /Sautner/
 2 GIVN Marli
 2 SURN Sautner
 1 SEX F
-1 FAMS @F170@
-1 FAMC @F168@
-0 @I666@ INDI
+1 FAMS @F175@
+1 FAMC @F173@
+0 @I677@ INDI
 1 NAME Plasio //
 2 GIVN Plasio
 1 SEX M
-1 FAMS @F170@
-0 @I667@ INDI
+1 FAMS @F175@
+0 @I678@ INDI
 1 NAME Luciano /Haas/
 2 GIVN Luciano
 2 SURN Haas
 1 SEX M
-1 FAMC @F170@
-0 @I668@ INDI
+1 FAMC @F175@
+0 @I679@ INDI
 1 NAME Márcio /Haas/
 2 GIVN Márcio
 2 SURN Haas
 1 SEX M
-1 FAMC @F170@
-0 @I669@ INDI
+1 FAMC @F175@
+0 @I680@ INDI
 1 NAME Lucilene /Haas/
 2 GIVN Lucilene
 2 SURN Haas
 1 SEX F
-1 FAMC @F170@
-0 @I670@ INDI
+1 FAMC @F175@
+0 @I681@ INDI
 1 NAME Auria /Sautner/
 2 GIVN Auria
 2 SURN Sautner
 1 SEX F
-1 FAMS @F171@
-1 FAMC @F168@
-0 @I671@ INDI
+1 FAMS @F176@
+1 FAMC @F173@
+0 @I682@ INDI
 1 NAME Menesio Francisco //
 2 GIVN Menesio Francisco
 1 SEX M
-1 FAMS @F171@
-0 @I672@ INDI
+1 FAMS @F176@
+0 @I683@ INDI
 1 NAME Silvana /Haas/
 2 GIVN Silvana
 2 SURN Haas
 1 SEX F
-1 FAMC @F171@
-0 @I673@ INDI
+1 FAMC @F176@
+0 @I684@ INDI
 1 NAME Sidnei /Haas/
 2 GIVN Sidnei
 2 SURN Haas
 1 SEX M
-1 FAMC @F171@
-0 @I674@ INDI
+1 FAMC @F176@
+0 @I685@ INDI
 1 NAME Sirlene /Haas/
 2 GIVN Sirlene
 2 SURN Haas
 1 SEX F
-1 FAMC @F171@
-0 @I675@ INDI
+1 FAMC @F176@
+0 @I686@ INDI
 1 NAME Simone /Haas/
 2 GIVN Simone
 2 SURN Haas
 1 SEX F
-1 FAMC @F171@
-0 @I676@ INDI
+1 FAMC @F176@
+0 @I687@ INDI
 1 NAME José Lino /Sautner/
 2 GIVN José Lino
 2 SURN Sautner
 1 SEX M
-1 FAMS @F172@
-1 FAMC @F168@
-0 @I677@ INDI
+1 FAMS @F177@
+1 FAMC @F173@
+0 @I688@ INDI
 1 NAME Senete //
 2 GIVN Senete
 1 SEX F
-1 FAMS @F172@
-0 @I678@ INDI
+1 FAMS @F177@
+0 @I689@ INDI
 1 NAME Tatiane /Sautner/
 2 GIVN Tatiane
 2 SURN Sautner
 1 SEX F
-1 FAMC @F172@
-0 @I679@ INDI
+1 FAMC @F177@
+0 @I690@ INDI
 1 NAME Daniel /Sautner/
 2 GIVN Daniel
 2 SURN Sautner
 1 SEX M
-1 FAMC @F172@
-0 @I680@ INDI
+1 FAMC @F177@
+0 @I691@ INDI
 1 NAME Rafael /Sautner/
 2 GIVN Rafael
 2 SURN Sautner
 1 SEX M
-1 FAMC @F172@
-0 @I681@ INDI
+1 FAMC @F177@
+0 @I692@ INDI
 1 NAME Danilo /Sautner/
 2 GIVN Danilo
 2 SURN Sautner
 1 SEX M
-1 FAMS @F173@
-1 FAMC @F168@
-0 @I682@ INDI
+1 FAMS @F178@
+1 FAMC @F173@
+0 @I693@ INDI
 1 NAME Iraci //
 2 GIVN Iraci
 1 SEX F
-1 FAMS @F173@
-0 @I683@ INDI
+1 FAMS @F178@
+0 @I694@ INDI
 1 NAME Camila /Sautner/
 2 GIVN Camila
 2 SURN Sautner
 1 SEX F
-1 FAMC @F173@
-0 @I684@ INDI
+1 FAMC @F178@
+0 @I695@ INDI
 1 NAME Carolina /Sautner/
 2 GIVN Carolina
 2 SURN Sautner
 1 SEX F
-1 FAMC @F173@
-0 @I685@ INDI
+1 FAMC @F178@
+0 @I696@ INDI
 1 NAME Ivone /Sautner/
 2 GIVN Ivone
 2 SURN Sautner
 1 SEX F
-1 FAMC @F168@
-0 @I686@ INDI
+1 FAMC @F173@
+0 @I697@ INDI
 1 NAME João Martin /Sautner/
 2 GIVN João Martin
 2 SURN Sautner
 1 SEX M
-1 FAMC @F168@
-0 @I687@ INDI
+1 FAMC @F173@
+0 @I698@ INDI
 1 NAME Cláudio Fernando /Sautner/
 2 GIVN Cláudio Fernando
 2 SURN Sautner
 1 SEX M
-1 FAMC @F168@
-0 @I688@ INDI
+1 FAMC @F173@
+0 @I699@ INDI
 1 NAME João /Haas/
 2 GIVN João
 2 SURN Haas
+1 NAME João Walter /Haas/
+2 GIVN João Walter
+2 SURN Haas
 1 SEX M
 1 BIRT
-2 DATE 1932
-2 PLAC Águas Negras, Ituporanga, Santa Catarina, Brasil
+2 DATE ABT 1932
+2 PLAC Rio Novo / Águas Negras, Ituporanga, Santa Catarina, Brasil
 1 DEAT
-2 PLAC Águas Negras, Ituporanga, Santa Catarina, Brasil
+2 PLAC Rio Novo / Águas Negras, Ituporanga, Santa Catarina, Brasil
 1 FAMC @F2@
+1 _FSFTID GFS2-L41
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
-1 CHIL @I613@
-1 CHIL @I620@
-1 CHIL @I625@
-1 CHIL @I629@
-1 CHIL @I633@
-1 CHIL @I637@
+1 CHIL @I624@
+1 CHIL @I631@
+1 CHIL @I636@
 1 CHIL @I640@
-1 CHIL @I645@
-1 CHIL @I650@
-1 CHIL @I655@
-1 CHIL @I1@
+1 CHIL @I644@
+1 CHIL @I648@
+1 CHIL @I651@
 1 CHIL @I656@
+1 CHIL @I661@
+1 CHIL @I666@
+1 CHIL @I1@
+1 CHIL @I667@
 1 MARR
-2 DATE 1947
-2 PLAC Vidal Ramos / Ituporanga, Santa Catarina, Brasil
+2 DATE 9 MAR 1948
+2 PLAC Vidal Ramos, Santa Catarina, Brasil
+1 NOTE Casamento religioso em maio de 1947 e casamento civil em 09/03/1948 no Cartório de Vidal Ramos, SC (mesmo dia do casamento civil do irmão de Adelina, Lindolfo Doerner; FamilySearch ark:/61903/1:1:6JJK
+2 CONC -6FT8).
 0 @F2@ FAM
 1 HUSB @I7@
 1 WIFE @I4@
-1 CHIL @I159@
-1 CHIL @I160@
-1 CHIL @I161@
-1 CHIL @I302@
-1 CHIL @I342@
-1 CHIL @I407@
-1 CHIL @I408@
-1 CHIL @I409@
-1 CHIL @I568@
+1 CHIL @I170@
+1 CHIL @I171@
+1 CHIL @I172@
+1 CHIL @I313@
+1 CHIL @I353@
+1 CHIL @I418@
+1 CHIL @I419@
+1 CHIL @I420@
+1 CHIL @I579@
 1 CHIL @I2@
-1 CHIL @I659@
-1 CHIL @I688@
+1 CHIL @I670@
+1 CHIL @I699@
 1 MARR
 2 DATE 3 AUG 1907
 2 PLAC Eibenstock, Sachsen, Deutschland
@@ -5783,15 +6170,18 @@
 1 HUSB @I5@
 1 WIFE @I6@
 1 CHIL @I109@
-1 CHIL @I110@
-1 CHIL @I3@
 1 CHIL @I111@
-1 CHIL @I112@
+1 CHIL @I3@
 1 CHIL @I113@
+1 CHIL @I114@
+1 CHIL @I116@
+1 CHIL @I117@
+1 CHIL @I118@
 1 MARR
 2 DATE 9 JUL 1921
-2 PLAC Vargem do Cedro / São Martinho, Santa Catarina, Brasil
-1 NOTE Índice paroquial católico registra 09/07/1921; índice civil traz 25/02/1913.
+2 PLAC Paróquia São Sebastião, Vargem do Cedro, São Martinho, Santa Catarina, Brasil
+1 NOTE Casamento religioso em 09/07/1921 em Vargem do Cedro (ark:/61903/1:1:6BGD-68BP) e casamento civil em 25/02/1923 no Cartório de São Martinho, SC (ark:/61903/1:1:XSXC-4TP1, indexado com erro de leitura 
+2 CONC como 1913).
 0 @F4@ FAM
 1 HUSB @I9@
 1 WIFE @I10@
@@ -5807,35 +6197,33 @@
 0 @F5@ FAM
 1 HUSB @I14@
 1 WIFE @I11@
-1 CHIL @I131@
-1 CHIL @I132@
-1 CHIL @I133@
-1 CHIL @I134@
+1 CHIL @I142@
+1 CHIL @I143@
+1 CHIL @I144@
+1 CHIL @I145@
 1 CHIL @I6@
-1 CHIL @I135@
-1 CHIL @I136@
-1 CHIL @I137@
-1 CHIL @I138@
-1 CHIL @I139@
+1 CHIL @I146@
+1 CHIL @I147@
+1 CHIL @I148@
+1 CHIL @I149@
+1 CHIL @I150@
 1 MARR
 2 DATE 27 MAY 1886
 2 PLAC Santo Amaro da Imperatriz, Santa Catarina, Brasil
 0 @F6@ FAM
 1 HUSB @I15@
 1 WIFE @I13@
-1 CHIL @I114@
-1 CHIL @I115@
-1 CHIL @I116@
-1 CHIL @I117@
-1 CHIL @I118@
 1 CHIL @I119@
 1 CHIL @I120@
 1 CHIL @I121@
 1 CHIL @I122@
+1 CHIL @I123@
+1 CHIL @I124@
+1 CHIL @I125@
 1 CHIL @I5@
 1 MARR
-2 DATE ABT 1878
-2 PLAC Santa Catarina / Rio Grande do Sul, Brasil
+2 DATE ABT 1877
+2 PLAC Santa Catarina, Brasil
 0 @F7@ FAM
 1 HUSB @I8@
 1 WIFE @I12@
@@ -5854,17 +6242,17 @@
 0 @F8@ FAM
 1 HUSB @I17@
 1 WIFE @I21@
-1 CHIL @I140@
-1 CHIL @I141@
-1 CHIL @I142@
-1 CHIL @I143@
-1 CHIL @I144@
+1 CHIL @I151@
+1 CHIL @I152@
+1 CHIL @I153@
+1 CHIL @I154@
+1 CHIL @I155@
 1 CHIL @I11@
-1 CHIL @I145@
-1 CHIL @I146@
-1 CHIL @I147@
-1 CHIL @I148@
-1 CHIL @I149@
+1 CHIL @I156@
+1 CHIL @I157@
+1 CHIL @I158@
+1 CHIL @I159@
+1 CHIL @I160@
 1 MARR
 2 DATE ABT 1849
 2 PLAC Colônia Santa Isabel, Águas Mornas, Santa Catarina, Brasil
@@ -5879,7 +6267,8 @@
 1 WIFE @I22@
 1 CHIL @I14@
 1 MARR
-2 PLAC São Pedro de Alcântara / Santa Isabel, Santa Catarina, Brasil
+2 DATE 31 JAN 1855
+2 PLAC São José, Santa Catarina, Brasil
 0 @F11@ FAM
 1 HUSB @I23@
 1 WIFE @I20@
@@ -5890,8 +6279,11 @@
 1 HUSB @I19@
 1 WIFE @I18@
 1 CHIL @I13@
+1 CHIL @I137@
+1 CHIL @I138@
+1 CHIL @I139@
 1 MARR
-2 PLAC Rio Grande do Sul, Brasil
+2 PLAC Amelunxen / Kreis Höxter, Westfalen, Preußen, Deutschland
 0 @F13@ FAM
 1 HUSB @I27@
 1 WIFE @I26@
@@ -5906,8 +6298,6 @@
 1 MARR
 2 DATE 30 SEP 1995
 2 PLAC Igreja da Comunidade Evangélica de Florianópolis, Florianópolis, Santa Catarina, Brasil
-1 NOTE Casamento religioso com efeito civil celebrado em 30/09/1995 pelo Pastor Renato Luiz Becker (testemunhas: Elvis Mello Vieira, Solange Terezinha Sari) e registrado em 09/10/1995 no Cartório do 4º Subdi
-2 CONC strito da Trindade, Florianópolis, SC (Livro B-AUX 6, fls. 195-V, nº 2983).
 0 @F15@ FAM
 1 HUSB @I31@
 1 WIFE @I32@
@@ -6034,830 +6424,873 @@
 1 MARR
 2 PLAC Stoffen, Landsberg am Lech, Oberbayern, Deutschland
 0 @F29@ FAM
-1 HUSB @I124@
-1 WIFE @I125@
-1 CHIL @I123@
+1 HUSB @I110@
+1 WIFE @I109@
+1 MARR
+2 DATE 6 JUN 1946
+2 PLAC Santa Catarina, Brasil
 0 @F30@ FAM
-1 HUSB @I15@
-1 WIFE @I123@
+1 HUSB @I111@
+1 WIFE @I112@
+1 MARR
+2 DATE 9 MAR 1948
+2 PLAC Vidal Ramos, Santa Catarina, Brasil
+0 @F31@ FAM
+1 HUSB @I115@
+1 WIFE @I114@
+0 @F32@ FAM
+1 HUSB @I127@
+1 WIFE @I128@
 1 CHIL @I126@
-1 CHIL @I127@
-1 CHIL @I128@
+0 @F33@ FAM
+1 HUSB @I15@
+1 WIFE @I126@
 1 CHIL @I129@
 1 CHIL @I130@
+1 CHIL @I131@
+1 CHIL @I132@
+1 CHIL @I133@
+1 CHIL @I134@
 1 MARR
 2 DATE 29 APR 1900
-2 PLAC Capela de São José em Capivari, Braço do Norte / São Ludgero, Santa Catarina, Brasil
-1 NOTE Assento Matrimonial nº 23 de 29/04/1900 na Capela de São José em Capivari (testemunhas na imagem: José May e João Peters; segunda leitura com dispensa de religião mista assinada pelo Pe. Francisco Aul
-2 CONC ing).
-0 @F31@ FAM
-1 HUSB @I150@
-1 WIFE @I151@
+2 PLAC Capela de São José em Capivari, Paróquia de São Ludgero, Santa Catarina, Brasil
+1 NOTE Assento Matrimonial nº 23 de 29/04/1900 na Capela de São José do Capivari (ark:/61903/1:1:6BGZ-4DDH; testemunhas José May e João Peters), precedido pela recepção católica de Hulda Peters em 28/04/1900
+2 CONC  em São Ludgero (ark:/61903/1:1:66YX-8D93).
+0 @F34@ FAM
+1 HUSB @I135@
+1 WIFE @I136@
+1 CHIL @I19@
+1 MARR
+2 PLAC St. Peter und Paul, Amelunxen, Kreis Höxter, Westfalen, Preußen, Deutschland
+0 @F35@ FAM
+1 HUSB @I140@
+1 WIFE @I141@
+1 CHIL @I22@
+1 MARR
+2 DATE 11 MAR 1820
+2 PLAC Schweich, Trier, Rheinprovinz, Preußen, Deutschland
+0 @F36@ FAM
+1 HUSB @I161@
+1 WIFE @I162@
 1 CHIL @I17@
-1 CHIL @I152@
-1 CHIL @I153@
-1 CHIL @I154@
-1 CHIL @I155@
-1 CHIL @I156@
+1 CHIL @I163@
+1 CHIL @I164@
+1 CHIL @I165@
+1 CHIL @I166@
+1 CHIL @I167@
 1 MARR
 2 DATE ABT 1821
 2 PLAC Hermeskeil, Trier, Rheinprovinz, Preußen, Deutschland
-0 @F32@ FAM
-1 HUSB @I157@
-1 WIFE @I158@
+0 @F37@ FAM
+1 HUSB @I168@
+1 WIFE @I169@
 1 CHIL @I21@
 1 MARR
 2 PLAC Pfarrkirche Maria Himmelfahrt, Pünderich, Cochem-Zell, Deutschland
-0 @F33@ FAM
-1 HUSB @I162@
-1 WIFE @I161@
-1 CHIL @I163@
-1 CHIL @I171@
-1 CHIL @I213@
-1 CHIL @I214@
-1 CHIL @I236@
-1 CHIL @I262@
-1 CHIL @I278@
-1 CHIL @I282@
-1 CHIL @I295@
-0 @F34@ FAM
-1 HUSB @I163@
-1 WIFE @I164@
-1 CHIL @I165@
-1 CHIL @I169@
-0 @F35@ FAM
-1 HUSB @I165@
-1 WIFE @I166@
-1 CHIL @I167@
-1 CHIL @I168@
-0 @F36@ FAM
-1 HUSB @I170@
-1 WIFE @I169@
-0 @F37@ FAM
-1 HUSB @I171@
-1 WIFE @I172@
-1 CHIL @I173@
-1 CHIL @I180@
-1 CHIL @I184@
-1 CHIL @I188@
-1 CHIL @I189@
-1 CHIL @I194@
-1 CHIL @I198@
-1 CHIL @I202@
-1 CHIL @I206@
-1 CHIL @I211@
 0 @F38@ FAM
 1 HUSB @I173@
-1 WIFE @I174@
-1 CHIL @I175@
-1 CHIL @I176@
-1 CHIL @I177@
-1 CHIL @I178@
-1 CHIL @I179@
-0 @F39@ FAM
-1 HUSB @I181@
-1 WIFE @I180@
+1 WIFE @I172@
+1 CHIL @I174@
 1 CHIL @I182@
-1 CHIL @I183@
-0 @F40@ FAM
-1 HUSB @I185@
-1 WIFE @I184@
-1 CHIL @I186@
-1 CHIL @I187@
-0 @F41@ FAM
-1 HUSB @I189@
-1 WIFE @I190@
-1 CHIL @I191@
-1 CHIL @I192@
-1 CHIL @I193@
-0 @F42@ FAM
-1 HUSB @I194@
-1 WIFE @I195@
-1 CHIL @I196@
-1 CHIL @I197@
-0 @F43@ FAM
-1 HUSB @I199@
-1 WIFE @I198@
-1 CHIL @I200@
-1 CHIL @I201@
-0 @F44@ FAM
-1 HUSB @I202@
-1 WIFE @I203@
-1 CHIL @I204@
-1 CHIL @I205@
-0 @F45@ FAM
-1 HUSB @I207@
-1 WIFE @I206@
-1 CHIL @I208@
-1 CHIL @I209@
-1 CHIL @I210@
-0 @F46@ FAM
-1 HUSB @I211@
-1 WIFE @I212@
-0 @F47@ FAM
-1 HUSB @I214@
-1 WIFE @I215@
-1 CHIL @I216@
-1 CHIL @I220@
 1 CHIL @I224@
-1 CHIL @I228@
-1 CHIL @I233@
-1 CHIL @I234@
-0 @F48@ FAM
-1 HUSB @I216@
-1 WIFE @I217@
-1 CHIL @I218@
-1 CHIL @I219@
-0 @F49@ FAM
-1 HUSB @I220@
-1 WIFE @I221@
-1 CHIL @I222@
-1 CHIL @I223@
-0 @F50@ FAM
-1 HUSB @I224@
-1 WIFE @I225@
-1 CHIL @I226@
-1 CHIL @I227@
-0 @F51@ FAM
-1 HUSB @I229@
-1 WIFE @I228@
-1 CHIL @I230@
-1 CHIL @I231@
-1 CHIL @I232@
-0 @F52@ FAM
-1 HUSB @I235@
-1 WIFE @I234@
-0 @F53@ FAM
-1 HUSB @I237@
-1 WIFE @I236@
-1 CHIL @I238@
-1 CHIL @I242@
-1 CHIL @I246@
-1 CHIL @I248@
-1 CHIL @I252@
-1 CHIL @I254@
-1 CHIL @I257@
-1 CHIL @I258@
-1 CHIL @I261@
-0 @F54@ FAM
-1 HUSB @I239@
-1 WIFE @I238@
-1 CHIL @I240@
-1 CHIL @I241@
-0 @F55@ FAM
-1 HUSB @I243@
-1 WIFE @I242@
-1 CHIL @I244@
-1 CHIL @I245@
-0 @F56@ FAM
-1 WIFE @I246@
+1 CHIL @I225@
 1 CHIL @I247@
-0 @F57@ FAM
-1 HUSB @I249@
-1 WIFE @I248@
-1 CHIL @I250@
-1 CHIL @I251@
-0 @F58@ FAM
-1 HUSB @I253@
-1 WIFE @I252@
-0 @F59@ FAM
-1 HUSB @I254@
-1 WIFE @I255@
-1 CHIL @I256@
-0 @F60@ FAM
-1 HUSB @I259@
-1 WIFE @I258@
-1 CHIL @I260@
-0 @F61@ FAM
-1 HUSB @I263@
-1 WIFE @I262@
-1 CHIL @I264@
-1 CHIL @I268@
-1 CHIL @I272@
 1 CHIL @I273@
-1 CHIL @I276@
-1 CHIL @I277@
-0 @F62@ FAM
-1 HUSB @I264@
-1 WIFE @I265@
-1 CHIL @I266@
-1 CHIL @I267@
-0 @F63@ FAM
-1 HUSB @I269@
-1 WIFE @I268@
-1 CHIL @I270@
-1 CHIL @I271@
-0 @F64@ FAM
-1 HUSB @I273@
-1 WIFE @I274@
-1 CHIL @I275@
-0 @F65@ FAM
-1 HUSB @I278@
-1 WIFE @I279@
-1 CHIL @I280@
-1 CHIL @I281@
-0 @F66@ FAM
-1 HUSB @I283@
-1 WIFE @I282@
-1 CHIL @I284@
 1 CHIL @I289@
 1 CHIL @I293@
-1 CHIL @I294@
-0 @F67@ FAM
-1 HUSB @I285@
-1 WIFE @I284@
-1 CHIL @I286@
+1 CHIL @I306@
+1 MARR
+2 DATE 9 MAY 1932
+2 PLAC Ituporanga, Santa Catarina, Brasil
+1 NOTE Casamento religioso em 07/05/1932 (ark:/61903/1:1:6BLB-9969) e civil em 09/05/1932 em Ituporanga, SC (ark:/61903/1:1:X9B4-G1T4; testemunhas André Sebold e Vendolino Sens).
+0 @F39@ FAM
+1 HUSB @I174@
+1 WIFE @I175@
+1 CHIL @I176@
+1 CHIL @I180@
+0 @F40@ FAM
+1 HUSB @I176@
+1 WIFE @I177@
+1 CHIL @I178@
+1 CHIL @I179@
+0 @F41@ FAM
+1 HUSB @I181@
+1 WIFE @I180@
+0 @F42@ FAM
+1 HUSB @I182@
+1 WIFE @I183@
+1 CHIL @I184@
+1 CHIL @I191@
+1 CHIL @I195@
+1 CHIL @I199@
+1 CHIL @I200@
+1 CHIL @I205@
+1 CHIL @I209@
+1 CHIL @I213@
+1 CHIL @I217@
+1 CHIL @I222@
+0 @F43@ FAM
+1 HUSB @I184@
+1 WIFE @I185@
+1 CHIL @I186@
+1 CHIL @I187@
+1 CHIL @I188@
+1 CHIL @I189@
+1 CHIL @I190@
+0 @F44@ FAM
+1 HUSB @I192@
+1 WIFE @I191@
+1 CHIL @I193@
+1 CHIL @I194@
+0 @F45@ FAM
+1 HUSB @I196@
+1 WIFE @I195@
+1 CHIL @I197@
+1 CHIL @I198@
+0 @F46@ FAM
+1 HUSB @I200@
+1 WIFE @I201@
+1 CHIL @I202@
+1 CHIL @I203@
+1 CHIL @I204@
+0 @F47@ FAM
+1 HUSB @I205@
+1 WIFE @I206@
+1 CHIL @I207@
+1 CHIL @I208@
+0 @F48@ FAM
+1 HUSB @I210@
+1 WIFE @I209@
+1 CHIL @I211@
+1 CHIL @I212@
+0 @F49@ FAM
+1 HUSB @I213@
+1 WIFE @I214@
+1 CHIL @I215@
+1 CHIL @I216@
+0 @F50@ FAM
+1 HUSB @I218@
+1 WIFE @I217@
+1 CHIL @I219@
+1 CHIL @I220@
+1 CHIL @I221@
+0 @F51@ FAM
+1 HUSB @I222@
+1 WIFE @I223@
+0 @F52@ FAM
+1 HUSB @I225@
+1 WIFE @I226@
+1 CHIL @I227@
+1 CHIL @I231@
+1 CHIL @I235@
+1 CHIL @I239@
+1 CHIL @I244@
+1 CHIL @I245@
+0 @F53@ FAM
+1 HUSB @I227@
+1 WIFE @I228@
+1 CHIL @I229@
+1 CHIL @I230@
+0 @F54@ FAM
+1 HUSB @I231@
+1 WIFE @I232@
+1 CHIL @I233@
+1 CHIL @I234@
+0 @F55@ FAM
+1 HUSB @I235@
+1 WIFE @I236@
+1 CHIL @I237@
+1 CHIL @I238@
+0 @F56@ FAM
+1 HUSB @I240@
+1 WIFE @I239@
+1 CHIL @I241@
+1 CHIL @I242@
+1 CHIL @I243@
+0 @F57@ FAM
+1 HUSB @I246@
+1 WIFE @I245@
+0 @F58@ FAM
+1 HUSB @I248@
+1 WIFE @I247@
+1 CHIL @I249@
+1 CHIL @I253@
+1 CHIL @I257@
+1 CHIL @I259@
+1 CHIL @I263@
+1 CHIL @I265@
+1 CHIL @I268@
+1 CHIL @I269@
+1 CHIL @I272@
+0 @F59@ FAM
+1 HUSB @I250@
+1 WIFE @I249@
+1 CHIL @I251@
+1 CHIL @I252@
+0 @F60@ FAM
+1 HUSB @I254@
+1 WIFE @I253@
+1 CHIL @I255@
+1 CHIL @I256@
+0 @F61@ FAM
+1 WIFE @I257@
+1 CHIL @I258@
+0 @F62@ FAM
+1 HUSB @I260@
+1 WIFE @I259@
+1 CHIL @I261@
+1 CHIL @I262@
+0 @F63@ FAM
+1 HUSB @I264@
+1 WIFE @I263@
+0 @F64@ FAM
+1 HUSB @I265@
+1 WIFE @I266@
+1 CHIL @I267@
+0 @F65@ FAM
+1 HUSB @I270@
+1 WIFE @I269@
+1 CHIL @I271@
+0 @F66@ FAM
+1 HUSB @I274@
+1 WIFE @I273@
+1 CHIL @I275@
+1 CHIL @I279@
+1 CHIL @I283@
+1 CHIL @I284@
 1 CHIL @I287@
 1 CHIL @I288@
+0 @F67@ FAM
+1 HUSB @I275@
+1 WIFE @I276@
+1 CHIL @I277@
+1 CHIL @I278@
 0 @F68@ FAM
-1 HUSB @I290@
-1 WIFE @I289@
+1 HUSB @I280@
+1 WIFE @I279@
+1 CHIL @I281@
+1 CHIL @I282@
+0 @F69@ FAM
+1 HUSB @I284@
+1 WIFE @I285@
+1 CHIL @I286@
+0 @F70@ FAM
+1 HUSB @I289@
+1 WIFE @I290@
 1 CHIL @I291@
 1 CHIL @I292@
-0 @F69@ FAM
+0 @F71@ FAM
+1 HUSB @I294@
+1 WIFE @I293@
+1 CHIL @I295@
+1 CHIL @I300@
+1 CHIL @I304@
+1 CHIL @I305@
+0 @F72@ FAM
 1 HUSB @I296@
 1 WIFE @I295@
 1 CHIL @I297@
-1 CHIL @I300@
-1 CHIL @I301@
-0 @F70@ FAM
-1 HUSB @I297@
-1 WIFE @I298@
+1 CHIL @I298@
 1 CHIL @I299@
-0 @F71@ FAM
-1 HUSB @I302@
-1 WIFE @I303@
-1 CHIL @I304@
-1 CHIL @I305@
-1 CHIL @I313@
-1 CHIL @I319@
-1 CHIL @I330@
-1 CHIL @I336@
-1 CHIL @I341@
-0 @F72@ FAM
-1 HUSB @I306@
-1 WIFE @I305@
-1 CHIL @I307@
-1 CHIL @I309@
-1 CHIL @I312@
 0 @F73@ FAM
-1 HUSB @I307@
-1 WIFE @I308@
+1 HUSB @I301@
+1 WIFE @I300@
+1 CHIL @I302@
+1 CHIL @I303@
 0 @F74@ FAM
-1 HUSB @I310@
-1 WIFE @I309@
+1 HUSB @I307@
+1 WIFE @I306@
+1 CHIL @I308@
 1 CHIL @I311@
+1 CHIL @I312@
 0 @F75@ FAM
-1 HUSB @I314@
-1 WIFE @I313@
+1 HUSB @I308@
+1 WIFE @I309@
+1 CHIL @I310@
+0 @F76@ FAM
+1 HUSB @I313@
+1 WIFE @I314@
 1 CHIL @I315@
 1 CHIL @I316@
-1 CHIL @I317@
-1 CHIL @I318@
-0 @F76@ FAM
-1 HUSB @I320@
-1 WIFE @I319@
-1 CHIL @I321@
-1 CHIL @I323@
-1 CHIL @I327@
-1 CHIL @I329@
+1 CHIL @I324@
+1 CHIL @I330@
+1 CHIL @I341@
+1 CHIL @I347@
+1 CHIL @I352@
+1 MARR
+2 PLAC Ituporanga, Santa Catarina, Brasil
 0 @F77@ FAM
-1 HUSB @I321@
-1 WIFE @I322@
+1 HUSB @I317@
+1 WIFE @I316@
+1 CHIL @I318@
+1 CHIL @I320@
+1 CHIL @I323@
 0 @F78@ FAM
-1 HUSB @I323@
-1 WIFE @I324@
-1 CHIL @I325@
-1 CHIL @I326@
+1 HUSB @I318@
+1 WIFE @I319@
 0 @F79@ FAM
-1 HUSB @I327@
-1 WIFE @I328@
+1 HUSB @I321@
+1 WIFE @I320@
+1 CHIL @I322@
 0 @F80@ FAM
+1 HUSB @I325@
+1 WIFE @I324@
+1 CHIL @I326@
+1 CHIL @I327@
+1 CHIL @I328@
+1 CHIL @I329@
+0 @F81@ FAM
 1 HUSB @I331@
 1 WIFE @I330@
 1 CHIL @I332@
-1 CHIL @I335@
-0 @F81@ FAM
+1 CHIL @I334@
+1 CHIL @I338@
+1 CHIL @I340@
+0 @F82@ FAM
 1 HUSB @I332@
 1 WIFE @I333@
-1 CHIL @I334@
-0 @F82@ FAM
-1 HUSB @I336@
-1 WIFE @I337@
-1 CHIL @I338@
-1 CHIL @I339@
-1 CHIL @I340@
 0 @F83@ FAM
-1 HUSB @I342@
-1 WIFE @I343@
-1 CHIL @I344@
-1 CHIL @I360@
-1 CHIL @I378@
-1 CHIL @I394@
-1 CHIL @I398@
-1 CHIL @I401@
-1 CHIL @I402@
-1 CHIL @I403@
+1 HUSB @I334@
+1 WIFE @I335@
+1 CHIL @I336@
+1 CHIL @I337@
 0 @F84@ FAM
-1 HUSB @I344@
-1 WIFE @I345@
-1 CHIL @I346@
-1 CHIL @I350@
-1 CHIL @I355@
-1 CHIL @I358@
-1 CHIL @I359@
+1 HUSB @I338@
+1 WIFE @I339@
 0 @F85@ FAM
-1 HUSB @I347@
-1 WIFE @I346@
-1 CHIL @I348@
-1 CHIL @I349@
+1 HUSB @I342@
+1 WIFE @I341@
+1 CHIL @I343@
+1 CHIL @I346@
 0 @F86@ FAM
-1 HUSB @I350@
-1 WIFE @I351@
-1 CHIL @I352@
+1 HUSB @I343@
+1 WIFE @I344@
+1 CHIL @I345@
 0 @F87@ FAM
-1 HUSB @I350@
-1 WIFE @I353@
-1 CHIL @I354@
+1 HUSB @I347@
+1 WIFE @I348@
+1 CHIL @I349@
+1 CHIL @I350@
+1 CHIL @I351@
 0 @F88@ FAM
+1 HUSB @I353@
+1 WIFE @I354@
+1 CHIL @I355@
+1 CHIL @I371@
+1 CHIL @I389@
+1 CHIL @I405@
+1 CHIL @I409@
+1 CHIL @I412@
+1 CHIL @I413@
+1 CHIL @I414@
+1 MARR
+2 PLAC Ituporanga, Santa Catarina, Brasil
+0 @F89@ FAM
 1 HUSB @I355@
 1 WIFE @I356@
 1 CHIL @I357@
-0 @F89@ FAM
-1 HUSB @I361@
-1 WIFE @I360@
-1 CHIL @I362@
-1 CHIL @I367@
-1 CHIL @I371@
-1 CHIL @I372@
-1 CHIL @I376@
-0 @F90@ FAM
-1 HUSB @I362@
-1 WIFE @I363@
-1 CHIL @I364@
-1 CHIL @I365@
+1 CHIL @I361@
 1 CHIL @I366@
-0 @F91@ FAM
-1 HUSB @I368@
-1 WIFE @I367@
 1 CHIL @I369@
 1 CHIL @I370@
+0 @F90@ FAM
+1 HUSB @I358@
+1 WIFE @I357@
+1 CHIL @I359@
+1 CHIL @I360@
+0 @F91@ FAM
+1 HUSB @I361@
+1 WIFE @I362@
+1 CHIL @I363@
 0 @F92@ FAM
-1 HUSB @I373@
-1 WIFE @I372@
-1 CHIL @I374@
-1 CHIL @I375@
+1 HUSB @I361@
+1 WIFE @I364@
+1 CHIL @I365@
 0 @F93@ FAM
-1 HUSB @I377@
-1 WIFE @I376@
+1 HUSB @I366@
+1 WIFE @I367@
+1 CHIL @I368@
 0 @F94@ FAM
-1 HUSB @I378@
-1 WIFE @I379@
+1 HUSB @I372@
+1 WIFE @I371@
+1 CHIL @I373@
+1 CHIL @I378@
+1 CHIL @I382@
+1 CHIL @I383@
+1 CHIL @I387@
+0 @F95@ FAM
+1 HUSB @I373@
+1 WIFE @I374@
+1 CHIL @I375@
+1 CHIL @I376@
+1 CHIL @I377@
+0 @F96@ FAM
+1 HUSB @I379@
+1 WIFE @I378@
 1 CHIL @I380@
 1 CHIL @I381@
-1 CHIL @I386@
-1 CHIL @I390@
-0 @F95@ FAM
-1 HUSB @I382@
-1 WIFE @I381@
-1 CHIL @I383@
-1 CHIL @I384@
-1 CHIL @I385@
-0 @F96@ FAM
-1 HUSB @I386@
-1 WIFE @I387@
 0 @F97@ FAM
-1 HUSB @I386@
-1 WIFE @I388@
-1 CHIL @I389@
+1 HUSB @I384@
+1 WIFE @I383@
+1 CHIL @I385@
+1 CHIL @I386@
 0 @F98@ FAM
-1 HUSB @I391@
-1 WIFE @I390@
-1 CHIL @I392@
-1 CHIL @I393@
+1 HUSB @I388@
+1 WIFE @I387@
 0 @F99@ FAM
-1 HUSB @I394@
-1 WIFE @I395@
-1 CHIL @I396@
+1 HUSB @I389@
+1 WIFE @I390@
+1 CHIL @I391@
+1 CHIL @I392@
 1 CHIL @I397@
+1 CHIL @I401@
 0 @F100@ FAM
-1 HUSB @I399@
-1 WIFE @I398@
-1 CHIL @I400@
+1 HUSB @I393@
+1 WIFE @I392@
+1 CHIL @I394@
+1 CHIL @I395@
+1 CHIL @I396@
 0 @F101@ FAM
-1 HUSB @I404@
-1 WIFE @I403@
-1 CHIL @I405@
-1 CHIL @I406@
+1 HUSB @I397@
+1 WIFE @I398@
 0 @F102@ FAM
+1 HUSB @I397@
+1 WIFE @I399@
+1 CHIL @I400@
+0 @F103@ FAM
+1 HUSB @I402@
+1 WIFE @I401@
+1 CHIL @I403@
+1 CHIL @I404@
+0 @F104@ FAM
+1 HUSB @I405@
+1 WIFE @I406@
+1 CHIL @I407@
+1 CHIL @I408@
+0 @F105@ FAM
 1 HUSB @I410@
 1 WIFE @I409@
 1 CHIL @I411@
-1 CHIL @I443@
-1 CHIL @I455@
-1 CHIL @I491@
-1 CHIL @I503@
-1 CHIL @I513@
-1 CHIL @I528@
-1 CHIL @I536@
-1 CHIL @I541@
-1 CHIL @I546@
-1 CHIL @I551@
-1 CHIL @I559@
-1 CHIL @I564@
-0 @F103@ FAM
-1 HUSB @I412@
-1 WIFE @I411@
-1 CHIL @I413@
-1 CHIL @I419@
-1 CHIL @I421@
-1 CHIL @I427@
-1 CHIL @I430@
-1 CHIL @I434@
-1 CHIL @I436@
-1 CHIL @I437@
-1 CHIL @I440@
-1 CHIL @I442@
-0 @F104@ FAM
-1 HUSB @I414@
-1 WIFE @I413@
-1 CHIL @I415@
+0 @F106@ FAM
+1 HUSB @I415@
+1 WIFE @I414@
 1 CHIL @I416@
 1 CHIL @I417@
-1 CHIL @I418@
-0 @F105@ FAM
-1 WIFE @I419@
-1 CHIL @I420@
-0 @F106@ FAM
-1 HUSB @I421@
-1 WIFE @I422@
-1 CHIL @I423@
-1 CHIL @I424@
-1 CHIL @I425@
-1 CHIL @I426@
 0 @F107@ FAM
-1 HUSB @I427@
-1 WIFE @I428@
-1 CHIL @I429@
-0 @F108@ FAM
-1 HUSB @I430@
-1 WIFE @I431@
-1 CHIL @I432@
-1 CHIL @I433@
-0 @F109@ FAM
-1 HUSB @I434@
-1 WIFE @I435@
-0 @F110@ FAM
-1 HUSB @I437@
-1 WIFE @I438@
-1 CHIL @I439@
-0 @F111@ FAM
-1 HUSB @I441@
-1 WIFE @I440@
-0 @F112@ FAM
-1 HUSB @I443@
-1 WIFE @I444@
-1 CHIL @I445@
-1 CHIL @I450@
-1 CHIL @I453@
+1 HUSB @I421@
+1 WIFE @I420@
+1 CHIL @I422@
 1 CHIL @I454@
-0 @F113@ FAM
-1 HUSB @I446@
-1 WIFE @I445@
+1 CHIL @I466@
+1 CHIL @I502@
+1 CHIL @I514@
+1 CHIL @I524@
+1 CHIL @I539@
+1 CHIL @I547@
+1 CHIL @I552@
+1 CHIL @I557@
+1 CHIL @I562@
+1 CHIL @I570@
+1 CHIL @I575@
+1 MARR
+2 PLAC Ituporanga, Santa Catarina, Brasil
+0 @F108@ FAM
+1 HUSB @I423@
+1 WIFE @I422@
+1 CHIL @I424@
+1 CHIL @I430@
+1 CHIL @I432@
+1 CHIL @I438@
+1 CHIL @I441@
+1 CHIL @I445@
 1 CHIL @I447@
 1 CHIL @I448@
-1 CHIL @I449@
+1 CHIL @I451@
+1 CHIL @I453@
+0 @F109@ FAM
+1 HUSB @I425@
+1 WIFE @I424@
+1 CHIL @I426@
+1 CHIL @I427@
+1 CHIL @I428@
+1 CHIL @I429@
+0 @F110@ FAM
+1 WIFE @I430@
+1 CHIL @I431@
+0 @F111@ FAM
+1 HUSB @I432@
+1 WIFE @I433@
+1 CHIL @I434@
+1 CHIL @I435@
+1 CHIL @I436@
+1 CHIL @I437@
+0 @F112@ FAM
+1 HUSB @I438@
+1 WIFE @I439@
+1 CHIL @I440@
+0 @F113@ FAM
+1 HUSB @I441@
+1 WIFE @I442@
+1 CHIL @I443@
+1 CHIL @I444@
 0 @F114@ FAM
-1 HUSB @I450@
-1 WIFE @I451@
-1 CHIL @I452@
+1 HUSB @I445@
+1 WIFE @I446@
 0 @F115@ FAM
-1 HUSB @I456@
-1 WIFE @I455@
-1 CHIL @I457@
-1 CHIL @I463@
-1 CHIL @I464@
-1 CHIL @I468@
-1 CHIL @I473@
-1 CHIL @I476@
-1 CHIL @I479@
-1 CHIL @I482@
-1 CHIL @I485@
-1 CHIL @I489@
-1 CHIL @I490@
+1 HUSB @I448@
+1 WIFE @I449@
+1 CHIL @I450@
 0 @F116@ FAM
-1 HUSB @I458@
-1 WIFE @I457@
+1 HUSB @I452@
+1 WIFE @I451@
+0 @F117@ FAM
+1 HUSB @I454@
+1 WIFE @I455@
+1 CHIL @I456@
+1 CHIL @I461@
+1 CHIL @I464@
+1 CHIL @I465@
+0 @F118@ FAM
+1 HUSB @I457@
+1 WIFE @I456@
+1 CHIL @I458@
 1 CHIL @I459@
 1 CHIL @I460@
-1 CHIL @I461@
-1 CHIL @I462@
-0 @F117@ FAM
-1 HUSB @I465@
-1 WIFE @I464@
-1 CHIL @I466@
-1 CHIL @I467@
-0 @F118@ FAM
+0 @F119@ FAM
+1 HUSB @I461@
+1 WIFE @I462@
+1 CHIL @I463@
+0 @F120@ FAM
+1 HUSB @I467@
+1 WIFE @I466@
+1 CHIL @I468@
+1 CHIL @I474@
+1 CHIL @I475@
+1 CHIL @I479@
+1 CHIL @I484@
+1 CHIL @I487@
+1 CHIL @I490@
+1 CHIL @I493@
+1 CHIL @I496@
+1 CHIL @I500@
+1 CHIL @I501@
+0 @F121@ FAM
 1 HUSB @I469@
 1 WIFE @I468@
 1 CHIL @I470@
 1 CHIL @I471@
 1 CHIL @I472@
-0 @F119@ FAM
-1 HUSB @I474@
-1 WIFE @I473@
-1 CHIL @I475@
-0 @F120@ FAM
+1 CHIL @I473@
+0 @F122@ FAM
 1 HUSB @I476@
-1 WIFE @I477@
+1 WIFE @I475@
+1 CHIL @I477@
 1 CHIL @I478@
-0 @F121@ FAM
+0 @F123@ FAM
 1 HUSB @I480@
 1 WIFE @I479@
 1 CHIL @I481@
-0 @F122@ FAM
-1 HUSB @I483@
-1 WIFE @I482@
-1 CHIL @I484@
-0 @F123@ FAM
-1 HUSB @I486@
-1 WIFE @I485@
-1 CHIL @I487@
-1 CHIL @I488@
+1 CHIL @I482@
+1 CHIL @I483@
 0 @F124@ FAM
+1 HUSB @I485@
+1 WIFE @I484@
+1 CHIL @I486@
+0 @F125@ FAM
+1 HUSB @I487@
+1 WIFE @I488@
+1 CHIL @I489@
+0 @F126@ FAM
 1 HUSB @I491@
-1 WIFE @I492@
-1 CHIL @I493@
-1 CHIL @I494@
+1 WIFE @I490@
+1 CHIL @I492@
+0 @F127@ FAM
+1 HUSB @I494@
+1 WIFE @I493@
+1 CHIL @I495@
+0 @F128@ FAM
+1 HUSB @I497@
+1 WIFE @I496@
 1 CHIL @I498@
 1 CHIL @I499@
-1 CHIL @I500@
-1 CHIL @I501@
-1 CHIL @I502@
-0 @F125@ FAM
-1 HUSB @I494@
-1 WIFE @I495@
-1 CHIL @I496@
-1 CHIL @I497@
-0 @F126@ FAM
-1 HUSB @I503@
-1 WIFE @I504@
-1 CHIL @I505@
-1 CHIL @I508@
-1 CHIL @I511@
-0 @F127@ FAM
-1 HUSB @I506@
-1 WIFE @I505@
-1 CHIL @I507@
-0 @F128@ FAM
-1 HUSB @I509@
-1 WIFE @I508@
-1 CHIL @I510@
 0 @F129@ FAM
-1 HUSB @I511@
-1 WIFE @I512@
+1 HUSB @I502@
+1 WIFE @I503@
+1 CHIL @I504@
+1 CHIL @I505@
+1 CHIL @I509@
+1 CHIL @I510@
+1 CHIL @I511@
+1 CHIL @I512@
+1 CHIL @I513@
 0 @F130@ FAM
-1 HUSB @I514@
-1 WIFE @I513@
-1 CHIL @I515@
-1 CHIL @I516@
-1 CHIL @I520@
-1 CHIL @I523@
-1 CHIL @I524@
-1 CHIL @I525@
-1 CHIL @I526@
-1 CHIL @I527@
+1 HUSB @I505@
+1 WIFE @I506@
+1 CHIL @I507@
+1 CHIL @I508@
 0 @F131@ FAM
+1 HUSB @I514@
+1 WIFE @I515@
+1 CHIL @I516@
+1 CHIL @I519@
+1 CHIL @I522@
+0 @F132@ FAM
 1 HUSB @I517@
 1 WIFE @I516@
 1 CHIL @I518@
-1 CHIL @I519@
-0 @F132@ FAM
-1 HUSB @I520@
-1 WIFE @I521@
-1 CHIL @I522@
 0 @F133@ FAM
-1 HUSB @I529@
-1 WIFE @I528@
-1 CHIL @I530@
-1 CHIL @I533@
-1 CHIL @I535@
+1 HUSB @I520@
+1 WIFE @I519@
+1 CHIL @I521@
 0 @F134@ FAM
-1 HUSB @I530@
-1 WIFE @I531@
-1 CHIL @I532@
+1 HUSB @I522@
+1 WIFE @I523@
 0 @F135@ FAM
-1 WIFE @I533@
+1 HUSB @I525@
+1 WIFE @I524@
+1 CHIL @I526@
+1 CHIL @I527@
+1 CHIL @I531@
 1 CHIL @I534@
-0 @F136@ FAM
-1 HUSB @I537@
-1 WIFE @I536@
+1 CHIL @I535@
+1 CHIL @I536@
+1 CHIL @I537@
 1 CHIL @I538@
-1 CHIL @I539@
-1 CHIL @I540@
+0 @F136@ FAM
+1 HUSB @I528@
+1 WIFE @I527@
+1 CHIL @I529@
+1 CHIL @I530@
 0 @F137@ FAM
-1 HUSB @I542@
-1 WIFE @I541@
-1 CHIL @I543@
-1 CHIL @I544@
-1 CHIL @I545@
+1 HUSB @I531@
+1 WIFE @I532@
+1 CHIL @I533@
 0 @F138@ FAM
-1 HUSB @I547@
-1 WIFE @I546@
-1 CHIL @I548@
+1 HUSB @I540@
+1 WIFE @I539@
+1 CHIL @I541@
+1 CHIL @I544@
+1 CHIL @I546@
+0 @F139@ FAM
+1 HUSB @I541@
+1 WIFE @I542@
+1 CHIL @I543@
+0 @F140@ FAM
+1 WIFE @I544@
+1 CHIL @I545@
+0 @F141@ FAM
+1 HUSB @I548@
+1 WIFE @I547@
 1 CHIL @I549@
 1 CHIL @I550@
-0 @F139@ FAM
-1 HUSB @I551@
-1 WIFE @I552@
-1 CHIL @I553@
-1 CHIL @I556@
-1 CHIL @I557@
-1 CHIL @I558@
-0 @F140@ FAM
-1 HUSB @I554@
-1 WIFE @I553@
-1 CHIL @I555@
-0 @F141@ FAM
-1 HUSB @I559@
-1 WIFE @I560@
-1 CHIL @I561@
-1 CHIL @I562@
-1 CHIL @I563@
+1 CHIL @I551@
 0 @F142@ FAM
+1 HUSB @I553@
+1 WIFE @I552@
+1 CHIL @I554@
+1 CHIL @I555@
+1 CHIL @I556@
+0 @F143@ FAM
+1 HUSB @I558@
+1 WIFE @I557@
+1 CHIL @I559@
+1 CHIL @I560@
+1 CHIL @I561@
+0 @F144@ FAM
+1 HUSB @I562@
+1 WIFE @I563@
+1 CHIL @I564@
+1 CHIL @I567@
+1 CHIL @I568@
+1 CHIL @I569@
+0 @F145@ FAM
 1 HUSB @I565@
 1 WIFE @I564@
 1 CHIL @I566@
-1 CHIL @I567@
-0 @F143@ FAM
-1 HUSB @I569@
-1 WIFE @I568@
-1 CHIL @I570@
-1 CHIL @I583@
-1 CHIL @I589@
-1 CHIL @I596@
-1 CHIL @I604@
-1 CHIL @I612@
-0 @F144@ FAM
-1 HUSB @I571@
-1 WIFE @I570@
+0 @F146@ FAM
+1 HUSB @I570@
+1 WIFE @I571@
 1 CHIL @I572@
 1 CHIL @I573@
-1 CHIL @I577@
-1 CHIL @I579@
-1 CHIL @I582@
-0 @F145@ FAM
-1 HUSB @I574@
-1 WIFE @I573@
-1 CHIL @I575@
-1 CHIL @I576@
-0 @F146@ FAM
-1 WIFE @I577@
-1 CHIL @I578@
+1 CHIL @I574@
 0 @F147@ FAM
+1 HUSB @I576@
+1 WIFE @I575@
+1 CHIL @I577@
+1 CHIL @I578@
+0 @F148@ FAM
 1 HUSB @I580@
 1 WIFE @I579@
 1 CHIL @I581@
-0 @F148@ FAM
-1 HUSB @I584@
-1 WIFE @I583@
-1 CHIL @I585@
-0 @F149@ FAM
-1 HUSB @I585@
-1 WIFE @I586@
-1 CHIL @I587@
-1 CHIL @I588@
-0 @F150@ FAM
-1 HUSB @I589@
-1 WIFE @I590@
-1 CHIL @I591@
 1 CHIL @I594@
-1 CHIL @I595@
-0 @F151@ FAM
-1 HUSB @I592@
-1 WIFE @I591@
-1 CHIL @I593@
-0 @F152@ FAM
-1 HUSB @I597@
-1 WIFE @I596@
-1 CHIL @I598@
-0 @F153@ FAM
-1 HUSB @I598@
-1 WIFE @I599@
 1 CHIL @I600@
-0 @F154@ FAM
-1 HUSB @I601@
-1 WIFE @I596@
-1 CHIL @I602@
-1 CHIL @I603@
-0 @F155@ FAM
-1 HUSB @I605@
-1 WIFE @I604@
-1 CHIL @I606@
-1 CHIL @I608@
-1 CHIL @I609@
-0 @F156@ FAM
-1 HUSB @I607@
-1 WIFE @I606@
-0 @F157@ FAM
-1 HUSB @I610@
-1 WIFE @I604@
-1 CHIL @I611@
-0 @F158@ FAM
-1 HUSB @I613@
-1 WIFE @I614@
+1 CHIL @I607@
 1 CHIL @I615@
-1 CHIL @I616@
-1 CHIL @I617@
-1 CHIL @I618@
-1 CHIL @I619@
-0 @F159@ FAM
-1 HUSB @I620@
-1 WIFE @I621@
-1 CHIL @I622@
 1 CHIL @I623@
-1 CHIL @I624@
+1 MARR
+2 PLAC Ituporanga, Santa Catarina, Brasil
+0 @F149@ FAM
+1 HUSB @I582@
+1 WIFE @I581@
+1 CHIL @I583@
+1 CHIL @I584@
+1 CHIL @I588@
+1 CHIL @I590@
+1 CHIL @I593@
+0 @F150@ FAM
+1 HUSB @I585@
+1 WIFE @I584@
+1 CHIL @I586@
+1 CHIL @I587@
+0 @F151@ FAM
+1 WIFE @I588@
+1 CHIL @I589@
+0 @F152@ FAM
+1 HUSB @I591@
+1 WIFE @I590@
+1 CHIL @I592@
+0 @F153@ FAM
+1 HUSB @I595@
+1 WIFE @I594@
+1 CHIL @I596@
+0 @F154@ FAM
+1 HUSB @I596@
+1 WIFE @I597@
+1 CHIL @I598@
+1 CHIL @I599@
+0 @F155@ FAM
+1 HUSB @I600@
+1 WIFE @I601@
+1 CHIL @I602@
+1 CHIL @I605@
+1 CHIL @I606@
+0 @F156@ FAM
+1 HUSB @I603@
+1 WIFE @I602@
+1 CHIL @I604@
+0 @F157@ FAM
+1 HUSB @I608@
+1 WIFE @I607@
+1 CHIL @I609@
+0 @F158@ FAM
+1 HUSB @I609@
+1 WIFE @I610@
+1 CHIL @I611@
+0 @F159@ FAM
+1 HUSB @I612@
+1 WIFE @I607@
+1 CHIL @I613@
+1 CHIL @I614@
 0 @F160@ FAM
-1 HUSB @I625@
-1 WIFE @I626@
+1 HUSB @I616@
+1 WIFE @I615@
+1 CHIL @I617@
+1 CHIL @I619@
+1 CHIL @I620@
+0 @F161@ FAM
+1 HUSB @I618@
+1 WIFE @I617@
+0 @F162@ FAM
+1 HUSB @I621@
+1 WIFE @I615@
+1 CHIL @I622@
+0 @F163@ FAM
+1 HUSB @I624@
+1 WIFE @I625@
+1 CHIL @I626@
 1 CHIL @I627@
 1 CHIL @I628@
-0 @F161@ FAM
-1 HUSB @I630@
-1 WIFE @I629@
-1 CHIL @I631@
-1 CHIL @I632@
-0 @F162@ FAM
-1 HUSB @I634@
-1 WIFE @I633@
-1 CHIL @I635@
-1 CHIL @I636@
-0 @F163@ FAM
-1 HUSB @I638@
-1 WIFE @I637@
-1 CHIL @I639@
+1 CHIL @I629@
+1 CHIL @I630@
 0 @F164@ FAM
+1 HUSB @I631@
+1 WIFE @I632@
+1 CHIL @I633@
+1 CHIL @I634@
+1 CHIL @I635@
+0 @F165@ FAM
+1 HUSB @I636@
+1 WIFE @I637@
+1 CHIL @I638@
+1 CHIL @I639@
+0 @F166@ FAM
 1 HUSB @I641@
 1 WIFE @I640@
 1 CHIL @I642@
 1 CHIL @I643@
-1 CHIL @I644@
-0 @F165@ FAM
-1 HUSB @I646@
-1 WIFE @I645@
+0 @F167@ FAM
+1 HUSB @I645@
+1 WIFE @I644@
+1 CHIL @I646@
 1 CHIL @I647@
-1 CHIL @I648@
-1 CHIL @I649@
-0 @F166@ FAM
-1 HUSB @I650@
+0 @F168@ FAM
+1 HUSB @I649@
+1 WIFE @I648@
+1 CHIL @I650@
+0 @F169@ FAM
+1 HUSB @I652@
 1 WIFE @I651@
-1 CHIL @I652@
 1 CHIL @I653@
 1 CHIL @I654@
-0 @F167@ FAM
-1 HUSB @I656@
-1 WIFE @I657@
+1 CHIL @I655@
+0 @F170@ FAM
+1 HUSB @I657@
+1 WIFE @I656@
 1 CHIL @I658@
-0 @F168@ FAM
-1 HUSB @I660@
-1 WIFE @I659@
-1 CHIL @I661@
-1 CHIL @I665@
-1 CHIL @I670@
-1 CHIL @I676@
-1 CHIL @I681@
-1 CHIL @I685@
-1 CHIL @I686@
-1 CHIL @I687@
-0 @F169@ FAM
+1 CHIL @I659@
+1 CHIL @I660@
+0 @F171@ FAM
 1 HUSB @I661@
 1 WIFE @I662@
 1 CHIL @I663@
 1 CHIL @I664@
-0 @F170@ FAM
-1 HUSB @I666@
-1 WIFE @I665@
-1 CHIL @I667@
-1 CHIL @I668@
+1 CHIL @I665@
+0 @F172@ FAM
+1 HUSB @I667@
+1 WIFE @I668@
 1 CHIL @I669@
-0 @F171@ FAM
+0 @F173@ FAM
 1 HUSB @I671@
 1 WIFE @I670@
 1 CHIL @I672@
-1 CHIL @I673@
+1 CHIL @I676@
+1 CHIL @I681@
+1 CHIL @I687@
+1 CHIL @I692@
+1 CHIL @I696@
+1 CHIL @I697@
+1 CHIL @I698@
+1 MARR
+2 PLAC Ituporanga, Santa Catarina, Brasil
+0 @F174@ FAM
+1 HUSB @I672@
+1 WIFE @I673@
 1 CHIL @I674@
 1 CHIL @I675@
-0 @F172@ FAM
-1 HUSB @I676@
-1 WIFE @I677@
+0 @F175@ FAM
+1 HUSB @I677@
+1 WIFE @I676@
 1 CHIL @I678@
 1 CHIL @I679@
 1 CHIL @I680@
-0 @F173@ FAM
-1 HUSB @I681@
-1 WIFE @I682@
+0 @F176@ FAM
+1 HUSB @I682@
+1 WIFE @I681@
 1 CHIL @I683@
 1 CHIL @I684@
+1 CHIL @I685@
+1 CHIL @I686@
+0 @F177@ FAM
+1 HUSB @I687@
+1 WIFE @I688@
+1 CHIL @I689@
+1 CHIL @I690@
+1 CHIL @I691@
+0 @F178@ FAM
+1 HUSB @I692@
+1 WIFE @I693@
+1 CHIL @I694@
+1 CHIL @I695@
 0 @S1@ SOUR 
 1 TITL Baldvino Haas, “Brasil, Santa Catarina, Registro Civil, 1850-1999”
 1 AUTH "Brasil, Santa Catarina, Registro Civil, 1850-1999", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6JJK-6FT8 : Sun Dec 07 07:16:12 UTC 2025), Baldvino Haas, 9 Mar 1948.
