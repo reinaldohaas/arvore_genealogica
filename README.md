@@ -55,7 +55,7 @@ graph TD
 
     FE_T["<b>Franz Adam Eller</b><br/><i>~ 03.03.1832 (Westfalen, Alemanha)</i>"]:::tetravos --- M_FE["Casamento"]:::casamento
     AK_T["<b>Anna Maria Knopker</b><br/><i>* Alemanha</i>"]:::tetravos --- M_FE
-    M_FE --> T_AE["<b>Anna Eller</b><br/><i>* 1858 (RS) | † ~1898 (São Martinho, SC)</i>"]:::trisavos
+    M_FE --> T_AE["<b>Anna Eller</b><br/><i>* c. 1858–1860 (Vestfália?) | † ~1898 (São Martinho, SC)</i>"]:::trisavos
 
     T_CD --- M_CDE["💍 <b>1º Casamento (~1879)</b><br/><i>10 filhos (+5 no 2º cas. c/ Hulda Peters)</i>"]:::casamento
     T_AE --- M_CDE
@@ -146,7 +146,7 @@ graph TD
 | **G5 (Trisavós / Bisavós)** | **Meier** | **Georg Adam Meier** | * 09/03/1859 | Rückersrieth / Heumaden, Baviera | *Wagner* & *Ökonom*; casou-se em 23/11/1884 em Moosbach com Franziska Voit |
 | **G5 (Trisavós / Bisavós)** | **Voit** | **Franziska Voit Meier** | * 29/06/1861 | Burgtreswitz, Moosbach, Baviera | Filha de Johann Voit e Barbara Woppmann; teve 8 filhos em Heumaden |
 | **G5 (Trisavós / Bisavós)** | **Doerner** | **Carl Reinhard (Carlos) Doerner** | * 20/11/1854 | Solingen, Prússia ➔ Capivari / São Martinho, SC | Viúvo recasado: 1º cas. (~1879) c/ **Anna Eller** (10 filhos); 2º cas. (29/04/1900 em Capivari) c/ **Hulda Peters** (* 1870, +5 filhos = 15 filhos) |
-| **G5 (Trisavós / Bisavós)** | **Eller** | **Anna Eller Dörner** | * 1858 <br/> † ~1898 | Rio Grande do Sul ➔ Imaruí / São Martinho, SC | 1ª esposa de Carlos Doerner; filha de Franz Adam Eller e Anna Maria Knopker |
+| **G5 (Trisavós / Bisavós)** | **Eller** | **Anna Eller Dörner** | * c. 1858–1860 <br/> † ~1898 | Vestfália (?) ➔ São Bonifácio ➔ Imaruí / São Martinho, SC (o "1858, RS" do FamilySearch é dado gerado, sem fonte) | 1ª esposa de Carlos Doerner; filha de Franz Adam Eller e Anna Maria Knopker |
 | **G5 (Trisavós / Bisavós)** | **Preis** | **Emanuel Preis (Manoel)** | * 31/03/1864 <br/> † 27/03/1927 | Águas Mornas ➔ São Martinho, SC (*Cemitério de São Martinho*) | Batizado em 26/04/1864; filho de Bernard Preis e Ignazia Loch |
 | **G5 (Trisavós / Bisavós)** | **Michels** | **Helena Michels Preiss** | * 01/01/1864 <br/> † 08/06/1945 | Vargem do Cedro ➔ São Martinho, SC | Filha de Anton Michels e Angela Catharina Arend |
 | **G5 (Trisavós Maternos)** | **Lohmann — Endres** | **Francisco Jacob Lohmann** & **Miguelina Leocádia Endres** | Francisco: * 20/11/1889 † 24/01/1975 <br/> Miguelina: * 09/12/1891 | Arroio do Meio / Estrela, RS (*Cemitério de Arroio do Meio / Estrela, RS*) | Casados em 05/09/1914 (`G2M8-ZQ3` & `G2ML-18M`); pais de 12 filhos (incluindo Oma Rosita, Tio Urbano, Tio Armando, Tia Sunta e Tio Arlindo) |
@@ -258,13 +258,13 @@ A reconstrução documental do lado da esposa **Bárbara Funke Haas** (* 27/07/1
 
 ### 1. Ramo Haas — De Stoffen (Landsberg am Lech) a Sandberg / Leonberg (Maxhütte-Haidhof)
 - **Tataravós de Reinaldo (`G6 Tetravós` de Matheus e Lucas):** **Georg Haas** (*Ziegelknecht* — trabalhador de olaria/fábrica de telhas e tijolos em Stoffen) e **Maria Anna Albrecht**, residentes na aldeia de **Stoffen** (distrito de Landsberg am Lech, Alta Baviera, Diocese de Augsburg).
-- **Bisavô de Reinaldo (`G5 Trisavô`):** No livro batismal de Stoffen (*Taufbuch*, p. 35), consta o batismo em **20/05/1847** de **Joseph (Josef) Haas**, nascido em **19/05/1847 às 22h00 em Stoffen** (*apud Stoffen*), filho legítimo de Georg Haas e Maria Anna Albrecht, tendo como padrinho *Josephus Widmann, Söldnerssohn von Pitzling*. Na juventude, Josef Haas migrou para o polo siderúrgico de **Sandberg / Leonberg** (atual **Maxhütte-Haidhof**, distrito de Schwandorf, Alto Palatinado), onde trabalhou como operário fabril (*Fabrikarbeiter* na *Eisenwerk-Gesellschaft Maximilianshütte*) e casou-se com **Franziska Dengler**.
+- **Bisavô de Reinaldo (`G5 Trisavô`):** No livro batismal de Stoffen (*Taufbuch*, p. 35), consta o batismo em **19/05/1847** de **Joseph (Josef) Haas**, nascido em **19/05/1847 às 7h da manhã (*früh 7 Uhr*) em Stoffen**, casa nº 6, filho de Georg Haas (*Ziegelknecht*) e Maria Anna Albrecht, batizado no mesmo dia na igreja paroquial de Stoffen pelo pároco Bernhard Müller, tendo como padrinho **Joseph Burkhart, de Stoffen**. (Leitura revista em nov/2026: a transcrição anterior, "22h00, batismo em 20/05, padrinho Josephus Widmann", copiava a linha de cima da página, do menino Michael.) Na juventude, Josef Haas migrou para o polo siderúrgico de **Sandberg / Leonberg** (atual **Maxhütte-Haidhof**, distrito de Schwandorf, Alto Palatinado), onde trabalhou como operário fabril (*Fabrikarbeiter* na *Eisenwerk-Gesellschaft Maximilianshütte*) e casou-se com **Franziska Dengler**.
 - **Tios-avós de Reinaldo em Leonberg** (irmãos de **Johann Haas** * 11/07/1884, Reg. Civil nº 47/1884 do Standesamt Leonberg): **Josef Haas Jr.**, **Alois Haas**, **Georg Haas**, **Maria Haas**, **Franziska Haas** e **Therese Haas**. Além disso, antes de embarcar no vapor *Formosa* em março de 1913 com os filhos **Luisa Haas** (2 anos) e **Walter Haas** (1 ano), Johann Haas e Maria Meier perderam duas filhas pequenas na Alemanha: **Hildegart Haas** e **Frida Haas**.
 
 <p align="center">
   <img src="imagens/batismo_joseph_haas_1847_stoffen.png" width="90%" alt="Assento de Batismo de Joseph Haas em Stoffen (19/05/1847)" />
 </p>
-<p align="center"><i>Registro paroquial original de batismo de <b>Joseph (Josef) Haas</b> (* 19/05/1847, batizado em 20/05/1847 em Stoffen, Landsberg am Lech, Baviera), filho dos tataravós <b>Georg Haas (Ziegelknecht)</b> e <b>Maria Anna Albrecht</b>.</i></p>
+<p align="center"><i>Registro paroquial original de batismo de <b>Joseph (Josef) Haas</b> (* 19/05/1847, batizado no mesmo dia em Stoffen, Landsberg am Lech, Baviera), filho dos tataravós <b>Georg Haas (Ziegelknecht)</b> e <b>Maria Anna Albrecht</b>.</i></p>
 
 ### 2. Ramo Meier & Voit — Heumaden, Rückersrieth e Burgtreswitz (Paróquia de Moosbach, Alto Palatinado)
 - **Tataravós de Reinaldo (`G6 Tetravós` de Matheus e Lucas):**
@@ -278,7 +278,7 @@ A reconstrução documental do lado da esposa **Bárbara Funke Haas** (* 27/07/1
 ## 📜 O Caso Carlos Reinhard Dörner (* 1854) e o Manuscrito de Casamento com Hulda Peters (29/04/1900)
 
 A investigação documental esclareceu em definitivo a dúvida familiar sobre se o bisavô **Carl Reinhard (Carlos) Dörner** (* 20/11/1854 em Solingen, Prússia) teria sido bígamo ou trígamo: **ele jamais foi bígamo ou trígamo, mas sim viúvo que contraiu segundas núpcias legítimas e teve 15 filhos ao todo!**
-- **1º Casamento (~1879/1880):** Com **Anna Eller** (* 1858 no RS – † ~1897–1899 em São Martinho/Capivari, SC, logo após o nascimento do caçula **Fernando Dörner** em 24/08/1897), com quem teve **10 filhos** (*Carlos Filho, Guilhermina, Adolfo, Bertha, Maria, Guilherme, Augusto, Anna, Germano e Fernando*).
+- **1º Casamento (~1879/1880):** Com **Anna Eller** (* c. 1858–1860, provavelmente na Vestfália; o "1858 no RS" do FamilySearch é gerado automaticamente – † ~1897–1899 em São Martinho/Capivari, SC, logo após o nascimento do caçula **Fernando Dörner** em 24/08/1897), com quem teve **10 filhos** (*Carlos Filho, Guilhermina, Adolfo, Bertha, Maria, Guilherme, Augusto, Anna, Germano e Fernando*).
 - **2º Casamento (29/04/1900 — Assento nº 23, Capela de São José em Capivari / São Ludgero, SC):** Com **Hulda Peters (Petersen)** (* 20/08/1870 em Capivari, batizada em 05/12/1870 em Teresópolis/Águas Mornas, filha de **João Peters / Johann Heinrich Theodor Peters** e **Paulina Büchner**), com quem teve mais **5 filhos** (*Laura, Clara, Carlos Jr., Ida e Ricardo Dörner*).
 
 <p align="center">

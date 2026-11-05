@@ -10,15 +10,15 @@ Para os ramos Doerner, Preiss, Michels, Arend e Loch, usei os registros reunidos
 
 Para os ramos de Bárbara — Lohmann, Schnack, Endres, Hoeveler e Funke —, usei o acervo fotográfico da família e os registros do FamilySearch. Somam-se a eles os dossiês da CAPEF de Estrela sobre as famílias fundadoras e a história da Fazenda Lohmann, em Roca Sales. Por fim, há as reportagens e homenagens ao Dr. Carlos Heinz Funke, em Joinville, e o perfil topográfico e hidrológico da Casa Lohmann, em Palmas, Arroio do Meio.
 
-Quase todos esses materiais estão no repositório digital da árvore genealógica, que acompanha este livro. As exceções são os que pertencem a terceiros e a planilha de Agenor, que contém dados de parentes vivos e fica no arquivo privado da família. No repositório está também a lista completa das perguntas ainda abertas, com os arquivos onde procurar cada resposta (`docs/questoes_pesquisa_antigravity.md`).
+Quase todos esses materiais estão no repositório digital da árvore genealógica, que acompanha este livro. As exceções são os que pertencem a terceiros e a planilha de Agenor, que contém dados de parentes vivos e fica no arquivo privado da família. No repositório está também a lista completa das perguntas ainda abertas, com os arquivos onde procurar cada resposta (`docs/questoes_pesquisa_antigravity.md`). As respostas a essas perguntas, levantadas com ajuda de um assistente de pesquisa, estão em `docs/respostas_pesquisa_antigravity.md`. Usei delas só o que consegui conferir nos registros do FamilySearch ou nas próprias imagens. Ao conferir, encontrei também leituras de certidões com detalhes que a imagem não traz, como a hora e o médico do óbito de Gertrudes Preiss, trocados com os do termo vizinho. Por isso, aquele documento deve ser lido como um mapa de pistas, não como fonte.
 
 ### Enigmas que ficam para a próxima geração
 
-**Gertrudes.** O manifesto do *Formosa* lista Johann (28), Marie (25), Luisa (2) e Walter (1), e nenhuma Gertrudes. A planilha de Agenor faz Gertrudes nascer na Alemanha, em 22 de outubro de 1911; a tradição a faz nascer em Laguna, em 5 de maio de 1913. Nenhuma das duas datas tem ainda documento.
+**Gertrudes.** Resolvido em parte: foi batizada em Teresópolis em 23 de novembro de 1913, filha de Johann Haas e Maria Meyer, e o perfil dela dá o nascimento em 5 de maio de 1913, em Anitápolis. Falta a certidão de nascimento, que fixaria o lugar.
 
 **Luisa e Walter.** Chegaram vivos ao Rio e morreram em Rio do Ouro, Anitápolis. Anos depois, os irmãos foram buscar seus restos para Ituporanga, onde Walter está sepultado. Faltam as datas das mortes e do traslado.
 
-**De onde a família entrou em Santa Catarina.** Laguna, segundo a tradição; Florianópolis, onde Agenor procurou. Os livros da Hospedaria da Ilha das Flores devem dizer.
+**De onde a família entrou em Santa Catarina.** Laguna, segundo a tradição; Florianópolis, onde Agenor procurou e para onde aponta o batismo de Gertrudes em Teresópolis. Os livros da Hospedaria da Ilha das Flores, no Arquivo Nacional, devem dizer.
 
 **As datas da viagem.** A foto de despedida diz 7 de março de 1913, e o manifesto foi assinado no Rio em 26 de março. A planilha anota a saída em 13 de março e a chegada em 26 de abril. Falta também o registro do desembarque em Santa Catarina.
 
@@ -28,11 +28,15 @@ Quase todos esses materiais estão no repositório digital da árvore genealógi
 
 **Ignazia Loch.** A data de 1828, em São Pedro de Alcântara, é anterior à fundação da colônia, e por isso tem de ser aproximada.
 
-**O casamento de 1900.** A imagem do assento e a transcrição guardada pela família divergem no celebrante, nas testemunhas e na menção à dispensa de religião mista. É provável que existam duas vias do mesmo ato.
+**O Fata presbítero.** Na tradição católica, presbítero é o padre. O mais provável é que o Fata tenha sido fabriqueiro ou membro da diretoria da capela. O livro do tombo da paróquia de Ituporanga deve dizer, assim como as datas das igrejas, da casa paroquial, do seminário e do hospital em que os Haas trabalharam.
 
-**Carlos Doerner.** O FamilySearch funde numa só ficha ("Carl Reinhard Dörner", Solingen, 1854) três ou quatro homens: Carlos, que teve duas certidões de nascimento; o filho dele, Carlos Reinaldo; e talvez primos homônimos, filhos dos irmãos de Guilherme. O que é seguro vem do assento de 1900: filho de Guilherme Dörner e Joanna Lauterjung, nascido na Europa por volta de 1854.
+**O casamento de 1900.** A imagem do assento e a transcrição guardada pela família divergem no celebrante, nas testemunhas e na menção à dispensa de religião mista. É provável que existam duas vias do mesmo ato. Um ato de Hulda Peters em São Ludgero, na véspera, sugere que ela foi recebida na Igreja Católica para casar; falta ver a página.
 
-**Fernando Dörner em Vidal Ramos.** As milícias de que participou, o conflito de terras em que ficou contra os outros colonos, as prisões que se seguiram e as datas da mudança para Brusque estão, por ora, só no que ele me contou. E não há uma fotografia dele.
+**Carlos Doerner.** O FamilySearch funde numa só ficha ("Carl Reinhard Dörner", Solingen, 1854) três ou quatro homens: Carlos, que teve duas certidões de nascimento; o filho dele, Carlos Reinaldo (1882–1953); e um homônimo casado em 1893, em Águas Mornas, com Charlotte Elisabetha Stock, talvez primo. O que é seguro vem do assento de 1900: filho de Guilherme Dörner e Joanna Lauterjung, nascido na Europa por volta de 1854. Os filhos do segundo casamento lembrados pela família (Laura, Clara, Carlos Júnior, Ida, Ricardo) não coincidem com os dos índices (Bertha, Joanna, Emma, João, Gustavo, Martinho).
+
+**Anna Eller.** O nascimento "em 1858, no Rio Grande do Sul" é um dado gerado pelo FamilySearch, sem fonte. Os irmãos nasceram na Alemanha (1860) e em São Bonifácio (1866 e 1869). Falta o batismo dela.
+
+**Fernando Dörner em Vidal Ramos.** Os registros dos filhos situam a família em Vidal Ramos de 1929 ou 1930 até pelo menos 1948. As milícias de que participou, o conflito de terras em que ficou contra os outros colonos, as prisões que se seguiram e a data da mudança para Brusque estão, por ora, só no que ele me contou. Se foram as *Seleções* em português que o fizeram mudar de lado, a mudança é de 1942 ou depois. Os prontuários da polícia política de Santa Catarina estão no Arquivo Público do Estado, e não há ainda uma fotografia dele.
 
 **Os doze filhos de Francisco Jacob Lohmann.** As datas de nascimento e as grafias dos nomes não fecham entre si.
 

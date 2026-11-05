@@ -351,12 +351,12 @@ Cada Parte abre com uma página no formato de um boletim de previsão — o leit
 - **Abertura:** o som de martelo em bigorna — **Solingen**, cidade das lâminas.
 - **Beats:**
   1. **Solingen, Província do Reno (Prússia):** **Guilherme (Wilhelm) Dorner** e **Joanna Lauterjung** — sobrenome ligado às guildas de cuteleiros — e **Carl Reinhard (Carlos) Doerner** (*20/11/1854).
-  2. **Da Vestfália ao Rio Grande do Sul:** o batismo de **Franz Adam Eller** (03/03/1832), a vinda com **Anna Maria Knopker** ao RS (nasce **Anna Eller**, 1858) e a migração para o sul catarinense (Imaruí, São Martinho).
+  2. **Da Vestfália a São Bonifácio:** o batismo de **Franz Adam Eller** (03/03/1832), a vinda com **Anna Maria Knopker** para as colônias de Teresópolis e São Bonifácio na década de 1860 (irmãos de Anna nascidos na Alemanha em 1860 e em São Bonifácio em 1866 e 1869); o "1858, RS" do FamilySearch é dado gerado e foi abandonado (nov/2026).
   3. **O mito da bigamia/trigamia desfeito pelo manuscrito de 1900:** Carlos Doerner e Anna Eller têm **10 filhos**, culminando no caçula **Fernando Dörner** (*24/08/1897 em São Martinho). Após enviuvar de Anna Eller (~1898), Carlos casa-se legitimamente em segundas núpcias em **29 de abril de 1900**, na Capela de São José em Capivari (Assento nº 23, Pe. Francisco Auling, `casamento_carlos_doerner_hulda_peters_1900.png`), aos 45 anos, com **Hulda Peters (Petersen)** (*20/08/1870, 29 anos, filha de João Peters e Paulina Büchner), com quem tem mais **5 filhos** (*Laura, Clara, Carlos Jr., Ida e Ricardo* — 15 filhos ao todo!).
   4. O casamento de **Fernando Dörner** com **Gertrudes Preiss** — o ponto em que todas as correntes da Parte III se fundem.
   5. **Viagens de reencontro (set. 2012):** a família no **Rio Grande do Sul** e a **Festa da Família Doerner**.
   6. As certidões e o Cemitério Parque da Saudade em **Brusque**: **Gertrudes Preiss Doerner** (†1970) e **Fernando Dörner** (†1981) — pais de Dona Adelina. Fecho emocional: a filha deles, Adelina, é a mulher que gravou o vídeo do Cap. 1.
-- **Imagem atmosférica:** o minuano gaúcho — o vento que os Eller conheceram antes de subir para Santa Catarina.
+- **Imagem atmosférica:** a modificação das massas de ar — o que a família perde e conserva ao atravessar o oceano. (O minuano dos Eller foi retirado: não há prova de passagem pelo RS.)
 - **Âncora documental:** `casamento_carlos_doerner_hulda_peters_1900.png`, `doc_doerner_obito_fernando_1981.jpg`, `doc_doerner_obito_gertrudes_preiss_1970.jpg`.
 - **Gancho:** fecho da linhagem paterna — *"Do lado do meu pai e da minha mãe, já tínhamos quatro séculos de vento. Faltava a outra metade dos meus filhos."*
 

@@ -56,7 +56,13 @@ O que o papel não diz é o que veio depois. Os recém-chegados passavam, em ger
 
 ### Gertrudes
 
-O mesmo vale para o nascimento de Gertrudes. A tradição diz que ela nasceu em 5 de maio de 1913, no Barracão dos Imigrantes de Laguna. A planilha do primo Agenor diz que nasceu na Alemanha, em 22 de outubro de 1911, e veio no navio. O manifesto não traz nenhuma Gertrudes a bordo, e isso torna a data de 1911 difícil de sustentar: uma menina de dezesseis meses estaria na lista, como estão as crianças de um ano da mesma página. Mas a data e o lugar de 1913 também não têm, por enquanto, nenhum papel que os confirme. Que Maria viajou grávida é o que a tradição diz, e é provável se Gertrudes nasceu em 1913; mas nem isso está documentado. O batismo e o registro civil de Gertrudes, onde quer que estejam, vão decidir a questão.
+O mesmo vale para o nascimento de Gertrudes. A tradição diz que ela nasceu em 5 de maio de 1913, no Barracão dos Imigrantes de Laguna. A planilha do primo Agenor diz que nasceu na Alemanha, em 22 de outubro de 1911, e veio no navio. O manifesto não traz nenhuma Gertrudes a bordo, e isso já tornava a data de 1911 difícil de sustentar: uma menina de dezesseis meses estaria na lista, como estão as crianças de um ano da mesma página.
+
+O papel que faltava apareceu nos índices de registros católicos de Santa Catarina. Gertrud, filha de Johann Haas e Maria Meyer, foi batizada em 23 de novembro de 1913 na paróquia de Teresópolis, hoje Águas Mornas, que atendia o núcleo colonial de Anitápolis. O perfil dela no FamilySearch dá o nascimento em 5 de maio de 1913, em Anitápolis. A data da tradição estava certa; o lugar, provavelmente não. Gertrudes nasceu cerca de seis semanas depois da chegada ao Rio, e Maria, portanto, viajou grávida, como a família sempre contou. Gertrudes cresceu, casou em maio de 1932 em Ituporanga com Augusto Sebold, filho de colonos de Teresópolis, e foi com ele para o norte do Paraná. Morreu em 23 de junho de 1997, em Pindauvinha, no município de Ivaiporã.
+
+::: ficha
+**Ficha do Arquivo** — Batismo de Gertrud Haas, filha de Johann Haas e Maria Meyer, em 23/11/1913, paróquia de Teresópolis (SC): "Brasil, Santa Catarina, Registros da Igreja Católica, 1714–1977", FamilySearch, ark:/61903/1:1:QPQC-X62B. Casamento com Augusto Sebold: religioso em 07/05/1932 e civil em 09/05/1932, Ituporanga ("Brasil, Santa Catarina, Registro Civil, 1850–1999", ark:/61903/1:1:X9B4-G1T4). A data de nascimento (05/05/1913, Anitápolis) e a de óbito (23/06/1997, Pindauvinha, Ivaiporã, PR) vêm do perfil G8P8-X9D, ainda sem certidão anexada.
+:::
 
 ### Onde estão Luisa e Walter
 
@@ -66,7 +72,7 @@ Baldoíno me contou que foi com os irmãos a Anitápolis buscar os restos dos ir
 
 "Lina" é, muito provavelmente, a Luisa da lista de bordo, com o nome de casa; "Valter" é o Walter escrito à brasileira. Ainda não sei as datas das mortes, nem o ano do traslado, nem em que inverno nevou na serra para meu pai ver. Mas a história agora se apoia em três pernas: um documento de bordo, uma planilha montada com cuidado e o relato de quem carregou os restos. Já não depende de uma frase escrita para uma festa.
 
-O resto continua em aberto. A data de partida que Agenor anotou, 13 de março, não combina com a fotografia de 7 de março nem com a chegada ao Rio no dia 26. O dia 26 de abril, também anotado por ele, talvez seja o da chegada a Santa Catarina; talvez não. Essas perguntas estão listadas, uma a uma, no fim deste livro, para quem quiser procurar.
+O resto continua em aberto. A data de partida que Agenor anotou, 13 de março, não combina com a fotografia de 7 de março nem com a chegada ao Rio no dia 26. A fotografia pode marcar a despedida em casa, e não o embarque em Marselha; a viagem de trem até a França levava dias. O dia 26 de abril, também anotado por ele, cai exatamente um mês depois da chegada ao Rio: pode ser a chegada a Santa Catarina, depois da hospedaria e do navio costeiro, ou um simples erro de mês. O batismo de Gertrudes em Teresópolis sugere que a família subiu para Anitápolis pelo caminho de Florianópolis, Palhoça e Teresópolis, e não por Laguna; mas a lista do navio costeiro ainda não foi encontrada. Essas perguntas estão listadas, uma a uma, no fim deste livro, para quem quiser procurar.
 
 ### Laguna, fevereiro de 2012
 
