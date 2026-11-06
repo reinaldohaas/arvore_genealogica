@@ -72,6 +72,6 @@ Anos de perguntas desembocaram naquele balcão. De onde, exatamente, vieram os q
 
 Não vou dizer agora. Gostaria que vocês chegassem lá do mesmo jeito que eu cheguei, passo a passo, sem atalhos.
 
-No fim do livro estão os mapas e as duas árvores da família, com as datas de cada um. Sugiro que vocês só olhem as árvores depois de ler, para não estragar as surpresas.
+No fim do livro estão as árvores da família, com as datas de cada um. Sugiro que vocês só olhem as árvores depois de ler, para não estragar as surpresas.
 
 Para chegar até ali foi preciso, primeiro, ouvir. Comecei, como todo meteorologista, pela estação mais próxima, aquela cujos dados conhecemos melhor e em que mais confiamos: a casa dos meus pais, em Vidal Ramos.
