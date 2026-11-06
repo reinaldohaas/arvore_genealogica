@@ -47,6 +47,11 @@ Você vai procurar, em fontes de arquivo, as datas e os nomes que faltam na árv
 - **Rio Grande do Sul:** Arquivo Público do RS (registros civis e inventários); Arquivo Histórico da IECLB, em São Leopoldo; Museu Histórico Visconde de São Leopoldo; cartórios de Estrela, Lajeado e Arroio do Meio. Prioridades: os pais de Miguelina Leocádia Endres; os Hoeveler (Walter, Frida e a data correta de nascimento de Erno, 1915 ou 1920); e o casamento de Friedrich Lohmann e Suzana Regina Schnack.
 - **Navios:** Arquivo Nacional, para as listas de entrada e a Hospedaria da Ilha das Flores.
 
+## Duas perguntas específicas sobre Johann Haas
+
+1. **A emigração de 1913.** O autor ouviu do pai que os Haas saíram por Marselha porque o governo alemão, prevendo a guerra, proibiu as emigrações em 1913. Procure a legislação e os estudos da época: houve proibição geral ou restrições aos homens sujeitos ao serviço militar? Em que datas, em que estados (Baviera, Saxônia)? Havia controle de emigrantes alemães em portos estrangeiros? Johann tinha 28 anos em março de 1913. Procure também qualquer autorização de saída ou registro militar dele, em Munique (Kriegsarchiv), Amberg e Dresden.
+2. **O registro de estrangeiro no Brasil.** O autor conta que Johann, como estrangeiro, ia de tempos em tempos à Polícia Federal se registrar. Procure as fichas e os processos de registro de estrangeiro e uma eventual naturalização: Arquivo Nacional, Polícia Federal em Santa Catarina, Arquivo Público de SC. Liste também o que dizem as leis alemãs de nacionalidade de 1870 e de 1913 sobre quem saiu antes de 1914, citando o texto legal, sem dar parecer sobre o direito da família à cidadania.
+
 ## Prioridades
 
 1. As gerações mais próximas, antes das mais antigas: geração 2, 3, 4 e assim por diante, como em `docs/lacunas_arvore.md`.
