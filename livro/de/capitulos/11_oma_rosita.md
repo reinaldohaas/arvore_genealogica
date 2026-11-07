@@ -64,6 +64,22 @@ Pirabeiraba, wo die Schule und die Gesundheitsstation mit seinem Namen stehen, i
 
 *Es ist seltsam, den Namen des eigenen Vaters auf einem Schild zu sehen. Man wächst auf und nennt einen Menschen Papa, der für die anderen der Doktor war. Nachdem er gestorben war (ich war damals ein Teenager), ging sein Name an eine Schule und an eine Gesundheitsstation und gehörte nicht mehr nur uns. Heute denke ich, dass auch das eine Art Erbe ist: zu wissen, dass die Arbeit eines Menschen weiter genützt hat, nachdem er gegangen war, an Orten, an denen keiner von uns war.*
 
+Dr. Carlos Heinz wäre übrigens um ein Haar im Deutschland Hitlers geboren worden. Die Geschichte wird in Bárbaras Familie erzählt, und ich halte sie so fest, wie sie mich erreicht hat.
+
+### Der Weinkeller von 1939
+
+*Sachsen und Joinville, 1939*
+
+Im Jahr 1939 reisten Oscar Martin Funke und seine Frau, die Oma Dora, nach Deutschland. Oscar war 1910 in Glauchau in Sachsen geboren und als Junge nach Joinville gekommen; er war immer noch Deutscher. Dora war Brasilianerin, 1914 in Joinville geboren, und Bárbaras Familie bewahrt über sie einen Satz, den ich nicht verbessern will: Sie hatte die schönsten Beine von Blumenau. In jenem Jahr war sie mit ihrem ersten Kind schwanger.
+
+Im Haus der Verwandten lud jemand Oscar ein, mit ihm in den Keller zu gehen und einen Wein auszusuchen. Der Wein war der Vorwand. Unten, wo niemand mithörte, sagte der Verwandte, was man in der Stube nicht laut sagen durfte: Hitler sei schrecklich, der Krieg komme, und sie müssten versuchen, sofort nach Brasilien zurückzukehren. Ein Mann von neunundzwanzig Jahren, Deutscher, im wehrpflichtigen Alter, wäre eingezogen worden, wenn er geblieben wäre.
+
+Die Rückkehr war nicht einfach. Damit Oscar Deutschland verlassen konnte, brauchte es die Hilfe des brasilianischen Konsuls, der ihm eine Genehmigung ausstellte. Und im Hafen wurde um die Plätze auf dem Schiff gestritten, in einer Zeit, in der viele weg wollten. Nach der Überlieferung der Familie war es der Charme der Oma Dora, der die Sache entschied. Schwanger, schön und Brasilianerin, bekam sie die Plätze.
+
+Carlos Heinz Funke kam am 10. August 1939 in Joinville zur Welt. Drei Wochen später, am 1. September, überfiel Deutschland Polen, und der Zweite Weltkrieg begann. Wäre der Verwandte nicht in den Weinkeller gegangen, hätte der Konsul nein gesagt, hätte die Oma Dora am Kai niemanden überzeugt, dann wäre der Schwiegervater, den ich nie kennengelernt habe, im Sachsen des Krieges geboren worden, als Sohn eines Soldaten.
+
+Ich kann diese Geschichte nicht lesen, ohne an die andere Seite der Familie zu denken. 1913 verließen der Fata und die Mota Deutschland ein Jahr vor dem Ersten Weltkrieg, durch die Tür von Marseille, als die Auswanderung nach den Worten meines Vaters schon versperrt war. 1939 verließen die Funke Deutschland wenige Wochen vor dem Zweiten, mit der Hilfe eines Konsuls. Und beide Familien bewahrten dasselbe Bild eines Kellers, in dem man die Wahrheit sagen konnte: den Keller in Ituporanga, in dem der Fata während des Krieges Radio hörte (Kapitel 7), und den Weinkeller in Sachsen, in dem ein Verwandter sagte, es sei Zeit zu gehen.
+
 ### Der Lehrer von Nova Petrópolis
 
 Von der Seite von Bárbaras Mutter ist das älteste Foto, das ich habe, das einer Schule. Auch dieses ist eine Reproduktion: ein kleines Schwarzweißfoto, auf einen rosafarbenen Stoff gelegt und von oben fotografiert. Darauf stehen etwa vierzig Schüler in Reihen vor einem Gebäude, die vorderen in der Hocke, die hinteren stehend, fast alle in weißem Hemd oder weißer Bluse, die Mädchen mit dunklem Rock. In der Mitte, im dunklen Anzug, ein erwachsener Mann. Dahinter etwas, das wie eine Fahne aussieht. Es ist Opa Erno Hoeveler, euer Urgroßvater, Lehrer.
@@ -115,5 +131,6 @@ In der Ordnung des Buches erzähle ich diese Reise jetzt, nach Rositas Tod. In d
 - Wann und warum kamen die Funke aus Glauchau nach Joinville? Sind sich die Funke und die Haas vor 1913 in Sachsen begegnet?
 - Wer ist die junge Frau im blauen Kleid auf dem Foto aus der Garage? Fragt eure Mutter und eure Tanten.
 - Auf dem alten Bild der Familie von Oma Dora habe ich neun Kinder gezählt; beim Fest am 22. Januar 1983 sind Dora und sieben weitere zu sehen. Fehlte eines der Geschwister, oder habe ich mich verzählt? Bárbara und ihre Schwestern sind die Ersten, die ihr fragen solltet.
+- Wer ging 1939 mit Oscar in den Weinkeller, und in welcher Stadt? War es Glauchau, wo er geboren wurde? Mit welchem Schiff kehrte das Paar zurück, und was stand in der Genehmigung des brasilianischen Konsuls? Fragt in Bárbaras Familie, ob jemand den Reisepass oder die Schiffskarte aufbewahrt hat.
 - Wo und wie haben sich Carlos Heinz Funke und Ilusca kennengelernt? Das Universitätsleben in Porto Alegre ist nur eine Hypothese von mir.
 - Wer ist der Neffe, der die Geige aus dem Pfandhaus bekam, als Ilusca heiratete, und wo ist diese Geige heute?

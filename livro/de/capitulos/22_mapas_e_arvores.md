@@ -16,4 +16,6 @@ Die Baumdiagramme sind portugiesisch beschriftet: „n." bedeutet geboren, „ba
 
 ![Vorfahren von Oscar Martin Funke und Dora Marta Aenishaenslin.](imagens/arvore_06.png){width=100%}
 
-![Vorfahren von Erno Hoeveler und Rosita Érica Lohmann.](imagens/arvore_07.png){width=100%}
+![Vorfahren von Erno Hoeveler.](imagens/arvore_07.png){width=100%}
+
+![Eltern der Oma Rosita: Vorfahren von Francisco Jacob Lohmann und Miguelina Leocádia Endres.](imagens/arvore_08.png){width=100%}

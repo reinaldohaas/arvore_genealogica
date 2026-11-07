@@ -1,4 +1,4 @@
-# Lacunas e incoerências da árvore (102 pessoas em 7 árvores)
+# Lacunas e incoerências da árvore (102 pessoas em 8 árvores)
 
 Gerado por `scripts/arvore_livro.py`. Pessoas vivas ficam de fora.
 

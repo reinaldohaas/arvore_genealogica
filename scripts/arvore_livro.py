@@ -355,12 +355,22 @@ def desenha(raiz, n, destino, titulo, nivel=2):
 # ------------------------------------------------------------------ páginas em paisagem
 # Tamanho real da mancha do livro (15,5 x 23 cm) virada em paisagem, descontada a legenda:
 # a figura é desenhada nesse tamanho, para que as letras saiam no corpo em que foram escolhidas.
-PAG_W, PAG_H = 7.35, 4.05
+PAG_W, PAG_H = 7.35, 4.15
 
 
 def linhas_compactas(p, larg_chars):
     out = []
-    for l in textwrap.wrap(p.nome, larg_chars):
+    if p.continua:
+        # quem continua em outra árvore aparece aqui só com nome e datas
+        for l in textwrap.wrap(p.nome, int(larg_chars * 0.86)):
+            out.append((l, TINTA, "bold"))
+        datas = " · ".join(x for x in ((f"n. {p.b}" if p.b else ""), (f"† {p.d}" if p.d else "")) if x)
+        if datas:
+            out.append((datas, TINTA, "normal"))
+        c = p.continua
+        out.append((f"continua na árvore {c}" if isinstance(c, int) else f"continua nas árvores {c}", SEGUE, "bold"))
+        return out
+    for l in textwrap.wrap(p.nome, int(larg_chars * 0.86)):
         out.append((l, TINTA, "bold"))
     if p.b or p.pl:
         pre = "bat." if p.bat else "n."
@@ -373,12 +383,12 @@ def linhas_compactas(p, larg_chars):
         txt = "† " + ", ".join(x for x in (p.d, p.dpl) if x)
         out += [(l, TINTA, "normal") for l in textwrap.wrap(txt, larg_chars)]
     if p.arr:
-        out += [(l, NAVIO, "bold") for l in textwrap.wrap("chegou: " + p.arr, larg_chars)]
+        out += [(l, NAVIO, "bold") for l in textwrap.wrap("chegou: " + p.arr, int(larg_chars * 0.86))]
     if p.nota:
         out += [(l, TINTA, "italic") for l in textwrap.wrap(p.nota, larg_chars)]
-    if len(p.pais) == 2:
+    if len(p.pais) == 2 and not p.continua:
         if p.casamento_real:
-            out += [(l, CASA, "bold") for l in textwrap.wrap("pais ∞ " + p.casamento, larg_chars)]
+            out += [(l, CASA, "bold") for l in textwrap.wrap("pais ∞ " + p.casamento, int(larg_chars * 0.86))]
     if p.continua:
         c = p.continua
         txt = f"continua na árvore {c}" if isinstance(c, int) else f"continua nas árvores {c}"
@@ -388,7 +398,7 @@ def linhas_compactas(p, larg_chars):
     return out
 
 
-def desenha_pagina(raizes, n, destino, titulo):
+def desenha_pagina(raizes, n, destino, titulo, so_testa=False):
     """Uma página em paisagem com uma ou duas raízes empilhadas, até a geração GER_MAX."""
     def prof(r):
         return GER_MAX - r.ger
@@ -405,13 +415,13 @@ def desenha_pagina(raizes, n, destino, titulo):
         visita(r, 0, prof(r))
         nf += len(folhas(r, 0, prof(r)))
     cols = max(d for _, d in todos) + 1
-    margem, topo, gap, folga = 0.03, 0.30, 0.10, 0.035
+    margem, topo, gap, folga = 0.03, 0.03, 0.10, 0.035
     col_w = (PAG_W - 2 * margem - (cols - 1) * gap) / cols
     util = PAG_H - topo - 0.02
 
     def tenta(fs):
         lh = fs * 1.22 / 72
-        chars = max(14, int((col_w - 0.08) * 72 / (fs * 0.62)))
+        chars = max(14, int((col_w - 0.08) * 72 / (fs * 0.58)))
         alt = {id(q): 0.045 + lh * len(linhas_compactas(q, chars)) for q, _ in todos}
         pos, cur = {}, [PAG_H - topo]
 
@@ -439,16 +449,19 @@ def desenha_pagina(raizes, n, destino, titulo):
                 if t2 > b1 - 0.01:
                     ok = False
         return ok, lh, chars, alt, pos
-    for fs in [7.6, 7.3, 7.0, 6.7, 6.4, 6.1, 5.9, 5.7, 5.5, 5.3, 5.1]:
+    for fs in [7.6, 7.3, 7.0, 6.7, 6.4, 6.1, 5.9, 5.7, 5.5]:
         ok, lh, chars, alt, pos = tenta(fs)
         if ok:
             break
+    if so_testa:
+        return ok
+    if not ok:
+        print("  aviso: a árvore", n, "não coube inteira na página")
     fig = plt.figure(figsize=(PAG_W, PAG_H))
     ax = fig.add_axes([0, 0, 1, 1])
     ax.set_xlim(0, PAG_W)
     ax.set_ylim(0, PAG_H)
     ax.axis("off")
-    ax.text(margem, PAG_H - 0.03, f"Árvore {n}: {titulo}", fontsize=9.5, fontweight="bold", color=TINTA, va="top")
     for x, y, p, d, pr in pos.values():
         h = alt[id(p)]
         ax.add_patch(FancyBboxPatch((x, y - h / 2), col_w, h, boxstyle="round,pad=0,rounding_size=0.03",
@@ -472,35 +485,48 @@ def _folhas(p):
     return [p] if not p.pais else [q for x in p.pais for q in _folhas(x)]
 
 
+def cabe(raizes):
+    return desenha_pagina(raizes, 0, None, "", so_testa=True)
+
+
 def paginas_paisagem(raiz):
     """Página 1: os meninos até os bisavós. Depois, os ramos de cada casal de bisavós,
-    até a 7ª geração; um ramo grande demais é dividido entre o pai e a mãe."""
-    LIM = 12
+    até a 7ª geração. Um ramo que não cabe numa página com letra legível é dividido:
+    primeiro entre os dois bisavós, depois entre o pai e a mãe de cada um."""
     paginas = [([raiz], "Matheus e Lucas, até os bisavós", raiz, 3)]
     destino = {}
+
+    def nome(x):
+        return x.nome.split(",")[0]
+
+    def poe(b):
+        if cabe([b]):
+            paginas.append(([b], f"antepassados de {nome(b)}", None, None))
+            destino[id(b)] = [len(paginas)]
+            return
+        if len(b.pais) == 2 and cabe(b.pais):
+            paginas.append((list(b.pais), f"pais de {nome(b)}: antepassados de {nome(b.pais[0])} e {nome(b.pais[1])}", None, None))
+            destino[id(b)] = [len(paginas)]
+            return
+        destino[id(b)] = []
+        for q in b.pais:
+            if q.pais:
+                rel = "pai" if q is b.pais[0] else "mãe"
+                paginas.append(([q], f"{rel} de {nome(b)}: antepassados de {nome(q)}", None, None))
+                destino[id(b)].append(len(paginas))
+
     for pai in raiz.pais:
         for avo in pai.pais:
             casal = [b for b in avo.pais if b.pais]
             if not casal:
                 continue
-            total = sum(len(_folhas(b)) for b in casal)
-            if total <= LIM:
-                nomes = " e ".join(b.nome.split(",")[0] for b in casal)
-                paginas.append((casal, f"antepassados de {nomes}", None, None))
+            if len(casal) == 2 and cabe(casal):
+                paginas.append((casal, f"antepassados de {nome(casal[0])} e {nome(casal[1])}", None, None))
                 for b in casal:
                     destino[id(b)] = [len(paginas)]
             else:
                 for b in casal:
-                    if len(_folhas(b)) <= LIM:
-                        paginas.append(([b], f"antepassados de {b.nome.split(',')[0]}", None, None))
-                        destino[id(b)] = [len(paginas)]
-                    else:
-                        destino[id(b)] = []
-                        for q in b.pais:
-                            if q.pais:
-                                rel = "pai" if q is b.pais[0] else "mãe"
-                                paginas.append(([q], f"{rel} de {b.nome.split(',')[0]}: antepassados de {q.nome.split(',')[0]}", None, None))
-                                destino[id(b)].append(len(paginas))
+                    poe(b)
     for pai in raiz.pais:
         for avo in pai.pais:
             for b in avo.pais:

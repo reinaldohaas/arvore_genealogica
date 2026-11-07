@@ -1,0 +1,130 @@
+# tipo | entrada no índice | formas procuradas no texto (separadas por ;)
+# Gerado a partir da árvore; pode ser editado à mão. Pessoas vivas ficam de fora.
+lugar | Alto Palatinado | Alto Palatinado; Oberpfalz
+lugar | Anitápolis | Anitápolis
+lugar | Arroio do Meio | Arroio do Meio
+lugar | Auerbach | Auerbach
+lugar | Aurora | Aurora
+lugar | Baviera | Baviera; Bayern
+lugar | Blumenau | Blumenau
+lugar | Braço do Norte | Braço do Norte
+lugar | Brusque | Brusque
+lugar | Burgtreswitz | Burgtreswitz
+lugar | Capivari | Capivari
+lugar | Chemnitz | Chemnitz
+lugar | Desterro | Desterro
+lugar | Dorfstadt | Dorfstadt
+lugar | Eibenstock | Eibenstock
+lugar | Estrela | Estrela
+lugar | Etzgersrieth | Etzgersrieth
+lugar | Falkenstein | Falkenstein
+lugar | Florianópolis | Florianópolis
+lugar | Glauchau | Glauchau
+lugar | Hameln | Hameln
+lugar | Harderode | Harderode
+lugar | Hermeskeil | Hermeskeil
+lugar | Heumaden | Heumaden
+lugar | Hunsrück | Hunsrück
+lugar | Imaruí | Imaruí
+lugar | Itajaí | Itajaí
+lugar | Ituporanga | Ituporanga
+lugar | Joinville | Joinville
+lugar | Laguna | Laguna
+lugar | Lajeado | Lajeado
+lugar | Leonberg | Leonberg
+lugar | Marselha | Marselha; Marseille
+lugar | Maxhütte-Haidhof | Maxhütte-Haidhof
+lugar | Moosbach | Moosbach
+lugar | Mosela | Mosela; Mosel
+lugar | Nova Petrópolis | Nova Petrópolis
+lugar | Ormalingen | Ormalingen
+lugar | Palmas | Palmas
+lugar | Picada Café | Picada Café
+lugar | Pirabeiraba | Pirabeiraba
+lugar | Pünderich | Pünderich
+lugar | Regensburg | Regensburg
+lugar | Reil | Reil
+lugar | Rempesgrün | Rempesgrün
+lugar | Ribeirão das Pacas | Ribeirão das Pacas
+lugar | Rio Novo | Rio Novo
+lugar | Rio de Janeiro | Rio de Janeiro
+lugar | Rio do Ouro | Rio do Ouro
+lugar | Rio do Sul | Rio do Sul
+lugar | Rückersrieth | Rückersrieth
+lugar | Sandberg | Sandberg
+lugar | Santa Isabel | Santa Isabel
+lugar | Saxônia | Saxônia; Sachsen
+lugar | Schweich | Schweich
+lugar | Solingen | Solingen
+lugar | Stoffen | Stoffen
+lugar | São Bonifácio | São Bonifácio
+lugar | São José | São José
+lugar | São Leopoldo | São Leopoldo
+lugar | São Ludgero | São Ludgero
+lugar | São Martinho | São Martinho
+lugar | São Pedro de Alcântara | São Pedro de Alcântara
+lugar | Tubarão | Tubarão
+lugar | Vargem Grande | Vargem Grande
+lugar | Vargem do Cedro | Vargem do Cedro
+lugar | Vestfália | Vestfália; Westfalen
+lugar | Vidal Ramos | Vidal Ramos
+lugar | Vogtland | Vogtland
+lugar | Águas Mornas | Águas Mornas
+lugar | Águas Negras | Águas Negras
+pessoa | Aenishaenslin, Dora Marta | Dora Marta Aenishaenslin; Oma Dora
+pessoa | Aenishaenslin, Jacques | Jacques Aenishaenslin
+pessoa | Arns, Angela Catharina | Angela Catharina Arns
+pessoa | Arns, Nikolaus | Nikolaus Arns
+pessoa | Dengler, Franziska | Franziska Dengler
+pessoa | Doerner, Adelina | Adelina Doerner
+pessoa | Dörner, Carlos | Carlos Dörner
+pessoa | Dörner, Fernando | Fernando Dörner; Opapa
+pessoa | Dörner, Guilherme | Guilherme Dörner
+pessoa | Eller, Anna | Anna Eller
+pessoa | Eller, Franz Adam | Franz Adam Eller
+pessoa | Endres, Miguelina Leocádia | Miguelina Leocádia Endres; Miguelina Endres
+pessoa | Funke, Carlos Heinz | Carlos Heinz Funke
+pessoa | Funke, Oscar Martin | Oscar Martin Funke
+pessoa | Funke, Paulo | Paulo Funke
+pessoa | Haas, Agenor | Agenor
+pessoa | Haas, Baldoíno | Baldoíno Haas
+pessoa | Haas, Johann | Johann Haas; Fata
+pessoa | Haas, Josef | Josef Haas
+pessoa | Haas, Luisa | Luisa
+pessoa | Haas, Michael | Michael Haas
+pessoa | Heckel, Walter | Walter Heckel
+pessoa | Hoeveler, Erno | Erno Hoeveler; Opa Erno; Vô Erno
+pessoa | Hoeveler, Walter | Walter Hoeveler
+pessoa | Knopker, Anna Maria | Anna Maria Knopker
+pessoa | Köhnlein, Susanna Charlotte | Susanna Charlotte Köhnlein
+pessoa | Lauterjung, Joanna | Joanna Lauterjung
+pessoa | Loch, Ignazia | Ignazia Loch
+pessoa | Lohmann, Francisco Jacob | Francisco Jacob Lohmann; Francisco Lohmann
+pessoa | Lohmann, Friedrich | Friedrich Lohmann
+pessoa | Lohmann, Georg Karl Maximilian | Georg Karl Maximilian Lohmann
+pessoa | Lohmann, Johann Friedrich Christian | Johann Friedrich Christian Lohmann
+pessoa | Lohmann, Rosita Érica | Rosita Érica Lohmann; Rosita Lohmann; Oma Rosita
+pessoa | Lourenço, Marise Haas | Marise
+pessoa | Meier, Georg Adam | Georg Adam Meier
+pessoa | Meier, Karl | Karl
+pessoa | Meier, Maria | Maria Meier; Mota
+pessoa | Meier, Michael | Michael Meier
+pessoa | Meier, Theresia | Theresia
+pessoa | Michels, Anton | Anton Michels
+pessoa | Michels, Helena | Helena Michels
+pessoa | Pfannenstein, Margaretha | Margaretha Pfannenstein
+pessoa | Preis, Bernard | Bernard Preis
+pessoa | Preis, Emanuel | Emanuel Preis
+pessoa | Preiss, Gertrudes | Gertrudes Preiss; Omama
+pessoa | Sautner, Martin | Martin Sautner; tio Martin; Onkel Martin
+pessoa | Schnack, Julius Georg | Julius Georg Schnack
+pessoa | Schnack, Peter Friedrich Ludwig | Peter Friedrich Ludwig Schnack
+pessoa | Schnack, Suzana Regina | Suzana Regina Schnack
+pessoa | Schrader, Sophie Dorothee Elizabeth | Sophie Dorothee Elizabeth Schrader
+pessoa | Simonis, Anna Margaretha | Anna Margaretha Simonis
+pessoa | Stadelmann, Kunigunde | Kunigunde Stadelmann
+pessoa | Voit, Franziska | Franziska Voit
+pessoa | Voit, Johann | Johann Voit
+pessoa | Wacker, Regine Marie | Regine Marie Wacker
+pessoa | Wingert, Bárbara | Bárbara Wingert
+pessoa | Woppmann, Barbara | Barbara Woppmann

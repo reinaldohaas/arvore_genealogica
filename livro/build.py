@@ -63,6 +63,8 @@ PARTES = [
 UI = {"lang": "pt-BR", "sumario": "Sumário", "anterior": "anterior", "proximo": "próximo",
       "parte": "Parte", "pdf": "Baixar PDF", "latex": "Código-fonte LaTeX",
       "repo": "Repositório da árvore", "figura": "Figura",
+      "idx_pessoas": "Índice de pessoas", "idx_lugares": "Índice de lugares",
+      "lista_figuras": "Lista de figuras", "sumario_livro": "Sumário", "capa": "capa_pt",
       "outra_lingua": ("de/index.html", "Deutsche Fassung"),
       "capa_alt": "Fotografia de despedida da família Haas antes da partida para o Brasil, 7 de março de 1913",
       "nota": "Versão de trabalho. Reconstituições históricas vêm sinalizadas no texto; "
@@ -102,6 +104,8 @@ ALEMAO = {
     "UI": {"lang": "de-DE", "sumario": "Inhalt", "anterior": "zurück", "proximo": "weiter",
            "parte": "Teil", "pdf": "PDF herunterladen", "latex": "LaTeX-Quelltext",
            "repo": "Repository des Stammbaums", "figura": "Abbildung",
+           "idx_pessoas": "Personenregister", "idx_lugares": "Ortsregister",
+           "lista_figuras": "Abbildungsverzeichnis", "sumario_livro": "Inhaltsverzeichnis", "capa": "capa_de",
            "outra_lingua": ("../index.html", "Versão em português"),
            "capa_alt": "Abschiedsfoto der Familie Haas vor der Abreise nach Brasilien, 7. März 1913",
            "nota": "Arbeitsfassung, aus dem Portugiesischen übersetzt. Historische Rekonstruktionen "
@@ -135,6 +139,7 @@ def preparar_imagens(destino, lado_max):
     for cap in capitulos():
         usadas |= set(re.findall(r"\]\(imagens/([^)\s]+)\)", cap.read_text(encoding="utf-8")))
     usadas.add("haas_despedida_abreise_brasilien_1913_restaurada.jpg")  # capa
+    usadas.add(UI["capa"] + ".jpg")
     for nome in sorted(usadas):
         orig = IMG_ORIG / nome
         if not orig.exists():
@@ -175,6 +180,12 @@ LATEX_PREAMBULO = r"""
 \setlength{\emergencystretch}{3em}
 \renewcommand{\figurename}{@@FIGURA@@}
 \usepackage{pdflscape}
+\usepackage{pdfpages}
+\usepackage[noautomatic]{imakeidx}
+\makeindex[name=pessoas,title=@@IDXP@@,columns=2,intoc]
+\makeindex[name=lugares,title=@@IDXL@@,columns=2,intoc]
+\indexsetup{othercode=\small}
+\AtBeginDocument{\includepdf[pages=1,pagecommand={\thispagestyle{empty}}]{capa.pdf}\thispagestyle{empty}\mbox{}\newpage\renewcommand{\contentsname}{@@SUMARIO@@}\renewcommand{\listfigurename}{@@LISTAFIG@@}}
 """
 
 LUA_FILTRO = r"""
@@ -224,13 +235,16 @@ def montar_markdown_latex():
 def gerar_latex(compilar_pdf):
     LATEX.mkdir(parents=True, exist_ok=True)
     preparar_imagens(LATEX / "imagens", 1800)
-    (LATEX / "preambulo.tex").write_text(
-        LATEX_PREAMBULO.replace("@@TITULO@@", TITULO).replace("@@FIGURA@@", UI["figura"]), encoding="utf-8")
+    pre = LATEX_PREAMBULO.replace("@@TITULO@@", TITULO).replace("@@FIGURA@@", UI["figura"])
+    pre = (pre.replace("@@IDXP@@", UI["idx_pessoas"]).replace("@@IDXL@@", UI["idx_lugares"])
+              .replace("@@SUMARIO@@", UI["sumario_livro"]).replace("@@LISTAFIG@@", UI["lista_figuras"]))
+    (LATEX / "preambulo.tex").write_text(pre, encoding="utf-8")
+    shutil.copy2(IMG_ORIG / (UI["capa"] + ".pdf"), LATEX / "capa.pdf")
     (LATEX / "divs.lua").write_text(LUA_FILTRO, encoding="utf-8")
     frente = (r"\frontmatter" "\n"
               r"\thispagestyle{empty}\vspace*{0.3\textheight}" "\n"
               r"\begin{flushright}\itshape " + DEDICATORIA + r"\end{flushright}" "\n"
-              r"\cleardoublepage\tableofcontents" "\n" r"\mainmatter" "\n")
+              r"\cleardoublepage\tableofcontents" "\n" r"\cleardoublepage\listoffigures" "\n" r"\mainmatter" "\n")
     (LATEX / "frente.tex").write_text(frente, encoding="utf-8")
     md = LATEX / "livro.md"
     md.write_text(montar_markdown_latex(), encoding="utf-8")
@@ -242,18 +256,77 @@ def gerar_latex(compilar_pdf):
            "-V", "documentclass=book", "-V", "classoption=openany",
            "-V", "geometry:paperwidth=15.5cm,paperheight=23cm,inner=2cm,outer=1.8cm,top=2cm,bottom=2.2cm",
            "-V", "mainfont=Palatino Linotype", "-V", "sansfont=Segoe UI",
-           "-V", "fontsize=11pt", "-V", "linestretch=1.12", "-V", "toc-depth=0",
+           "-V", "fontsize=11pt", "-V", "linestretch=1.12", "-V", "toc-depth=1",
            "-V", "colorlinks=true", "-V", "linkcolor=black", "-V", "urlcolor=blue!50!black"]
     subprocess.run(cmd, cwd=LATEX, check=True)
+    indexar(LATEX / "livro.tex")
     print("LaTeX:", LATEX / "livro.tex")
     if compilar_pdf:
-        for _ in range(2):
+        def xelatex():
             r = subprocess.run(["xelatex", "-interaction=nonstopmode", "-halt-on-error", "livro.tex"],
                                cwd=LATEX, capture_output=True, text=True, encoding="utf-8", errors="replace")
             if r.returncode != 0:
                 print(r.stdout[-4000:], file=sys.stderr)
                 raise SystemExit("xelatex falhou")
+        xelatex()
+        for nome in ("pessoas", "lugares"):
+            subprocess.run(["makeindex", "-q", f"{nome}.idx"], cwd=LATEX, check=True)
+        xelatex()
+        xelatex()
         print("PDF:", LATEX / "livro.pdf")
+
+
+# ---------------------------------------------------------------- índice remissivo
+def termos_indice(texto):
+    """Lê livro/indice.txt: tipo | entrada | formas procuradas no texto."""
+    termos = []
+    for linha in (LIVRO / "indice.txt").read_text(encoding="utf-8").splitlines():
+        if not linha.strip() or linha.startswith("#"):
+            continue
+        tipo, entrada, formas = [x.strip() for x in linha.split("|")]
+        formas = [f.strip() for f in formas.split(";") if f.strip()]
+        presentes = [f for f in formas if re.search(rf"(?<![\wÀ-ÿ]){re.escape(f)}(?![\wÀ-ÿ])", texto)]
+        if not presentes:
+            continue
+        # num lugar com nome em duas línguas, o índice usa a forma que aparece nesta edição
+        if tipo == "lugar" and entrada not in presentes:
+            entrada = presentes[0]
+        termos.append(("pessoas" if tipo == "pessoa" else "lugares", entrada, presentes))
+    return termos
+
+
+def indexar(tex):
+    """Põe \\index[...] depois das ocorrências dos nomes no corpo do livro (não em títulos nem legendas)."""
+    import unicodedata
+    texto = tex.read_text(encoding="utf-8")
+    ini = texto.index("\\mainmatter")
+    corpo, cabeca = texto[ini:], texto[:ini]
+    termos = termos_indice(corpo)
+    forma = {}
+    for idx, entrada, formas in termos:
+        chave = unicodedata.normalize("NFKD", entrada).encode("ascii", "ignore").decode().lower()
+        cmd = f"\\index[{idx}]{{{chave}@{entrada}}}"
+        for f in formas:
+            forma.setdefault(f, cmd)
+    padrao = re.compile(r"(?<![\wÀ-ÿ\\])(" + "|".join(re.escape(f) for f in sorted(forma, key=len, reverse=True)) + r")(?![\wÀ-ÿ])")
+    pula = re.compile(r"^\\(part|chapter|section|subsection|caption|includegraphics|label|hypertarget|begin|end|centering|includepdf)")
+    saida = []
+    for linha in corpo.split("\n"):
+        if pula.match(linha.lstrip()) or "\\caption" in linha or "\\href" in linha:
+            saida.append(linha)
+            continue
+        usados = set()
+
+        def troca(m):
+            cmd = forma[m.group(1)]
+            if cmd in usados:
+                return m.group(1)
+            usados.add(cmd)
+            return m.group(1) + cmd
+        saida.append(padrao.sub(troca, linha))
+    corpo = "\n".join(saida)
+    corpo = corpo.replace("\\end{document}", "\\cleardoublepage\n\\printindex[pessoas]\n\\printindex[lugares]\n\\end{document}")
+    tex.write_text(cabeca + corpo, encoding="utf-8")
 
 
 # ---------------------------------------------------------------- HTML
@@ -286,7 +359,7 @@ nav.pag{display:flex;justify-content:space-between;gap:1rem;margin-top:3.5rem;pa
 nav.pag a{text-decoration:none;max-width:48%} nav.pag .prox{text-align:right;margin-left:auto}
 nav.pag small{display:block;color:var(--muted)}
 .capa{text-align:center;padding-top:1rem}
-.capa img{width:100%;max-width:40rem;border-radius:3px;filter:sepia(.25)}
+.capa img{width:100%;max-width:22rem;border-radius:3px;box-shadow:0 4px 18px rgba(0,0,0,.35)}
 .capa h1{font-size:2.5rem;margin:1.6rem 0 .4rem}
 .capa .sub{color:var(--muted);font-style:italic;margin:0 auto 1rem;max-width:32rem}
 .capa .autor{font-family:system-ui,"Segoe UI",sans-serif;letter-spacing:.14em;text-transform:uppercase;font-size:.8rem}
@@ -387,7 +460,7 @@ def gerar_html():
     downloads += f'<a href="https://github.com/reinaldohaas/arvore_genealogica">{UI['repo']}</a>'
     downloads += f'<a href="{UI['outra_lingua'][0]}">{UI['outra_lingua'][1]}</a>'
     corpo = f"""<div class="capa">
-<img src="imagens/haas_despedida_abreise_brasilien_1913_restaurada.jpg" alt="{html.escape(UI['capa_alt'])}">
+<img src="imagens/{UI['capa']}.jpg" alt="{html.escape(TITULO)}, {html.escape(SUBTITULO)}">
 <h1>{html.escape(TITULO)}</h1>
 <p class="sub">{html.escape(SUBTITULO)}</p>
 <p class="autor">{html.escape(AUTOR)}</p>

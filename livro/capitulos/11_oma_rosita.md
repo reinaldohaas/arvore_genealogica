@@ -64,6 +64,22 @@ Sobre o pai, Bárbara escreve pouco, e eu respeito a medida.
 
 *É estranho ver o nome do próprio pai numa placa. A gente cresce chamando de pai uma pessoa que, para os outros, era o doutor. Depois que ele morreu (eu era adolescente), o nome dele foi para uma escola e para um posto de saúde, e deixou de ser só nosso. Hoje acho que isso é uma forma de herança também: saber que o trabalho de alguém continuou servindo depois que ele se foi, em lugares onde nenhum de nós estava.*
 
+O Dr. Carlos Heinz, aliás, por pouco não nasceu na Alemanha de Hitler. A história é contada na família de Bárbara, e eu a registro como ela chegou até mim.
+
+### A adega de 1939
+
+*Saxônia e Joinville, 1939*
+
+Em 1939, Oscar Martin Funke e a mulher, a Oma Dora, foram à Alemanha. Oscar tinha nascido em Glauchau, na Saxônia, em 1910, e viera menino para Joinville; continuava alemão. Dora era brasileira, nascida em Joinville em 1914, e a família de Bárbara guarda dela uma frase que não vou tentar melhorar: tinha as pernas mais bonitas de Blumenau. Naquele ano estava grávida do primeiro filho.
+
+Na casa dos parentes, alguém convidou Oscar para descer ao porão e escolher um vinho. O vinho era a desculpa. Lá embaixo, longe de ouvidos, o parente disse o que não se podia dizer em voz alta na sala: Hitler era péssimo, a guerra vinha aí, e eles tinham de tentar voltar para o Brasil imediatamente. Um homem de vinte e nove anos, alemão, em idade de servir, seria convocado se ficasse.
+
+Voltar não era simples. Para Oscar sair da Alemanha foi preciso a ajuda do cônsul brasileiro, que lhe deu uma autorização. E no porto houve disputa por lugar no navio, num tempo em que muita gente queria sair. A tradição da família diz que quem resolveu foi o charme da Oma Dora. Grávida, bonita, brasileira, conseguiu os lugares.
+
+Carlos Heinz Funke nasceu em Joinville em 10 de agosto de 1939. Três semanas depois, em 1º de setembro, a Alemanha invadiu a Polônia, e a Segunda Guerra começou. Se o parente não tivesse descido à adega, se o cônsul tivesse dito não, se a Oma Dora não tivesse convencido alguém no cais, o sogro que eu não conheci teria nascido na Saxônia em guerra, filho de um soldado.
+
+Não consigo ler essa história sem pensar no outro lado da família. Em 1913, o Fata e a Mota saíram da Alemanha um ano antes da Primeira Guerra, pela porta de Marselha, quando a emigração, segundo meu pai, já estava fechada. Em 1939, os Funke saíram semanas antes da Segunda, com a ajuda de um cônsul. E as duas famílias guardaram a mesma imagem de um porão onde se podia falar a verdade: o porão de Ituporanga onde o Fata ouvia o rádio durante a guerra (Capítulo 7), e a adega da Saxônia onde um parente avisou que era hora de ir embora.
+
 ### O professor de Nova Petrópolis
 
 Do lado da mãe de Bárbara, a fotografia mais antiga que tenho é de uma escola. Também ela é uma reprodução: uma foto pequena, em preto e branco, posta sobre um tecido cor-de-rosa e fotografada de cima. Nela, umas quatro dezenas de alunos estão alinhados em fileiras diante de um prédio, os da frente agachados, os de trás de pé, quase todos de camisa ou blusa branca e as meninas de saia escura. No centro, de terno escuro, um homem adulto. Atrás, o que parece ser uma bandeira. É o Vô Erno Hoeveler, bisavô de vocês, professor.
@@ -115,5 +131,6 @@ Na ordem do livro, conto essa viagem agora, depois da morte de Rosita. Na ordem 
 - Quando e por que os Funke vieram de Glauchau para Joinville? Os Funke e os Haas chegaram a se cruzar na Saxônia antes de 1913?
 - Quem é a moça de vestido azul da fotografia da garagem? Perguntem à mãe de vocês e às tias.
 - No retrato antigo da família de Oma Dora contei nove filhos; na festa de 22 de janeiro de 1983 estão Dora e mais sete. Um dos irmãos faltou, ou contei errado? Bárbara e as irmãs dela são as primeiras a quem perguntar.
+- Quem levou Oscar à adega em 1939, e em que cidade? Era em Glauchau, onde ele nasceu? Em que navio o casal voltou, e o que dizia a autorização do cônsul brasileiro? Perguntem à família de Bárbara se alguém guardou o passaporte ou a passagem.
 - Onde e como Carlos Heinz Funke e Ilusca se conheceram? A vida acadêmica em Porto Alegre é só uma hipótese minha.
 - Quem é o sobrinho que ganhou o violino da casa de penhores quando Ilusca casou, e onde está esse violino hoje?
