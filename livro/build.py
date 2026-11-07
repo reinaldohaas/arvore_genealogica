@@ -3,6 +3,7 @@
 Uso (a partir da raiz do repositório):
     python livro/build.py            # LaTeX + PDF + HTML
     python livro/build.py --sem-pdf  # pula a compilação do PDF
+    python livro/build.py --lang de  # versão alemã (livro/de/capitulos -> livro/site/de)
 
 Saídas:
     livro/latex/livro.tex, livro/latex/livro.pdf
@@ -59,6 +60,54 @@ PARTES = [
      ["16", "17", "18", "19"]),
 ]
 
+UI = {"lang": "pt-BR", "sumario": "Sumário", "anterior": "anterior", "proximo": "próximo",
+      "parte": "Parte", "pdf": "Baixar PDF", "latex": "Código-fonte LaTeX",
+      "repo": "Repositório da árvore", "figura": "Figura",
+      "outra_lingua": ("de/index.html", "Deutsche Fassung"),
+      "capa_alt": "Fotografia de despedida da família Haas antes da partida para o Brasil, 7 de março de 1913",
+      "nota": "Versão de trabalho. Reconstituições históricas vêm sinalizadas no texto; "
+              "correções e lembranças da família são bem-vindas."}
+
+ALEMAO = {
+    "TITULO": "Unsere Familie",
+    "SUBTITULO": "Von Deutschland in den Süden Brasiliens",
+    "DEDICATORIA": ("Für Matheus und Lucas, den Treffpunkt aller Schiffe, Gebirge und Träume, "
+                    "die uns hierher gebracht haben, und für Bárbara, Gefährtin aller Überfahrten."),
+    "PARTES": [
+        ("I", "Echos im Bergland von Santa Catarina",
+         "Wetterlage: stationäre Kaltfront über dem Itajaí-Tal. Tendenz: die alten Stimmen werden "
+         "allmählich leiser. Empfehlung: zuhören, solange es noch geht.",
+         ["01", "02", "03"]),
+        ("II", "Der Dampfer Formosa und der Urwald",
+         "Vorhergesagte Verlagerung: Marseille, Rio de Janeiro, Laguna. Seegang von der Seite, lange "
+         "Quarantäne. Im Bergland dichter Wald und Versprechen, die sich nicht erfüllen.",
+         ["04", "05", "06", "07"]),
+        ("III", "Die Pioniere von 1828, die Mosel und die Klingen von Solingen",
+         "Nordostpassat. Segelschiffe in der äquatorialen Flaute festgehalten. "
+         "Sichtweite: fast zwei Jahrhunderte.",
+         ["08", "09", "10"]),
+        ("IV", "Bárbaras Horizonte",
+         "Feuchte Luft steigt im Taquari-Tal auf. Beständige Strömungen zwischen Joinville, "
+         "Estrela und Arroio do Meio. Mikroklimate einer Familie.",
+         ["11", "12"]),
+        ("V", "Drei Flüsse, das Klima und ein Erbe",
+         "Hochwasserwarnung für die Einzugsgebiete von Tubarão, Itajaí und Taquari; Hagel auf der Insel. "
+         "Wiederkehrperiode: eine Generation.",
+         ["13", "14", "15"]),
+        ("VI", "Winter in Bayern",
+         "Kontinentales Hoch über Mitteleuropa. Temperaturen unter null. "
+         "Klarer Himmel für die Arbeit in den Archiven.",
+         ["16", "17", "18", "19"]),
+    ],
+    "UI": {"lang": "de-DE", "sumario": "Inhalt", "anterior": "zurück", "proximo": "weiter",
+           "parte": "Teil", "pdf": "PDF herunterladen", "latex": "LaTeX-Quelltext",
+           "repo": "Repository des Stammbaums", "figura": "Abbildung",
+           "outra_lingua": ("../index.html", "Versão em português"),
+           "capa_alt": "Abschiedsfoto der Familie Haas vor der Abreise nach Brasilien, 7. März 1913",
+           "nota": "Arbeitsfassung, aus dem Portugiesischen übersetzt. Historische Rekonstruktionen "
+                   "sind im Text gekennzeichnet; Korrekturen und Erinnerungen der Familie sind willkommen."},
+}
+
 PANDOC = shutil.which("pandoc") or "pandoc"
 
 
@@ -85,7 +134,7 @@ def preparar_imagens(destino, lado_max):
     usadas = set()
     for cap in capitulos():
         usadas |= set(re.findall(r"\]\(imagens/([^)\s]+)\)", cap.read_text(encoding="utf-8")))
-    usadas.add("haas_despedida_abreise_brasilien_1913.jpg")  # capa
+    usadas.add("haas_despedida_abreise_brasilien_1913_restaurada.jpg")  # capa
     for nome in sorted(usadas):
         orig = IMG_ORIG / nome
         if not orig.exists():
@@ -117,14 +166,14 @@ LATEX_PREAMBULO = r"""
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[LE]{\small\itshape Nossa Família}
+\fancyhead[LE]{\small\itshape @@TITULO@@}
 \fancyhead[RO]{\small\itshape\truncate{0.85\headwidth}{\nouppercase{\leftmark}}}
 \fancyfoot[C]{\small\thepage}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
 \fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\small\thepage}}
 \setlength{\emergencystretch}{3em}
-\renewcommand{\figurename}{Figura}
+\renewcommand{\figurename}{@@FIGURA@@}
 """
 
 LUA_FILTRO = r"""
@@ -150,7 +199,7 @@ def montar_markdown_latex():
             partes_abertas.add(parte[0])
             blocos.append(f"# {parte[1]}\n\n::: boletim\n{parte[2]}\n:::\n")
         # O LaTeX numera capítulos e partes: tira o prefixo "Capítulo N — ".
-        texto = re.sub(r"^(##\s+)Cap[ií]tulo\s+\d+\s+[—–-]\s+", r"\1", texto, flags=re.M)
+        texto = re.sub(r"^(##\s+)(?:Cap[ií]tulo|Kapitel)\s+\d+\s+[—–-]\s+", r"\1", texto, flags=re.M)
         # Notas de rodapé com o mesmo rótulo em capítulos diferentes colidiriam.
         texto = re.sub(r"\[\^([^\]]+)\]", rf"[^c{prefixo}-\1]", texto)
         blocos.append(texto)
@@ -160,7 +209,8 @@ def montar_markdown_latex():
 def gerar_latex(compilar_pdf):
     LATEX.mkdir(parents=True, exist_ok=True)
     preparar_imagens(LATEX / "imagens", 1800)
-    (LATEX / "preambulo.tex").write_text(LATEX_PREAMBULO, encoding="utf-8")
+    (LATEX / "preambulo.tex").write_text(
+        LATEX_PREAMBULO.replace("@@TITULO@@", TITULO).replace("@@FIGURA@@", UI["figura"]), encoding="utf-8")
     (LATEX / "divs.lua").write_text(LUA_FILTRO, encoding="utf-8")
     frente = (r"\frontmatter" "\n"
               r"\thispagestyle{empty}\vspace*{0.3\textheight}" "\n"
@@ -173,7 +223,7 @@ def gerar_latex(compilar_pdf):
            "--top-level-division=part", "--lua-filter=divs.lua",
            "-H", "preambulo.tex", "-B", "frente.tex",
            "-M", f"title={TITULO}", "-M", f"subtitle={SUBTITULO}", "-M", f"author={AUTOR}",
-           "-M", "lang=pt-BR",
+           "-M", f"lang={UI['lang']}",
            "-V", "documentclass=book", "-V", "classoption=openany",
            "-V", "geometry:paperwidth=15.5cm,paperheight=23cm,inner=2cm,outer=1.8cm,top=2cm,bottom=2.2cm",
            "-V", "mainfont=Palatino Linotype", "-V", "sansfont=Segoe UI",
@@ -247,13 +297,13 @@ z.addEventListener('click',()=>{z.style.display='none'});
 
 def pagina(titulo, corpo, extra_head=""):
     return f"""<!doctype html>
-<html lang="pt-BR"><head><meta charset="utf-8">
+<html lang="{UI['lang']}"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(titulo)}</title>
 <meta name="description" content="{html.escape(SUBTITULO)}">
 <link rel="stylesheet" href="estilo.css">{extra_head}
 </head><body>
-<header class="topo"><div class="in"><a class="livro" href="index.html">{html.escape(TITULO)}</a><a href="index.html#sumario">Sumário</a></div></header>
+<header class="topo"><div class="in"><a class="livro" href="index.html">{html.escape(TITULO)}</a><a href="index.html#sumario">{UI['sumario']}</a></div></header>
 <main>
 {corpo}
 </main>{JS}
@@ -288,7 +338,7 @@ def gerar_html():
         topo = ""
         parte = it["parte"]
         if parte:
-            topo = f'<p class="parte">Parte {parte[0]} · {html.escape(parte[1])}</p>'
+            topo = f'<p class="parte">{UI['parte']} {parte[0]} · {html.escape(parte[1])}</p>'
             if i == 0 or itens[i - 1]["parte"] != parte:
                 corpo = re.sub(r"(</h2>)", r'\1<p class="boletim">' + html.escape(parte[2]) + "</p>",
                                corpo, count=1)
@@ -296,9 +346,9 @@ def gerar_html():
         prox = itens[i + 1] if i + 1 < len(itens) else None
         nav = '<nav class="pag">'
         if ant:
-            nav += f'<a href="{ant["slug"]}"><small>← anterior</small>{html.escape(ant["titulo"])}</a>'
+            nav += f'<a href="{ant["slug"]}"><small>← {UI['anterior']}</small>{html.escape(ant["titulo"])}</a>'
         if prox:
-            nav += f'<a class="prox" href="{prox["slug"]}"><small>próximo →</small>{html.escape(prox["titulo"])}</a>'
+            nav += f'<a class="prox" href="{prox["slug"]}"><small>{UI['proximo']} →</small>{html.escape(prox["titulo"])}</a>'
         nav += "</nav>"
         (SITE / it["slug"]).write_text(pagina(f'{it["titulo"]} — {TITULO}', topo + corpo + nav),
                                        encoding="utf-8")
@@ -310,26 +360,27 @@ def gerar_html():
             if parte_atual is not None or sumario:
                 sumario.append("</ol>")
             parte_atual = it["parte"]
-            rotulo = f"Parte {parte_atual[0]} — {parte_atual[1]}" if parte_atual else ""
+            rotulo = f"{UI['parte']} {parte_atual[0]} — {parte_atual[1]}" if parte_atual else ""
             sumario.append(f"<h3>{html.escape(rotulo)}</h3><ol>" if rotulo else "<ol>")
         sumario.append(f'<li><a href="{it["slug"]}">{html.escape(it["titulo"])}</a></li>')
     sumario.append("</ol>")
     downloads = ""
     if (SITE / "livro.pdf").exists():
-        downloads += '<a href="livro.pdf">Baixar PDF</a>'
+        downloads += f'<a href="livro.pdf">{UI['pdf']}</a>'
     if (SITE / "livro_latex.zip").exists():
-        downloads += '<a href="livro_latex.zip">Código-fonte LaTeX</a>'
-    downloads += '<a href="https://github.com/reinaldohaas/arvore_genealogica">Repositório da árvore</a>'
+        downloads += f'<a href="livro_latex.zip">{UI['latex']}</a>'
+    downloads += f'<a href="https://github.com/reinaldohaas/arvore_genealogica">{UI['repo']}</a>'
+    downloads += f'<a href="{UI['outra_lingua'][0]}">{UI['outra_lingua'][1]}</a>'
     corpo = f"""<div class="capa">
-<img src="imagens/haas_despedida_abreise_brasilien_1913.jpg" alt="Fotografia de despedida da família Haas antes da partida para o Brasil, 7 de março de 1913">
+<img src="imagens/haas_despedida_abreise_brasilien_1913_restaurada.jpg" alt="{html.escape(UI['capa_alt'])}">
 <h1>{html.escape(TITULO)}</h1>
 <p class="sub">{html.escape(SUBTITULO)}</p>
 <p class="autor">{html.escape(AUTOR)}</p>
 <div class="downloads">{downloads}</div>
 </div>
 <p class="dedic">{html.escape(DEDICATORIA)}</p>
-<section class="sumario" id="sumario"><h2>Sumário</h2>{''.join(sumario)}</section>
-<p class="nota">Versão de trabalho. Reconstituições históricas vêm sinalizadas no texto; correções e lembranças da família são bem-vindas.</p>"""
+<section class="sumario" id="sumario"><h2>{UI['sumario']}</h2>{''.join(sumario)}</section>
+<p class="nota">{html.escape(UI['nota'])}</p>"""
     (SITE / "index.html").write_text(pagina(TITULO, corpo), encoding="utf-8")
     print("HTML:", SITE / "index.html")
 
@@ -349,7 +400,13 @@ def empacotar_latex():
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--sem-pdf", action="store_true")
+    ap.add_argument("--lang", default="pt", choices=["pt", "de"])
     a = ap.parse_args()
+    if a.lang == "de":
+        global CAPS, LATEX, SITE, TITULO, SUBTITULO, DEDICATORIA, PARTES, UI
+        CAPS, LATEX, SITE = LIVRO / "de" / "capitulos", LIVRO / "de" / "latex", LIVRO / "site" / "de"
+        TITULO, SUBTITULO, DEDICATORIA = ALEMAO["TITULO"], ALEMAO["SUBTITULO"], ALEMAO["DEDICATORIA"]
+        PARTES, UI = ALEMAO["PARTES"], ALEMAO["UI"]
     gerar_latex(not a.sem_pdf)
     SITE.mkdir(parents=True, exist_ok=True)
     empacotar_latex()
