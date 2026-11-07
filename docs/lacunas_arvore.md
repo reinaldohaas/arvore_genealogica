@@ -17,7 +17,7 @@ Gerado por `scripts/arvore_livro.py`. Pessoas vivas ficam de fora.
 ## Geração 3 acima de Matheus e Lucas
 
 - **Johann Haas, o Fata** (`GX1B-HM1`; n. 11/07/1884, Leonberg, hoje Maxhütte-Haidhof; filho(a) de Josef Haas e Franziska Dengler). Falta: data e lugar do casamento dos pais.
-- **Gertrudes Preiss** (`L1BB-QH8`; n. 05/03/1896, São Martinho; filho(a) de Emanuel Preis e Helena Michels). Falta: data e lugar do casamento dos pais.
+- **Gertrudes Preiss, a Omama** (`L1BB-QH8`; n. 05/03/1896, São Martinho; filho(a) de Emanuel Preis e Helena Michels). Falta: data e lugar do casamento dos pais.
 - **Oscar Martin Funke** (`PXPR-TY7`; n. 01/12/1910, Glauchau; filho(a) de Paulo Funke e Hulda (Funke)). Falta: data e lugar do casamento dos pais.
 - **Dora Marta Aenishaenslin, a Oma Dora** (`PXPT-X3Q`; n. 25/09/1914, Joinville; filho(a) de Jacques Aenishaenslin e Frida Liechti). Falta: data e lugar do casamento dos pais.
 - **Erno Hoeveler** (`PXP5-JJM`; n. 05/06/1920; filho(a) de Walter Hoeveler e Frida (Hoeveler)). Falta: lugar de nascimento; data de morte; data e lugar do casamento dos pais.
