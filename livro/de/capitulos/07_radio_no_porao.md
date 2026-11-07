@@ -120,7 +120,7 @@ Der dritte ist auf den 3. Januar 197[4] datiert, die letzte Ziffer ist abgeschni
 
 Der vierte ist wieder von der Frau mit dem Bogen über dem *u*. Er hat kein sichtbares Datum. Sie schreibt, sie habe lange auf Nachricht gewartet und müsse mitteilen, dass Walter, ihr Mann, gestorben ist. Er war blind und konnte nicht mehr gehen. Sein letztes Wort, schreibt sie, sei ihr Name gewesen, so jedenfalls lese ich die abgeschnittene Zeile. *Es geht ein nach den andern.* Dann erzählt sie von den Söhnen, Hans und Horst, von einem schönen Haus, das sie nach und nach verschönern, und dass sie drei Schafe hat.
 
-Die Schwester der Mota war also die Frau von Walter Heckel, und sie war es, die aus Rempesgrün schrieb. Ihren Namen kenne ich nicht. Es kann Theresia sein, die 1890 in Heumaden geborene Schwester, oder eine jüngere Schwester, die zur Welt kam, nachdem die Familie das Dorf verlassen hatte. Den Ehenamen hat sie uns gegeben; den Taufnamen hat der Brief in der Hälfte verwahrt, die der Scanner nicht erfasst hat.
+Die Schwester unserer Mota war also die Frau von Walter Heckel, und sie war es, die aus Rempesgrün schrieb. Für mich ist sie Theresia Meier, die kleine Schwester, die am 22. Juni 1890 in Heumaden geboren wurde, als die Mota zwei Jahre alt war, und die dieselbe Patin hatte wie sie. Die Unterschrift, die den Namen bestätigen würde, blieb in der Hälfte des Blattes, die der Scanner nicht erfasst hat, und eines Tages werdet ihr sie lesen können.
 
 Wer den Faden jahrzehntelang hielt, war Onkel Martin Sautner. Die Mota schrieb nicht auf Portugiesisch, die Töchter und Enkel schrieben nicht mehr auf Deutsch, und er war es, der sich in Ribeirão das Pacas an den Tisch setzte und auf Deutsch auf die andere Seite des Eisernen Vorhangs schrieb. Als die Mota starb, erfuhr die Familie drüben davon. Sie schickte ihr Beileid. Sie bat darum, nicht aufzuhören.
 
@@ -132,7 +132,7 @@ Und wir hörten auf. Ich weiß nicht, wann der letzte Brief kam und wer nicht me
 - Was wollte der Fata 1939: einen Besuch oder die endgültige Rückkehr? War eine Fahrkarte gekauft oder nur ein Wunsch bei Tisch ausgesprochen? Wer die Fassungen von damals gehört hat, erinnert sich vielleicht noch an eine davon.
 - Auf welchem Weg gingen die Kisten von 1945, und kam je eine Antwort aus Deutschland zurück?
 - Welche Gräber auf dem Friedhof von Aurora hat der Fata gemacht? Der Text der Hundertjahrfeier sagt es nicht. Geht hin und schaut nach, und fragt die Enkel aus Aurora.
-- Wie hieß die Schwester der Mota, die mit Walter Heckel verheiratet war? Und wer waren die beiden anderen Schwestern und der Bruder Karl? Die vollständigen Blätter der Briefe, in A4 eingescannt, Vorder- und Rückseite, müssten die Unterschrift tragen.
+- Bestätigt die Unterschrift der Briefe, dass Tante Theresia sie geschrieben hat? Und wer waren die beiden anderen Schwestern und der Bruder Karl? Die vollständigen Blätter der Briefe, in A4 eingescannt, Vorder- und Rückseite, müssten die Antwort tragen.
 - Wer aus der Familie war um 1972 in Westdeutschland, die Person, nach deren Adresse die Verwandten in Rempesgrün fragten?
 - Wo sind die Briefe, die Onkel Martin geschrieben hat? Wenn die Verwandten drüben sie so aufbewahrt haben wie wir ihre, erzählen sie unsere Seite der Geschichte.
 

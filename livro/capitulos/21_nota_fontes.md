@@ -52,6 +52,6 @@ Quase todos esses materiais estão no repositório digital da árvore genealógi
 
 ### Papéis que ainda vão entrar
 
-Três conjuntos de papéis da família ainda não foram lidos para este livro: o livro sobre a vinda dos Funke para o Brasil; as cartas enviadas da Alemanha por parentes de Maria Haas; e a carta em que minha mãe, Adelina, escreveu sobre os filhos, guardada por minha irmã Marise. O que eles disserem pode corrigir o que está aqui.
+As cartas enviadas da Alemanha pela irmã da nossa Mota (Maria Meier Haas), Theresia Meier, e por Walter Heckel, que ficaram tanto tempo esquecidas numa gaveta, já foram lidas, e vocês as encontram no Capítulo 7. Faltam ainda dois tesouros da família: o livro sobre a vinda dos Funke para o Brasil e a carta em que a vó Adelina escreveu sobre os filhos, guardada pela tia Marise. O que eles contarem pode corrigir o que está aqui.
 
 Correções, fotografias e lembranças são bem-vindas. A árvore nunca termina; ela apenas muda de mãos.

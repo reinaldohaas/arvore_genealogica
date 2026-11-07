@@ -125,7 +125,8 @@ def capa(lang):
     centro(d, int(H * 0.60), T["titulo"], f_tit, CREME)
     centro(d, int(H * 0.60) + 250, T["sub"], fonte("palai.ttf", 84), (226, 210, 180))
     d.line((W * 0.38, int(H * 0.60) + 390, W * 0.62, int(H * 0.60) + 390), fill=OURO, width=3)
-    espacado(d, int(H * 0.60) + 430, "REINALDO HAAS", fonte("pala.ttf", 62), CREME, 14)
+    espacado(d, int(H * 0.60) + 430, "REINALDO HAAS", fonte("pala.ttf", 60), CREME, 14)
+    espacado(d, int(H * 0.60) + 520, "BÁRBARA FUNKE HAAS", fonte("pala.ttf", 60), CREME, 14)
 
     out = IMG / f"capa_{lang}.jpg"
     im.save(out, quality=92, dpi=(DPI, DPI))

@@ -52,6 +52,6 @@ Fast alle diese Materialien liegen im digitalen Repository des Stammbaums, das d
 
 ### Papiere, die noch hinzukommen
 
-Drei Bündel von Familienpapieren sind für dieses Buch noch nicht gelesen worden: das Buch über die Ankunft der Funke in Brasilien; die Briefe, die Verwandte von Maria Haas aus Deutschland schickten; und der Brief, in dem meine Mutter Adelina über ihre Kinder schrieb und den meine Schwester Marise aufbewahrt. Was darin steht, kann berichtigen, was hier steht.
+Die Briefe, die die Schwester unserer Mota (Maria Meier Haas), Theresia Meier, und Walter Heckel aus Deutschland schickten und die so lange in einer Schublade vergessen lagen, sind inzwischen gelesen; ihr findet sie in Kapitel 7. Zwei Schätze der Familie fehlen noch: das Buch über die Ankunft der Funke in Brasilien und der Brief, in dem Oma Adelina über ihre Kinder schrieb und den Tante Marise aufbewahrt. Was sie erzählen, kann berichtigen, was hier steht.
 
 Berichtigungen, Fotografien und Erinnerungen sind willkommen. Der Stammbaum wird nie fertig; er wechselt nur die Hände.

@@ -28,9 +28,9 @@ SITE = LIVRO / "site"
 
 TITULO = "Nossa Família"
 SUBTITULO = "Da Alemanha ao Sul do Brasil"
-AUTOR = "Reinaldo Haas"
-DEDICATORIA = ("Para Matheus e Lucas — ponto de encontro de todos os navios, serras e sonhos "
-               "que nos trouxeram até aqui — e para Bárbara, companheira de todas as travessias.")
+AUTOR = "Reinaldo Haas e Bárbara Funke Haas"
+DEDICATORIA = ("Para Matheus e Lucas, ponto de encontro de todos os navios, serras e sonhos "
+               "que nos trouxeram até aqui.")
 
 # (numeral, título, boletim, prefixos dos arquivos)
 PARTES = [
@@ -74,7 +74,8 @@ ALEMAO = {
     "TITULO": "Unsere Familie",
     "SUBTITULO": "Von Deutschland in den Süden Brasiliens",
     "DEDICATORIA": ("Für Matheus und Lucas, den Treffpunkt aller Schiffe, Gebirge und Träume, "
-                    "die uns hierher gebracht haben, und für Bárbara, Gefährtin aller Überfahrten."),
+                    "die uns hierher gebracht haben."),
+    "AUTOR": "Reinaldo Haas und Bárbara Funke Haas",
     "PARTES": [
         ("I", "Echos im Bergland von Santa Catarina",
          "Wetterlage: stationäre Kaltfront über dem Itajaí-Tal. Tendenz: die alten Stimmen werden "
@@ -491,9 +492,10 @@ def main():
     ap.add_argument("--lang", default="pt", choices=["pt", "de"])
     a = ap.parse_args()
     if a.lang == "de":
-        global CAPS, LATEX, SITE, TITULO, SUBTITULO, DEDICATORIA, PARTES, UI
+        global CAPS, LATEX, SITE, TITULO, SUBTITULO, DEDICATORIA, PARTES, UI, AUTOR
         CAPS, LATEX, SITE = LIVRO / "de" / "capitulos", LIVRO / "de" / "latex", LIVRO / "site" / "de"
         TITULO, SUBTITULO, DEDICATORIA = ALEMAO["TITULO"], ALEMAO["SUBTITULO"], ALEMAO["DEDICATORIA"]
+        AUTOR = ALEMAO["AUTOR"]
         PARTES, UI = ALEMAO["PARTES"], ALEMAO["UI"]
     gerar_latex(not a.sem_pdf)
     SITE.mkdir(parents=True, exist_ok=True)

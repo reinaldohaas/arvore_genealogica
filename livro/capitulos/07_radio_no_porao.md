@@ -120,7 +120,7 @@ A terceira tem data de 3 de janeiro de 197[4], com o último algarismo cortado, 
 
 A quarta é de novo da mulher do arco sobre o *u*. Não tem data visível. Ela conta que esperou muito por notícias e que precisa comunicar que Walter, o marido dela, morreu. Estava cego e já não podia andar. A última palavra dele, escreve, foi o nome dela, ou é assim que leio a linha cortada. *Es geht ein nach den andern*: vai um depois do outro. Depois fala dos filhos, Hans e Horst, de uma casa bonita que vão embelezando, e diz que tem três ovelhas.
 
-Então a irmã da Mota era a mulher de Walter Heckel, e foi ela quem escreveu de Rempesgrün. Não sei o nome dela. Pode ser Theresia, a irmã nascida em Heumaden em 1890, ou uma irmã mais nova, nascida depois que a família deixou a aldeia. O sobrenome de casada ela nos deu; o de batismo, a carta guardou na metade que o escâner não pegou.
+Então a irmã da nossa Mota era a mulher de Walter Heckel, e foi ela quem escreveu de Rempesgrün. Para mim, ela é Theresia Meier, a irmãzinha que nasceu em Heumaden em 22 de junho de 1890, quando a Mota tinha dois anos, e que teve a mesma madrinha que ela. A assinatura que confirmaria o nome ficou na metade da folha que o escâner não pegou, e um dia vocês vão poder lê-la.
 
 Quem manteve o fio, durante décadas, foi o tio Martin Sautner. A Mota não escrevia em português, as filhas e os netos já não escreviam em alemão, e era ele quem sentava à mesa em Ribeirão das Pacas e escrevia, em alemão, para o outro lado da Cortina de Ferro. Quando a Mota morreu, a família de lá soube. Mandou pêsames. Pediu para não parar.
 
@@ -132,7 +132,7 @@ E nós paramos. Não sei quando chegou a última carta, nem quem deixou de respo
 - O que o Fata queria em 1939: uma visita ou a volta definitiva? Havia passagem comprada ou só um desejo dito à mesa? Quem ouviu as versões daquele tempo pode ainda lembrar de alguma.
 - Por que caminho seguiram as caixas de 1945, e alguma resposta voltou da Alemanha?
 - Quais túmulos do cemitério de Aurora foram feitos pelo Fata? O texto do centenário não diz. Vão lá olhar e perguntem aos netos de Aurora.
-- Como se chamava a irmã da Mota casada com Walter Heckel? E quem eram as outras duas irmãs e o irmão Karl? As folhas inteiras das cartas, escaneadas em tamanho A4, frente e verso, devem trazer a assinatura.
+- A assinatura das cartas confirma que a tia Theresia é quem escreveu? E quem eram as outras duas irmãs e o irmão Karl? As folhas inteiras das cartas, escaneadas em tamanho A4, frente e verso, devem trazer a resposta.
 - Quem da família estava na Alemanha Ocidental por volta de 1972, a pessoa cujo endereço os primos de Rempesgrün pediram?
 - Onde estão as cartas que o tio Martin escreveu? Se os primos de lá as guardaram como nós guardamos as deles, elas contam o nosso lado da história.
 
