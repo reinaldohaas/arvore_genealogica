@@ -352,6 +352,164 @@ def desenha(raiz, n, destino, titulo, nivel=2):
     raiz.continua = guardado
 
 
+# ------------------------------------------------------------------ páginas em paisagem
+# Tamanho real da mancha do livro (15,5 x 23 cm) virada em paisagem, descontada a legenda:
+# a figura é desenhada nesse tamanho, para que as letras saiam no corpo em que foram escolhidas.
+PAG_W, PAG_H = 7.35, 4.05
+
+
+def linhas_compactas(p, larg_chars):
+    out = []
+    for l in textwrap.wrap(p.nome, larg_chars):
+        out.append((l, TINTA, "bold"))
+    if p.b or p.pl:
+        pre = "bat." if p.bat else "n."
+        txt = f"{pre} {p.b}" if p.b else "n."
+        if p.pl:
+            txt = f"{txt}, {p.pl}" if p.b else p.pl
+        out += [(l, TINTA, "normal") for l in textwrap.wrap(txt, larg_chars)]
+    generico = {"Alemanha", "Germany", "Deutschland", "Brasil", "Santa Catarina"}
+    if p.d or (p.dpl and p.dpl not in generico):
+        txt = "† " + ", ".join(x for x in (p.d, p.dpl) if x)
+        out += [(l, TINTA, "normal") for l in textwrap.wrap(txt, larg_chars)]
+    if p.arr:
+        out += [(l, NAVIO, "bold") for l in textwrap.wrap("chegou: " + p.arr, larg_chars)]
+    if p.nota:
+        out += [(l, TINTA, "italic") for l in textwrap.wrap(p.nota, larg_chars)]
+    if len(p.pais) == 2:
+        if p.casamento_real:
+            out += [(l, CASA, "bold") for l in textwrap.wrap("pais ∞ " + p.casamento, larg_chars)]
+    if p.continua:
+        c = p.continua
+        txt = f"continua na árvore {c}" if isinstance(c, int) else f"continua nas árvores {c}"
+        out.append((txt, SEGUE, "bold"))
+    elif not p.pais and not p.vivo and p.ger < GER_MAX:
+        out.append(("pais a descobrir", FALTA, "italic"))
+    return out
+
+
+def desenha_pagina(raizes, n, destino, titulo):
+    """Uma página em paisagem com uma ou duas raízes empilhadas, até a geração GER_MAX."""
+    def prof(r):
+        return GER_MAX - r.ger
+    def folhas(p, d, pr):
+        return [p] if (d == pr or not p.pais) else [q for x in p.pais for q in folhas(x, d + 1, pr)]
+    todos = []
+    def visita(p, d, pr):
+        todos.append((p, d))
+        if d < pr:
+            for q in p.pais:
+                visita(q, d + 1, pr)
+    nf = 0
+    for r in raizes:
+        visita(r, 0, prof(r))
+        nf += len(folhas(r, 0, prof(r)))
+    cols = max(d for _, d in todos) + 1
+    margem, topo, gap, folga = 0.03, 0.30, 0.10, 0.035
+    col_w = (PAG_W - 2 * margem - (cols - 1) * gap) / cols
+    util = PAG_H - topo - 0.02
+
+    def tenta(fs):
+        lh = fs * 1.22 / 72
+        chars = max(14, int((col_w - 0.08) * 72 / (fs * 0.62)))
+        alt = {id(q): 0.045 + lh * len(linhas_compactas(q, chars)) for q, _ in todos}
+        pos, cur = {}, [PAG_H - topo]
+
+        def coloca(q, d, pr):
+            if d == pr or not q.pais:
+                h = alt[id(q)]
+                y = cur[0] - h / 2
+                cur[0] -= h + folga
+            else:
+                ys = [coloca(z, d + 1, pr) for z in q.pais]
+                y = sum(ys) / len(ys)
+            pos[id(q)] = (margem + d * (col_w + gap), y, q, d, pr)
+            return y
+        for i, r in enumerate(raizes):
+            if i:
+                cur[0] -= 0.12
+            coloca(r, 0, prof(r))
+        ok = cur[0] + folga >= PAG_H - topo - util
+        porcol = {}
+        for x, y, q, d, pr in pos.values():
+            porcol.setdefault(d, []).append((y + alt[id(q)] / 2, y - alt[id(q)] / 2))
+        for caixas in porcol.values():
+            caixas.sort(reverse=True)
+            for (t1, b1), (t2, b2) in zip(caixas, caixas[1:]):
+                if t2 > b1 - 0.01:
+                    ok = False
+        return ok, lh, chars, alt, pos
+    for fs in [7.6, 7.3, 7.0, 6.7, 6.4, 6.1, 5.9, 5.7, 5.5, 5.3, 5.1]:
+        ok, lh, chars, alt, pos = tenta(fs)
+        if ok:
+            break
+    fig = plt.figure(figsize=(PAG_W, PAG_H))
+    ax = fig.add_axes([0, 0, 1, 1])
+    ax.set_xlim(0, PAG_W)
+    ax.set_ylim(0, PAG_H)
+    ax.axis("off")
+    ax.text(margem, PAG_H - 0.03, f"Árvore {n}: {titulo}", fontsize=9.5, fontweight="bold", color=TINTA, va="top")
+    for x, y, p, d, pr in pos.values():
+        h = alt[id(p)]
+        ax.add_patch(FancyBboxPatch((x, y - h / 2), col_w, h, boxstyle="round,pad=0,rounding_size=0.03",
+                                    fc=FUNDO, ec=BORDA, lw=0.6, zorder=2))
+        for i, (tx, c, w) in enumerate(linhas_compactas(p, chars)):
+            ax.text(x + 0.04, y + h / 2 - 0.025 - lh * (i + 0.5), tx, fontsize=fs, color=c, va="center",
+                    fontweight="bold" if w == "bold" else "normal",
+                    fontstyle="italic" if w == "italic" else "normal", zorder=3)
+        if d < pr and p.pais:
+            ys = [pos[id(q)][1] for q in p.pais]
+            xm = x + col_w + gap / 2
+            ax.plot([x + col_w, xm], [y, y], color=BORDA, lw=0.7, zorder=1)
+            ax.plot([xm, xm], [min(ys + [y]), max(ys + [y])], color=BORDA, lw=0.7, zorder=1)
+            for yy in ys:
+                ax.plot([xm, x + col_w + gap], [yy, yy], color=BORDA, lw=0.7, zorder=1)
+    fig.savefig(destino, dpi=300, facecolor="white")
+    plt.close(fig)
+
+
+def _folhas(p):
+    return [p] if not p.pais else [q for x in p.pais for q in _folhas(x)]
+
+
+def paginas_paisagem(raiz):
+    """Página 1: os meninos até os bisavós. Depois, os ramos de cada casal de bisavós,
+    até a 7ª geração; um ramo grande demais é dividido entre o pai e a mãe."""
+    LIM = 12
+    paginas = [([raiz], "Matheus e Lucas, até os bisavós", raiz, 3)]
+    destino = {}
+    for pai in raiz.pais:
+        for avo in pai.pais:
+            casal = [b for b in avo.pais if b.pais]
+            if not casal:
+                continue
+            total = sum(len(_folhas(b)) for b in casal)
+            if total <= LIM:
+                nomes = " e ".join(b.nome.split(",")[0] for b in casal)
+                paginas.append((casal, f"antepassados de {nomes}", None, None))
+                for b in casal:
+                    destino[id(b)] = [len(paginas)]
+            else:
+                for b in casal:
+                    if len(_folhas(b)) <= LIM:
+                        paginas.append(([b], f"antepassados de {b.nome.split(',')[0]}", None, None))
+                        destino[id(b)] = [len(paginas)]
+                    else:
+                        destino[id(b)] = []
+                        for q in b.pais:
+                            if q.pais:
+                                rel = "pai" if q is b.pais[0] else "mãe"
+                                paginas.append(([q], f"{rel} de {b.nome.split(',')[0]}: antepassados de {q.nome.split(',')[0]}", None, None))
+                                destino[id(b)].append(len(paginas))
+    for pai in raiz.pais:
+        for avo in pai.pais:
+            for b in avo.pais:
+                nums = destino.get(id(b))
+                if nums:
+                    b.continua = nums[0] if len(nums) == 1 else " e ".join(map(str, nums))
+    return paginas
+
+
 def paginar(raiz):
     paginas, fila = [], [raiz]
     while fila:
@@ -448,24 +606,38 @@ def principal():
     raiz.nome = "Matheus e Lucas Haas"
     raiz.b, raiz.pl, raiz.vivo = "", "", True
     raiz.casamento, raiz.casamento_real = "1995", True
-    paginas = paginar(raiz)
+    pags = paginas_paisagem(raiz)
+    paginas = [r for rs, _, _, _ in pags for r in rs]
     for a in IMG.glob("arvore_*.png"):
         a.unlink()
     figs = []
-    for n, p in enumerate(paginas, 1):
+    for n, (rs, tit, _, _) in enumerate(pags, 1):
         nome = f"arvore_{n:02d}.png"
-        tit = "Matheus e Lucas" if p is raiz else f"antepassados de {p.nome.split(',')[0]}"
-        desenha(p, n, IMG / nome, tit)
+        salvos = []
+        if n > 1:
+            for r in rs:
+                salvos.append((r, r.continua))
+                r.continua = None
+        if n == 1:
+            # na página 1 a raiz desce só até os bisavós
+            g = GER_MAX
+            globals()["GER_MAX"] = 3
+            desenha_pagina(rs, n, IMG / nome, tit)
+            globals()["GER_MAX"] = g
+        else:
+            desenha_pagina(rs, n, IMG / nome, tit)
+        for r, c in salvos:
+            r.continua = c
         figs.append((nome, tit))
         print(nome, tit)
     txt = ["## As Árvores da Família {#arvores .unnumbered}\n",
-           "Estas são as árvores de vocês até a sétima geração, até onde sei hoje, com as datas de nascimento, de morte, de casamento e de chegada ao Brasil. Comecem pela árvore 1 e sigam os avisos \"continua na árvore\". Quem não aparece é porque ainda não conheço; nas caixas, \"pais a descobrir\" e \"data a descobrir\" são as perguntas que deixo para vocês. Boa parte das datas mais antigas vem do FamilySearch, uma árvore colaborativa, e ainda precisa ser conferida nos livros. Pessoas vivas aparecem só com o ano, ou sem data.\n"]
+           "Estas são as árvores de vocês até a sétima geração, até onde sei hoje, com as datas de nascimento, de morte, de casamento e de chegada ao Brasil. Comecem pela árvore 1, que vai de vocês até os bisavós, e sigam os avisos \"continua na árvore\": cada uma das outras é um ramo da família, até a sétima geração. A data do casamento dos pais de cada pessoa aparece na caixa dela, em vermelho, depois de \"pais ∞\". Quem não aparece é porque ainda não conheço; \"pais a descobrir\" é a pergunta que deixo para vocês. Boa parte das datas mais antigas vem do FamilySearch, uma árvore colaborativa, e ainda precisa ser conferida nos livros. Pessoas vivas aparecem só com o ano, ou sem data.\n"]
     for nome, tit in figs:
         txt.append(f"![{tit[0].upper() + tit[1:]}.](imagens/{nome}){{width=100%}}\n")
     CAP.write_text("\n".join(txt), encoding="utf-8")
     inc, vistos = incoerencias(raiz)
     lac = lacunas(vistos)
-    corpo = [f"# Lacunas e incoerências da árvore ({len(vistos)} pessoas em {len(paginas)} árvores)\n",
+    corpo = [f"# Lacunas e incoerências da árvore ({len(vistos)} pessoas em {len(pags)} árvores)\n",
              "Gerado por `scripts/arvore_livro.py`. Pessoas vivas ficam de fora.\n", "## Incoerências a resolver\n"]
     corpo += [f"- {x}" for x in dict.fromkeys(inc)]
     for g in range(0, GER_MAX + 1):
@@ -474,7 +646,7 @@ def principal():
             corpo.append(f"\n## Geração {g} acima de Matheus e Lucas\n")
             corpo += ls
     LACUNAS.write_text("\n".join(corpo) + "\n", encoding="utf-8")
-    print(len(vistos), "pessoas;", len(paginas), "árvores;", len(lac), "com lacunas;", len(set(inc)), "incoerências")
+    print(len(vistos), "pessoas;", len(pags), "árvores;", len(lac), "com lacunas;", len(set(inc)), "incoerências")
 
 
 if __name__ == "__main__":
