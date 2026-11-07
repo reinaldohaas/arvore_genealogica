@@ -22,7 +22,7 @@ Achei isso uma lição sobre genealogia. A origem que a família fotografa e a o
 
 A longitude zero não é natural. É isso que eu sempre digo aos alunos e que eles demoram a aceitar. A latitude tem uma origem física: o equador é o círculo onde o eixo de rotação da Terra é perpendicular à superfície, e qualquer civilização, em qualquer planeta, chegaria a ele. Mas não existe nenhuma razão física para que a longitude zero passe por Greenwich e não por Paris, por Roma ou por Florianópolis. É uma convenção. Ainda assim, sem essa escolha nenhum mapa funciona. Precisamos de um ponto a partir do qual contar.
 
-Toda família faz o mesmo. Escolhe um ponto e conta a partir dele. Para os mais de seiscentos descendentes que se reuniram em março de 2013, o meridiano zero era a chegada de Johann e Maria ao Brasil, em 1913: o centenário era contado a partir dali. Para a planilha do Agenor, o meridiano zero era o casal, e tudo se contava em filhos, netos, bisnetos, trinetos. Para este livro, o meridiano zero são vocês dois. O README do repositório diz isso com todas as letras: Matheus e Lucas são a geração G1, e tudo o mais se conta para trás a partir de vocês: G2 para os pais, G3 para os avós, até G8, os hexavós de Harderode e de Schleswig-Holstein.
+Toda família faz o mesmo. Escolhe um ponto e conta a partir dele. Para os mais de seiscentos descendentes que se reuniram em março de 2013, o meridiano zero era a chegada de Johann e Maria ao Brasil, em 1913: o centenário era contado a partir dali. Para a planilha do Agenor, o meridiano zero era o casal, e tudo se contava em filhos, netos, bisnetos, trinetos. Para este livro, o meridiano zero são vocês dois. A árvore que montei diz isso com todas as letras: Matheus e Lucas são a geração G1, e tudo o mais se conta para trás a partir de vocês: G2 para os pais, G3 para os avós, até G8, os hexavós de Harderode e de Schleswig-Holstein.
 
 Escolhi assim porque é o único jeito de fazer caber, numa só árvore, gente que nunca se encontrou. Os Haas da Baviera e os Lohmann da Baixa Saxônia nunca souberam uns dos outros. Os Michels de Hermeskeil e os Funke de Joinville viveram em séculos diferentes. O ponto onde todas essas linhas se cruzam é uma casa em Florianópolis onde moram dois meninos (hoje, dois homens). Vocês são a interseção. Por isso são a origem.
 
@@ -34,7 +34,7 @@ Uma família é assim. Vista de perto, é uma confusão de gente que nasce, casa
 
 ### As coordenadas da família
 
-O arquivo GEDCOM da árvore, aquele que exportei do FamilySearch e guardei no repositório, tem cinquenta e oito coordenadas geográficas. São os lugares onde a família nasceu, casou, morreu, chegou. Penso nelas como se as recitasse de pé sobre a longitude zero, aproximadas, como quem reza um terço. Faço isso aqui para vocês, devagar, de leste para oeste, porque é a direção em que a família andou.
+A árvore que exportei do FamilySearch tem cinquenta e oito coordenadas geográficas. São os lugares onde a família nasceu, casou, morreu, chegou. Penso nelas como se as recitasse de pé sobre a longitude zero, aproximadas, como quem reza um terço. Faço isso aqui para vocês, devagar, de leste para oeste, porque é a direção em que a família andou.
 
 O ponto mais oriental de todos é a Baviera. Stoffen, a aldeia do oleiro Georg Haas, perto de Landsberg am Lech, a uns 48 graus de latitude norte e 11 de longitude leste. Leonberg, hoje Maxhütte-Haidhof, a 49,2 norte e 12,1 leste. Heumaden, Rückersrieth e Burgtreswitz, em volta de Moosbach, a 49,6 norte e 12,4 leste. Esses são os Haas, os Meier, os Voit.
 
@@ -86,5 +86,5 @@ A volta para casa, fosse qual fosse o caminho, cruzaria de novo, sem cerimônia,
 
 - O Haas nascido em Leonberg em 1941, de quem eu levava notícia na pasta, é parente de vocês? Só um documento decide.
 - De onde veio o 8 de julho que o Agenor anotou na planilha, se o registro civil diz 11? Perguntem aos primos em que dia a família festejava o aniversário do Fata.
-- Quantas das cinquenta e oito coordenadas do arquivo GEDCOM ficam longe de um rio? Desenhem o mapa e contem.
+- Quantas das cinquenta e oito coordenadas da árvore ficam longe de um rio? Desenhem o mapa e contem.
 - Quem mais, entre os descendentes do Fata e da Mota, fez o caminho de volta à Europa? Perguntem aos vivos.
