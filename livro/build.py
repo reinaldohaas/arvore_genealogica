@@ -174,6 +174,7 @@ LATEX_PREAMBULO = r"""
 \fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\small\thepage}}
 \setlength{\emergencystretch}{3em}
 \renewcommand{\figurename}{@@FIGURA@@}
+\usepackage{pdflscape}
 """
 
 LUA_FILTRO = r"""
@@ -184,6 +185,20 @@ function Div(el)
         .. el.content .. {pandoc.RawBlock("latex", "\\end{" .. cls .. "}")}
     end
   end
+end
+
+-- As árvores genealógicas são largas: cada uma vai numa página em paisagem.
+function Figure(el)
+  local arvore = false
+  el:walk({Image = function(i) if i.src:match("arvore_%d+") then arvore = true end end})
+  if not arvore then return nil end
+  el = el:walk({Image = function(i)
+    i.attributes.width = "100%"
+    i.attributes.height = "85%"
+    return i
+  end})
+  return {pandoc.RawBlock("latex", "\\begin{landscape}"), el,
+          pandoc.RawBlock("latex", "\\end{landscape}")}
 end
 """
 
