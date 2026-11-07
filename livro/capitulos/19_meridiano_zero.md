@@ -36,7 +36,7 @@ Uma família é assim. Vista de perto, é uma confusão de gente que nasce, casa
 
 A árvore que exportei do FamilySearch tem cinquenta e oito coordenadas geográficas. São os lugares onde a família nasceu, casou, morreu, chegou. Penso nelas como se as recitasse de pé sobre a longitude zero, aproximadas, como quem reza um terço. Faço isso aqui para vocês, devagar, de leste para oeste, porque é a direção em que a família andou.
 
-O ponto mais oriental de todos é a Baviera. Stoffen, a aldeia do oleiro Georg Haas, perto de Landsberg am Lech, a uns 48 graus de latitude norte e 11 de longitude leste. Leonberg, hoje Maxhütte-Haidhof, a 49,2 norte e 12,1 leste. Heumaden, Rückersrieth e Burgtreswitz, em volta de Moosbach, a 49,6 norte e 12,4 leste. Esses são os Haas, os Meier, os Voit.
+O ponto mais oriental de todos é a Baviera. Leonberg, hoje Maxhütte-Haidhof, a 49,2 norte e 12,1 leste. Heumaden, Rückersrieth e Burgtreswitz, em volta de Moosbach, a 49,6 norte e 12,4 leste. Esses são os Haas, os Meier, os Voit.
 
 Um pouco a oeste e ao norte, a Baixa Saxônia: Harderode, a terra dos Lohmann, perto de Hameln, a 52 norte e 9,4 leste, e mais ao norte ainda Schleswig-Holstein, de onde vieram os Schnack. São a família da mãe de vocês.
 
@@ -58,7 +58,7 @@ O Tubarão, que desce da serra e deságua na laguna, e que em março de 1974 mat
 
 Os imigrantes se instalaram à beira dos rios porque a água era estrada, era força para o moinho, era terra plana e fértil nas várzeas. E porque não sabiam. Ninguém lhes contou que aqueles rios podiam subir mais de dez metros em poucos dias. Os três rios da família são alimentados pela mesma máquina atmosférica: a umidade que vem da Amazônia, carregada para o sul por uma corrente de vento que corre baixa, a leste dos Andes; as frentes que estacionam sobre o Sul do Brasil; os ciclones que se formam na costa; e, nos anos de El Niño, a chuva que não para. Três rios, uma só chuva. É o meu trabalho estudar essa chuva. Não escolhi esse trabalho por causa da família. Mas, depois de escrever este livro, não consigo mais separar uma coisa da outra.
 
-Houve também a herança, que foi o assunto do capítulo 15. Na Europa, a terra que se dividia até não sobrar nada, no Mosela e no Hunsrück, empurrando os Michels, os Arns e os Preis para o mar; e a terra que passava inteira a um só filho, na Baviera antiga, empurrando os outros para as olarias e as usinas, como o oleiro Georg e o operário Josef. No Brasil, o lote colonial e as famílias de dez, doze, quinze filhos (o Fata teve onze, o trisavô Carlos Doerner teve quinze, Francisco Lohmann teve doze) e, outra vez, a necessidade de partir: para o Alto Vale, para o Oeste, para o Paraná. Em quase todos os ramos há gente que não ficou com a terra e por isso andou. Vocês são o resultado de muitos que não herdaram.
+Houve também a herança, que foi o assunto do capítulo 15. Na Europa, a terra que se dividia até não sobrar nada, no Mosela e no Hunsrück, empurrando os Michels, os Arns e os Preis para o mar; e a terra que passava inteira a um só filho, na Baviera antiga, empurrando os outros para as oficinas e as usinas, como o operário Josef. No Brasil, o lote colonial e as famílias de dez, doze, quinze filhos (o Fata teve onze, o trisavô Carlos Doerner teve quinze, Francisco Lohmann teve doze) e, outra vez, a necessidade de partir: para o Alto Vale, para o Oeste, para o Paraná. Em quase todos os ramos há gente que não ficou com a terra e por isso andou. Vocês são o resultado de muitos que não herdaram.
 
 ### Os Andes, brevemente
 

@@ -19,3 +19,7 @@ desktop.ini
 
 # Dados pessoais de parentes vivos (manter só localmente)
 privado/
+
+# Cartas escaneadas e catálogo com endereços (manter só localmente)
+Cartas/
+docs/cartas_alemanha_traducao_e_analise.md

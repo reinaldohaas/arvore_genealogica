@@ -92,9 +92,37 @@ Estão sepultados no cemitério de Aurora, ao lado de muitos túmulos feitos por
 
 O Alto Vale onde os dois descansam é o vale do rio Itajaí do Sul e de seus afluentes, o mesmo que eu estudo hoje com modelos hidrológicos. Dez anos depois da morte da *Mota*, em julho de 1983, num ano de El Niño forte, a chuva caiu durante dias sobre a bacia do Itajaí, e a água chegou a cerca de 15 metros em Blumenau. Em agosto de 1984 veio outra, que em Blumenau passou um pouco da marca do ano anterior. Rio do Sul, logo abaixo de Aurora, ficou debaixo d'água nas duas ocasiões, e o Alto Vale inteiro aprendeu de novo que vivia numa bacia. Quando vejo nos meus mapas as manchas de inundação de 1983 e 1984 sobre o Alto Vale, penso que a família escolheu, como todas as famílias de colonos, morar junto à água. A água era estrada, força e risco ao mesmo tempo. Volto a esses rios no Capítulo 13.
 
-Johann e Maria tinham saído da Baviera em março de 1913 com dois filhos pequenos e, segundo a tradição, um bebê a caminho. Deixaram no Brasil sete filhos criados, dezenas de netos e um nome escrito nas igrejas de Ituporanga. Deixaram também um fio cortado. Desde a guerra ninguém da família escrevera para Sandberg ou para Heumaden. Os parentes de lá, se ainda existiam, não sabiam que havia um ramo da família num vale do sul do Brasil, que esse ramo fizera igrejas e anjos e que agora enterrava seus velhos.
+Johann e Maria tinham saído da Baviera em março de 1913 com dois filhos pequenos e, segundo a tradição, um bebê a caminho. Deixaram no Brasil sete filhos criados, dezenas de netos e um nome escrito nas igrejas de Ituporanga. Durante muitos anos escrevi, nesta mesma página, que eles tinham deixado também um fio cortado: que desde a guerra ninguém da família escrevera para a Alemanha e que, quando Maria morreu, ninguém do outro lado soube. Eu estava errado, e o erro é a melhor notícia deste capítulo.
 
-Quando Maria morreu, ninguém na Baviera soube. O mapa tinha um buraco, e um dia alguém da família iria reconstruir o tempo que fez lá dentro, pelas bordas, com paciência de reanálise. Antes de ir à Baviera, porém, eu precisava recuar muito mais. Minha mãe, Adelina Doerner, vinha de uma gente que tinha chegado a Santa Catarina oitenta e cinco anos antes do *Formosa*, em veleiros, num tempo em que ainda não havia vapor nem quarentena de porto em porto, mas havia calmaria. A estação seguinte desta retrotrajetória fica na baía de Desterro, em novembro de 1828.
+### As cartas de Rempesgrün
+
+*Ribeirão das Pacas, Aurora, e Rempesgrün, Saxônia, 1971 a 1974*
+
+Em novembro de 2026, quando este livro já estava publicado, apareceu na família um maço de envelopes de correio aéreo, de papel fino, com selos da República Democrática Alemã, a Alemanha comunista. Um deles, datilografado, era endereçado à *Familie Johann Haas*, no Alto Vale. Os outros eram para o tio Martin Sautner, marido da tia Maria, a filha caçula do Fata e da Mota, em Ribeirão das Pacas. O remetente escrito no verso era Walter Heckel, de Rempesgrün, uma aldeia junto a Auerbach, no Vogtland saxão, a três quilômetros de Dorfstadt e de Falkenstein. É a mesma região de onde vinham as cartas que a família sempre guardou, e a umas poucas dezenas de quilômetros de Eibenstock, onde Johann e Maria se casaram em 1907.
+
+Dentro havia quatro cartas. Foram escaneadas pela metade, só o quarto superior esquerdo de cada folha, e o fim das linhas ficou cortado. Ainda assim, o que se lê basta para mudar a história.
+
+A primeira tem data de 22 de agosto de 1971. A Mota estava viva, com oitenta e três anos. Quem escreve é uma mulher, numa letra redonda de escola antiga, com um pequeno arco desenhado sobre cada letra *u*. Esse arco é um hábito da velha escrita alemã, a *Kurrent*, que se usava para não confundir o *u* com o *n*; ela escrevia no alfabeto moderno sem conseguir desaprender o gesto da escola. Agradece a carta que chegou em 17 de agosto, agradece por não deixarem a amizade se romper, e escreve então a linha que me fez parar:
+
+*Oft d[...] am Bahnhof das habe ich n[...] liebe Schwester nicht mehr sehe.*
+
+O fim das linhas se perdeu no escaneamento, mas o sentido não deixa dúvida: muitas vezes ela pensa na estação de trem, e nunca esqueceu que não veria mais a querida irmã. Logo abaixo conta que se reúne com frequência com as duas outras irmãs e com Karl, e que a cada encontro alguém pergunta se chegou carta do Brasil, porque prometeram à mãe que continuariam a se escrever.
+
+No Capítulo 4 eu imaginei uma estação de trem em março de 1913, depois da fotografia de despedida, e escrevi que *imaginava*. Agora sei que houve uma plataforma, e que uma irmã da Mota estava nela e se lembrou daquilo por cinquenta e oito anos.
+
+![O começo da carta de 22 de agosto de 1971, escrita em Rempesgrün por uma irmã da Mota. Repare no pequeno arco sobre cada letra *u*. O lado direito da folha ficou fora do escaneamento.](imagens/carta_rempesgruen_1971.jpg){width=75%}
+
+A segunda carta, sem data visível, começa com *Rempesg[rün]* e foi escrita por outra mão, mais jovem. Diz que cada carta do Brasil é um *Freudentag*, um dia de festa; que já vão fazer quase sessenta anos desde que se viram pela última vez, o que a põe por volta de 1972; que é bom saber que todos cuidam bem da mãe e que ela recebe uma pequena aposentadoria. Pergunta o nome e o endereço de alguém da família que estaria na Alemanha Ocidental, e conta que o filho tem amigos em Veszprém, na Hungria, e que a Hungria, como eles, é socialista.
+
+A terceira tem data de 3 de janeiro de 197[4], com o último algarismo cortado, e foi escrita depois da morte da Mota, porque fala dos *pais que já não estão vivos*. Começa assim: *Wir bedauern das Ableben Eurer l[ieben] Mutter. Ihr Leben bestand aus M[ühe und] Sorge. Es bleibt eben niemand auf [dieser] Erde.* Lamentamos a morte da vossa querida mãe. A vida dela foi feita de trabalho e preocupação. Ninguém fica para sempre nesta terra. Depois agradece à tia Maria a carta e as fotografias, e explica, com uma franqueza que me fez rir e quase chorar ao mesmo tempo, que ninguém ali conseguiu traduzir a carta, porque tinha sido escrita em português, e lá as línguas eram o alemão, o inglês e o russo. O tio Martin, diz, sempre lhes escreveu cartas bonitas em alemão. E pede que, mesmo sem os pais vivos, a correspondência não acabe: não precisam escrever cartas grandes, basta que saibam sempre o que se passa do lado de cá.
+
+A quarta é de novo da mulher do arco sobre o *u*. Não tem data visível. Ela conta que esperou muito por notícias e que precisa comunicar que Walter, o marido dela, morreu. Estava cego e já não podia andar. A última palavra dele, escreve, foi o nome dela, ou é assim que leio a linha cortada. *Es geht ein nach den andern*: vai um depois do outro. Depois fala dos filhos, Hans e Horst, de uma casa bonita que vão embelezando, e diz que tem três ovelhas.
+
+Então a irmã da Mota era a mulher de Walter Heckel, e foi ela quem escreveu de Rempesgrün. Não sei o nome dela. Pode ser Theresia, a irmã nascida em Heumaden em 1890, ou uma irmã mais nova, nascida depois que a família deixou a aldeia. O sobrenome de casada ela nos deu; o de batismo, a carta guardou na metade que o escâner não pegou.
+
+Quem manteve o fio, durante décadas, foi o tio Martin Sautner. A Mota não escrevia em português, as filhas e os netos já não escreviam em alemão, e era ele quem sentava à mesa em Ribeirão das Pacas e escrevia, em alemão, para o outro lado da Cortina de Ferro. Quando a Mota morreu, a família de lá soube. Mandou pêsames. Pediu para não parar.
+
+E nós paramos. Não sei quando chegou a última carta, nem quem deixou de responder. Sei que, quando comecei esta pesquisa, em 2012, ninguém me falou dos primos de Rempesgrün, e que fui procurar parentes na Baviera, onde eles não estavam. O mapa tinha um buraco, mas não era o buraco da guerra: era o nosso. Antes de tentar fechá-lo, eu precisava recuar muito mais. Minha mãe, Adelina Doerner, vinha de uma gente que tinha chegado a Santa Catarina oitenta e cinco anos antes do *Formosa*, em veleiros, num tempo em que ainda não havia vapor nem quarentena de porto em porto, mas havia calmaria. A estação seguinte desta retrotrajetória fica na baía de Desterro, em novembro de 1828.
 
 ### Para vocês descobrirem
 
@@ -102,5 +130,8 @@ Quando Maria morreu, ninguém na Baviera soube. O mapa tinha um buraco, e um dia
 - O que o Fata queria em 1939: uma visita ou a volta definitiva? Havia passagem comprada ou só um desejo dito à mesa? Quem ouviu as versões daquele tempo pode ainda lembrar de alguma.
 - Por que caminho seguiram as caixas de 1945, e alguma resposta voltou da Alemanha?
 - Quais túmulos do cemitério de Aurora foram feitos pelo Fata? O texto do centenário não diz. Vão lá olhar e perguntem aos netos de Aurora.
+- Como se chamava a irmã da Mota casada com Walter Heckel? E quem eram as outras duas irmãs e o irmão Karl? As folhas inteiras das cartas, escaneadas em tamanho A4, frente e verso, devem trazer a assinatura.
+- Quem da família estava na Alemanha Ocidental por volta de 1972, a pessoa cujo endereço os primos de Rempesgrün pediram?
+- Onde estão as cartas que o tio Martin escreveu? Se os primos de lá as guardaram como nós guardamos as deles, elas contam o nosso lado da história.
 
 [^c7-1]: O relato está no texto do centenário (Marise Haas Lourenço, 2013) e é tratado aqui como notícia que chegava à família, não como fato apurado. Sobre a Campanha de Nacionalização em Santa Catarina e seus efeitos sobre as comunidades teuto-brasileiras, ver, entre outros, Giralda Seyferth, *Nacionalismo e identidade étnica* (Florianópolis, 1981). Fica como pendência buscar depoimentos identificados ou documentos policiais da região de Ituporanga no período.

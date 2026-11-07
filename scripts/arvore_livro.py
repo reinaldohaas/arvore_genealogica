@@ -39,7 +39,9 @@ CORRECOES = {
     "G5P1-8FD": {"nome": "Dr. Carlos Heinz Funke"},
     "GX1B-HM1": {"nome": "Johann Haas, o Fata", "pl": "Leonberg, hoje Maxhütte-Haidhof", "arr": "Rio de Janeiro, 26/03/1913"},
     "PXN3-8ZG": {"nome": "Maria Meier, a Mota", "arr": "Rio de Janeiro, 26/03/1913"},
-    "GX1B-XK7": {"nome": "Josef Haas", "b": "19/05/1847", "pl": "Stoffen", "d": "", "nota": "operário em Leonberg"},
+    # O batismo de Stoffen (1847) era de um homônimo: o casamento de Leonberg de 1878
+    # (Leonberg_Bul012, p. 8, nº 4) dá como pais Michael Haas e Kunigunde Stadelmann.
+    "GX1B-XK7": {"nome": "Josef Haas", "b": "", "pl": "", "d": "", "nota": "operário em Leonberg"},
     "GX1B-22C": {"nome": "Franziska Dengler", "d": ""},
     "GX1B-868": {"nome": "Georg Adam Meier", "b": "09/03/1859", "pl": "Heumaden", "d": ""},
     "GX1B-4GX": {"nome": "Franziska Voit", "b": "29/06/1861", "pl": "Burgtreswitz", "d": ""},
@@ -66,14 +68,15 @@ CORRECOES = {
 }
 # Pessoas que estão nos documentos e faltam no GEDCOM: pai da chave -> (pai, mãe)
 EXTRA_PAIS = {
-    "GX1B-XK7": ({"id": "doc-georg-haas", "nome": "Georg Haas", "nota": "oleiro em Stoffen"},
-                 {"id": "doc-albrecht", "nome": "Maria Anna Albrecht", "nota": "Stoffen"}),
+    "GX1B-XK7": ({"id": "doc-michael-haas", "nome": "Michael Haas", "nota": "Etzgersrieth? (a conferir)"},
+                 {"id": "doc-stadelmann", "nome": "Kunigunde Stadelmann", "nota": "Etzgersrieth? (a conferir)"}),
 }
 # Casamentos, pela chave do filho
 CASAMENTOS = {
     "LYPQ-GW3": "09/03/1948 (civil) e 1947 (igreja), Vidal Ramos",
     "L1BB-H9V": "09/07/1921 (igreja) e 25/02/1923 (civil), São Martinho",
     "GVX4-ZHK": "03/08/1907, Eibenstock (tradição)",
+    "GX1B-HM1": "04/03/1878, Leonberg",
     "PXN3-8ZG": "23/11/1884, Moosbach",
     "L1BB-NQ3": "c. 1877; ele casou de novo em 29/04/1900",
     "K84V-VR2": "",

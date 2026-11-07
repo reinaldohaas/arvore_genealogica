@@ -16,7 +16,6 @@ Gerado por `scripts/arvore_livro.py`. Pessoas vivas ficam de fora.
 
 ## Geração 3 acima de Matheus e Lucas
 
-- **Johann Haas, o Fata** (`GX1B-HM1`; n. 11/07/1884, Leonberg, hoje Maxhütte-Haidhof; filho(a) de Josef Haas e Franziska Dengler). Falta: data e lugar do casamento dos pais.
 - **Gertrudes Preiss, a Omama** (`L1BB-QH8`; n. 05/03/1896, São Martinho; filho(a) de Emanuel Preis e Helena Michels). Falta: data e lugar do casamento dos pais.
 - **Oscar Martin Funke** (`PXPR-TY7`; n. 01/12/1910, Glauchau; filho(a) de Paulo Funke e Hulda (Funke)). Falta: data e lugar do casamento dos pais.
 - **Dora Marta Aenishaenslin, a Oma Dora** (`PXPT-X3Q`; n. 25/09/1914, Joinville; filho(a) de Jacques Aenishaenslin e Frida Liechti). Falta: data e lugar do casamento dos pais.
@@ -25,7 +24,7 @@ Gerado por `scripts/arvore_livro.py`. Pessoas vivas ficam de fora.
 
 ## Geração 4 acima de Matheus e Lucas
 
-- **Josef Haas** (`GX1B-XK7`; n. 19/05/1847, Stoffen; filho(a) de Georg Haas e Maria Anna Albrecht). Falta: data de morte; data e lugar do casamento dos pais.
+- **Josef Haas** (`GX1B-XK7`; nascimento desconhecido; filho(a) de Michael Haas e Kunigunde Stadelmann). Falta: data de nascimento ou batismo; lugar de nascimento; data de morte; data e lugar do casamento dos pais.
 - **Franziska Dengler** (`GX1B-22C`; nascimento desconhecido). Falta: data de nascimento ou batismo; lugar de nascimento; data de morte; nomes dos pais.
 - **Georg Adam Meier** (`GX1B-868`; n. 09/03/1859, Heumaden; filho(a) de Michael Meier e Margaretha Pfannenstein). Falta: data de morte; data e lugar do casamento dos pais.
 - **Franziska Voit** (`GX1B-4GX`; n. 29/06/1861, Burgtreswitz; filho(a) de Johann Voit e Barbara Woppmann). Falta: data de morte; data e lugar do casamento dos pais.
@@ -41,8 +40,8 @@ Gerado por `scripts/arvore_livro.py`. Pessoas vivas ficam de fora.
 
 ## Geração 5 acima de Matheus e Lucas
 
-- **Georg Haas** (`doc-georg-haas`; nascimento desconhecido). Falta: data de nascimento ou batismo; lugar de nascimento; data de morte; nomes dos pais.
-- **Maria Anna Albrecht** (`doc-albrecht`; nascimento desconhecido). Falta: data de nascimento ou batismo; lugar de nascimento; data de morte; nomes dos pais.
+- **Michael Haas** (`doc-michael-haas`; nascimento desconhecido). Falta: data de nascimento ou batismo; lugar de nascimento; data de morte; nomes dos pais.
+- **Kunigunde Stadelmann** (`doc-stadelmann`; nascimento desconhecido). Falta: data de nascimento ou batismo; lugar de nascimento; data de morte; nomes dos pais.
 - **Michael Meier** (`PJ96-G48`; n. 1820, Heumaden). Falta: data exata de nascimento (hoje: 1820); data de morte; nomes dos pais.
 - **Margaretha Pfannenstein** (`PJ9D-GST`; n. 1825, Rückersrieth). Falta: data exata de nascimento (hoje: 1825); data de morte; nomes dos pais.
 - **Johann Voit** (`PJ96-ZS1`; n. 1820, Burgtreswitz). Falta: data exata de nascimento (hoje: 1820); data de morte; nomes dos pais.

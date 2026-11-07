@@ -110,7 +110,7 @@ O segundo batismo está na página 115, dois anos e meio depois, num sábado de 
 
 A parteira, segundo a transcrição, chamava-se Schmirl. A madrinha: *Margaretha Albrecht*, lavradora.
 
-Albrecht. Li duas vezes. Albrecht era o sobrenome da mãe de Josef Haas, a Maria Anna Albrecht de Stoffen, a trisavó de vocês do lado do Fata. Stoffen fica na Alta Baviera, a centenas de quilômetros de Burgtreswitz, e Albrecht é um sobrenome comum em toda a Alemanha. Não há nenhuma razão para achar que as duas mulheres fossem parentes, e eu não acho. Mesmo assim, sorri. É o tipo de coincidência que a genealogia oferece de vez em quando, como uma piscadela, para lembrar ao pesquisador que os nomes se repetem e que é preciso ter cuidado com eles.
+Albrecht. Li duas vezes. Durante anos achei que Albrecht era o sobrenome da mãe de Josef Haas, a Maria Anna Albrecht de Stoffen, e sorri da coincidência. Depois descobri que a Maria Anna de Stoffen nunca foi nossa: era mãe de outro Joseph Haas. A piscadela da genealogia era maior do que eu pensava. Os nomes se repetem, e é preciso ter cuidado com eles.
 
 ::: ficha
 **Ficha do Arquivo**: Paróquia de St. Peter und Paul, Moosbach. Livro de batismos 1847–1904 (`Moosbach_Leuchtenberg005`), p. 115. Batizada: Franziska Voit. Pai: Johann Voit, *Bauer* em (Burg)Treswitz. Mãe: Barbara Woppmann (*Woppman*). Nascimento: 29 de junho de 1861, pela manhã (*Morgens*). Batismo: 29 de junho de 1861, em Moosbach. Parteira: Schmirl (segundo a transcrição do dossiê). Madrinha: Margaretha Albrecht, *Bäuerin*. Imagem: `imagens/doc4_franziska_voit_1861.jpg`.
@@ -126,9 +126,9 @@ Em Heumaden, um fabricante de rodas chamado Michael Meier. Em Rückersrieth, uma
 
 Em Burgtreswitz, um lavrador chamado Johann Voit e sua mulher, Barbara Woppmann. Deles nasce, na manhã da festa dos padroeiros de 1861, Franziska.
 
-Adam e Franziska casam-se em Moosbach num domingo de novembro de 1884, com os dois pais por testemunhas. Ele faz rodas; depois vive da terra. Têm filhos: Johann Baptist, Barbara, e depois, numa madrugada de abril de 1888, Maria, a Mota. Mais tarde virão Margaretha, Josef, Georg, Anna.
+Adam e Franziska casam-se em Moosbach num domingo de novembro de 1884, com os dois pais por testemunhas. Ele faz rodas; depois vive da terra. Têm filhos: Maria Katharina em 1886, e depois, numa madrugada de abril de 1888, Maria, a Mota. Mais tarde virão Theresia e Michael. Depois de 1892, a família some dos livros de Moosbach e reaparece, oitenta anos depois, em cartas vindas da Saxônia.
 
-A cinquenta quilômetros dali, em Leonberg, o operário Josef Haas, filho de um oleiro de Stoffen, e Franziska Dengler têm um filho chamado Johann.
+A cinquenta quilômetros dali, em Leonberg, o operário Josef Haas, filho de Michael Haas e Kunigunde Stadelmann, e Franziska Dengler têm um filho chamado Johann.
 
 Essas duas linhas vão se encontrar em algum momento antes de 1907. Não sei onde, nem como. O casamento foi em Eibenstock, longe das duas aldeias. Talvez ele tenha ido trabalhar como estucador em alguma obra perto de Heumaden. Talvez ela tenha ido trabalhar em outro lugar, como tantas moças do campo. Talvez tenham se conhecido numa festa, numa feira, numa estação de trem. Não há documento. E é aqui que o meu trabalho de pesquisador termina e começa o de vocês, se quiserem: o livro de casamentos de Eibenstock existe, em algum arquivo da Saxônia, e um dia alguém vai abri-lo.
 
