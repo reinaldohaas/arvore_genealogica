@@ -355,7 +355,7 @@ def desenha(raiz, n, destino, titulo, nivel=2):
 # ------------------------------------------------------------------ páginas em paisagem
 # Tamanho real da mancha do livro (15,5 x 23 cm) virada em paisagem, descontada a legenda:
 # a figura é desenhada nesse tamanho, para que as letras saiam no corpo em que foram escolhidas.
-PAG_W, PAG_H = 7.35, 4.15
+PAG_W, PAG_H = 7.7, 3.85
 
 
 def linhas_compactas(p, larg_chars):

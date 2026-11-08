@@ -12,8 +12,10 @@ Estas são as árvores de vocês até a sétima geração, até onde sei hoje, c
 
 ![Mãe de Gertrudes Preiss: antepassados de Helena Michels.](imagens/arvore_05.png){width=100%}
 
-![Antepassados de Oscar Martin Funke e Dora Marta Aenishaenslin.](imagens/arvore_06.png){width=100%}
+![Antepassados de Oscar Martin Funke.](imagens/arvore_06.png){width=100%}
 
-![Antepassados de Erno Hoeveler.](imagens/arvore_07.png){width=100%}
+![Antepassados de Dora Marta Aenishaenslin.](imagens/arvore_07.png){width=100%}
 
-![Pais de Rosita Érica Lohmann: antepassados de Francisco Jacob Lohmann e Miguelina Leocádia Endres.](imagens/arvore_08.png){width=100%}
+![Antepassados de Erno Hoeveler.](imagens/arvore_08.png){width=100%}
+
+![Pais de Rosita Érica Lohmann: antepassados de Francisco Jacob Lohmann e Miguelina Leocádia Endres.](imagens/arvore_09.png){width=100%}

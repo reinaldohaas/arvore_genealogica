@@ -120,7 +120,7 @@ A terceira tem data de 3 de janeiro de 197[4], com o último algarismo cortado, 
 
 A quarta é de novo da mulher do arco sobre o *u*. Não tem data visível. Ela conta que esperou muito por notícias e que precisa comunicar que Walter, o marido dela, morreu. Estava cego e já não podia andar. A última palavra dele, escreve, foi o nome dela, ou é assim que leio a linha cortada. *Es geht ein nach den andern*: vai um depois do outro. Depois fala dos filhos, Hans e Horst, de uma casa bonita que vão embelezando, e diz que tem três ovelhas.
 
-Então a irmã da nossa Mota era a mulher de Walter Heckel, e foi ela quem escreveu de Rempesgrün. Para mim, ela é Theresia Meier, a irmãzinha que nasceu em Heumaden em 22 de junho de 1890, quando a Mota tinha dois anos, e que teve a mesma madrinha que ela. A assinatura que confirmaria o nome ficou na metade da folha que o escâner não pegou, e um dia vocês vão poder lê-la.
+Então a irmã da nossa Mota era a mulher de Walter Heckel, e foi ela quem escreveu de Rempesgrün. Para mim, ela é Theresia Meier, a irmãzinha que nasceu em 22 de junho de 1891, quando a Mota tinha três anos, e que teve a mesma madrinha que ela. A assinatura que confirmaria o nome ficou na metade da folha que o escâner não pegou, e um dia vocês vão poder lê-la.
 
 Quem manteve o fio, durante décadas, foi o tio Martin Sautner. A Mota não escrevia em português, as filhas e os netos já não escreviam em alemão, e era ele quem sentava à mesa em Ribeirão das Pacas e escrevia, em alemão, para o outro lado da Cortina de Ferro. Quando a Mota morreu, a família de lá soube. Mandou pêsames. Pediu para não parar.
 

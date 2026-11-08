@@ -32,7 +32,7 @@ Quase todos esses materiais estão no repositório digital da árvore genealógi
 
 **Os pais de Josef Haas.** As primeiras versões deste livro davam Josef como nascido em Stoffen em 1847, filho de Georg Haas e Maria Anna Albrecht, seguindo árvores colaborativas. O casamento de Leonberg de 1878 (`Leonberg_Bul012`, p. 8, nº 4), que conferi na imagem, dá como pais *Mich. Haas* e *Kunigunde Stadelmann*. A origem deles em Etzgersrieth, os irmãos de Johann e a data de 8 de julho de 1884 no batismo vêm da leitura do Antigravity e ainda estão por conferir.
 
-**Os irmãos da Mota.** O livro de batismos de Moosbach traz, como filhos de Georg Adam Meier e Franziska Voit, Maria Katharina (1886), Maria (1888), Theresia (1890) e Michael (1892). Conferi o batismo de Theresia na imagem; os outros são leitura do Antigravity. Os irmãos que as árvores colaborativas dão a Maria (Johann Baptist, Barbara, Margaretha, Josef, Georg, Anna) não aparecem lá.
+**Os irmãos da Mota.** O livro de batismos de Moosbach traz, como filhos de Georg Adam Meier e Franziska Voit, Maria Katharina (1886), Maria (1888), Theresia (1891) e Michael (1893). Conferi nas imagens os batismos de Maria e de Theresia; os outros são leitura do Antigravity. Na releitura, a profissão do pai em 1888 é *Krämer*, e não *Ökonom*, como eu lia antes. A mesma releitura dava o nascimento de Johann Haas em 8 de julho de 1884; conferi o assento nº 47 e ele diz, por extenso, *elf*, onze, registrado em 13 de julho. Os irmãos que as árvores colaborativas dão a Maria (Johann Baptist, Barbara, Margaretha, Josef, Georg, Anna) não aparecem lá.
 
 **Ignazia Loch.** A data de 1828, em São Pedro de Alcântara, é anterior à fundação da colônia, e por isso tem de ser aproximada.
 

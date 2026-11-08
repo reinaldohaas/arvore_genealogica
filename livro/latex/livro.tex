@@ -103,7 +103,27 @@
 \fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\small\thepage}}
 \setlength{\emergencystretch}{3em}
 \renewcommand{\figurename}{Figura}
-\usepackage{pdflscape}
+\makeatletter
+\newenvironment{paisagem}{%
+  \clearpage
+  \begingroup
+  \paperwidth=23cm \paperheight=15.5cm
+  \pdfpagewidth=\paperwidth \pdfpageheight=\paperheight
+  \textwidth=19.6cm \textheight=11.0cm
+  \oddsidemargin=\dimexpr1.7cm-1in\relax \evensidemargin=\oddsidemargin
+  \topmargin=\dimexpr1.0cm-1in\relax
+  \hsize=\textwidth \linewidth=\textwidth \columnwidth=\textwidth
+  \vsize=\textheight \global\@colht=\textheight \global\@colroom=\textheight
+  \setlength{\headwidth}{\textwidth}%
+  \def\fps@figure{H}%
+}{%
+  \clearpage
+  \endgroup
+  \global\@colht=\textheight \global\@colroom=\textheight
+  \pdfpagewidth=\paperwidth \pdfpageheight=\paperheight
+  \setlength{\headwidth}{\textwidth}%
+}
+\makeatother
 \usepackage{pdfpages}
 \usepackage[noautomatic]{imakeidx}
 \makeindex[name=pessoas,title=Índice de pessoas,columns=2,intoc]
@@ -152,7 +172,7 @@
 
 \setstretch{1.12}
 \mainmatter
-\chapter*{Prólogo: As Coordenadas de Duas Vidas}\label{prologo}
+\chapter*{Prólogo: As Coordenadas de Duas Vidas}\markboth{Prólogo: As Coordenadas de Duas Vidas}{Prólogo: As Coordenadas de Duas Vidas}\label{prologo}
 \addcontentsline{toc}{chapter}{Prólogo: As Coordenadas de Duas Vidas}
 
 \emph{27,6° S · 48,5° O, Florianópolis\index[lugares]{florianopolis@Florianópolis}, SC}
@@ -1682,19 +1702,20 @@ florestas escuras da fronteira com a Boêmia. A igreja ficava em
 Moosbach\index[lugares]{moosbach@Moosbach}, a paróquia de São Pedro e São Paulo, e era para lá que se
 levavam os recém-nascidos, os noivos e os mortos.
 
-Às duas horas da madrugada daquele 7 de abril, na casa do \emph{Ökonom}
-Georg Adam Meier\index[pessoas]{meier, georg adam@Meier, Georg Adam}, nasceu uma menina. A mãe, Franziska Voit\index[pessoas]{voit, franziska@Voit, Franziska}, tinha vinte
-e seis anos; o pai, vinte e nove. Casados havia pouco mais de três anos
-(a cerimônia fora em 23 de novembro de 1884, na mesma igreja de
-Moosbach\index[lugares]{moosbach@Moosbach}), já tinham batizado, em junho de 1886, uma menina chamada
-Maria Katharina. A recém-nascida de 1888 recebeu só o nome de Maria. A
-família sempre a chamou de Maria Katharina, e o livro de batismos sugere
-de onde veio a confusão: o nome pertencia à irmã mais velha. Se aquela
-primeira menina morreu pequena, como tantas, o livro de óbitos de
-Moosbach\index[lugares]{moosbach@Moosbach} ainda não nos disse. Foi batizada no mesmo dia, como se fazia
-na Baviera\index[lugares]{baviera@Baviera} católica; a madrinha, diz o livro da paróquia, foi Katharina
-Reichenberger, lavradora de Burgtreswitz\index[lugares]{burgtreswitz@Burgtreswitz}, a aldeia da mãe. Foi ela a
-madrinha de todas as meninas do casal.
+Às duas horas da madrugada daquele 7 de abril, na casa do pequeno
+vendeiro (\emph{Krämer}, diz o livro) Georg Adam Meier\index[pessoas]{meier, georg adam@Meier, Georg Adam}, nasceu uma
+menina. A mãe, Franziska Voit\index[pessoas]{voit, franziska@Voit, Franziska}, tinha vinte e seis anos; o pai, vinte e
+nove. Casados havia pouco mais de três anos (a cerimônia fora em 23 de
+novembro de 1884, na mesma igreja de Moosbach\index[lugares]{moosbach@Moosbach}), já tinham batizado, em
+junho de 1886, uma menina chamada Maria Katharina. A recém-nascida de
+1888 recebeu só o nome de Maria. A família sempre a chamou de Maria
+Katharina, e o livro de batismos sugere de onde veio a confusão: o nome
+pertencia à irmã mais velha. Se aquela primeira menina morreu pequena,
+como tantas, o livro de óbitos de Moosbach\index[lugares]{moosbach@Moosbach} ainda não nos disse. Foi
+batizada no mesmo dia, como se fazia na Baviera\index[lugares]{baviera@Baviera} católica; a madrinha,
+diz o livro da paróquia, foi Katharina Reichenberger, lavradora de
+Burgtreswitz\index[lugares]{burgtreswitz@Burgtreswitz}, a aldeia da mãe. Foi ela a madrinha de todas as meninas do
+casal.
 
 Escrevo estas linhas com uma liberdade que vocês, Matheus e Lucas,
 precisam conhecer. Eu não sei se chovia naquela madrugada. Não sei se a
@@ -1725,19 +1746,17 @@ português; \emph{Wagner} é o que faz \emph{Wagen}, carroças, e sobretudo
 as rodas das carroças. Era um ofício de precisão: escolher a madeira,
 curvá-la, encaixar os raios no cubo, ajustar o aro de ferro aquecido
 que, ao esfriar, aperta a roda inteira como um abraço. Georg Adam
-aprendeu o ofício do pai e, ao casar, aparece também como \emph{Ökonom},
-palavra que nos registros bávaros quer dizer agricultor. A mãe,
-Franziska, vinha de Burgtreswitz\index[lugares]{burgtreswitz@Burgtreswitz}, aldeia vizinha, filha de Johann Voit\index[pessoas]{voit, johann@Voit, Johann},
-\emph{Bauer}, camponês proprietário, e de Barbara Woppmann\index[pessoas]{woppmann, barbara@Woppmann, Barbara}.
+aprendeu o ofício do pai e, ao casar, em 1884, ainda era \emph{Wagner}.
+A mãe, Franziska, vinha de Burgtreswitz\index[lugares]{burgtreswitz@Burgtreswitz}, aldeia vizinha, filha de Johann
+Voit, \emph{Bauer}, camponês proprietário, e de Barbara Woppmann\index[pessoas]{woppmann, barbara@Woppmann, Barbara}.
 
 Depois de Maria, o livro de batismos de Moosbach\index[lugares]{moosbach@Moosbach} registra mais dois
-filhos do casal: Theresia\index[pessoas]{meier, theresia@Meier, Theresia}, em junho de 1890, e Michael, em abril de
-1892, nascido no dia em que Maria fazia quatro anos. Nos quatro
-batismos, o pai muda de ofício: \emph{Wagner} em 1886, \emph{Ökonom} em
-1888, \emph{Krämer} (pequeno vendeiro) em 1890, \emph{Häusler} (morador
-sem terra de lavoura) em 1892. É uma família descendo a escada, num
-lugar onde a terra não se multiplicava. Guardem essa frase, porque ela é
-a chave deste capítulo inteiro.
+filhos do casal: Theresia\index[pessoas]{meier, theresia@Meier, Theresia}, em junho de 1891, e Michael, em fevereiro de
+1893. Nos batismos, o pai muda de ofício: \emph{Wagner} em 1886,
+\emph{Krämer} (pequeno vendeiro) em 1888 e em 1891, \emph{Häusler}
+(morador sem terra de lavoura) em 1893. É uma família descendo a escada,
+num lugar onde a terra não se multiplicava. Guardem essa frase, porque
+ela é a chave deste capítulo inteiro.
 
 E depois de 1892 o livro se cala. Nenhum outro batismo, casamento ou
 óbito daquela casa aparece em Moosbach\index[lugares]{moosbach@Moosbach}, enquanto os tios e primos que
@@ -3628,10 +3647,9 @@ vão embelezando, e diz que tem três ovelhas.
 
 Então a irmã da nossa Mota\index[pessoas]{meier, maria@Meier, Maria} era a mulher de Walter Heckel\index[pessoas]{heckel, walter@Heckel, Walter}, e foi ela quem
 escreveu de Rempesgrün\index[lugares]{rempesgrun@Rempesgrün}. Para mim, ela é Theresia\index[pessoas]{meier, theresia@Meier, Theresia} Meier, a irmãzinha que
-nasceu em Heumaden\index[lugares]{heumaden@Heumaden} em 22 de junho de 1890, quando a Mota\index[pessoas]{meier, maria@Meier, Maria} tinha dois
-anos, e que teve a mesma madrinha que ela. A assinatura que confirmaria
-o nome ficou na metade da folha que o escâner não pegou, e um dia vocês
-vão poder lê-la.
+nasceu em 22 de junho de 1891, quando a Mota\index[pessoas]{meier, maria@Meier, Maria} tinha três anos, e que teve
+a mesma madrinha que ela. A assinatura que confirmaria o nome ficou na
+metade da folha que o escâner não pegou, e um dia vocês vão poder lê-la.
 
 Quem manteve o fio, durante décadas, foi o tio Martin\index[pessoas]{sautner, martin@Sautner, Martin} Sautner. A Mota\index[pessoas]{meier, maria@Meier, Maria}
 não escrevia em português, as filhas e os netos já não escreviam em
@@ -4765,50 +4783,37 @@ ambos moradores do Capivary''. As idades conferem com as datas de
 nascimento: ele fizera quarenta e cinco em novembro e ela faria trinta
 em agosto. Na margem direita estão o número, 23, e os dois nomes.
 
-Mas há um problema. Durante a pesquisa surgiram duas leituras do assento
-número 23. Uma é esta imagem. Ela registra o casamento na presença de um
-reverendo cujo nome leio, com alguma hesitação, como Frederico Tombröck,
-e das testemunhas José May e João Peters, o pai da noiva, e é assinada
-por outro sacerdote. A outra é uma transcrição feita durante a pesquisa,
-de origem que não consegui conferir. Essa transcrição fala da mesma
-capela e do mesmo dia, mas dá outras testemunhas (Augusto Peters e
-Henrique Hömke), diz que os noivos moravam no Braço do Norte\index[lugares]{braco do norte@Braço do Norte} e é
-assinada pelo Padre Francisco Auling, vigário. E traz uma frase que na
-imagem eu não encontro: ``depois de dispensados do impedimento de
-religião mista''. Há ainda um terceiro papel, que não é o assento mas
-conversa com ele. Nos índices de registros católicos, Hulda Peters tem
-um ato lançado em São Ludgero\index[lugares]{sao ludgero@São Ludgero} em 28 de abril de 1900, a véspera do
-casamento.
+Durante muitos anos circulou na pesquisa uma segunda versão do assento
+número 23, de origem que nunca consegui achar. Ela falava da mesma
+capela e do mesmo dia, mas dava outras testemunhas (Augusto Peters e
+Henrique Hömke), dizia que os noivos moravam no Braço do Norte\index[lugares]{braco do norte@Braço do Norte}, era
+assinada por um Padre Francisco Auling e trazia uma frase bonita:
+``depois de dispensados do impedimento de religião mista''. Voltei à
+imagem e pedi uma segunda leitura cuidadosa, linha por linha. O que o
+livro diz é outra coisa: o casamento foi feito na presença do reverendo
+Frederico Tombröck, com as testemunhas José May e João Peters, o pai da
+noiva, e o assento é assinado pelo padre Huberto Ohters. Não há dispensa
+nenhuma, nem Auling, nem Hömke, nem Braço do Norte\index[lugares]{braco do norte@Braço do Norte}. Aquela segunda
+versão não tem apoio em nenhum documento que alguém tenha visto, e eu a
+deixo de lado.
 
 \begin{ficha}
 
 \textbf{Ficha do Arquivo}: Assento nº 23/1900, livro de casamentos que
 inclui a Capela de São José\index[lugares]{sao jose@São José} (Capivari\index[lugares]{capivari@Capivari}) e a Capela de São Ludgero\index[lugares]{sao ludgero@São Ludgero}; região
 de Braço do Norte\index[lugares]{braco do norte@Braço do Norte}, SC. Casamento de Carlos Dörner\index[pessoas]{dorner, carlos@Dörner, Carlos} (45 anos, natural da
-Europa) e Hulda Peters (29 anos, natural do Capivari\index[lugares]{capivari@Capivari}), em 29/04/1900.
-Leitura da imagem: filiação de ambos, testemunhas José May e João
-Peters, moradores do Capivari\index[lugares]{capivari@Capivari}, sem menção a dispensa. Transcrição feita
-durante a pesquisa, sem imagem que a confirme: celebrante Pe. Francisco
-Auling, testemunhas Augusto Peters e Henrique Hömke, moradores no Braço
-do Norte, \textbf{com dispensa do impedimento de religião mista}.
-Hipótese: duas vias do mesmo ato (livro da capela e livro da matriz). A
-conferir no original. Arquivo:
+Europa) e Hulda Peters (29 anos, natural do Capivari\index[lugares]{capivari@Capivari}), em 29/04/1900, na
+presença do Revmo. P. Frederico Tombröck; testemunhas José May e João
+Peters; ambos moradores do Capivari\index[lugares]{capivari@Capivari}; assina o P. Huberto Ohters. Sem
+menção a dispensa. Arquivo:
 \texttt{imagens/casamento\_carlos\_doerner\_hulda\_peters\_1900.png}.
 
 \end{ficha}
 
-Como cientista, sei que duas medições discordantes do mesmo fenômeno não
-querem dizer que uma esteja errada e a outra certa. Primeiro é preciso
-saber o que cada instrumento mede. Naquele tempo era comum que um
-casamento celebrado numa capela fosse anotado no livro da própria capela
-e depois copiado, com mais formalidades, no livro da matriz. A cópia da
-matriz era redigida pelo vigário e trazia as dispensas canônicas que ele
-próprio concedera ou obtivera. Pode ser isso: a imagem que tenho seria a
-via da capela, e a transcrição viria da via do vigário. Pode ser também
-que a transcrição tenha misturado informações de mais de uma fonte.
-Enquanto eu não vir a outra página, trato a dispensa de religião mista
-como um fato da transcrição e não da imagem. É provável, mas ainda não
-está verificado.
+Como cientista, guardo a lição. Uma frase repetida muitas vezes, com
+nome de padre e tudo, pode não ter nascido de documento nenhum. Quando
+duas versões discordam, quem decide é a fonte que se pode abrir e ler, e
+aqui ela está diante de nós.
 
 Se a dispensa existiu, e acredito que sim, ela diz algo importante.
 \emph{Religião mista} era o termo canônico para o casamento entre um
@@ -7136,15 +7141,15 @@ própria. Quando Johann e Maria decidiram partir em 1913, deixavam para
 trás a perspectiva de nunca ter uma propriedade.
 
 Os Meier de Heumaden\index[lugares]{heumaden@Heumaden} tinham algo mais. Michael Meier\index[pessoas]{meier, michael@Meier, Michael} era \emph{Wagner},
-fazedor de rodas e carroças; o filho, Georg Adam, aparece como
-\emph{Ökonom}, palavra que nos registros bávaros designa alguém que
-tocava uma exploração agrícola. Os Voit de Burgtreswitz\index[lugares]{burgtreswitz@Burgtreswitz} eram
-\emph{Bauern}, lavradores com terra. Mas Maria Katharina era uma dos
-oito filhos de Georg Adam e Franziska, e, quando se casou, ordenhava
-vacas por salário. É uma frase curta no texto do centenário que Marise\index[pessoas]{lourenco, marise haas@Lourenço, Marise Haas}
-escreveu, e eu a leio como um tratado de direito sucessório: a filha de
-um \emph{Ökonom}, numa terra de herdeiro único, trabalhava como
-empregada nas vacas de outros.
+fazedor de rodas e carroças; o filho, Georg Adam, começou no mesmo
+ofício e depois aparece como \emph{Krämer}, um pequeno vendeiro, e por
+fim como \emph{Häusler}, morador sem terra de lavoura. Os Voit de
+Burgtreswitz\index[lugares]{burgtreswitz@Burgtreswitz} eram \emph{Bauern}, lavradores com terra. Mas Maria
+Katharina era uma dos oito filhos de Georg Adam e Franziska, e, quando
+se casou, ordenhava vacas por salário. É uma frase curta no texto do
+centenário que Marise\index[pessoas]{lourenco, marise haas@Lourenço, Marise Haas} escreveu, e eu a leio como um tratado de direito
+sucessório: a filha de um pequeno vendeiro, numa terra de herdeiro
+único, trabalhava como empregada nas vacas de outros.
 
 Do lado de Bárbara, os Lohmann vieram de Harderode\index[lugares]{harderode@Harderode}, na região de
 Braunschweig, e os Schnack de Schleswig-Holstein, ambas terras de
@@ -7310,15 +7315,13 @@ Johann ergueu paredes em Ituporanga\index[lugares]{ituporanga@Ituporanga}. Do la
 eram mais misturadas. Os Preiss e os Michels, gente do Mosela\index[lugares]{mosela@Mosela} e do
 Hunsrück\index[lugares]{hunsruck@Hunsrück}, eram católicos; os Doerner, luteranos. Em 29 de abril de 1900,
 quando o viúvo Carlos Doerner se casou com Hulda Peters na Capela de São
-José, em Capivari\index[lugares]{capivari@Capivari}, a transcrição do assento número 23 feita durante a
-pesquisa (assinada pelo padre Francisco Auling, e que ainda preciso
-conferir com a outra via do registro) diz que os noivos tinham sido
-``dispensados do impedimento de religião mista''. Gosto de reler essa
-frase. Ela diz, na linguagem seca dos livros paroquiais, que a Igreja
-precisou abrir uma exceção para que aquelas duas pessoas pudessem se
-casar diante dela. Diz também que, na colônia, a fronteira entre missa e
-culto já começava a ser atravessada por quem se casava, muito antes de
-os teólogos conversarem sobre ecumenismo.
+José, em Capivari\index[lugares]{capivari@Capivari}, casou-se diante de um padre católico, com testemunhas
+da comunidade. Durante anos repeti que o assento falava de uma
+``dispensa de religião mista''; a releitura mostrou que essa frase não
+está lá (Capítulo 10). Fica a pergunta, que é bonita mesmo sem a frase:
+se os Doerner eram luteranos, como a tradição diz, Carlos atravessou a
+fronteira entre culto e missa para se casar, muito antes de os teólogos
+conversarem sobre ecumenismo.
 
 Do lado de Bárbara, a tradição dominante é luterana: os Lohmann, os
 Hoeveler, a igreja evangélica que ainda hoje marca o centro da
@@ -8446,9 +8449,9 @@ imaginei a noite do nascimento da Mota\index[pessoas]{meier, maria@Meier, Maria}
 duas aspinhas. Agora sei que a senhora Glas, naquela madrugada,
 provavelmente estava cansada.
 
-Pai: \emph{Gg. Adam Meier}. Condição, na leitura que fizemos e que
-confere com as transcrições do dossiê: \emph{Ökonom}, que na Baviera\index[lugares]{baviera@Baviera}
-daquela época queria dizer agricultor. Morada: \emph{Heumaden\index[lugares]{heumaden@Heumaden}}. Mãe:
+Pai: \emph{Gg. Adam Meier}. Condição: \emph{Krämer}, pequeno vendeiro.
+Por muito tempo li ali \emph{Ökonom}, lavrador; a releitura mostrou
+\emph{Krämer}, e eu corrijo. Morada: \emph{Heumaden\index[lugares]{heumaden@Heumaden}}. Mãe:
 \emph{Franzisca Voit}. Origem da mãe: \emph{Burgtresw.}, Burgtreswitz\index[lugares]{burgtreswitz@Burgtreswitz}.
 
 Nascimento: \emph{7. April, 2 h. morg.} (7 de abril, duas horas da
@@ -8466,7 +8469,7 @@ Reichenberger, lavradora de Burgtreswitz\index[lugares]{burgtreswitz@Burgtreswit
 1847--1904 (Matricula: \texttt{Moosbach\index[lugares]{moosbach@Moosbach}\_Leuchtenberg005}), p.~441,
 registro nº 36. Batizada: Maria Meier\index[pessoas]{meier, maria@Meier, Maria}. Parteira: Glas (indicada por
 ``idem'', remetendo ao registro anterior). Pai: Georg Adam Meier\index[pessoas]{meier, georg adam@Meier, Georg Adam}
-(\emph{Gg. Adam Meier}), \emph{Ökonom} em Heumaden\index[lugares]{heumaden@Heumaden}. Mãe: Franziska Voit\index[pessoas]{voit, franziska@Voit, Franziska}
+(\emph{Gg. Adam Meier}), \emph{Krämer} em Heumaden\index[lugares]{heumaden@Heumaden}. Mãe: Franziska Voit\index[pessoas]{voit, franziska@Voit, Franziska}
 (\emph{Franzisca Voit}), natural de Burgtreswitz\index[lugares]{burgtreswitz@Burgtreswitz}. Nascimento: 7 de abril
 de 1888, às 2 horas da manhã, em Heumaden\index[lugares]{heumaden@Heumaden}. Batismo: 7 de abril (data
 registrada na coluna própria, segundo a nossa leitura). Madrinha:
@@ -8593,12 +8596,11 @@ nunca se conheceram, e, no entanto, naquele outono, as duas linhas já
 estavam traçadas no mapa.
 
 Notei também a mudança de ofício. Em 1884, Adam é \emph{Wagner}, como o
-pai. Em 1888, no batismo de Maria, é \emph{Ökonom}. Entre um registro e
-outro, o fabricante de rodas parece ter passado a viver da terra, talvez
-a da família da mulher, talvez a que comprou ou herdou. Não sei os
-detalhes. O filho do \emph{Wagner} virou lavrador. A filha do lavrador,
-Maria, ordenharia vacas por salário. E o neto dela seria pedreiro em
-Santa Catarina.
+pai. Em 1888, no batismo de Maria, é \emph{Krämer}, um pequeno vendeiro,
+e em 1893, no de Michael, \emph{Häusler}, morador sem terra de lavoura.
+O fabricante de rodas não ficou com a oficina nem ganhou terra. A filha
+do vendeiro, Maria, ordenharia vacas por salário. E o neto dela seria
+pedreiro em Santa Catarina.
 
 \section{Dois batismos, um de inverno e um de
 verão}\label{dois-batismos-um-de-inverno-e-um-de-veruxe3o}
@@ -8719,7 +8721,7 @@ Adam e Franziska casam-se em Moosbach\index[lugares]{moosbach@Moosbach} num domi
 com os dois pais por testemunhas. Ele faz rodas; depois vive da terra.
 Têm filhos: Maria Katharina em 1886, e depois, numa madrugada de abril
 de 1888, Maria, a Mota\index[pessoas]{meier, maria@Meier, Maria}. Mais tarde virão Theresia\index[pessoas]{meier, theresia@Meier, Theresia} e Michael. Depois de
-1892, a família some dos livros de Moosbach\index[lugares]{moosbach@Moosbach} e reaparece, oitenta anos
+1893, a família some dos livros de Moosbach\index[lugares]{moosbach@Moosbach} e reaparece, oitenta anos
 depois, em cartas vindas da Saxônia\index[lugares]{saxonia@Saxônia}.
 
 A cinquenta quilômetros dali, em Leonberg\index[lugares]{leonberg@Leonberg}, o operário Josef Haas\index[pessoas]{haas, josef@Haas, Josef}, filho
@@ -9086,6 +9088,8 @@ de 30, a de 40. Quando chegássemos a 48,5, estaríamos em casa.
 \end{itemize}
 
 \chapter*{Epílogo --- A Bússola Entregue a Matheus e
+Lucas}\markboth{Epílogo --- A Bússola Entregue a Matheus e
+Lucas}{Epílogo --- A Bússola Entregue a Matheus e
 Lucas}\label{epilogo}
 \addcontentsline{toc}{chapter}{Epílogo --- A Bússola Entregue a Matheus
 e Lucas}
@@ -9363,6 +9367,8 @@ Reinaldo
 \emph{Florianópolis\index[lugares]{florianopolis@Florianópolis}}
 
 \chapter*{Nota sobre as Fontes e os Enigmas em
+Aberto}\markboth{Nota sobre as Fontes e os Enigmas em
+Aberto}{Nota sobre as Fontes e os Enigmas em
 Aberto}\label{nota-fontes}
 \addcontentsline{toc}{chapter}{Nota sobre as Fontes e os Enigmas em
 Aberto}
@@ -9498,8 +9504,12 @@ conferir.
 
 \textbf{Os irmãos da Mota\index[pessoas]{meier, maria@Meier, Maria}.} O livro de batismos de Moosbach\index[lugares]{moosbach@Moosbach} traz, como
 filhos de Georg Adam Meier\index[pessoas]{meier, georg adam@Meier, Georg Adam} e Franziska Voit\index[pessoas]{voit, franziska@Voit, Franziska}, Maria Katharina (1886),
-Maria (1888), Theresia\index[pessoas]{meier, theresia@Meier, Theresia} (1890) e Michael (1892). Conferi o batismo de
-Theresia\index[pessoas]{meier, theresia@Meier, Theresia} na imagem; os outros são leitura do Antigravity. Os irmãos que
+Maria (1888), Theresia\index[pessoas]{meier, theresia@Meier, Theresia} (1891) e Michael (1893). Conferi nas imagens os
+batismos de Maria e de Theresia\index[pessoas]{meier, theresia@Meier, Theresia}; os outros são leitura do Antigravity.
+Na releitura, a profissão do pai em 1888 é \emph{Krämer}, e não
+\emph{Ökonom}, como eu lia antes. A mesma releitura dava o nascimento de
+Johann Haas\index[pessoas]{haas, johann@Haas, Johann} em 8 de julho de 1884; conferi o assento nº 47 e ele diz,
+por extenso, \emph{elf}, onze, registrado em 13 de julho. Os irmãos que
 as árvores colaborativas dão a Maria (Johann Baptist, Barbara,
 Margaretha, Josef, Georg, Anna) não aparecem lá.
 
@@ -9570,7 +9580,7 @@ que está aqui.
 Correções, fotografias e lembranças são bem-vindas. A árvore nunca
 termina; ela apenas muda de mãos.
 
-\chapter*{As Árvores da Família}\label{arvores}
+\chapter*{As Árvores da Família}\markboth{As Árvores da Família}{As Árvores da Família}\label{arvores}
 \addcontentsline{toc}{chapter}{As Árvores da Família}
 
 Estas são as árvores de vocês até a sétima geração, até onde sei hoje,
@@ -9584,86 +9594,96 @@ pergunta que deixo para vocês. Boa parte das datas mais antigas vem do
 FamilySearch, uma árvore colaborativa, e ainda precisa ser conferida nos
 livros. Pessoas vivas aparecem só com o ano, ou sem data.
 
-\begin{landscape}
+\begin{paisagem}
 
 \begin{figure}
 \centering
-\includegraphics[width=1\linewidth,height=0.85\textheight,alt={Matheus e Lucas, até os bisavós.}]{imagens/arvore_01.jpg}
+\includegraphics[width=1\linewidth,height=0.88\textheight,alt={Matheus e Lucas, até os bisavós.}]{imagens/arvore_01.jpg}
 \caption{Matheus e Lucas, até os bisavós.}
 \end{figure}
 
-\end{landscape}
+\end{paisagem}
 
-\begin{landscape}
+\begin{paisagem}
 
 \begin{figure}
 \centering
-\includegraphics[width=1\linewidth,height=0.85\textheight,alt={Antepassados de Johann Haas e Maria Meier.}]{imagens/arvore_02.jpg}
+\includegraphics[width=1\linewidth,height=0.88\textheight,alt={Antepassados de Johann Haas e Maria Meier.}]{imagens/arvore_02.jpg}
 \caption{Antepassados de Johann Haas e Maria Meier.}
 \end{figure}
 
-\end{landscape}
+\end{paisagem}
 
-\begin{landscape}
+\begin{paisagem}
 
 \begin{figure}
 \centering
-\includegraphics[width=1\linewidth,height=0.85\textheight,alt={Antepassados de Fernando Dörner.}]{imagens/arvore_03.jpg}
+\includegraphics[width=1\linewidth,height=0.88\textheight,alt={Antepassados de Fernando Dörner.}]{imagens/arvore_03.jpg}
 \caption{Antepassados de Fernando Dörner.}
 \end{figure}
 
-\end{landscape}
+\end{paisagem}
 
-\begin{landscape}
+\begin{paisagem}
 
 \begin{figure}
 \centering
-\includegraphics[width=1\linewidth,height=0.85\textheight,alt={Pai de Gertrudes Preiss: antepassados de Emanuel Preis.}]{imagens/arvore_04.jpg}
+\includegraphics[width=1\linewidth,height=0.88\textheight,alt={Pai de Gertrudes Preiss: antepassados de Emanuel Preis.}]{imagens/arvore_04.jpg}
 \caption{Pai de Gertrudes Preiss: antepassados de Emanuel Preis.}
 \end{figure}
 
-\end{landscape}
+\end{paisagem}
 
-\begin{landscape}
+\begin{paisagem}
 
 \begin{figure}
 \centering
-\includegraphics[width=1\linewidth,height=0.85\textheight,alt={Mãe de Gertrudes Preiss: antepassados de Helena Michels.}]{imagens/arvore_05.jpg}
+\includegraphics[width=1\linewidth,height=0.88\textheight,alt={Mãe de Gertrudes Preiss: antepassados de Helena Michels.}]{imagens/arvore_05.jpg}
 \caption{Mãe de Gertrudes Preiss: antepassados de Helena Michels.}
 \end{figure}
 
-\end{landscape}
+\end{paisagem}
 
-\begin{landscape}
+\begin{paisagem}
 
 \begin{figure}
 \centering
-\includegraphics[width=1\linewidth,height=0.85\textheight,alt={Antepassados de Oscar Martin Funke e Dora Marta Aenishaenslin.}]{imagens/arvore_06.jpg}
-\caption{Antepassados de Oscar Martin Funke e Dora Marta Aenishaenslin.}
+\includegraphics[width=1\linewidth,height=0.88\textheight,alt={Antepassados de Oscar Martin Funke.}]{imagens/arvore_06.jpg}
+\caption{Antepassados de Oscar Martin Funke.}
 \end{figure}
 
-\end{landscape}
+\end{paisagem}
 
-\begin{landscape}
+\begin{paisagem}
 
 \begin{figure}
 \centering
-\includegraphics[width=1\linewidth,height=0.85\textheight,alt={Antepassados de Erno Hoeveler.}]{imagens/arvore_07.jpg}
+\includegraphics[width=1\linewidth,height=0.88\textheight,alt={Antepassados de Dora Marta Aenishaenslin.}]{imagens/arvore_07.jpg}
+\caption{Antepassados de Dora Marta Aenishaenslin.}
+\end{figure}
+
+\end{paisagem}
+
+\begin{paisagem}
+
+\begin{figure}
+\centering
+\includegraphics[width=1\linewidth,height=0.88\textheight,alt={Antepassados de Erno Hoeveler.}]{imagens/arvore_08.jpg}
 \caption{Antepassados de Erno Hoeveler.}
 \end{figure}
 
-\end{landscape}
+\end{paisagem}
 
-\begin{landscape}
+\begin{paisagem}
 
 \begin{figure}
 \centering
-\includegraphics[width=1\linewidth,height=0.85\textheight,alt={Pais de Rosita Érica Lohmann: antepassados de Francisco Jacob Lohmann e Miguelina Leocádia Endres.}]{imagens/arvore_08.jpg}
+\includegraphics[width=1\linewidth,height=0.88\textheight,alt={Pais de Rosita Érica Lohmann: antepassados de Francisco Jacob Lohmann e Miguelina Leocádia Endres.}]{imagens/arvore_09.jpg}
 \caption{Pais de Rosita Érica Lohmann: antepassados de Francisco Jacob
 Lohmann e Miguelina Leocádia Endres\index[pessoas]{endres, miguelina leocadia@Endres, Miguelina Leocádia}.}
 \end{figure}
 
-\end{landscape}
+\end{paisagem}
 
 \backmatter
 \cleardoublepage

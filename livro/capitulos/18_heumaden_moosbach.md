@@ -40,7 +40,7 @@ Vou ler a linha com vocês, coluna por coluna, como a li.
 
 Parteira: duas aspinhas. *Idem*. Para saber quem era, é preciso subir uma linha, até o registro 35, o da pequena Josefa, nascida no dia 6 de abril à uma da madrugada. Ali está o nome: *Glas*. A senhora Glas, parteira de Moosbach, tinha feito um parto na madrugada de 6 de abril e outro na madrugada de 7. Duas noites seguidas atravessando o frio da primavera bávara com a sua maleta. Quando, no capítulo 4, imaginei a noite do nascimento da Mota, eu ainda não tinha reparado nas duas aspinhas. Agora sei que a senhora Glas, naquela madrugada, provavelmente estava cansada.
 
-Pai: *Gg. Adam Meier*. Condição, na leitura que fizemos e que confere com as transcrições do dossiê: *Ökonom*, que na Baviera daquela época queria dizer agricultor. Morada: *Heumaden*. Mãe: *Franzisca Voit*. Origem da mãe: *Burgtresw.*, Burgtreswitz.
+Pai: *Gg. Adam Meier*. Condição: *Krämer*, pequeno vendeiro. Por muito tempo li ali *Ökonom*, lavrador; a releitura mostrou *Krämer*, e eu corrijo. Morada: *Heumaden*. Mãe: *Franzisca Voit*. Origem da mãe: *Burgtresw.*, Burgtreswitz.
 
 Nascimento: *7. April, 2 h. morg.* (7 de abril, duas horas da manhã).
 
@@ -49,7 +49,7 @@ Batismo: *7. April*.
 Madrinha: *Kath. Reichenberger, Bäuerin v. Burgtresw.* (Katharina Reichenberger, lavradora de Burgtreswitz).
 
 ::: ficha
-**Ficha do Arquivo**: Paróquia de St. Peter und Paul, Moosbach (Decanato de Leuchtenberg, Diocese de Regensburg). Livro de batismos 1847–1904 (Matricula: `Moosbach_Leuchtenberg005`), p. 441, registro nº 36. Batizada: Maria Meier. Parteira: Glas (indicada por "idem", remetendo ao registro anterior). Pai: Georg Adam Meier (*Gg. Adam Meier*), *Ökonom* em Heumaden. Mãe: Franziska Voit (*Franzisca Voit*), natural de Burgtreswitz. Nascimento: 7 de abril de 1888, às 2 horas da manhã, em Heumaden. Batismo: 7 de abril (data registrada na coluna própria, segundo a nossa leitura). Madrinha: *Kath. Reichenberger, Bäuerin v. Burgtresw.* Imagem: `imagens/doc1_maria_meier_1888.jpg`.
+**Ficha do Arquivo**: Paróquia de St. Peter und Paul, Moosbach (Decanato de Leuchtenberg, Diocese de Regensburg). Livro de batismos 1847–1904 (Matricula: `Moosbach_Leuchtenberg005`), p. 441, registro nº 36. Batizada: Maria Meier. Parteira: Glas (indicada por "idem", remetendo ao registro anterior). Pai: Georg Adam Meier (*Gg. Adam Meier*), *Krämer* em Heumaden. Mãe: Franziska Voit (*Franzisca Voit*), natural de Burgtreswitz. Nascimento: 7 de abril de 1888, às 2 horas da manhã, em Heumaden. Batismo: 7 de abril (data registrada na coluna própria, segundo a nossa leitura). Madrinha: *Kath. Reichenberger, Bäuerin v. Burgtresw.* Imagem: `imagens/doc1_maria_meier_1888.jpg`.
 :::
 
 ![Livro de batismos de Moosbach, página 441: o registro nº 36, de Maria Meier, nascida em Heumaden em 7 de abril de 1888, às duas da madrugada, filha de Georg Adam Meier e Franziska Voit; na linha de cima, o nome da parteira Glas.](imagens/doc1_maria_meier_1888.jpg){width=85%}
@@ -88,7 +88,7 @@ Depois, a data da licença civil, *8. Nov. 1884*, porque desde 1876 também o ca
 
 Fiz a conta que todo genealogista acaba fazendo. Em 23 de novembro de 1884, enquanto Adam e Franziska casavam em Moosbach, um bebê de quatro meses chamado Johann Haas dormia em Leonberg, a cinquenta quilômetros dali. Os pais do Fata e os pais da Mota não se conheciam, provavelmente nunca se conheceram, e, no entanto, naquele outono, as duas linhas já estavam traçadas no mapa.
 
-Notei também a mudança de ofício. Em 1884, Adam é *Wagner*, como o pai. Em 1888, no batismo de Maria, é *Ökonom*. Entre um registro e outro, o fabricante de rodas parece ter passado a viver da terra, talvez a da família da mulher, talvez a que comprou ou herdou. Não sei os detalhes. O filho do *Wagner* virou lavrador. A filha do lavrador, Maria, ordenharia vacas por salário. E o neto dela seria pedreiro em Santa Catarina.
+Notei também a mudança de ofício. Em 1884, Adam é *Wagner*, como o pai. Em 1888, no batismo de Maria, é *Krämer*, um pequeno vendeiro, e em 1893, no de Michael, *Häusler*, morador sem terra de lavoura. O fabricante de rodas não ficou com a oficina nem ganhou terra. A filha do vendeiro, Maria, ordenharia vacas por salário. E o neto dela seria pedreiro em Santa Catarina.
 
 ### Dois batismos, um de inverno e um de verão
 
@@ -126,7 +126,7 @@ Em Heumaden, um fabricante de rodas chamado Michael Meier. Em Rückersrieth, uma
 
 Em Burgtreswitz, um lavrador chamado Johann Voit e sua mulher, Barbara Woppmann. Deles nasce, na manhã da festa dos padroeiros de 1861, Franziska.
 
-Adam e Franziska casam-se em Moosbach num domingo de novembro de 1884, com os dois pais por testemunhas. Ele faz rodas; depois vive da terra. Têm filhos: Maria Katharina em 1886, e depois, numa madrugada de abril de 1888, Maria, a Mota. Mais tarde virão Theresia e Michael. Depois de 1892, a família some dos livros de Moosbach e reaparece, oitenta anos depois, em cartas vindas da Saxônia.
+Adam e Franziska casam-se em Moosbach num domingo de novembro de 1884, com os dois pais por testemunhas. Ele faz rodas; depois vive da terra. Têm filhos: Maria Katharina em 1886, e depois, numa madrugada de abril de 1888, Maria, a Mota. Mais tarde virão Theresia e Michael. Depois de 1893, a família some dos livros de Moosbach e reaparece, oitenta anos depois, em cartas vindas da Saxônia.
 
 A cinquenta quilômetros dali, em Leonberg, o operário Josef Haas, filho de Michael Haas e Kunigunde Stadelmann, e Franziska Dengler têm um filho chamado Johann.
 

@@ -180,7 +180,27 @@ LATEX_PREAMBULO = r"""
 \fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\small\thepage}}
 \setlength{\emergencystretch}{3em}
 \renewcommand{\figurename}{@@FIGURA@@}
-\usepackage{pdflscape}
+\makeatletter
+\newenvironment{paisagem}{%
+  \clearpage
+  \begingroup
+  \paperwidth=23cm \paperheight=15.5cm
+  \pdfpagewidth=\paperwidth \pdfpageheight=\paperheight
+  \textwidth=19.6cm \textheight=11.0cm
+  \oddsidemargin=\dimexpr1.7cm-1in\relax \evensidemargin=\oddsidemargin
+  \topmargin=\dimexpr1.0cm-1in\relax
+  \hsize=\textwidth \linewidth=\textwidth \columnwidth=\textwidth
+  \vsize=\textheight \global\@colht=\textheight \global\@colroom=\textheight
+  \setlength{\headwidth}{\textwidth}%
+  \def\fps@figure{H}%
+}{%
+  \clearpage
+  \endgroup
+  \global\@colht=\textheight \global\@colroom=\textheight
+  \pdfpagewidth=\paperwidth \pdfpageheight=\paperheight
+  \setlength{\headwidth}{\textwidth}%
+}
+\makeatother
 \usepackage{pdfpages}
 \usepackage[noautomatic]{imakeidx}
 \makeindex[name=pessoas,title=@@IDXP@@,columns=2,intoc]
@@ -206,11 +226,11 @@ function Figure(el)
   if not arvore then return nil end
   el = el:walk({Image = function(i)
     i.attributes.width = "100%"
-    i.attributes.height = "85%"
+    i.attributes.height = "88%"
     return i
   end})
-  return {pandoc.RawBlock("latex", "\\begin{landscape}"), el,
-          pandoc.RawBlock("latex", "\\end{landscape}")}
+  return {pandoc.RawBlock("latex", "\\begin{paisagem}"), el,
+          pandoc.RawBlock("latex", "\\end{paisagem}")}
 end
 """
 
@@ -326,6 +346,8 @@ def indexar(tex):
             return m.group(1) + cmd
         saida.append(padrao.sub(troca, linha))
     corpo = "\n".join(saida)
+    # capítulos sem número também precisam atualizar o cabeçalho
+    corpo = re.sub(r"(\\chapter\*\{([^{}]+)\})", lambda m: m.group(1) + "\\markboth{" + m.group(2) + "}{" + m.group(2) + "}", corpo)
     corpo = corpo.replace("\\end{document}", "\\cleardoublepage\n\\printindex[pessoas]\n\\printindex[lugares]\n\\end{document}")
     tex.write_text(cabeca + corpo, encoding="utf-8")
 

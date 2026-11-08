@@ -40,7 +40,7 @@ Ich lese die Zeile mit euch, Spalte für Spalte, so wie ich sie gelesen habe.
 
 Hebamme: zwei kleine Gänsefüßchen. *Idem*. Um zu erfahren, wer es war, muss man eine Zeile höher gehen, zum Eintrag 35, dem der kleinen Josefa, geboren am 6. April um ein Uhr nachts. Dort steht der Name: *Glas*. Frau Glas, Hebamme in Moosbach, hatte in der Nacht zum 6. April eine Geburt begleitet und in der Nacht zum 7. die nächste. Zwei Nächte hintereinander mit ihrer Tasche durch die Kälte des bayerischen Frühlings. Als ich mir in Kapitel 4 die Nacht vorstellte, in der die Mota geboren wurde, hatte ich die beiden Gänsefüßchen noch nicht bemerkt. Jetzt weiß ich, dass Frau Glas in jener Nacht wahrscheinlich müde war.
 
-Vater: *Gg. Adam Meier*. Stand, nach unserer Lesung, die mit den Transkriptionen im Dossier übereinstimmt: *Ökonom*, was im damaligen Bayern einen Landwirt bezeichnete. Wohnort: *Heumaden*. Mutter: *Franzisca Voit*. Herkunft der Mutter: *Burgtresw.*, Burgtreswitz.
+Vater: *Gg. Adam Meier*. Stand: *Krämer*. Lange habe ich dort *Ökonom* gelesen; die zweite Lesung zeigte *Krämer*, und ich korrigiere es. Wohnort: *Heumaden*. Mutter: *Franzisca Voit*. Herkunft der Mutter: *Burgtresw.*, Burgtreswitz.
 
 Geburt: *7. April, 2 h. morg.*
 
@@ -49,7 +49,7 @@ Taufe: *7. April*.
 Patin: *Kath. Reichenberger, Bäuerin v. Burgtresw.*
 
 ::: ficha
-**Archivkarte**: Pfarrei St. Peter und Paul, Moosbach (Dekanat Leuchtenberg, Bistum Regensburg). Taufbuch 1847–1904 (Matricula: `Moosbach_Leuchtenberg005`), S. 441, Eintrag Nr. 36. Täufling: Maria Meier. Hebamme: Glas (durch „idem" angegeben, mit Verweis auf den vorhergehenden Eintrag). Vater: Georg Adam Meier (*Gg. Adam Meier*), *Ökonom* in Heumaden. Mutter: Franziska Voit (*Franzisca Voit*), gebürtig aus Burgtreswitz. Geburt: 7. April 1888, 2 Uhr morgens, in Heumaden. Taufe: 7. April (Datum in der eigenen Spalte eingetragen, nach unserer Lesung). Patin: *Kath. Reichenberger, Bäuerin v. Burgtresw.* Bild: `imagens/doc1_maria_meier_1888.jpg`.
+**Archivkarte**: Pfarrei St. Peter und Paul, Moosbach (Dekanat Leuchtenberg, Bistum Regensburg). Taufbuch 1847–1904 (Matricula: `Moosbach_Leuchtenberg005`), S. 441, Eintrag Nr. 36. Täufling: Maria Meier. Hebamme: Glas (durch „idem" angegeben, mit Verweis auf den vorhergehenden Eintrag). Vater: Georg Adam Meier (*Gg. Adam Meier*), *Krämer* in Heumaden. Mutter: Franziska Voit (*Franzisca Voit*), gebürtig aus Burgtreswitz. Geburt: 7. April 1888, 2 Uhr morgens, in Heumaden. Taufe: 7. April (Datum in der eigenen Spalte eingetragen, nach unserer Lesung). Patin: *Kath. Reichenberger, Bäuerin v. Burgtresw.* Bild: `imagens/doc1_maria_meier_1888.jpg`.
 :::
 
 ![Taufbuch Moosbach, Seite 441: Eintrag Nr. 36, Maria Meier, geboren in Heumaden am 7. April 1888 um zwei Uhr nachts, Tochter von Georg Adam Meier und Franziska Voit; in der Zeile darüber der Name der Hebamme Glas.](imagens/doc1_maria_meier_1888.jpg){width=85%}
@@ -88,7 +88,7 @@ Danach das Datum der standesamtlichen Bescheinigung, *8. Nov. 1884*, denn seit 1
 
 Ich machte die Rechnung, die jeder Familienforscher irgendwann macht. Am 23. November 1884, während Adam und Franziska in Moosbach heirateten, schlief in Leonberg, fünfzig Kilometer entfernt, ein vier Monate altes Kind namens Johann Haas. Die Eltern des Fata und die Eltern der Mota kannten sich nicht, haben sich wahrscheinlich nie kennengelernt, und doch waren in jenem Herbst die beiden Linien schon auf der Karte gezogen.
 
-Mir fiel auch der Wechsel des Berufs auf. 1884 ist Adam *Wagner*, wie sein Vater. 1888, bei Marias Taufe, ist er *Ökonom*. Zwischen dem einen Eintrag und dem anderen scheint der Wagner zum Leben vom Land übergegangen zu sein, vielleicht vom Land der Familie seiner Frau, vielleicht von Land, das er gekauft oder geerbt hatte. Die Einzelheiten kenne ich nicht. Der Sohn des Wagners wurde Bauer. Die Tochter des Bauern, Maria, sollte für Lohn Kühe melken. Und ihr Enkel wurde Maurer in Santa Catarina.
+Mir fiel auch der Wechsel des Berufs auf. 1884 ist Adam *Wagner*, wie sein Vater. 1888, bei Marias Taufe, ist er *Krämer*, und 1893, bei Michaels Taufe, *Häusler*, ohne eigenes Ackerland. Der Wagner behielt weder die Werkstatt, noch bekam er Land. Die Tochter des Krämers, Maria, sollte für Lohn Kühe melken. Und ihr Enkel wurde Maurer in Santa Catarina.
 
 ### Zwei Taufen, eine im Winter und eine im Sommer
 
@@ -126,7 +126,7 @@ In Heumaden ein Wagner namens Michael Meier. In Rückersrieth eine Bauerstochter
 
 In Burgtreswitz ein Bauer namens Johann Voit und seine Frau Barbara Woppmann. Von ihnen wird am Morgen des Patroziniums 1861 Franziska geboren.
 
-Adam und Franziska heiraten an einem Sonntag im November 1884 in Moosbach, mit den beiden Vätern als Trauzeugen. Er baut Räder, später lebt er vom Land. Sie bekommen Kinder: Maria Katharina 1886, dann, in einer Aprilnacht 1888, Maria, die Mota. Später kommen Theresia und Michael. Nach 1892 verschwindet die Familie aus den Moosbacher Büchern und taucht achtzig Jahre später in Briefen aus Sachsen wieder auf.
+Adam und Franziska heiraten an einem Sonntag im November 1884 in Moosbach, mit den beiden Vätern als Trauzeugen. Er baut Räder, später lebt er vom Land. Sie bekommen Kinder: Maria Katharina 1886, dann, in einer Aprilnacht 1888, Maria, die Mota. Später kommen Theresia und Michael. Nach 1893 verschwindet die Familie aus den Moosbacher Büchern und taucht achtzig Jahre später in Briefen aus Sachsen wieder auf.
 
 Fünfzig Kilometer entfernt, in Leonberg, bekommen der Arbeiter Josef Haas, Sohn von Michael Haas und Kunigunde Stadelmann, und Franziska Dengler einen Sohn namens Johann.
 

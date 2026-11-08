@@ -14,8 +14,10 @@ Die Baumdiagramme sind portugiesisch beschriftet: „n." bedeutet geboren, „ba
 
 ![Mutter der Omama: Vorfahren von Helena Michels.](imagens/arvore_05.png){width=100%}
 
-![Vorfahren von Oscar Martin Funke und Dora Marta Aenishaenslin.](imagens/arvore_06.png){width=100%}
+![Vorfahren von Oscar Martin Funke.](imagens/arvore_06.png){width=100%}
 
-![Vorfahren von Erno Hoeveler.](imagens/arvore_07.png){width=100%}
+![Vorfahren von Dora Marta Aenishaenslin, der Oma Dora.](imagens/arvore_07.png){width=100%}
 
-![Eltern der Oma Rosita: Vorfahren von Francisco Jacob Lohmann und Miguelina Leocádia Endres.](imagens/arvore_08.png){width=100%}
+![Vorfahren von Erno Hoeveler.](imagens/arvore_08.png){width=100%}
+
+![Eltern der Oma Rosita: Vorfahren von Francisco Jacob Lohmann und Miguelina Leocádia Endres.](imagens/arvore_09.png){width=100%}
