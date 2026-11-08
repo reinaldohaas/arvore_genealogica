@@ -114,7 +114,7 @@ graph TD
 
     P_CHF --- CasalFunkeHoeveler["💍 <b>Casamento</b>"]:::casamento
     M_ILH --- CasalFunkeHoeveler
-    CasalFunkeHoeveler --> P_BFH["⭐ <b>Bárbara Funke Haas</b><br/><i>* 27.07.1972 (Joinville, SC)</i>"]:::pais
+    CasalFunkeHoeveler --> P_BFH["⭐ <b>Bárbara Funke Haas</b><br/><i>* 27.07.1972 (Porto Alegre, RS)</i>"]:::pais
 
     %% UNIÃO REINALDO & BÁRBARA -> FILHOS MATHEUS & LUCAS
     P_RH --- CasalAtual["💑 <b>Casamento Civil</b><br/><i>Vidal Ramos / Florianópolis, SC</i>"]:::casamento
@@ -131,7 +131,7 @@ graph TD
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **G1 (Filhos)** | **Funke Haas** | **Matheus Funke Haas** & **Lucas Funke Haas** | * 20/06/2002 <br/> * 10/03/2005 | Florianópolis, SC | Filhos de Reinaldo Haas e Bárbara Funke Haas; ponto de convergência das 16 linhagens |
 | **G2 (Pais / Autor)** | **Haas — Doerner** | **Reinaldo Haas** | * 20/06/1965 | Santa Catarina ➔ Florianópolis, SC | Filho de Baldoíno Haas e Adelina Doerner; Prof. Dr. Departamento de Física / UFSC |
-| **G2 (Pais / Esposa)** | **Funke — Hoeveler — Lohmann** | **Bárbara Funke Haas** | * 27/07/1972 | Joinville ➔ Florianópolis, SC | Filha de Dr. Carlos Heinz Funke e Dra. Ilusca Leocádia Hoeveler Funke; irmã de Katherine, Alessandra e Paulo Jacques Funke |
+| **G2 (Pais / Esposa)** | **Funke — Hoeveler — Lohmann** | **Bárbara Funke Haas** | * 27/07/1972 | Porto Alegre, RS ➔ Joinville ➔ Florianópolis, SC | Filha de Dr. Carlos Heinz Funke e Dra. Ilusca Leocádia Hoeveler Funke; irmã de Katherine, Alessandra e Paulo Jacques Funke |
 | **G3 (Avós / Pais)** | **Haas** | **Baldoíno Haas** | * 20/04/1924 <br/> † 18/12/2013 | Rio Novo / Ituporanga, SC | 10º filho de Johann Haas e Maria Meier; casou-se em 1947 com Adelina Doerner |
 | **G3 (Avós / Pais)** | **Doerner** | **Adelina Doerner Haas** | * 30/10/1926 <br/> † 22/02/2019 | São Martinho ➔ Vidal Ramos, SC | Filha de Fernando Dörner e Gertrudes Preuss; celebrou 65 anos de casada com Baldoíno em 2012 |
 | **G3 (Avós / Sogros)** | **Funke** | **Dr. Carlos Heinz (Heins) Funke** | * 10/08/1939 <br/> † 1989 | Joinville, SC (*Cemitério Municipal de Joinville*) | Médico formado no RS; patrono da *Escola Agrícola Municipal Carlos Heins Funke* e da *UBSF Dr. Carlos Heinz Funke* em Pirabeiraba, Joinville |
@@ -286,7 +286,8 @@ A investigação documental esclareceu em definitivo a dúvida familiar sobre se
 </p>
 
 > **Transcrição Paleográfica do Assento nº 23 (29/04/1900):**  
-> *"23. Carlos Dörner com Hulda Peters — Aos vinte e nove de Abril de mil novecentos na Capella de S. José em Capivary depois de feitas as três denunciações canônicas sem se descobrir impedimento algum e depois de dispensados do impedimento de religião mista assisti ao recebimento matrimonial de Carlos Dörner de quarenta e cinco annos de idade nascido na Europa e morador no Braço do Norte, e de Hulda Peters de vinte e nove annos de idade nascida em Capivary e moradora no Braço do Norte filha legítima de João Peters e de Paulina Peters. Testemunhas Augusto Peters e Henrique Hömke. E para constar fiz este assento que assigno. — Padre Francisco Auling, Vigário."*
+> Na Capela de São José, em Capivari, em 29 de abril de 1900, *"receberam-se em matrimonio Carlos Dörner com quarenta e cinco annos de idade, filho legítimo de Guilherme Dörner e de Joanna Lauterjung, com Hulda Peters com vinte e nove annos de idade, filha legítima de João Peters e de Paulina Büchner, sendo elle natural de Europa e ella do Capivary e sendo ambos moradores do Capivary"*, na presença do Revmo. P. Frederico Tombröck; testemunhas José May e João Peters; assina o P. Huberto Ohters.  
+> *Uma transcrição antiga que circulou na família (celebrante "Padre Francisco Auling", testemunhas Augusto Peters e Henrique Hömke, "dispensa do impedimento de religião mista") não corresponde à imagem e foi descartada. Os Doerner eram católicos.*
 
 ---
 

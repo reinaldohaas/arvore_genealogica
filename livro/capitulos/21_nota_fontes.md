@@ -38,7 +38,7 @@ Quase todos esses materiais estão no repositório digital da árvore genealógi
 
 **O Fata presbítero.** Na tradição católica, presbítero é o padre. O mais provável é que o Fata tenha sido fabriqueiro ou membro da diretoria da capela. O livro do tombo da paróquia de Ituporanga deve dizer, assim como as datas das igrejas, da casa paroquial, do seminário e do hospital em que os Haas trabalharam.
 
-**O casamento de 1900.** A imagem do assento e a transcrição guardada pela família divergem no celebrante, nas testemunhas e na menção à dispensa de religião mista. É provável que existam duas vias do mesmo ato. Um ato de Hulda Peters em São Ludgero, na véspera, sugere que ela foi recebida na Igreja Católica para casar; falta ver a página.
+**O casamento de 1900.** A imagem do assento e uma transcrição antiga que circulou na família divergem no celebrante, nas testemunhas e numa suposta dispensa de religião mista. Vale a imagem: casamento católico, sem dispensa. A transcrição antiga não tem documento por trás e foi descartada. O ato de 28/04/1900 que eu atribuía a Hulda Peters é, na conferência, o batismo da filha Joanna, de 1902. Os Doerner eram católicos.
 
 **Carlos Doerner.** O FamilySearch funde numa só ficha ("Carl Reinhard Dörner", Solingen, 1854) três ou quatro homens: Carlos, que teve duas certidões de nascimento; o filho dele, Carlos Reinaldo (1882–1953); e um homônimo casado em 1893, em Águas Mornas, com Charlotte Elisabetha Stock, talvez primo. O que é seguro vem do assento de 1900: filho de Guilherme Dörner e Joanna Lauterjung, nascido na Europa por volta de 1854. Os filhos do segundo casamento lembrados pela família (Laura, Clara, Carlos Júnior, Ida, Ricardo) não coincidem com os dos índices (Bertha, Joanna, Emma, João, Gustavo, Martinho).
 

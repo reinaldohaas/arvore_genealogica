@@ -34,6 +34,22 @@ Ele tem uma diferença para os lotes antigos: não se divide. Na Europa dos noss
 
 Como todo lote, ele precisa de quem o trabalhe. Um repositório abandonado é como uma colônia abandonada: o mato toma conta. Os formatos de arquivo envelhecem, os servidores mudam, os links quebram. Daqui a trinta anos, alguém vai precisar abrir aquelas pastas e convertê-las para o que existir então. Esse alguém, espero, será um de vocês. Ou um filho de vocês.
 
+### Valeu a pena sair?
+
+Há uma pergunta que me fazem quando conto esta história, e que eu mesmo me faço, agora que os jornais falam todos os dias da queda da natalidade: valeu a pena sair da Alemanha?
+
+Começo pelos números, que é o que eu sei fazer. A Mota teve doze filhos, e sete chegaram à idade adulta. No centenário da chegada, a Marise contou mais de seiscentos descendentes de Johann e Maria. A fotografia das cinco gerações, no Capítulo 7, é a Mota no meio dessa conta. E a casa de Vidal Ramos, nos anos 1970, mal cabia num retrato.
+
+![Baldoíno e Adelina com os filhos, em Vidal Ramos, nos anos 1970. Acervo da família. Versão restaurada com inteligência artificial.](imagens/haas_baldoino_adelina_filhos_anos1970.jpg){width=85%}
+
+Agora a conta do outro lado. Se o casal tivesse ficado na Saxônia, Johann, com trinta anos em 1914, teria ido para a Primeira Guerra, como os homens da idade dele. Quem voltou viveu a inflação de 1923, a crise de 1929, o nazismo e a Segunda Guerra. E o Vogtland, onde ficou a família da Mota, foi parar na Alemanha Oriental: as cartas de Rempesgrün de 1971 vinham de trás do Muro. Nas cidades alemãs, as famílias já tinham começado a encolher antes de 1913. Por volta de 1910, a média ainda era de uns quatro filhos por mulher; nos anos 1930 tinha caído para menos de dois; subiu um pouco depois da guerra e voltou a cair. Hoje está perto de um vírgula quatro. No interior de Santa Catarina, as famílias de colonos continuaram grandes por mais meio século: no Brasil, a média era de uns seis filhos por mulher em 1940 e ainda perto de seis em 1970. Uma conta grosseira, só para ter ideia da escala: se Johann e Maria tivessem ficado e seguido a média alemã de cada geração, teriam hoje algumas dezenas de descendentes, não seiscentos. A emigração não apenas levou uma família para longe; multiplicou-a.
+
+Mas a média não conta tudo. Luisa e Walter morreram em Rio do Ouro, e talvez tivessem vivido se ficassem; Hildegard e Frida morreram na Alemanha, sem viagem nenhuma. A Mota nunca mais viu os pais, e das irmãs só teve notícia por carta, quase sessenta anos depois. Quem fica paga um preço, e quem vai paga outro.
+
+E há uma ironia que não me escapa. A onda que deu doze filhos a um casal num lote do Alto Vale já passou também por aqui. O Brasil hoje tem menos filhos por mulher do que precisaria para repor a população, perto de um vírgula seis, e Santa Catarina menos ainda. Vocês são dois, e são a média do seu tempo, dos dois lados do mar. O que separa vocês dos primos do Vogtland já não é o número de irmãos.
+
+Então, valeu a pena? Não sei responder pela Mota, e não tenho o direito de responder por ela. Posso responder por mim: eu existo porque eles foram. E vocês dois existem porque, em 1913, dois jovens de Chemnitz embarcaram em Marselha, e porque, em 1939, a Oma Dora e o Oscar fizeram questão de embarcar de volta para o Brasil. Duas vezes, dos dois lados da família, alguém decidiu ir embora da Alemanha. Se um dia alguém perguntar a vocês se valeu a pena, talvez a resposta mais honesta seja abrir a fotografia das cinco gerações e contar os rostos.
+
 ### Carta a Matheus e Lucas
 
 Matheus, Lucas.
@@ -44,7 +60,7 @@ Quando vocês eram pequenos, eu ficava às vezes olhando os dois à mesa e me pe
 
 Vocês carregam nas mãos o prumo de pedreiro e a arte em gesso de Johann Haas, o Fata, que fez igrejas em Ituporanga e anjos para os túmulos de gente pobre, e que hoje dorme em Aurora entre os anjos que ele mesmo moldou. Carregam a doçura silenciosa de Maria Meier, a Mota, que nunca aprendeu o português e, mesmo assim, se fez entender pelos netos com um abraço demorado e um olhar azul. Carregam as rodas de madeira de Heumaden, que o tetravô Michael Meier e o filho dele, Adam, faziam para as carroças do Alto Palatinado, e o aro de ferro que o ferreiro de Heumaden forjava em volta delas. Carregam o turno de fábrica do operário Josef Haas, em Leonberg, que assinou com a mão trêmula o registro do filho que ia atravessar o mundo.
 
-Carregam o aço das forjas de Solingen dos Doerner e dos Lauterjung. Carregam a coragem de um menino de seis anos chamado Anton Michels, desembarcando em Desterro em 1828 numa terra que não esperava por ele. Carregam a longevidade de quase um século de Angela Catharina Arns, que nasceu numa curva do Mosela e morreu em Vargem do Cedro poucos meses depois de nascer o vô Baldoíno. Carregam a fé dividida e reconciliada de uma família de católicos e luteranos que, em 1900, precisou de uma dispensa para casar e que hoje mal se lembra de que um dia isso foi um problema.
+Carregam o aço das forjas de Solingen dos Doerner e dos Lauterjung. Carregam a coragem de um menino de seis anos chamado Anton Michels, desembarcando em Desterro em 1828 numa terra que não esperava por ele. Carregam a longevidade de quase um século de Angela Catharina Arns, que nasceu numa curva do Mosela e morreu em Vargem do Cedro poucos meses depois de nascer o vô Baldoíno. Carregam a fé católica dos Haas, dos Meier e dos Doerner, e a fé luterana dos Lohmann e dos Hoeveler, que um dia foram fronteira e que, na casa de vocês, se sentam à mesma mesa.
 
 E carregam, do lado da mãe de vocês, a outra metade, que eu conheci por casamento e aprendi a amar como minha: a luz, a música e o afeto dos Funke e dos Hoeveler; a medicina do avô Carlos Heinz, que deu nome a uma escola e a um posto de saúde em Pirabeiraba; as salas de aula do Vô Erno em Estrela e Nova Petrópolis; a persistência dos Lohmann, dos Schnack e dos Endres no Vale do Taquari, numa casa diante de um rio que voltou a subir em 2024; o segundo nome de Miguelina, *Leocádia*, que passou à avó Ilusca como quem passa um anel.
 
