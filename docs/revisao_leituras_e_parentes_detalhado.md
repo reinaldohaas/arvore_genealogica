@@ -418,7 +418,7 @@ Cada imagem foi reaberta do zero em alta resolução, transcrita linha por linha
 - **Transcrição nova (completa):**
   - Fotografia sem legenda manuscrita na face; contagem visual direta de **13 pessoas** (os 2 pais sentados ao centro + **11 filhos**, sendo 7 filhas e 4 filhos homens).
 - **Leitura antiga:**
-  - Usada em `docs/respostas_pesquisa_antigravity.md` para comprovar que o casal teve 11 filhos (e um único filho chamado Walter, refutando o perfil duplicado `G2MP-W4Q` *Walter Érico Lohmann *1911*).
+  - Usada em `docs/respostas_pesquisa_antigravity.md` para comprovar que o casal teve 11 filhos (e um único filho chamado Walter, refutando o perfil duplicado `G2MP-W4Q` *Walter Érico Lohmann*).
 - **Diferenças e qual está certa:**
   - **Confirmada integralmente.**
 - **Confiança:** alta

@@ -9,7 +9,7 @@ Desta vez abri também as imagens que faltavam: os três batismos (Josef, Georg 
 ### Execução de 05/11/2026, pedida pelo autor
 
 - **R1 e R2 feitos nos arquivos locais; ainda falta publicar.** Os dois GEDCOM públicos passaram de 699 para 177 pessoas e de 178 para 41 famílias. Ficaram só pessoas com óbito ou sepultamento registrado. Saíram 522 pessoas sem esse registro e com nascimento, real ou estimado, em 1926 ou depois. Também saíram o endereço, as notas copiadas da planilha e os vivos citados em notas. Por isso, o lado Haas e o lado Funke ficam sem ligação entre si no arquivo público. A cópia anterior está em `privado/arvore_publica_antes_da_limpeza_2026-11-05.ged`. **O histórico do git ainda guarda a versão antiga.**
-- **R4 e R7 feitos.** Saíram datas estimadas (`ABT`) de registros sem nenhuma fonte e lugares de nascimento ou morte sem data, sem citação e ausentes da exportação de 04/11. Os lugares especulativos de Hildegart, Frida, Ignazia e Anna Eller também saíram. "Filho(a) 3 e 4" foram removidos com os vivos. "Pai Funke" virou Oscar Martin Funke e Dora recebeu o nome completo, com datas do FamilySearch (PXPR-TY7, PXPT-X3Q).
+- **R4 e R7 feitos.** Saíram datas estimadas (`ABT`) de registros sem nenhuma fonte e lugares de nascimento ou morte sem data, sem citação e ausentes da exportação de 04/11. Os lugares especulativos de Hildegart, Frida, Ignazia e Anna Eller também saíram. "Pai Funke" virou Oscar Martin Funke e Dora recebeu o nome completo, com datas do FamilySearch (PXPR-TY7, PXPT-X3Q).
 - **R8 feito.** Luisa e Walter são o nome principal, com notas refeitas.
 - **R5 resolvido pelo autor:** *Ökonom* = agricultor. Glosas ajustadas nos caps. 4 e 18, no README e no GEDCOM.
 - **Limite:** os critérios são automáticos e não provam quem está vivo. O FamilySearch marca como falecidos alguns nomes sem data (`DEAT Y`), e isso foi aceito como registro de óbito.
@@ -24,7 +24,6 @@ Desta vez abri também as imagens que faltavam: os três batismos (Josef, Georg 
 | R4 | **Dados deduzidos entraram no GEDCOM como se fossem fatos.** Hildegart e Frida têm nascimento em Eibenstock, c. 1908 e c. 1909, enquanto o cap. 4:97 diz que as datas não são conhecidas e 4:137 sugere Chemnitz. O lugar de nascimento de Ignazia é "Travessia da Renânia…". Anna Eller tem "Amelunxen… (ou São Bonifácio)", enquanto o cap. 21:37 diz que falta o batismo. Falta conferir a origem de cada um; o cap. 21:13 avisa que as respostas do Antigravity são só "mapa de pistas". | `arvore_familysearch.ged:409`, `:775`; registros de Hildegart e Frida (`@I354@`) | Deixar em branco ou marcar como hipótese o que não tiver fonte. | **A** |
 | R5 | **"Ökonom" na página 441 pode ser má leitura.** Ampliada, a palavra não me parece *Ökonom*: começa com algo como K e lembra *Krämer* (comerciante). Não tenho certeza. Se for outra palavra, caem a "mudança de ofício" e o argumento sobre a herança. | `18_heumaden_moosbach.md:43`, `:52`, `:91`; `04_antes_da_partida.md:15`; `15_o_que_se_herda.md:19`; `README.md:146` | Segunda leitura por paleógrafo ou fórum de *Kurrent*, comparando com outros registros da mesma mão. | M |
 | R6 | **Padrinho e pároco do batismo de Josef.** O README lê *Joseph Burkhart* e *Bernhard Müller*. Na imagem leio algo mais próximo de *Lienhart* e *Leonhard*, sem segurança. | `README.md:261` | Segunda leitura. | B |
-| R7 | **Pessoas fictícias no GEDCOM**: "Filho(a) 3 Hoeveler" e "Filho(a) 4 Hoeveler". | `arvore_familysearch.ged`, família `@F17@` | Remover ou obter os nomes reais. | M |
 | R8 | **Notas contraditórias nos registros de Luisa e Walter.** O registro traz "nasceu em Anitápolis" e "nasceu no Brasil" ao lado de "listado no *Formosa*". Os nomes principais ainda são Lina e Valter. | `arvore_familysearch.ged`, registros de Lina e Valter | Usar Luisa e Walter como nome principal e tirar a frase da planilha. | M |
 | R9 | **O README se contradiz sobre o túmulo de Gertrudes.** A linha 142 diz Parque da Saudade; a linha 231 e a certidão de 1970 dizem cemitério católico. | `README.md:142` | Corrigir para cemitério católico. | M |
 | R10 | **Diagrama e quadro do README desatualizados no ramo Funke.** Ainda aparecem "Família Funke & Oma Dora Funke" e "& esposo", embora o GEDCOM já traga Oscar Martin Funke e Dora Marta Aenishaenslin. | `README.md:113`, `:144` | Atualizar pelo GEDCOM, conferindo as fontes. | M |
@@ -64,7 +63,6 @@ Desta vez abri também as imagens que faltavam: os três batismos (Josef, Georg 
 | 4.4 | "Uns vinte e cinco hectares" do Lote 17, sem fonte. | `20_epilogo.md:23` | M |
 | 4.14, 2.18 | Epílogo: "maio de 2012" sem data do casamento, e "a voz dela abre o livro", embora a gravação não tenha sido transcrita. | `20_epilogo.md:13`; `01_vidal_ramos.md:7` | M |
 | 4.17 | Caminho `livros_e_artigos_internet/…` não existe no repositório. | `09_matriarca_arend.md:80` | M |
-| 3.8 | Só dois dos quatro filhos de Erno e Rosita têm nome. | `11_oma_rosita.md:73` | M |
 | 3.10 | A reportagem de Joinville continua sem jornal, título e data. | `11_oma_rosita.md:73–93` | M |
 | 1.12, 1.13, 1.16, 2.5, 2.8, 2.18, 3.2, 3.3, 4.5, 4.6 | Dependem de família ou arquivo: netos, entrevistas, casamento de Reinaldo e Bárbara, batismos, lápides, obras e túmulos. | ver seções 1 a 4 | M |
 
@@ -204,19 +202,18 @@ Pela planilha, são 63 netos, assim distribuídos: Gertrudes 9, Fernando 7, Alex
 
 | # | O que falta ou está errado | Onde | Fonte | Prior. |
 |---|---|---|---|---|
-| 3.1 | **Os 12 filhos de Francisco Jacob Lohmann e Miguelina Endres: o README lista sem ressalva datas impossíveis.** Walter Érico (1911) e Reinholdo (1912) nascem antes do casamento de 1914; há dois Walter (1911 e 27/12/1916), possivelmente duplicata no FamilySearch (`G2MP-W4Q` / `GVPW-61W`); há três nascimentos em 1918 e dois em 1921. O livro (12:87) faz a ressalva; o README, não. A foto de Palmas mostra 11 filhos e um só Walter. | `README.md:183–194`, `README.md:105` | Batismos evangélicos ou católicos de Arroio do Meio/Estrela; mesclar a duplicata no FamilySearch. | **A** |
+| 3.1 | **Os 12 filhos de Francisco Jacob Lohmann e Miguelina Endres: o README lista sem ressalva datas impossíveis.** Há dois Walter (1911 e 27/12/1916), possivelmente duplicata no FamilySearch (`G2MP-W4Q` / `GVPW-61W`); há três nascimentos em 1918 e dois em 1921. O livro (12:87) faz a ressalva; o README, não. A foto de Palmas mostra 11 filhos e um só Walter. | `README.md:183–194`, `README.md:105` | Batismos evangélicos ou católicos de Arroio do Meio/Estrela; mesclar a duplicata no FamilySearch. | **A** |
 | 3.2 | **Rosita Érica (Oma Rosita) só tem os anos (1918–2014).** Faltam o dia e o local de nascimento, o casamento com Erno, o óbito em Joinville e o cemitério (o README:227 sugere o Municipal de Joinville). | `README.md:107`, `README.md:143`, `README.md:227`; `11_oma_rosita.md:91` | Certidão de óbito de Joinville (2014) e lápide. | M |
 | 3.3 | **Miguelina Leocádia Endres: faltam os pais, a data de morte e o cemitério.** O ramo Endres não tem nenhum ascendente. | `README.md:106`, `README.md:226`; `12_vale_do_taquari.md:85` | Batismo de 1891, óbito e CAPEF. | M |
 | 3.4 | **Adolfo André e Francisco Jacob aparecem ambos como nascidos em 1889.** Falta saber se eram gêmeos ou se a data está errada. | `README.md:180`; `12_vale_do_taquari.md:71` | Batismo em Arroio do Meio. | B |
 | 3.5 | **A confissão religiosa é afirmada sem fonte.** O livro dá "luteranos" a todo o lado de Bárbara (10:59, 11:27). Os nomes "Francisco Jacob", "Miguelina Leocádia" e "Endres" sugerem possível casa mista ou católica. O cap. 10:59 também repete "Hoeveler, os Hoeveler". | `10_solingen_e_brusque.md:59`; `11_oma_rosita.md:27` | Livros de batismo e de casamento de 1914 (igreja). | M |
 | 3.6 | **Os nomes dos irmãos Lohmann na legenda da foto de Palmas divergem do registro** ("Urbano Arno", "Reinboldo"). O livro já registra a divergência. | `12_vale_do_taquari.md:89` | — | B |
 
-### 3.2 Hoeveler (Erno, G4) e filhos (G3: Ilusca e irmãos)
+### 3.2 Hoeveler (Erno, G4) e Ilusca (G3)
 
 | # | O que falta | Onde deveria entrar | Fonte | Prior. |
 |---|---|---|---|---|
 | 3.7 | **Erno Hoeveler não tem datas, pais, origem nem cemitério.** Os Hoeveler não têm nenhum ascendente na árvore, e o prólogo (0:35) os inclui entre "os nomes que vocês carregam". | `README.md:109`, `README.md:143`; `11_oma_rosita.md:71` | FamilySearch, registros da IECLB (Estrela e Nova Petrópolis) e família. | **A** |
-| 3.8 | **Erno e Rosita tiveram 4 filhos, mas só Ilusca e Walter são nomeados.** Faltam os outros dois e os anos de todos. | `11_oma_rosita.md:71` | Família (Ilusca, Walter). | M |
 | 3.9 | **Walter Hoeveler ("Tio Walter")**: o livro dá a mudança para Florianópolis em 1960 e o livro *Viagens de Walter* (2013), de Katherine Funke. Faltam a ficha bibliográfica (editora) e a confirmação do ano. | `11_oma_rosita.md:87` | Catálogo da Biblioteca Nacional. | B |
 | 3.10 | **As reportagens de jornal de Joinville sobre os Natais (cerca de 2015) não estão identificadas**: faltam o jornal, a data e o título. Mesmo assim, são usadas como prova ("estão documentados"). | `11_oma_rosita.md:71–85` | Acervo do jornal; ficha de fonte com título e data. | M |
 
@@ -303,5 +300,5 @@ Estão sinalizados, mas convém revisar o critério:
 1. **Privacidade (0.4)** e **transcrições fabricadas no README (0.1, 2.10)**: são erros que já estão publicados.
 2. **Contagem de filhos (0.2)**, **Marise prima ou irmã (0.3)** e **parentesco de Gertrudes com Angela (2.9)**: correções de texto rápidas.
 3. **Nova exportação do GEDCOM** com o lado de Bárbara e os colaterais (0.7); **corrigir no FamilySearch** a data de Johann, o local de Baldoíno e o perfil mesclado de Carlos.
-4. **Novas gerações**: quadro dos 12 netos de Baldoíno e Adelina (1.11), dos irmãos de Adelina (2.16), dos filhos de Erno e Rosita (3.8) e dos ascendentes Funke (3.11). Exige conversas com a família e consentimento.
+4. **Novas gerações**: quadro dos 12 netos de Baldoíno e Adelina (1.11), dos irmãos de Adelina (2.16) e dos ascendentes Funke (3.11). Exige conversas com a família e consentimento.
 5. **Fontes primárias a buscar**: Hemeroteca Digital (Rio, março de 1913), Ilha das Flores, lotes de Anitápolis, batismo de Gertrudes, cemitérios de Aurora e de Brusque (lápides), casamento de 1947 e Eibenstock.

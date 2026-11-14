@@ -180,8 +180,8 @@ A reconstrução documental do lado da esposa **Bárbara Funke Haas** (* 27/07/1
 - **Tetravós (`G6`):** **Friedrich Lohmann** (* 18/02/1853 em Estrela, RS – † 31/01/1937 em Arroio do Meio, RS; 3º filho de Georg Karl Maximilian Lohmann e Bárbara Wingert) casou-se com **Suzana Regina Schnack** (* 09/07/1858 em Estrela – † 16/12/1889 em Arroio do Meio, RS). Tiveram 5 filhos: **Júlio Carlos** (* 1881), **Alberto Jorge** (* 1886), **Berta Guilhermina** (* 1888), **Adolfo André** (* 1889) e o caçula **Francisco Jacob Lohmann** (* 20/11/1889). Tragicamente, Suzana Regina faleceu em **16/12/1889**, apenas 26 dias após o nascimento de Francisco Jacob.
 - **Trisavós (`G5`):** **Francisco Jacob Lohmann** (* 20/11/1889 no RS – † 24/01/1975 em Arroio do Meio, RS; `G2M8-ZQ3`) casou-se em **05/09/1914** com **Miguelina (Michelina) Leocádia Endres** (* 09/12/1891 no RS; `G2ML-18M` — de quem a neta **Ilusca Leocádia Hoeveler Funke** herdou o segundo nome *Leocádia*).
 - **Os 12 Filhos de Francisco Jacob Lohmann & Miguelina Leocádia Endres (Oma Rosita e seus 11 irmãos):**
-  1. **Walter Érico Lohmann** (* 1911, `G2MP-W4Q`)
-  2. **Reinholdo Lohmann** (* 1912, `G2MG-RHN`)
+  1. **Walter Érico Lohmann** (`G2MP-W4Q`)
+  2. **Reinholdo Lohmann** (`G2MG-RHN`)
   3. **Urbano Aldo Lohmann** (* 1914, `G2MG-WK6` — **"Tio Urbano"**, visitado por Reinaldo, Matheus e Lucas no RS em setembro de 2012)
   4. **Armando Ernesto Lohmann** (* 1916, `G2MG-KHZ` — **"Tio Armando"**, visitado por Reinaldo e Bárbara no RS em setembro de 2012)
   5. **Walter Erich Lohmann** (* 27/12/1916 – † 18/06/1992, `GVPW-61W`)
